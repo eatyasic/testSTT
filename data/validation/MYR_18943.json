@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18943",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 그래프가 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 올해는 조금 부담이 좀 덜 해지더라도 계속해서 봤을 때는 보유세가 부담될 수 있기 때문에 여기에 대해서 좀 체계를 잡으시면 좋겠고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.696,
+                "end": 10.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "셋째 마당은 절세의 꽃 양도세 가장 여러분들이 에 관심을 많이 갖고 그런 내용이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.332,
+                "end": 18.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이번에는 저희가 준비를 하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.124,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "보유세는 장기적으로 봤을 때 부담이 될 수 있기 때문에 체계를 잡는 게 좋고 셋째 마당은 여러분들이 관심을 많이 갖고 있는 양도세에 관한 내용이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

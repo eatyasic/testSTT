@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18249",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인센티브 복원이 아직도 안나오고 있고 1분기에 나오기로 했었던 아파트 신규등록도 아직도 안나오고 있는거고 저는 그렇게 생각을 하고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그 와중에 갑자기 이런게 나왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.028,
+                "end": 9.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 뭔가 좀 살짝 흘린거 같아요 제 개인적인 생각으로 네 그래서 이제 살짝 이렇게 좀 흘린 거 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.006,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "먼저 나왔어야할 것은 안나오고 새로운 것이 나오고 있음을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18249_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

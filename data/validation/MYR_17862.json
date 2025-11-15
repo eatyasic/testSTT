@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17862",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 74.507,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 했을 때 수많은 고고민을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비록 큰돈은 아니라도 5억 3700을 쓸 때 굉장히 고민을 했는데 1등 하자마자 15명이 입찰했더라고 다 감들은 잡은 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.814,
+                "end": 15.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 누가 더 세냐 확신을 갖느냐잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.114,
+                "end": 17.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2등 한 사람이 바로 쫓아오더라고 그 사람이 시공업자였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.839,
+                "end": 21.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 사람이 팔팔라고 할 때 그때 내가 안도의 숨을 쉬었어요 사실은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.850,
+                "end": 28.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때는 무조건 깡이 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.091,
+                "end": 31.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감정가 10배를 쓰는 깡 아 이거는 경험도 그래도 많이 좀 받쳐줬으니까 그런 거 아니었을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.074,
+                "end": 39.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 길어 가지고 저쪽 단지 끝에 끝을 다 연결해야 되니까 사실 땅을 빼놓고는 개발이 힘들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.191,
+                "end": 46.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 개발 땅이라고 봤고 근데 그래서 그 사람들이 탄원서를 올렸어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.483,
+                "end": 51.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정보를 다 빼가고 한 것이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.390,
+                "end": 53.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판사가 날 불렀어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.434,
+                "end": 55.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불렀는데 경매 나온 걸 정보를 빼간 게 어딨겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.233,
+                "end": 59.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.332,
+                "end": 60.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 몇 가지 묻다가 그러시군요 돌아가십시오 돌아왔죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 60.315,
+                "end": 64.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러더니 바로 협상으로 들어오더라고 돈",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.765,
+                "end": 68.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 이제 좀 안도 한숨을 그 사례도 굉장히 좋았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.400,
+                "end": 74.507
+            }
+        ]
+    },
+    "summary": "감정가의 10배를 써서 입찰했던 사례를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17862_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

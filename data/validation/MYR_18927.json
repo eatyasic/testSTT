@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18927",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 제가 출판사하고 협의를 해 가지고 어 고민 중인 방법이 있으니까 거기에 대해서 어 설명을 제가 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 라이브 참여하신 분들은 제가 이 방송 끝나고 어 좀 남아 있어서 책에 대한 이야기 그리고 관련된 여러분들 개인 관련된 거 질문도 제가 조금 받도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.385,
+                "end": 16.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 책에 대한 소개를 잠깐 좀 해볼 텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.812,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "이 방송 끝나고 책에 대한 이야기와 라이브 참여하신 분들의 개인 관련 질문도 받을 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

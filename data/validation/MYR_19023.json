@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19023",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 우리가 그 직장 가입자가 유리한 것 중에 하나가 이 반반씩 부담을 하지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 좀 우리 건보료를 좀 그래도 줄이려면은 직장 가입자를 유지하는 게 유리한 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.253,
+                "end": 12.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.673,
+                "end": 13.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반반씩 부담한다라는 게 회사 반 본인 반 이렇게 하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.346,
+                "end": 16.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 뭐 회사를 다니거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.932,
+                "end": 19.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.186,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "건강보험료를 줄이려면 회사 반 본인 반 부담하는 직장 가입자가 유리하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

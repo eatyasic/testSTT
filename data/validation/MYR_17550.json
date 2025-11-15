@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17550",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 61.761,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번달에 어 서울 아파트 거래량이 3000 뭐죠 한 팔구백 건 정도 가까이 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 역전 전세 값도 올랐잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.263,
+                "end": 9.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분명한 것은 이 펀더멘탈이기 때문에 영향을 주기는 하는데 오히려 입주 물량 가지고 어 더 시장을 보려고 그러면은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.282,
+                "end": 17.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 월 단위로 보시면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.063,
+                "end": 19.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분기 별로 보시는 게 더 나아 미리 내 놓는 사람도 있으니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.339,
+                "end": 22.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 제가 말씀 드리는 이 세 번째 바로 미래 기대치에 따라서 달리 나타난다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.668,
+                "end": 28.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이런 얘기도 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.672,
+                "end": 29.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전세는요 당장의 수급을 반영합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.751,
+                "end": 32.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당장의 수급",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.230,
+                "end": 32.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 뭐 가령 뭐 3개월 뒤에 전세값이 떨어진다고 그래서 내가 텐트 치고 살 수는 없으니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.895,
+                "end": 38.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 매매는요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.156,
+                "end": 39.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재부터 미래까지 전체 구간을 반영하기 때문에 전체 수급을 반영하기 때문에 미래 집값이 어떻게 될 것인지에 대해서 굉장히 어 지금 집값에 어떻게 보면 영향을 주는 구조예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.791,
+                "end": 51.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 만약에요 지금이 시장이 입주 물량이 많다 하더라도 미리 집값이 오를 거라고 생각을 한다면은 전셋값은 빠지지만 매매는 그만큼 안 빠져요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.753,
+                "end": 61.761
+            }
+        ]
+    },
+    "summary": "박사는 입주 물량을 가지고 시장을 보려고 하면 월 단위보다 분기 별로 봐야 한다고 말하고 집값은 미래 가치에 따라서 달리 나타나는데 당장의 수급이 중요 하고 예를 들어 지금 입주 물량이 많아도 집값이 오를 거라 생각을 한다면 전세값은 빠지더라도 매매는 그만큼 안 빠진다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17550_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

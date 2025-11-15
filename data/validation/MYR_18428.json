@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18428",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과거에 그랬다면 앞으로도 그런 비슷한 퍼포먼스인 거를 우리가 찾기 위해서 과거를 공부하는 거니까 이제 저 역조사를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이과 출신이라 팩트가 없으면 믿지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.001,
+                "end": 16.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 두리뭉실하거나 추상적이거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.109,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "나는 이과 출신이라 팩트가 없으면 믿지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18428_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

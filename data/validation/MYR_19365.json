@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19365",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.09,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보통 이런 책을 쓰면은 다부 대부분 전문가들께서 1인 저자로 이제 주로 많이 쓰시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 우리는 이제 각자의 바라보는 시각이 다르니까 이런 점을 대중들한테 좀 어필했으면 좋겠다 어 그 부분에서 저도 이제 동의를 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.652,
+                "end": 14.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이렇게 짬 내서 쓴 것이 이렇게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.667,
+                "end": 17.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "집필 기간은 모두",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.332,
+                "end": 18.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 1년 정도 짬 내서 썼어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.411,
+                "end": 20.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 거의 뭐 그래도 꽤 많은 시간이 걸려서",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.397,
+                "end": 23.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.574,
+                "end": 24.090
+            }
+        ]
+    },
+    "summary": "책 집필 기간은 짬 내서 써서 1년 정도 소요됐고 감정 평가사, 세무사, 법무사 3명이 각자의 시각에서 대중들에게 어필하고 싶은 부분을 적은 내용이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19365_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

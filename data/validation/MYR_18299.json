@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18299",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 여러분들이 들으시면서 아 이런 거 좀 찾아봐야겠단 생각이 들지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 이제 아마 이제 아 나도 좀 경매 공부를 좀 해야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.252,
+                "end": 8.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이제 새롭게 하시는 분도 계실거고 예전에 좀 했는데 다시 좀 해야겠다 하는 분들이 계실 건데 이 공부 그리고 이제 투자하시려는 분들에게 좀 조언을 해주고 싶은 조언 좀 말씀해주시죠 대표님",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.989,
+                "end": 20.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.232,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "경매 공부를 하려고 하는 사람에 대해 조언을 해달라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18299_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

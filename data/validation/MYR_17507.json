@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17507",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 입주자 카드 관리비 영수증 전화 가입 증명서 수령한 우편물 신문 구독료 영수증 음 그러면은 국세 기본법 상 실질 과세 원칙에 따라서 비과세 혜택을 받을 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 힘들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.521,
+                "end": 16.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 K씨 입장에서는 내가 굳이 안 해도 될 짓을 해야 되잖아 그래서 어떻게 하는 게 제일 좋아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.005,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "남성이 장모와 같이 살고 있지 않다는 것을 증명하기 위해서 필요한 서류 중 다양한 사례들을 말하며 이렇게 하는 것이 힘들면 어떻게 하는 것이 좋을지 설명하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

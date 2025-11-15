@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_18518",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.744,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관련된 세법이 개정되는지 안 되는지는 확인하고 사시라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 단기 양도 세율 개정 안 됐고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.877,
+                "end": 5.598
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.608,
+                "end": 6.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시점에서 그리고 에 그런 것들이 좀 남아있기 때문에 사더라도 확인하고 보시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.251,
+                "end": 12.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.328,
+                "end": 13.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "채널 제네시스 박 좀 구독하셔서 좀 보시고 빌부 님도 유튜브하고 계시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.099,
+                "end": 17.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.829,
+                "end": 18.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 채널 이름이",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.385,
+                "end": 19.603
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 빌부 티비 검색하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.613,
+                "end": 21.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빌부 티비 검색하면 나옵니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.129,
+                "end": 22.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 거기에 대해서 이런 얘기 해주실 거잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.577,
+                "end": 24.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.710,
+                "end": 25.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에 대해서도 참고하시면 좋겠습니다 그니까 투자는 뭐 너무나 당연한 말이지만 여러분들이 책임을 지고 최종 결정을 하시는 건 좋은데 잘못된 정보를 가지고 하면 안 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.269,
+                "end": 36.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 그 서울에서도 분양권 최근에 좀 관심을 가지는 단지들이 있잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.906,
+                "end": 42.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.812,
+                "end": 43.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에 계신",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.569,
+                "end": 44.744
+            }
+        ]
+    },
+    "summary": "제네시스 박 채널 구독해서 보시고 빌부 티비 채널에서도 이런 얘기를 해주실 건데 단기 양도 세율 개정이 안 됐기 때문에 관련된 세법이 개정되는지 안 되는지 확인하고 사시라는 것이고 투자는 책임을 지고 최종 결정을 하는 건 좋지만 잘못된 정보를 가지고 하면 안 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18518_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

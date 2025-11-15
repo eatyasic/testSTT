@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17499",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.206,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이러한 세대 구성원 전체 주택을 합산해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다시 말씀 드리자면 우리 세법에서는 특히 이 양도세 소득세 법에서는 실질 과세 원칙이라는 게 있어서 주민등록표 상으로는 남편 아내 둘 밖에 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.642,
+                "end": 14.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 실제 같이 사는 중에 예를 들어서 뭐 장모가 들어가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.921,
+                "end": 18.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 같은 가족이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.632,
+                "end": 20.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 여기 가족 보면 포함 됐잖아 이렇게 그렇기 때문에 그 같이 살고 있는 주민등록표에 없는 가족의 주택이 있냐 없냐 반드시 따집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.102,
+                "end": 30.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "따질 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.390,
+                "end": 32.198
+            }
+        ]
+    },
+    "summary": "남성이 1주택은 세대 구성의 전체 주택을 합산하는 것이고 우리의 양도세 소득세 법에서는 실질 과세 원칙이라는 게 있어서 주민등록표에 없어도 가족의 주택 여부를 반드시 따진다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

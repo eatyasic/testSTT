@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17620",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.606,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "금방 흐름이 따라오는 게 아니라 한참 뒤에 따라올 거라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 공급도 대부분 다 2급지에 몰려있기 때문에 그게 다 해소되면 나중에 떠밀려서 숭풍 올라갈 거라는 가능성이 높다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.341,
+                "end": 12.169
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의미 있네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.179,
+                "end": 13.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.057,
+                "end": 14.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 다들 수성구는 비슷하니까 고 옆에 조금 저렴한 동네 신축 저렴할 때 사면 바로 반등하지 않을까? 이런 생각 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.274,
+                "end": 23.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위험할 수 있겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.075,
+                "end": 24.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흐름이 생각했던 것 보다 더 늦게 올 가능성이 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.099,
+                "end": 27.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.504,
+                "end": 28.595
+            }
+        ]
+    },
+    "summary": "한 남성이 금방 흐름이 따라오는 게 아니라 한참 뒤에 따라올 것이기 때문에 수성구 옆 신축이 저렴할 때 사도 흐름이 생각했던 것 보다 더 늦게 올 가능성이 있다고 다른 남성에게 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17620_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

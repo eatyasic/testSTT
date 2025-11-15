@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18949",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음으로는 그 전에 2017년 2018년 그때는 이제 법인이 굉장히 많았었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 그때 좀 하셨던 분들이 좀 출구전략에 대해서 어 어떤 식으로 할까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.290,
+                "end": 9.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런 게 고민이 돼서 오셨다고 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.425,
+                "end": 12.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마찬가지로 저 책에서도 그런 부분에 좀 중심으로 썼어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.171,
+                "end": 16.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보시면 아시겠지만 지금 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.211,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "17년 18년에 법인을 했던 분들이 어떤 출구전략을 구사할지 고민이 돼서 오셨다고 생각을 하고 책에서도 그 부분에 중점을 두며 썼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

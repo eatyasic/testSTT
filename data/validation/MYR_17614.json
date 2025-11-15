@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17614",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 57.891,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제일 맛있는 곳 서울.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음 그 다음 그 다음에 생각해 보자가 되기 때문에 아무래도 매수세가 조금 더 약할 수밖에 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.192,
+                "end": 6.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다 보니까 이 지역은 어떤 지역들은 매매가는 정체 되어 있는데 공급이 지금 1년 넘게 너무 없어 가지고 전세값 이렇게 또 올라오고 인적도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.785,
+                "end": 16.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전세가율 90퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.869,
+                "end": 18.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갭 500.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.526,
+                "end": 20.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이러한 지역이 예전에 유행 했었는데 지금 또 다시 등장하고 있는 타이밍이라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.210,
+                "end": 26.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 그러다 보니까 이제 사람들이 이런 지역을 어떻게 바라봐야 되는지 되게 혼란스러워 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.904,
+                "end": 33.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먹고 싶은 것은 우린데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.544,
+                "end": 35.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 투자 금액이 적게 들어가고 근데 전세는 올랐지만 과연 얘가 매매가 올라갈 수 있을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.570,
+                "end": 41.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "게다가 취득세까지 내야 되고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.098,
+                "end": 42.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.264,
+                "end": 43.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지방이고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.140,
+                "end": 44.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 되게 혼란스러워 하는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.707,
+                "end": 47.101
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 최근에 지방 이 경상도 특히 이제 부산 울산 이런데 좀 갔었는데 분위기가 아까 말씀하신 딱 그거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.111,
+                "end": 53.398
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그니까 이 물론 이제 부산 울산도 좋은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.408,
+                "end": 56.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 56.838,
+                "end": 57.891
+            }
+        ]
+    },
+    "summary": "한 남성이 지역은 공급이 너무 없어서 매매가는 정체되어 있지만 전셋값이 올라가는 지역이 다시 등장하고 있는 타이밍이라고 말했고 다른 남성이 경상도에 갔었는데 분위기가 말씀하신 그대로라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17614_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

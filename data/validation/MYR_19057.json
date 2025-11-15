@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_19057",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 57.524,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 그 감정 평가 수수료가 조금 이제 나오긴 하지만 법에 2개로 되어 있기 때문에 최소 2개는 하셔야 한다는 거 말씀드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.817,
+                "end": 10.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 기억하시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.148,
+                "end": 11.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 아까 말씀드렸 듯이 이제 그 아까 헷갈리는 용어들 용어를 정리가 돼야 이게 우리가 상담을 받으러 가셔도 이게 바로 바로 이해가 되고 하기 때문에 용어 정리를 한 번 해보고 마지막으로 절세법 한 다음에 끝내도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.381,
+                "end": 25.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 정말 잘 들으셔야 됩니다. 특히 여러분들이 이제 세무사님하고 상담할 때 이 용어에서 혼선이 생기면 정말 잘못된 결과가 나올 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.052,
+                "end": 31.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 이렇게 좀 이렇게 예 어쨌든 네 용어 정리 들어가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.656,
+                "end": 35.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.943,
+                "end": 36.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 아이구야 뭐 이렇게 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.428,
+                "end": 39.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 헷갈리죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.553,
+                "end": 40.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 많아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.377,
+                "end": 41.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 뭐 어떤 사람 기준 시가로 했다가 뭐 시가 표준액 뭐 이렇게 뭐 도대체 뭐 이게 용어를 정리를 안 하면 전문가들이 말한 그 용어가 정리가 안 되면 이해가 안 되거든요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.074,
+                "end": 51.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.610,
+                "end": 52.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용어 한번 정리 들어가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.137,
+                "end": 54.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지 것들을 제가 한 쪽으로 모아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.116,
+                "end": 57.524
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 전문 용어가 정리가 되어야 상담을 할 때 바로 이해가 되기 때문에 용어 정리를 해야 한다고 말하며 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18653",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.845,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 일단 취득세 부분이 이제 이런 게 좀 지금 됐으면 좋겠다라는 방안이 좀 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 취득세 개정사항 보시게 되면 23년도부터 바꼈죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.950,
+                "end": 8.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.417,
+                "end": 8.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 특수 관계인 저가양수도나 증여 취득에 대해서 그니까 시가 표준액 말 그대로 기준 시가에서 시가 인정액으로 바뀌어버렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.745,
+                "end": 15.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말 그대로 우리가 이제 아파트 거래 가장 많이 하는데 같은 동에서 이제 84제곱미터 20억에 팔리면 이제 20억으로 취득세 과표를 잡아버리니까 취득세가 많이 늘어났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.269,
+                "end": 25.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 부담이 좀 증여 부분에 대해서 커졌죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.161,
+                "end": 28.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 22년 11월 12월에 사실 저는 너무 바빴어요 눈 코 뜰세 없이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.584,
+                "end": 32.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 증여를 해야겠다라는 분들의 문의가 이제 세도를 했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.880,
+                "end": 36.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연락이 안 되더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.592,
+                "end": 37.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.348,
+                "end": 39.839
+            }
+        ]
+    },
+    "summary": "특수 관계인 저가양수도나 증여 취득에 대해 시가 표준액 말 그대로 아파트 같은 동에서 84제곱미터가 20억에 팔리면 20억으로 취득세가 많이 늘어나 증여 부분에 대한 부담이 커졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18653_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

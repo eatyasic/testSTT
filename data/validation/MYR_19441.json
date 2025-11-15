@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19441",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.655,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 이제 뭐 큰 이변이 없으면 될 거라고 생각을 하는데 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시행령 개정 사항이니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.021,
+                "end": 5.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 저도 아까 @이름1 세무사님이 말씀하셨지만 저는 여기가 3년으로 되고 여기는 계속 2년으로 알았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.191,
+                "end": 11.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.212,
+                "end": 11.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 같은 경우는 근데 거기에 대해서도 여기도 3년으로 될 거 같다 아까 보도자료보니까 좀 그럴 거 같잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.944,
+                "end": 17.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.017,
+                "end": 17.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 여기서 이제 또 여러분들께서 가장 많이 물어보는 게 요거 요거 요거 1년 이후 취득인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.685,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "보도 자료에 종전주택 양도 시기와 취득한 주택으로 세대전원이 이사하는 시기가 3년으로 변경 될 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18867",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.909,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만들어서 고객을 유치할 수 있다는 것.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표적으로 어 2021년 문을 열었던, 아 2020년에 문을 열었던 경기 양평에 있는 더 양평 디티알 점이 될 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.803,
+                "end": 11.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 가보신 고객분들 시청자분들 아시겠지만 거기 그냥 강이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.429,
+                "end": 15.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 뭐 뭐 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.969,
+                "end": 18.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 무슨 뭐 옷가게가 있는 것도 아니고, 술집이 있는 것도 아니고 기존 상권이랑은 전혀 다른 곳인데 거기에다가 스타벅스를 만드니까 고객들이 가잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.402,
+                "end": 26.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스타벅스는 디티를 통해서 쫌 자기네들 하는 말로 이거를 데스티네이션 매장이라고 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.771,
+                "end": 32.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 드라이브스루가 아니라?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.399,
+                "end": 33.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 드라이브스루도 여기 범주에 속하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.666,
+                "end": 36.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.813,
+                "end": 37.909
+            }
+        ]
+    },
+    "summary": "화자1은 2020년에 문을 열었던 경기 양평에 있는 더 양평 디티알 점을 대표적인 예로 들어 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

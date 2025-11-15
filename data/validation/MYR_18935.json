@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18935",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다 보여줄 순 없고 마음 같아서는 그렇게 해 드리고 싶지만 어 이 예를 들어서 뭐 15페이지에 있는 게 이번에 바뀌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 126페이지에 있는 게 어 좀 죄송한데 제가 오타가 좀 났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.186,
+                "end": 12.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오류가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.082,
+                "end": 12.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곧바로 곧바로 해 가지고 제가 여러분들하고 실시간 어 소통을 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.948,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "새롭게 개정이 되거나 오류가 있는 부분을 실시간으로 소통할 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

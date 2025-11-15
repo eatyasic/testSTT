@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18934",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.552,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 거기에 대해서 빠르게 온라인으로 좀 개정된 내용을 업데이트해 드리자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이거를 좀 저희가 인제 출판사하고 좀 이야기를 해 가지고 아마 메인은 지금 보고 계시는 유튜브 채널이 될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.141,
+                "end": 11.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 허락할 수 있는 한도 내에서 어 제가 원본 파일이죠. 책",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.931,
+                "end": 19.552
+            }
+        ]
+    },
+    "summary": "출판사와 이야기를 해서 유튜브 채널에서 개정된 내용을 빠르게 업데이트할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

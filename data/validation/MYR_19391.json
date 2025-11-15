@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYR_19391",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.128,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 그러면 나 몇 개 남아요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 하나 남잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.257,
+                "end": 3.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 비과세가 가능하다는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.204,
+                "end": 8.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 중요한 게 뭐냐면 중요한 게 뭐냐면 바로 요 요건입니다 요건 요건 요건.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.657,
+                "end": 16.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 만약에 이 요건에서 하나라도 그냥 어 끝나 버렸다 어 그러면 그래 버리면은 요 요건을 만약에 못 갖추면 비과세가 그냥 깨져 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.224,
+                "end": 25.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.814,
+                "end": 28.128
+            }
+        ]
+    },
+    "summary": "요건을 갖추지 못하면 비과세가 깨져서 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18580",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구독해놓고 알림 설정 했는데 하루는 계속 글올라와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 글이 대부분 다 다른 데서 제거처럼 이렇게 긁어가지고 하는 그런 거더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.940,
+                "end": 8.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이제 좀 안타깝죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.359,
+                "end": 11.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 지금 저도 뭐 신고도 물론 좋긴 하지만 그걸 언제 기다려요 그거를",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.713,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "구독이랑 알림 설정을 해놨는데 대부분 글들이 도용이었고 안타까운 마음도 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18580_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18852",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.372,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 말은 정말 미국은 다주택자들에 대한 규제가 없다는 반증이기도 하고 근데 아무튼 그 미국인들 글로벌 유럽 사람들, 캐나다 사람들, 추운 곳에 있는 분들, 너무 더운 곳에 있는 분들, 하와이에 대한 이미지들이 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 브랜드 이미지가 저는 객관적으로 입증이 됐다고 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.507,
+                "end": 19.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다들 365일 정말 미세먼지 없는 그 하늘과 정말 그 겨울에도 오히려 날씨가 되게 좋거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.062,
+                "end": 28.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선선한 초가을처럼 그리고 평균기온이 26도고, 여름에도 습하지 않고 그러니까 야자수 밑에 있으면 바람이 불면 또 괜찮거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.552,
+                "end": 38.372
+            }
+        ]
+    },
+    "summary": "여성은 사람들이 하와이에 대한 브랜드 이미지가 객관적으로 입증이 됐다고 생각한다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18852_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

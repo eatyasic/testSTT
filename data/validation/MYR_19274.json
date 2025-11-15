@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_19274",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.07,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오픈하기 싫은 거겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 그런 것들도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.956,
+                "end": 2.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공부하면 재미있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.898,
+                "end": 4.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 그건 상법을 공부 또 해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.476,
+                "end": 7.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 회사 상법 중에서 회사법 특히 아 머리가 아프다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.030,
+                "end": 10.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 법인세 과세 대상 소득으로는 각 사업 연도마다 법인이 귀속돼 있는 각 사업 연도의 소득과 이걸 이제 줄여서 각사소라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.875,
+                "end": 21.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각 사업 연도의 소득 이걸 줄여서 각사소 그러면 이 법인이 해사한 경우에 청산 소득이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.924,
+                "end": 26.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인 사업자 같은 경우에는 그냥 딱 없애 버리면 되는데 법인 같은 경우에는 청산을 별도로 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.224,
+                "end": 29.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 그때 이제 막 잉여금 같은 거 처리 안 됐으면 다 배당해야 되고 막 토해 내야 되고 막 그런 게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.994,
+                "end": 34.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 만만하지가 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.855,
+                "end": 37.070
+            }
+        ]
+    },
+    "summary": "개인 사업자 같은 경우에는 없애 버리면 되지만 법인 같은 경우에는 청산을 별도로 해야 한다고 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19274_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

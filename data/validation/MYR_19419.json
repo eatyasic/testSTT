@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19419",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 그러네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 인제 보면은 인제 좀 뒤에는 디테일 한 내용들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.738,
+                "end": 3.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 세무서 인력 구성은 이미 집값이 뛰고 거래와 규제가 늘어 할 일이 많았던 시기에 맞춰져 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.963,
+                "end": 8.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그니까 이제 굉장히 그때 기준으로 돼 있는데 갑자기 줄어 버리니까 조금 이게 좀 여유가 좀 생긴다는 그런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.819,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "세무서 인력 구성은 집값이 뛰고 거래와 규제가 늘어나 할 일이 많았던 시기에 맞춰져 있어서 지금은 여유가 생겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19419_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

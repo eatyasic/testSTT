@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18814",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 기본 세율 받게 됐다고 막 이렇게 해버리시면 안 돼요. 큰일 나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그러다 보니까 이제 전세 매물만 넘쳐난다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.428,
+                "end": 6.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 한양 수자인 124건. 전세는 와 5억 중반까지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.879,
+                "end": 12.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이제 보통 전세 같은 경우에 에 과거의 데이터가 보면은 분양가가 한 50퍼센트까지 떨어져 버리거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.242,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "보통 전세 같은 경우에는 과거의 데이터에 비해 분양가가 절반까지 떨어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18814_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

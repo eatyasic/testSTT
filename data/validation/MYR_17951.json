@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17951",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 또 가서 책을 사왔죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2달 열심히 공부를 했는데 또 붙었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.476,
+                "end": 4.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붙고 나니까 어 또 할 일이 없어지는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.333,
+                "end": 8.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이것저것 닥치는 대로 좀 일을 잠깐 몇 달하다가 잠깐 잊어버리고 있었어요 공인중개사를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.130,
+                "end": 13.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잊어버리고 있었는데 어느 날 공인중개사 원서 접수 이제 그게 또 보인 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.440,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "책을 사와서 2달 열심히 공부해서 시험에 붙었으나 그 다음에 할 일이 없어져서 이것저것 닥치는 대로 일을 몇 달하다가 공인중개사를 잠깐 잊어버리고 있었는데 어느 날 공인중개사 원서 접수가 또 눈에 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17951_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

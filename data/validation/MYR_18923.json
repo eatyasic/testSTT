@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18923",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.852,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "독자의 1초를 아끼려는 뭐 정성인가 해 가지고 되게 좀 뭐랄까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나름 감동했었던 감격했었던 에 그런 기억이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.383,
+                "end": 9.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 에 해당 출판사에서 에 제 이름으로 이렇게 책을 내게 돼서 개인적으로도 정말 영광이고 어 감사한 마음이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.839,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "출판사에서 내 이름으로 된 책을 발간하게 돼서 영광스럽고 감사하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18923_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

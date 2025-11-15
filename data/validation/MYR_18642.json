@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18642",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째로 이제 취득세 부분인데 뭐 당연히 다들 아실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 무산이 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.597,
+                "end": 4.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.674,
+                "end": 4.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "22년 12월 21일날 잔금 지급하거나 증여 완료된 건에대해서 중과세율 완화 적용할 거라고 했는데 이게 아직까지 안되고 있어요 사실.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.878,
+                "end": 14.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 좀 새로운 소식 없습니까 언제 좀 될거같다라든지 뭐 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.120,
+                "end": 17.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다들 기다리고 계시는 그거거든요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.972,
+                "end": 19.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 이거 엄청 많이 기다시거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.779,
+                "end": 21.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 또 되면은 제가 봤을때주택가격의 변동이 상당히 생길거라고 저도",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.225,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "22년 12월 21일 날 잔금 지급하거나 증여 완료된 건에 대해 중과세율 완화 적용할 거라 했는데 아직 안 되고 있고 이게 된다면 주택 가격 변동이 상당히 심할 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18642_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

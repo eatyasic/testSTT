@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19350",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.544,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "22년 12월 20일 이후에 취득을 했다 그러면 얘기 반띵이 될 수 있다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 전에 샀다 그러면 아무것도 안 된다 이렇게 되는 거죠 됐죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.522,
+                "end": 14.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.363,
+                "end": 15.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가급적 여기에서는 부동산 세금만 이야기하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.661,
+                "end": 20.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "채팅방 보니까 뭐 정치 이야기를 하시는 분이 몇 분 계시는 데 제 채널에서는 정치 종교 젠더 이 3가지는 절대 말하지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.812,
+                "end": 29.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 혹시라도 그러신 분들이 계시면 예고 없이 댓글이 좀 삭제가 될 수 있다 거 이거는 좀 양해의 말씀 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.209,
+                "end": 36.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 그 3가지에 대해서는 생각이 다 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.728,
+                "end": 39.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 누가 맞다 틀리다 이거를 말 하고 싶은 생각이 1도 없습니다 아시겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.061,
+                "end": 44.544
+            }
+        ]
+    },
+    "summary": "22년 12월 20일 이후에 취득을 하면 세율이 절반으로 줄 수도 있고 그 전에 샀다면 의미가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19350_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

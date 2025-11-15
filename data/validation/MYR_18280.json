@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18280",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.462,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이같은 규정은 언제 만들어졌냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 전에 됐습니다 3년 전에 와 이제 거의 이 3주년 돼가는 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.036,
+                "end": 5.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2020년 7.10대책 야 그때 열심히 강의했었던 기억이 또 나네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.937,
+                "end": 10.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 정말 하 정말 힘들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.574,
+                "end": 13.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 규제가 심하고 그래가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.494,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "규정이 만들어진게 3년이 되었다는 것을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17757",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 지금 이 분이 4월달에 매도를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 알아두세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.180,
+                "end": 13.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 매각을 했죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.972,
+                "end": 16.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 양도세 신고 언제까지 해야 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.431,
+                "end": 19.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6월 말일까지 해야 된단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.723,
+                "end": 22.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 6월 말일 신고가 들어가잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.725,
+                "end": 24.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 여기서부터 통상 통상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.781,
+                "end": 28.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1, 2개월 내에 관할 세무서에서 검증을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.660,
+                "end": 32.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통은",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.339,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "양도세 신고는 6월 말까지 해야 하고 통상 1, 2개월 내에 관할 세무서에서 검증한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17757_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

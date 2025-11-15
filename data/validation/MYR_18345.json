@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18345",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.119,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 보면은 이번 정기국회 때 통과할 게 굉장히 많습니다 굵직굵직한 것들이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 별도 예고하진 않았지만 그냥 제 개인적인 생각 몇 가지만 좀 말씀드려 보면은 추가로 나올 수 있는 것 중의 하나가 양도세 감면 주택이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.250,
+                "end": 17.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거 사례를 보면은 이런 것들이 좀 나왔었는데 비과세 판단할 때 주택 수에서 제외해 버리고 취득 후 일정 기간 보통 5년 정도거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.235,
+                "end": 25.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 양도세 100퍼센트 감면, 비과세는 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.760,
+                "end": 29.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세는 아니기 때문에 농특세 보통 20퍼센트를 납부를 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.066,
+                "end": 34.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 굉장히 좋은 혜택인데 사실 이게 미분양 그리고 신축 주택 이런 것들이 좀 많이 나와야지 과거에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.456,
+                "end": 43.109
+            }
+        ]
+    },
+    "summary": "남성 화자가 개인적인 생각을 얘기하며 양도세 감면 주택추가로 나올 수 있는 것 중 하나인데 비과세 판단할 때 주택 수에서 제외하고 취득 후 일정 기간 양도세 100퍼센트 감면해 주는 건데 이게 미분양 그리고 신축 주택 이런 것들이 많이 나와야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

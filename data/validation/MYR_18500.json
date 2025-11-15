@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18500",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "85제 제곱미터 이하 아파트 지금 이 부분이 안 되고 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 이제 신규 등록을 허용하고 인센티브를 좀 복원하겠다 이건데 아직 지금 이 내용이 나오지가 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.228,
+                "end": 14.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 제가 지금 현재 기준 상태에서는 등록을 하지 마시라고 했는데 왜 그러는지 좀 설명을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.547,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "85제 제곱미터 이하 아파트에 대해서 신규 등록을 허용하고 인센티브를 좀 복원하겠다는 내용은 아직 나오지 않고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

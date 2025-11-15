@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18519",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.849,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중개사 분이 이제 잘못 알고 있더라고요 개정된 아까 똑가처럼 중개사분도 하다 보면 틀릴 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다. 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.746,
+                "end": 6.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어 그 중개사 분이 어디다 전화를 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.463,
+                "end": 10.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개정됐다고 어디다 전화하세요 그랬더니 아는 세무사 사무실이 있다 그래 가지고 당연히 잡아주겠지 했는데 그 세무사 사무실에서 됐다고 하는 거예요. 아 이건 좀 아닌 거 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.188,
+                "end": 21.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.673,
+                "end": 22.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그래서 뭐 약간 좀 그렇게 실수할 수 있겠지만 어 본인이 체크를 안 하면 나중에 문제 되는 건 본인한테 있다 조심하셔야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.608,
+                "end": 31.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다 근데 어쨌든 뭐 어 두 제 분양권 투자를 많이 안 해보신 분들은 당연히 이렇게 체크를 하고 조심을 해야 되는 게 맞고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.484,
+                "end": 38.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.196,
+                "end": 38.754
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 도의 선수라고 하시는 분 있잖습니까 이렇게 잘 치고 빠지고 하시는 분들 이제 그런 분들은 저는 걱정 안 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.764,
+                "end": 44.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이런",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.238,
+                "end": 45.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 처음에 이제 적응하시는 분들이 좀 대전",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.975,
+                "end": 49.849
+            }
+        ]
+    },
+    "summary": "중개사 분도 하다 보면 틀릴 수 있는데 개정됐다고 어디 전화를 하더니 아는 세무사 사무실이 있다 그래서 당연히 잡아주겠지 했는데 세무사 사무실에서 됐다고 하는 걸 보고 이건 아닌 거 같다고 생각을 했는데 이런 실수는 할 수 있겠지만 본인이 체크를 하지 않으면 나중에 문제가 되기 때문에 분양권 투자를 많이 안 해 보신 분들은 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

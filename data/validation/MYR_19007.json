@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19007",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 지역가입자로 부담 아 부과가 되면은 이렇게 합산이 되는 구조이기 때문에 이게 되게 이제 큰 부담인 거죠. 매월",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "게다가 전부 다 부담해야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.372,
+                "end": 11.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.446,
+                "end": 11.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기에서 중요한 게 피부양자 판단 시에는 개인별로 판단하게끔 되어 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.885,
+                "end": 18.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개인별로",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.295,
+                "end": 18.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그런데 부부는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.961,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "지역가입자가 되면 세대별로 합산이 되는 구조이기 때문에 매월 부담이 커지게 되며 피부양자를 판단할 때는 개인별로 판단하게 되어있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19007_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

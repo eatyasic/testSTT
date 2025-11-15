@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18240",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.801,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 이제 또 우리 주택임대 사업자분들 좀 희소식이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택임대 사업자 같은 경우에도 전세금 반환 의무보증 가입요건을 전세보증과 유사하게 개선하고 기존 등록 임 기존 등록 임대주택에 대해서는 좀 유예기간을 도입할 계획이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.598,
+                "end": 14.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 또 과태료 있고 그랬거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.533,
+                "end": 16.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 요거 때문에 좀 어 굉장히 좀 어 힘드신 분 힘드실 뻔한 분들도 계셨는데 여기에 대한 내용도 조만간에 나오지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.309,
+                "end": 25.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 7월 달에 어 그렇게 생각을 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.126,
+                "end": 30.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속해서 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.496,
+                "end": 31.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그냥 쭉 이렇게 잡아놨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.739,
+                "end": 34.801
+            }
+        ]
+    },
+    "summary": "전세금 반환 의무보증 가입요건에 대한 규제가 완화된다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18240_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

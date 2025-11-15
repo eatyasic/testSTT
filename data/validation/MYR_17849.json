@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17849",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거의 다 됐거든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가만히 있으면 도로가 나는 거야 옆에 특히 요새 이 보상을 좀 적게 줄려고 절대 농장 이제 싼 데를 뚫고 나간단 말이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.281,
+                "end": 11.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싼 땅을 샀는데 갑자기 길이 생기는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.130,
+                "end": 14.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "작년이 아니라 계속 몇 년 매일이 생기잖아요 길이 어디 가보면 어 길이 뚫렸네 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.393,
+                "end": 20.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 데 땅을 사 놓으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.019,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "도로가 많이 생기고 있기 때문에 싼 땅을 사 놓으면 그 자리에 길이 생길 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17849_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

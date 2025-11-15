@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18415",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.212,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "똑같은 거를 살 때 이걸 살까 저걸 살까 남한테 맨날 물어보잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 살까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.293,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저거 살까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.869,
+                "end": 6.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러면은 이런 데이터를 보고 스스로 판단하시면 어 미래의 일은 또 정해져 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.754,
+                "end": 13.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 아파트에 어떤 이슈가 있는지 갑자기 뭐가 이렇게 되지는 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.904,
+                "end": 18.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지하철이 들어올 예정이라든지 여기 주변에 뭐가 좋은 게 들어온다든지 나쁜 게 나간다든지 이런 이슈는 이 동네 주민이라면 다 알고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.024,
+                "end": 28.194
+            }
+        ]
+    },
+    "summary": "미래의 일은 또 정해져 있어서 이 동네 주민이라면 다 알고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

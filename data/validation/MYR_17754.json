@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17754",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.321,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 156조 3인가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소득세 시행령 그러면 1년 후 취득하고 종전 주택 3년 후에 파는 거 그 규정을 적용해서 에이 주택 비과세를 받을 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.625,
+                "end": 10.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 매도를 해버렸죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.511,
+                "end": 13.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금 제가 그 그다음이 너무 안타까운데 미분양권을 줍줍 했을 당시 미분양권 줍줍은",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.069,
+                "end": 21.321
+            }
+        ]
+    },
+    "summary": "소득세 시행령 156조 3 규정을 적용하면 에이 주택 비과세를 받을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17754_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

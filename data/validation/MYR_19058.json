@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19058",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 추리면 자 우리 이제 7월 하고 9월에 한 번씩 재산서 고지서 나오지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.661,
+                "end": 8.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리나라는 그 이 부동산 가격 공시법이라는 데에서 땅값을 매기게 되어 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.519,
+                "end": 15.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.157,
+                "end": 15.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 얼만지 먼저 정하고 그걸 가지고 세금을 매기자",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.586,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "7월과 9월에 한 번씩 재산서 고지서가 나오는데 부동산 가격 공시법이라는 데서 땅값을 먼저 매겨 세금을 매긴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19058_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

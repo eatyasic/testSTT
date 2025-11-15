@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17437",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난 3000 빌려줬는데 1000만 원밖에 못 받았네",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 그럼 2000 손실",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.559,
+                "end": 2.961
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손실 그러니까 이렇게 되면 저는 손실이 나는 건데 그런데 제가 이제 손실 난 거 뻔히 아는데 돈이 너무 급해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.971,
+                "end": 9.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 3000 받을 생각도 없고 그냥 한 800만 받으면 돼 그래서 제가 제네스 박한테 얘기하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.233,
+                "end": 14.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 내가 3000 다 포기하는데 어쨌든 낙찰이 9000 이상은 될 것 같으니까 그때는 뭐 결과 나오기 전에",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.849,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 엔피엘의 수익 구조를 설명하는데 본인은 3000만 원 빌려줬는데 1000만 원밖에 못 받으면 2000만 원 손실을 보는 거고 이렇게 되면 손실 난 거 뻔히 알지만 돈이 급하게 되면 3000만 원 다 받을 생각이 없고 흰색 상의 옷을 입은 남자에게 경매가 나오기 전에 낙찰가가 9000만 원 이상 나올 것 같다고 말하는 상황을 예로 들어 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

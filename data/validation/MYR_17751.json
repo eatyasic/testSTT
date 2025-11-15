@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYR_17751",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.862,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제 강의 들으신 분들은 다 아시겠지만 2020년 8월 12일 이때는 취득세 주택 수가 들어가는 거고 21년 1월 1일 요 때는 양도세 주택 수가 들어가는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 18.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 취득세 판단할 때 2020년 8월 10일 이후 요날 포함해서 분양권을 취하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.118,
+                "end": 24.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 취득세의 중과 되냐 안 되냐 따질 때 주택소에 들어가는 거고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.319,
+                "end": 28.862
+            }
+        ]
+    },
+    "summary": "한 남성이 2020년 8월 12일 취득세가 주택 수에 들어가며 21년 1월 1일부터 양도세가 주택 수에 들어간다 하며 취득세 판단은 2020년 8월 10일 이후 취득세 중과되는지 판단하는 것을 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

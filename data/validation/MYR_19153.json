@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19153",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 종합과세 이게 이제 가장 좀 여러분들이 이것 때문에 문제가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.757,
+                "end": 4.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 개인 사업을 한다 예를 들어서 자영업을 한다 물건을 판다 콘텐츠를 판다 그럼 뭐가 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.966,
+                "end": 9.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업소득이 생기는 거죠 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.812,
+                "end": 11.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.555,
+                "end": 12.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 사업소득은 종합과세 대상이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.416,
+                "end": 14.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 종합소득세 5월달에",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.209,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "개인 사업을 하고 사업소득이 생기면 종합과세 대상이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

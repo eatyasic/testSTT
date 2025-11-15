@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18530",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.421,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강동도 나쁘지 않네요 이게 이게 사실 둔천주공 때문에 좀 풀어준 감도 없지 않아 있잖아요 솔직히 말해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 그런 부분을 좀 감안하시면서 원래는 안 풀어줘야 되는데 약간 그런 정책 목적이 있기 때문에 그쪽에 어떤 대단지 신축 뭐 생각나는 단지가 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.901,
+                "end": 18.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.851,
+                "end": 19.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그래서 뭐 저희가 좀 말씀드리긴 좀 그렇고 그런 것도 한번 같이 공부하시고 그 꼭 투자를 안 하시더라도 이렇게 모니터링을 하시면 좋을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.266,
+                "end": 26.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 예 그런 쪽이랑 뭐 또 서울 같은 경우 너무 비싸다라고 생각하시는 분들 같은 경우는 제가 봤을 때는 그냥 광역시 대장 정도도 나쁘지 않다라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.653,
+                "end": 36.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광역시의 중심지",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.395,
+                "end": 37.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 인천 같은 경우는 송도 그리고 뭐 대전 같은 경우는 뭐 서부 둔산동 같은 경우나",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.711,
+                "end": 43.410
+            }
+        ]
+    },
+    "summary": "강동도 둔천주공 때문에 풀어준 감이 없지 않아 있어서 원래는 안 풀어줘야 되는데 정책 목적이 있기 때문에 그런 부분을 감안하면서 투자를 안 하더라도 모니터링을 하면 좋을 것 같고 서울 같은 경우도 너무 비싸다라고 생각하시는 분들은 그냥 광역시의 중심지 정도도 나쁘지 않다라고 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

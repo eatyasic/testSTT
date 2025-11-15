@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYR_19573",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 깨끗한 피부 너무 깡마른 거 말고 어느 정도 날씬한 몸매 그다음에 이제 미소 환한 미소 자 이 미소도 연습을 많이 하셔야 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 앞에 면접관들이 있으면 더 얼굴 경련 일어나고요 더 경직되고요 목소리 떨리고요 표정이 정말 내가 즐겁고 환하게 웃을 때 나오는 그런 표정이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.897,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "깨끗한 피부와 어느 정도 날씬한 몸매와 그리고 미소라며 하지만 면접관들 앞에 있으면 얼굴 경련과 경직 그리고 떨리는 목소리와 미소가 잘 안 나오기 때문에 연습이 많이 필요하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19573_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

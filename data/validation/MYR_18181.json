@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18181",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.924,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올라갈 건데 저희 잘사는 @이름1 님께서 이게 라이브를 해 주셨어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.865,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 저는 알고 대부분 많은 분들이 알고 계시겠지만 또 이제 처음 보시는 분들도 계실 테니까 또 그리고 알아도 또 다 아는 게 아니에요. 그렇죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.343,
+                "end": 13.557
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.567,
+                "end": 13.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본인 소개까지 해주시죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.925,
+                "end": 15.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 안녕하십니까? 저 잘 사는 @이름1라고 하고요. 음 2021년도에 쓴 친절한 고수의 로또 재개발이라는 책의 저자이기도 하고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.170,
+                "end": 24.924
+            }
+        ]
+    },
+    "summary": "많이 알고 계시는 분들도 있지만 그래도 자기소개를 권하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

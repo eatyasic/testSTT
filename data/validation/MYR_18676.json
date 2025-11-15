@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18676",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 근데 저는 사실 좀 요 말씀을 좀 드리고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 1주택자라면 어떻게 되는 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.261,
+                "end": 10.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 두 가지 경우가 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.799,
+                "end": 12.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "0에서 1로 가시려는 분도 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.858,
+                "end": 15.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1에서 1로 이제 갈아타기 하시는 분들이 있을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.603,
+                "end": 18.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.901,
+                "end": 19.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 특히 0에서 1로 가시려는 분들",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.828,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "1주택자라면 0에서 1로 가시려는 경우와 1에서 1로 이제 갈아타기 하려는 분의 경우 이 두 가지 경우가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18676_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

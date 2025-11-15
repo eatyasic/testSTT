@@ -1,0 +1,241 @@
+{
+    "metadata": {
+        "filename": "MYR_17658",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 63.863,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "허름한 매물?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜 왜요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.779,
+                "end": 1.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 쓰러져 가는 거 사야지 그런 걸 싸게 사서 아 그냥 차라리 그걸 싸게 사서 그걸 싸게 사서 고쳐서 비싸게 파는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.474,
+                "end": 8.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.056,
+                "end": 8.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 뭐 비싸게 까지는 안 될 거예요. 왜냐면 그게 그게 싸다는 이유는 이미 그 지역 동네의 어떤 시세는 형성 돼 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.452,
+                "end": 15.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.828,
+                "end": 16.260
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘가 뭐 주변에 뭐 한 10억들 하는데 얘 혼자 20억에 팔 순 없거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.270,
+                "end": 20.719
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇기 때문에 뭐 주변에 10억 정도 하는 시세에서 좀 뭔가 이슈가 생겨서 뭐 한 7억에 나온 거 뭐 6억에 나온 거 이런 거를 사는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.729,
+                "end": 29.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 해서 공사해서 뭐 한 주변 시세보다 조금 더 높게 판매하는 전략이 이게 플립이라고 하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.297,
+                "end": 35.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 플립.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.450,
+                "end": 36.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.011,
+                "end": 36.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "플립은 약간 우리로 치면 인테리어 정도 생각하시면 되겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.433,
+                "end": 39.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인테리어보다 조금 더.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.419,
+                "end": 40.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 더 많이 하는 공사다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.691,
+                "end": 42.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.707,
+                "end": 43.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거보다 조금 더 많이 하는 공사도 있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.600,
+                "end": 45.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 이제 에이듀라고 하는 아까 말씀드린 이제 증축 공사 같은 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.256,
+                "end": 48.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증축 공사",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.540,
+                "end": 49.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아예 거의 뭐 마 넓은 마당 마당이 넓으니까 거기다가 이제 새롭게 뭐 원 베드 원 배스를 하나 만드는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.143,
+                "end": 54.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방 하나 화장실 하나짜리 약간 뭐 컨테이너 박스 그런 거는 아니고 실제 이제 목조 주택을 조그맣게 만드는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.880,
+                "end": 61.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 아예 우리로 치면",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.906,
+                "end": 63.863
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 허름한 매물을 구입해 공사한 뒤 주변 시세보다 조금 더 높게 판매하는 플립에 대해 설명한 뒤 넓은 마당에 새로운 목조 주택을 만드는 에이듀에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17658_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

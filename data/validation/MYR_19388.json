@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_19388",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.534,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 알아야 돼 이거 알아야 되는데 이게 인제 좀 여러분들이 알고 계셔야 되는 좀 어려운 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이게 인제 뭔지 좀 설명을 좀 제가 드려 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.708,
+                "end": 8.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이게 인제 주택 임대 사업자 거주 주택 비과세 특례라고 있는데 뭐 이거는 공식 용어는 아니에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.768,
+                "end": 28.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 뭐 흔히들 그냥 이렇게 부르는 건데 여러분들이 상담을 받으실 때는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.956,
+                "end": 34.534
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자 거주 주택 비과세 특례는 꼭 알아야 되는 내용이고 공식 용어는 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19388_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18446",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 나 경매를 해야겠어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 생각해 보면 저도 그랬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.414,
+                "end": 3.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "친구가 너 경매 해보면 어때 이래서 경매 책을 읽었는데 경매 책에는 경매에 대한 방법만 나오지 이 부동산의 본질이나 어떤 시세가 어떻게 흘러가는지에 대한 내용은 없었던 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.273,
+                "end": 18.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 근데 또 경매 책을 보면 경매로 돈 벌었다는 얘기만 나오지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.385,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "경매 책을 보면 경매로 돈 벌었다는 얘기만 나오지 부동산의 본질이나 어떤 시세가 어떻게 흘러가는지에 대한 내용은 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

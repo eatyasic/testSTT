@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18796",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.636,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 관심 지역인 서울 그리고 수도권 주요 도시가 포, 포함된 과밀 억제 권역의 전, 전매 제한 기간이 3년에서 1년으로 단축했고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 강남 3구, 용산구는 3년. 그리고 나머지 이제 1년.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.029,
+                "end": 11.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 또 해당 조치가 과거 분양 단지까지 모두 소급되기 때문이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.385,
+                "end": 14.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요거 이제 실거주 요건도 있기 때문에 이걸 잘 보셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.439,
+                "end": 17.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제는 되고 언제는 안 되는지 각 단지마다 조금씩 다릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.683,
+                "end": 21.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 입주를 하지 않은 아파트는 분양권을 입주를 마친 단지는 아파트 매도가 가능해졌다는 얘긴데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.214,
+                "end": 28.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 분양권이 지금은 좀 더 유리할 수도 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.436,
+                "end": 31.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 입주를 마친 단지면 입주하고 나서부터 다시 또 2년이 있어야 되니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.703,
+                "end": 36.636
+            }
+        ]
+    },
+    "summary": "서울과 수도권 주요 도시가 포함된 과밀 억제 권역의 전매 제한 기간이 1년으로 단축되었고 해당 조치는 과거 분양 단지까지 모두 소급되니 오히려 분양권이 지금은 좀 더 유리할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

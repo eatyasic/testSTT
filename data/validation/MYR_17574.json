@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17574",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.213,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 대구가 많이 떨어졌으니까 이걸 사야 된다가 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응응응",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.341,
+                "end": 2.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "떨어진 떨어졌는데 내가 옥점을 사야 되나 만족을 할까 이 생각을 떠올려야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.991,
+                "end": 9.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 될려면 수도권에 있는 지역들과 또 아까 광역시 비교할 수 있는 지역들하고 같이 견줘서 생각해야 되는데 그냥 단순하게 대구에서 2급지가 지금 많이 떨어졌는데 사도 될까 안 될까 앞으로 흐름이 좋을까 많이 하락했으니까 무조건 좋아지지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.328,
+                "end": 25.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게만 생각하면 안 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.303,
+                "end": 27.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 비교해야 된다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.410,
+                "end": 28.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중요하다는 거죠 알맹이가 있는 상태에서 아 그래 내가 오산세교를 사는데 많이 떨어졌어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.210,
+                "end": 35.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 올라갈 거 같아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.200,
+                "end": 36.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거랑 오산세교가 아니라 최소한 용인 기운구 뭐 제일 좋은 입지 아니면 뭐 수지구청까지 되는 입지였을 때 바닥이다 느낌 다르잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.460,
+                "end": 46.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.310,
+                "end": 47.213
+            }
+        ]
+    },
+    "summary": "남자는 대구가 하락했다고 해서 단순히 사야 할지 말지를 결정하는 것이 아니라 만족에 대한 것도 고려해야 하고 다른 수도권 지역이나 광역시와 비교해서 생각해야 하는데 그냥 흐름상 많이 하락했으니까 좋아지지 않을까라는 식으로 생각하면 안 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18420",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 이거 단타 5천 하려고 들어갔는데 못 팔아가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.848
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갑자기 그 아실 사이트 즐겨찾기 해지하는 소리가 지금 들리고 있습니다 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.858,
+                "end": 7.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "농담이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.926,
+                "end": 9.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니에요 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.119,
+                "end": 9.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.787,
+                "end": 10.341
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 다 말씀하실 수는 없겠지만 뭐 하나만 소개해 줄 수 있으세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.351,
+                "end": 15.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 그 김포 골드라인이 개통하는 아파트를 경매로 낙찰을 받았었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.507,
+                "end": 22.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 개통되면 또 이제 인기가 높아지겠다 생각을 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.923,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "나는 김포 골드라인이 개통하는 아파트를 경매로 낙찰을 받았었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

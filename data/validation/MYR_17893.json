@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17893",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 증거가 없잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 사실은 이게 우리 계약은 불요식 계약이잖아요 그니까 구두상으로도 충분히 가능한데 굳이 우리가 계약서를 쓰는 거는 나중에 네 분쟁이 생기니까 그때 증거 서면으로 우리가 작성을 하는 거거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.040,
+                "end": 12.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 꼭 이력을 남기시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.550,
+                "end": 15.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.000,
+                "end": 15.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 그런 일들이 없어야 되겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.690,
+                "end": 18.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없으면 가장 좋죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.490,
+                "end": 19.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제가 생기면 네 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.550,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "우리가 계약서를 작성하는 이유는 증거 서면을 위해서이기 때문에 작성을 하는 것이 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17893_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

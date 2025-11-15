@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18771",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.283,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전부 다 등록을 해주셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 주택 임대 같은 경우에는 현재 지금 등록하고 미등록 이렇게 분산돼 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.449,
+                "end": 6.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미등록이 훨씬 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.322,
+                "end": 7.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이때 미등록은 뭐냐면은 지자체의 미등록입니다. 지자체 미등록.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.684,
+                "end": 12.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그럼 세무서는요. 세무서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.328,
+                "end": 14.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세무서는 과세 대상이라면 전부 다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.366,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "전부 다 등록해야 하고 주택 임대에는 등록하고 미등록으로 나뉘어 있고 미등록이 훨씬 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18771_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

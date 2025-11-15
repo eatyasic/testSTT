@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19431",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.231,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하고 있다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.974,
+                "end": 1.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소문이 들리더라고요 그래가지고 이거를 저도 웬만하면은 법문을 좀 보고 말씀을 드리고 싶었는데 제가 지금 그 왜 이런 말씀을 드리냐면은요 여기 요번에 이번에 그 나온 내용을 보면 신규 주택 완공 전 양도 플러스 신규 주택 완공일로부터 3년 이내에 세대원 전원이 전입하여 1년 이상 거주예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.371,
+                "end": 24.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 원래 2년 이내에 세대원 전입이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.345,
+                "end": 26.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.952,
+                "end": 27.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 신규 주택 완공일로부터 3년 이내에 양도",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.423,
+                "end": 31.231
+            }
+        ]
+    },
+    "summary": "신규 주택 완공일로부터 세대원 전입이 2년이내에서 3년 이내에 1년 이상 거주로 변경됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19431_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

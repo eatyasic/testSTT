@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18925",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 많이 힘들잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 경제적으로도 좀 힘들고 부동산시장도 상황이 좋지 않고 어 그런데 특히 세법 개정된 내용이 막 중구난방 섞여 있으니까 어 더 힘들단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.328,
+                "end": 13.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그래서 그런 것들을 조금이나마 도와줄 수 있는 응 일조할 수 있는 에 그런 마음으로 준비를",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.155,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "요즘 부동산시장 상황이 좋지 않고 세법 개정된 내용도 섞여 있어서 힘든 상황인데 이것을 도와주고자 하는 마음으로 준비했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18727",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.154,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거주하고 있는 주택 만약에 거주하고 있는 게 아니라 또 임대 주택을 팔았다 아니면은 내가 잠깐 살았지만 2년 거주 안 했다 그러면은 주택 수 안 빠집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.431,
+                "end": 9.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 우리 중개소장님들 계시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.615,
+                "end": 11.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.585,
+                "end": 12.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 말 잘못해 가지고 7억 날린 사람 있다고 했잖아요 제가 10억 중에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.692,
+                "end": 17.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 피눈물 납니다 피눈물 나",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.396,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "만약에 거주 주택이 아니라 임대 주택을 팔았거나 거주 주택에 2년 이상 거주를 안 했으면 주택 수에서 안 빠진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18727_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

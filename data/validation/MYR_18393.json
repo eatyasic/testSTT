@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18393",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.339,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 할 수 있는 게 5억까지다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 이제 5억으로 갈 수 있는 데가 정해져 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.121,
+                "end": 5.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 그 중에 제일 좋은 거를 고르는 거는 할 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.892,
+                "end": 10.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 하냐면은 일단 필터로 아파트 단지를 싹 적어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.723,
+                "end": 17.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.388,
+                "end": 17.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 얼마 부천 얼마 서울도 있어요 5억이면은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.758,
+                "end": 21.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 근데 서울은 조금 평수가 작거나 이제 조금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.560,
+                "end": 25.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금 외곽에 있거나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.914,
+                "end": 27.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 이제 멀 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.200,
+                "end": 28.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 서울이면 상계동이나 그 정도가 5억 대도 갈 수 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.740,
+                "end": 35.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.497,
+                "end": 36.336
+            }
+        ]
+    },
+    "summary": "여성 화자가 5억으로 갈 수 있는 데에서 제일 좋은 거를 고르는 법은 일단 필터로 아파트 단지를 싹 적으라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18393_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

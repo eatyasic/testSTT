@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18503",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 200만 원까지 가능하고 200만 원이 초과되면은 15퍼센트에 대해서 부담을 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전용 60에서 85 넘는 30평대로 가능은 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.115,
+                "end": 13.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "50퍼센트 취득세 감면이 되기는 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.680,
+                "end": 16.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이걸 할려면은 무려 스무 개나 등록을 해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.142,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "전용 60에서 85 넘는 38평대로 가능하고 50퍼센트 취득세 감면도 되기는 되는데 이걸 하려면 무려 스무 개나 등록을 해야 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18039",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.425,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "살 것처럼 이제 중개사분이랑 이야기를 하시다가 1구역의 그 조합장에 대해서 물어보시는데 여기서 되게 중요한 건 뭐냐 하면 핵 저 부사님 음 땡땡 1 구역 조합장님 어떠세요라고 물어보는 건 정말 우묵",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.411,
+                "end": 15.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 너무 약간 좀 드러내 놓고 아",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.049,
+                "end": 17.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그게 아니라 그 여 여기 땡땡 1 구역 조합장님 어떠세요라고 하면 음 아 당연히",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.064,
+                "end": 25.425
+            }
+        ]
+    },
+    "summary": "화자가 살 것처럼 이제 중개사랑 이야기를 하시다가 1구역의 그 조합장에 대해서 물어보지 말라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

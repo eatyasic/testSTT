@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17701",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.894,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실업률을 유심히 봐야 되는 게 지금 현재까지 미국 실업률은 상당히 좋은 편이에요. 거의 뭐 최저 수준인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.886
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 뭐 완전 고용에 가까운",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.896,
+                "end": 9.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다. 네 근데 지금 얼마 전에 뉴스 보니까 또 인제 인제부터 조금씩 그래도 올라가는 거 같더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.503,
+                "end": 15.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 실업률이 조금 조금씩 치고 올라가는 거 같은데 어쨌든 이게 스파이킹을 하느냐 이런 것들을 좀 잘 봐야 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.558,
+                "end": 22.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마 전에 보니까 아 오늘인가 어제 봤는데 다시 이제 재택 다 취소하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.140,
+                "end": 27.894
+            }
+        ]
+    },
+    "summary": "남성은 미국의 실업률이 현재는 최저 수준인데 조금씩 올라가는 거 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

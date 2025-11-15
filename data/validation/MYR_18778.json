@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18778",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 넘었어요. 이하예요. 이하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 분리 혹은 종합 선택이 가능하다고 했죠. 선택. 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.435,
+                "end": 10.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선택했는데 우리는 일단은 분리를 한번 해보자",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.786,
+                "end": 13.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 분리를 하는 데 있어서 임대 주택 등록했냐 안 했냐. 그렇게 해 가지고 따지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.991,
+                "end": 19.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 이때 임대 주택에는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.781,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "분리나 종합 선택이 가능한데 분리를 하는데 있어 임대 주택 등록 여부를 따진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18778_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

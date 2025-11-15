@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17787",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.716,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부가 2023 세법 개정안을 통해서 혼인에 따른 증여 재산 공제를 신설하겠다고 밝혔죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에 대해서 정치권에서 갑론을박을 벌이고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.520,
+                "end": 9.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정 일단 먼저 정부와 여당은 낮은 혼인율 그리고 저출생 문제를 해결하기 위해서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.893,
+                "end": 16.716
+            }
+        ]
+    },
+    "summary": "정부가 2023 세법 개정안을 통해서 혼인에 따른 증여 재산 공제를 신설하겠다고 밝혀 정치권에서 갑론을박을 벌이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17787_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

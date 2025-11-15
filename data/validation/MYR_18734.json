@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18734",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.521,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "처음 들으신 분들은 도대체 무슨 말인지 아마 모를 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 나중에 이 기회가 되시면 책을 보시면 좋을 것 같은데 어 그러면 이제 우리 @이름1 세무사님이 말한 아 종전 주택을 3년에 못 팔았어 어떻게 비과세가 되냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.421,
+                "end": 13.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 케이스가 지금 여기 기사에는 딱히 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.425,
+                "end": 16.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 근데 제 책에는 또 있다는 거 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.711,
+                "end": 18.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 세무사님 죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.002,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "@이름1 세무사가 말한 종전 주택을 3년에 못 팔았을 때 어떻게 비과세가 되는지에 대한 사례가 기사에는 없는데 제 책에는 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18734_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

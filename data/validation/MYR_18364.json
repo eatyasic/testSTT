@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18364",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.768,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경매 같은 경우에는 현재 호가보다 항상 낮게 써요 입찰을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.448
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.458,
+                "end": 6.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 높게 쓰진 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.152,
+                "end": 8.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 생각보다 높을 수는 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.019,
+                "end": 10.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 이 물건으로 5000만 원 벌고 싶은데 나보다 이제 높게 쓴 사람이 꼭 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.642,
+                "end": 16.894
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기는 3000만 벌어도 된다 이거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.904,
+                "end": 18.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그게 뭐냐면은 경매에서 대부분 아파트 입찰하시는 분들은 경매 초보가 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.457,
+                "end": 24.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고수는 그냥 아파트는 입찰을 잘 하지 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.773,
+                "end": 27.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 내가 이제 공부해서 언제 고수 돼 가지고 돈 버나 이런 생각이 드실 텐데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.680,
+                "end": 34.768
+            }
+        ]
+    },
+    "summary": "여성 화자가 경매는 현재 호가보다 입찰을 항상 낮게 쓰는데 나보다 높게 쓴 사람이 꼭 있는 이유가 아파트 경매는 초보가 많기 때문이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18364_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

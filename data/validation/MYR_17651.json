@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17651",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 이거를 소유하려면은 이 빌딩 전체를 사야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.773,
+                "end": 3.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 돈 많이 들어가겠구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.331,
+                "end": 5.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 미국에 콘도는 가격대가 어쨌든 미국은 주로 선호하는 주거 형태가 이제 단독주택이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.856,
+                "end": 12.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.345,
+                "end": 12.831
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 단독주택이 좀 가격대가 아무래도 나가다 보니까 뭐 콘도 같은 것들이 뭐 훨씬 저렴하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.841,
+                "end": 18.893
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 3분의 1정도 가격으로 사실 수가 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.903,
+                "end": 21.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.162,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 미국은 주로 선호하는 주거 형태가 단독주택이여서 가격대가 나가기 때문에 콘도가 훨씬 저렴하며 3분의 1정도 가격으로 살 수 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

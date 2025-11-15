@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17848",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.124,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화성 화성 땅이요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화성이요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.340,
+                "end": 3.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화성이 공장을",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.477,
+                "end": 4.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동탄 거기 말씀하시는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.430,
+                "end": 6.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동탄이 이제 화성 안에 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.357,
+                "end": 10.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동탄은 아직 발전이 안 됐지만 나머지 화성에 보통 쓰지 않는 땅들이 개발 많이 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.202,
+                "end": 17.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 땅에 공장 같은 거에 관심을 가지면 뭐 찍으면 돈이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.467,
+                "end": 22.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈만 있으면 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.924,
+                "end": 24.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와서 아 괜찮네 이러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.580,
+                "end": 26.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 많이 알려주시는 거 아닌가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.381,
+                "end": 29.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화성과 공장 평택 앞으로 이제 많이 산업단지가 생기고 발달할 곳이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.158,
+                "end": 36.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.340,
+                "end": 36.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 사놓으면 돈이 되는 이유가 땅은 있으면 쌈직하는 데를 사는다는 얘기야 동탄같이 발전한 데는 특별히 살 필요가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.740,
+                "end": 45.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쌈직한 데를 사면 호재가 엄청 생깁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.897,
+                "end": 49.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 생기냐 하면 우리나라는 아직도 발전하는 나라잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.202,
+                "end": 52.899
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로 첫째 도로율이 2프로에서 지금 6프로가 다 와가",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.909,
+                "end": 58.124
+            }
+        ]
+    },
+    "summary": "화성에 보통 쓰지 않는 땅들이 개발 많이 되는데 이 땅에 공장에 관심을 가지면 돈이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17848_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

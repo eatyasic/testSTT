@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18391",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가치가 좀 떨어진다라고 생각을 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 작으면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.495,
+                "end": 3.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 9평 이런 거는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.643,
+                "end": 5.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 하지 마시고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.037,
+                "end": 6.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 그래서 어 그 일단은 평수, 평수와 가격 그리고 세대수를 500세대 이상.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.020,
+                "end": 15.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "500세대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.375,
+                "end": 16.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇게 하면은 아파트가 싹 사라질 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.202,
+                "end": 18.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 거의 없다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.883,
+                "end": 20.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 많이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.824,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "여성 화자가 세대수는 500세대 이상으로 하면 아파트가 싹 사라질 거라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

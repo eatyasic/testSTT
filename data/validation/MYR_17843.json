@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17843",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속해서 요즘 이어나가 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 아까도 말씀하신 것처럼 이제 302평 미만 농지 경매를 해 가지고 원장님만의 영역을 딱 구축을 하셨는데 뒤로는 계속 토지를 중심으로 하셨단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.212,
+                "end": 11.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기만의 좀 투자 분야를 찾고 싶어 하는 사람들이 많이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.573,
+                "end": 15.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 아까 말씀하신 땅도 있고 아파트도 있고 뭐 여러 가지가 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.321,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "땅이나 아파트 등 자기만의 투자 분야를 찾고 싶어 하는 사람들이 많이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

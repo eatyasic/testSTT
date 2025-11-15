@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18843",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.814,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "렌트로 오는 분들도 있기 때문에 한 달 살기라던지 그리고 공급이 중요하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하와이는 미국의 다른 주와 어 쫌 달리 관광업이 가장 쥐디피에 큰 부분을 차지하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.099,
+                "end": 13.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 주정부가 인허가를 정말 안 내줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.787,
+                "end": 16.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 헤치면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.551,
+                "end": 17.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.796,
+                "end": 18.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 여행을 왔는데 계속 공사 중이면 다시 여행오기 싫으시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.457,
+                "end": 22.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요, 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.423,
+                "end": 22.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.981,
+                "end": 23.814
+            }
+        ]
+    },
+    "summary": "하와이는 미국의 다른 주와 달리 관광업이 쥐디피에 큰 부분을 차지하기 때문에 주정부가 인허가를 잘안 내준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

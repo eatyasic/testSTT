@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17694",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.891,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "급격한 금리 인상이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 그게 이제 한국에서 시작된 게 아니라 미국에서 시작된 거란 말이죠 연준에서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.538,
+                "end": 7.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 얼마 전에도 올렸잖아요 또.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.042,
+                "end": 9.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 1번 더 올린다 뭐 이러고 있는데 아 여전히 그게 해결이 안 되어있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.385,
+                "end": 14.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국발 급격한 금리 인상 어 좀 미국 부동산 좀 분위기는 어떻습니까? 그리고 대표님 보시기에 좀 앞으로 좀 어떻게 될 거 같다 뭐 의견 1번 좀 말씀해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.118,
+                "end": 25.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 사실 미국이 땅덩어리가 워낙 넓다 보니까 지역별로 편차는 굉장히 심합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.220,
+                "end": 30.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 그 전반적인 분위기를 보면 한국하고 그렇게 차이가 나진 않는 거 같애요. 굉장히 비슷해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.245,
+                "end": 36.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 금리가 올라가면서 모기지 금리도",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.070,
+                "end": 39.873
+            }
+        ]
+    },
+    "summary": "남성이 미국발 금리 인상으로 한국의 부동산 경기가 좋지 않은데 미국은 어떠냐고 묻자 대표는 미국도 비슷한 분위기라고 대답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

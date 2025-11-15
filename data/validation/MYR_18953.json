@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18953",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러기에는 또 쉽지가 않잖아요. 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 거기에 대해서도 관심을 가져보시는 게 좋고 오로지 나는 부동산으로 좀 뭔가 하고 싶다 그러신 분들은 오히려 임대업보다는 매매업 쪽으로 가시는 게 낫다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.566,
+                "end": 11.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 메시지들이 여기 좀 다섯째 마당과 여섯째 마당 엮여있으니까 같이 보셔서 좀 생각을 좀 전환하시면은 더 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.348,
+                "end": 19.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상은 넓고 투자할 건 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.214,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "부동산으로만 뭔가 하고자 하는 분들은 매매업 쪽으로 가시는 게 좋고 다섯째 마당과 여섯째 마당에 그 내용이 엮여 있으니 함께 보면서 생각을 전환하는 걸 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18953_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

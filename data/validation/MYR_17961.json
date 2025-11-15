@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17961",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.212,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 야 환장하겠네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어쨌든 음 일단 국세에 관련해서는 그렇다는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.149,
+                "end": 5.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세는 이제 지방세법이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.362,
+                "end": 7.085
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거는 행안부에서 행정안전부에서 발표를 할 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.085,
+                "end": 9.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 이 세법 개정이 나오고 난 그 이후 8월 정도로 예상을 해봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.545,
+                "end": 16.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비난을 피하기 위해 완화 범위를 놓고 고심 중인 것으로 알려졌다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.314,
+                "end": 20.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 지금 이 기자 기사를 쓰신 기자분 언론사의 스탠스는 뭐냐면은 두 가지가 핵심인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.100,
+                "end": 28.194
+            }
+        ]
+    },
+    "summary": "취득세는 지방세법이기 때문에 행정안전부에서 발표를 할 것이고 세법 개정이 나온 후 8월 정도에 발표할 것으로 예상합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

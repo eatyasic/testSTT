@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18327",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.777,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 보시는 것처럼 분양권은 주택은 아닌데 주택 수에 포함이 돼서 특히 취득세 그리고 종전 주택 비과세 굉장히 좀 복잡해질 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 분양권이 21년 1월 1일 이후에 취득한 거냐 아니면 그 전에 취득한 거냐에 따라서 또 결과가 달라질 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.801,
+                "end": 19.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 항상 여러분들 여러 가지 케이스가 있을 수 있기 때문에 조심하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.810,
+                "end": 25.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득하기 전에 반드시 취득세, 양도세 모두 체크해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.107,
+                "end": 28.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 제가 꼭 강조드립니다 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.907,
+                "end": 32.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 중요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.962,
+                "end": 33.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일부 몇몇 분들이 선담 후 고민하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.968,
+                "end": 38.772
+            }
+        ]
+    },
+    "summary": "남성 화자가 분양권은 주택은 아닌데 주택 수에 포함이 돼서 복잡해질 수 있고 분양권이 21년 1월 1일 이후에 취득한 건지 그 이전에 취득한 건지에 따라서 또 결과가 달라질 수 있기 때문에 조심해야 하고 취득하기 전에 반드시 취득세, 양도세 모두 체크해야 한다고 강조한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18327_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

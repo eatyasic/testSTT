@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18028",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이 이때 10년이 어떻게 카운트하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 증여하는 시점부터 10년입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.853,
+                "end": 5.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 내가 만약에 이때 증여를 했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.628,
+                "end": 9.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 요렇게 뒤로 가서 10년이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.691,
+                "end": 13.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 요 뒤로 가서 10년 봤더니 요때 예를 들어서 8년 전에 내가 이미 증여한 사실이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.156,
+                "end": 20.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이거 합산되는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.870,
+                "end": 22.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "합산되기 때문에 이 증여 공제를 이미 써먹었다면 여기에 대해서 이제 추가로 증여세가 나올 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.611,
+                "end": 30.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그렇기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.806,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "화자가 내가 증여하는 시점부터 10년이며, 8년 전에 증여한 내역이 있다면 합산되기 때문에 증여 공제를 이미 써먹었다면 추가로 증여세가 나올 수 있다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18028_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

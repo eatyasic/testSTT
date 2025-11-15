@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_19101",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것은 이미 이제 정부 행안부 보도자료로 나갔기 때문에 이걸 바꾸면 이제 신뢰가 조금 문제가 될 수 있기 때문에 이거는 이제 안 바꿔야 된다는 게 이게 제",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 우리가 지난 정부에서 너무 신뢰를 깬 걸 많이 봤기 때문에 뭐 요즘에 신뢰 깨는 거를 뭐 별로 그렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.854,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 조정 지역에 대한 취득세율 중과에 대한 자료는 행안부 보도자료이기 때문에 바꾸지 않아야 한다는 의견을 밝힌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

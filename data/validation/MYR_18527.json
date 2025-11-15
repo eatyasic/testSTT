@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18527",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.129,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10억 20억 30억 정도는 있어야 되지 않습니까 결혼하려면 그래서 이런 것들은 현실적으로 내가 다주택자들이 본인 그 또 많지 않다 보니까 집 많이 사기가 쉽지 않아 보이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 요거는 근데 투자금이 투자 금액이 얼마 정도 생각하고 혹시 질문하시는 지 제가 한번",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.641,
+                "end": 15.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5억에서 프라스 마이너스",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.555,
+                "end": 17.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 투자 금액 5억 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.075,
+                "end": 18.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.246,
+                "end": 18.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 실제 제 주변에 보면 지금 지방에 물건들을 거의 다 정리를 하고 서울에 어 과천 아 경기도에 과천 아니면 분당 아니면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.999,
+                "end": 29.129
+            }
+        ]
+    },
+    "summary": "투자 금액 5억 정도를 생각했을 때 결혼을 하려면 10억에서 30억 정도는 있어야 되는데 현실적으로 다주택자들이 많지 않다 보니까 집을 사기가 쉽지 않아 보인다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18527_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

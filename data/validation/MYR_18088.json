@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18088",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.558,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 이제 좀 여기 이 그 블로그 먼저 좀 보시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.177,
+                "end": 4.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 이제 흥부님도 말씀하신 것처럼 이제 홍부님 책도 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.543,
+                "end": 9.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 본인도 말씀하시면 다른 분 책이라도 보고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.220,
+                "end": 12.398
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.408,
+                "end": 13.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안되면 정말 뭐 그 중에 이제 괜찮으신 막 본인하고 합이 중요하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.623,
+                "end": 17.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.357,
+                "end": 17.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강의를 들어라",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.976,
+                "end": 19.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아 강의 들면 훨씬 나아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.010,
+                "end": 20.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜냐면 그것을 잘못했을 때 문제가 생기니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.377,
+                "end": 22.983
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.993,
+                "end": 23.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.325,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "두 남성이 책을 읽고 강의를 들으라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

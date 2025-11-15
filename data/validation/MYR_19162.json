@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_19162",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.933,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 걸리는 게 부가가치세예요 부가가치세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 이제 주택 같은 경우에는 면세 사업이기 때문에 별로 문제가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.969,
+                "end": 5.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 주택을 내가 여러 번을 내가 사고 팔아서 매매업이 돼가지고 매매 사업자가 됐다 그러면 언제 문제가 되냐면 전용 85제곱미터 초과 이게 뭐 38평 42평 그런 큰 평수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.658,
+                "end": 15.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중대형 그거 팔 때는 건물분에 대해서 부가세가 붙어버릴 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.751,
+                "end": 19.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.625,
+                "end": 20.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 몰랐는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.500,
+                "end": 22.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.118,
+                "end": 22.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 뭐 그런 줄 모를 줄 몰랐는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.982,
+                "end": 25.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필요 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.867,
+                "end": 26.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부가세 안 붙여버리면 나중에 그거 안 붙였다고 그래서 세금 내야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.367,
+                "end": 31.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 몇천만 원 왔다 갔다 할 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.721,
+                "end": 33.933
+            }
+        ]
+    },
+    "summary": "중대형 주택을 사고팔 때 부가세를 안 붙이면 나중에 세금을 낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

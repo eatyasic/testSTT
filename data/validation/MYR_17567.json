@@ -1,0 +1,333 @@
+{
+    "metadata": {
+        "filename": "MYR_17567",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 102.068,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 질문은 이제 정말 많이 들어 보셨을 것 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.893,
+                "end": 11.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 어떻게 하면 의원님처럼 부동산 공부 투자를 잘할 수 있냐? 내가 부동산 공부를 어떻게 해야 되냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.376,
+                "end": 17.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단은 제가 그동안 했던 과정들이 정답이라고 일단 생각하지 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.911,
+                "end": 22.311
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 그걸 처음 배우는 분들도 그렇게 생각했으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.321,
+                "end": 25.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 정답을 찾으려고 안 했으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.977,
+                "end": 28.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.442,
+                "end": 28.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마치 우리가 이제 목표는 항상 내가 이렇게 여기서 출발해서 뭐 등반을 한다 그럼 산행을 해야 되면 고지를 까지 갈 건데 이거를 뭐 이렇게 갈 수도 있고 이렇게 갈 수도 있고 다양하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.913,
+                "end": 39.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.812,
+                "end": 40.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그거를 가기 전부터 어떤 길이 가장 효율적이냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.426,
+                "end": 44.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 우리가 이제 시간만 따질 수가 없고 그거를 걸으면서 진짜 산행을 좋아하고 잘하는 사람이 되는 게 목표 라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.260,
+                "end": 52.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.893,
+                "end": 53.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다고 하면 무조건 빨리 올라가는 게 답은 아닐 수도 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.860,
+                "end": 57.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.845,
+                "end": 58.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 그러다 보니까 저는 그 어떤 길이던 괜찮다라는 생각을 가지고 시작하면 좋겠다라는 생각이긴 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.375,
+                "end": 65.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 기본적으로 T자형 모델이 어떨까",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.462,
+                "end": 69.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "T자형 모델",
+                "sound_type": [
+                    2
+                ],
+                "start": 69.134,
+                "end": 70.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 조금 지 지역을 넓게 그다음에 특정 종목은 깊게",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.081,
+                "end": 75.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 75.182,
+                "end": 75.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 가는 건데 2개를 동시에 할 수는 없거든요. 무조건",
+                "sound_type": [
+                    2
+                ],
+                "start": 75.785,
+                "end": 79.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 내가 만약에 지역을 넓게 간다고 하면 지역을 넓혔을 때 가장 도움 되는 종목은 그 개별성이 없는 녀석이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 79.920,
+                "end": 88.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개별성이 없는 녀석",
+                "sound_type": [
+                    2
+                ],
+                "start": 88.035,
+                "end": 88.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 아파트거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 88.932,
+                "end": 89.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 89.912,
+                "end": 90.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갑자기 내가 상가를 가는 데 지역을 넓혀버린다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 90.566,
+                "end": 92.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 92.873,
+                "end": 93.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "건물마다 다 다르거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 93.418,
+                "end": 95.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상권이 다 다르단 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 95.040,
+                "end": 95.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까요. 그래서 내가 지역을 좀 넓히고 싶으면 아파트를 선택하는 게 맞고",
+                "sound_type": [
+                    2
+                ],
+                "start": 95.980,
+                "end": 100.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 좀 무난하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 100.409,
+                "end": 101.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 101.255,
+                "end": 102.068
+            }
+        ]
+    },
+    "summary": "주식 부동산 유튜버가 게스트로 나온 사람에게 부동산 투자를 잘 하는 방법을 물어보고 대답을 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17567_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

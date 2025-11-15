@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19232",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 올해 오를 일이 절대로 사실 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.433,
+                "end": 2.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.995,
+                "end": 3.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미쳤나 봐 @이름1 쌤 그런 데를 왜 넣었데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.649,
+                "end": 5.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.516,
+                "end": 5.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 넣어 드린 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.794,
+                "end": 7.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.287,
+                "end": 7.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부린이들도 제가 제 책은 초보자를 위해서 썼어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.777,
+                "end": 11.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 처음 투자하시는 분들도 임장이라도 정말 가보시고 공부라도 해보시는데 장기적으로는 이 지역이 지금도 사실 가격이 되게 매력이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.374,
+                "end": 22.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.991,
+                "end": 23.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그런데 올해도",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.483,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "여자는 이 책을 초보자를 위해서 썼다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

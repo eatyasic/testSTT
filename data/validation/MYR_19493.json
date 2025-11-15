@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19493",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.655,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요런게 그 각계전투라고 해가지고요 개별적으로 과세가 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.816,
+                "end": 4.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 예를 들어 주식은 소액주주 과세 안 했다가 이제 과세를 한다 펀드도 펀드는 뭐 원래 뭐 배당소득이었으니까 얘는 그렇고 채권도 비과세였다가 이런 비과세 섹터들이 항상 존재했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.218,
+                "end": 16.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.574,
+                "end": 17.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요런 것들이 과세대상 소득으로 싹 다 들어온다 첫 번째 그다음에",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.027,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "개별적으로 과세가 주식에서 소액주주나 채권도 비과세였지만 이제 과세대상소득으로 들어온다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19493_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

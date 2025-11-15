@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18586",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 현재 접수 중 혹은 예정 강의 알려드리고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연회원 유료 이거 유료입니다 수집 모집하고 있는 거 겁나 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.210,
+                "end": 9.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 제가 저 하고 있는 강의 온라인에서는 또 푸릉에서 듣는 거 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.895,
+                "end": 14.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 요게 제가 유일하게 하고 있는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.143,
+                "end": 16.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1 대 1 멘토링 과정",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.229,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "현재 접속 중이나 예정인 강의를 알려드리고 있고 유료 강의를 하고 있고 온라인 강의는 푸릉에서 듣게 있으며 유일하게 하고 있는 1 대 1 멘토링 과정도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18586_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

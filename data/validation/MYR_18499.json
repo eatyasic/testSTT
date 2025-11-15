@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18499",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.151,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시 이유가 그거였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집값이 너무 많이 오르는데 그중에 집값이 오르는 이유 중에 하나가 임대주택으로 등록해가지고 시장에 내놓지 않은 주택 임대 사업자들 때문이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.581,
+                "end": 9.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 굉장히 좀 동의할 수 없는 그런 주장 중에 하나였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.932,
+                "end": 15.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일부 영향을 미치는 게 있겠지만 그 자체로 전부 다 이렇게 주택 임대 사업자들을 매도한다는 것 자체가 좀 저는 개인적으로 좀 아니다라는 생각이 들었고 100번 양보해서 그 말이 맞는다고 했을 때 그러면 아파트는 집값이 오르니까 신규 등록을 막아버리고 그 외에 빌라나 오피스텔은 놔둬도 된다는 거냐라는 생각이 들었던 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.933,
+                "end": 40.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 실제 그 이후에 빌라 오피스텔 쪽으로도 많이 오르고 지금은 이제 좀 많이 조정이 됐지만 그런 게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.208,
+                "end": 47.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 보시면 현재 아파트 같은 경우에",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.072,
+                "end": 51.151
+            }
+        ]
+    },
+    "summary": "아파트는 집값이 오르니까 신규 등록을 막아버려서 빌라 오피스텔 쪽이 많이 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

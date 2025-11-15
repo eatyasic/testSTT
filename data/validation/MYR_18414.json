@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18414",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래프만 클릭만 해도 알 수 있는 그런 세상이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 최소한 이 정도는 하셔야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.413,
+                "end": 6.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 정도는 해야 우리가 내 집 마련이라고 내가 살기만 좋다고 만족하는 게 아니라 자산으로서 어느 정도 가치를 해줘야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.290,
+                "end": 18.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 집 한 채 뭐 투기 이런 거 아니라도 집으로 부자 될 마음이 없다 하더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.433,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "그래프만 클릭해도 알 수 있는 세상인데 최소한 이정도는 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

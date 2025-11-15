@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18202",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 3월 달에 잔금 치고 나서 이제 서울에 있는 아파트값 엄청나게 하락했잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완전히 제가 그때 오판했던 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.920,
+                "end": 6.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 보니까 하락장에서 이 정비 사업 물건들은 훨씬 많이 하락하는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.659,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.997,
+                "end": 12.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 저는 그렇게 생각을 안 했었는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.692,
+                "end": 14.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.900,
+                "end": 15.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 그때.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.594,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "3월에 잔금 치르고 나서 서울에 있는 아파트값이 엄청나게 하락을 했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18202_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

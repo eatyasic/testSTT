@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18732",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 8년짜리 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장기 임대 주택 장기 일반 민간 임대 주택 과거 우리가 준공공이라고 불렀던 것",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.101,
+                "end": 5.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거는 임대 기간 아파트말입니다 아파트만 어 아파트만",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.605,
+                "end": 10.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 예를 들어서 내가 8년째로 등록을 했는데 빌라예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.597,
+                "end": 14.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 자진 말소 있어요 없어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.137,
+                "end": 15.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "못해요 못해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.773,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "8년 짜리 장기 임대 주택의 자진 말소는 아파트만 할 수 있고 빌라는 자진 말소를 못 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18732_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

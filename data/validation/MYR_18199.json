@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18199",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.851,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 그랬는데 어 일단은 저는 투자하는 것 자체가 좀 많이 보수적이고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.413,
+                "end": 5.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 내가 아파트를 딱 샀는데 떨어져 그게 너무너무 겁나는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.799,
+                "end": 11.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.171,
+                "end": 12.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 내가 부동산을 샀어 떨어질 수도 있고 오를 수도 있는데 그거는 예측을 할 수가 없잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.282,
+                "end": 17.851
+            }
+        ]
+    },
+    "summary": "부동산을 샀는데 떨어질 수도 있는 거고 오를 수도 있는 거라 그건 예측을 할 수 가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

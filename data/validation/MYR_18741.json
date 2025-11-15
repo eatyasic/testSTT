@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18741",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.257,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 8년 갔다가 8년 정도 됐다가 깜빡했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 5퍼센트 올려 버렸다 어떻게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.627,
+                "end": 5.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1번 비과세 날라가요 그때",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.726,
+                "end": 8.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 생각해보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.598,
+                "end": 10.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "8년 전 일을 기억할 수 있을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.255,
+                "end": 12.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 기억 못 할걸요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.880,
+                "end": 14.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 순간 본인이 착각을 할 수 있다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.525,
+                "end": 16.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 어떻게 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.912,
+                "end": 18.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세가 단순히 날아가는 게 문제가 아니라 그동안 안 낸 세금에 대해서 가산세가 붙겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.245,
+                "end": 24.257
+            }
+        ]
+    },
+    "summary": "8년 정도 되었을 때 임대료를 5퍼센트만 올리면 1번 주택의 비과세는 취소되고 그동안 안 냈던 세금에 대해서 가산세가 붙는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18741_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

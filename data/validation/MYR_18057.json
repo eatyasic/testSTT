@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_18057",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.293,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 중 대한민국에 있는 재개발 구역 중에 네 흥부야 너 하나만 가져라고 하면 저는 한남 5구역이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한남 5구역 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.711,
+                "end": 9.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한남 5구역이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.273,
+                "end": 10.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 어떤 메리트가 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.207,
+                "end": 10.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흥부님을 반하게 하는",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.996,
+                "end": 12.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한남 5구역은 한남 5구역 바로 위에 푸르지오 아파트라고 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.782,
+                "end": 17.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.413,
+                "end": 17.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고건 군인 아파트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.839,
+                "end": 19.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 그건 거래가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.172,
+                "end": 20.872
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.882,
+                "end": 21.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 고 푸르지오 바로 위에 청화 아파트라는 게 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.257,
+                "end": 24.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.498,
+                "end": 24.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 청화 아파트 앞",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.872,
+                "end": 27.293
+            }
+        ]
+    },
+    "summary": "화자가 한남5 구역에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

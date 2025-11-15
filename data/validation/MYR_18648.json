@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18648",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.883,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2주택자까지는 그 다주택자 프레임 씌우지 말자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.851,
+                "end": 3.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 3주택 이상자부터 이제 취득세 중과를 적용하는데 그것도 6프로만 적용하자라고 이제 한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.193,
+                "end": 10.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 사실 지금 개정이 안된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.289,
+                "end": 12.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 지금 안입니다 안 최종 안됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.515,
+                "end": 15.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 사실 취득세 부분에서 조금 이 부분 대해서 좀 더 말씀을 드리면 불안감이 이제 2가지인데 첫 번째로는 이제 어 많은 분들이 정말 이러지 않았으면 좋겠다라고 이제 생각하시는 바인데 소급 적용을 안 해줄까 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.233,
+                "end": 30.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 그런 말을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.500,
+                "end": 32.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 걱정되는 바라서 말씀을 드려보는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.855,
+                "end": 35.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 정부가 보도자료를 냈기 때문에 그런 일은 생기면 안 될 거라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.815,
+                "end": 39.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 그걸 전재로 해서 이제 야당하고 협의하지 않을까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.810,
+                "end": 42.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 왜냐면은 그 부분까지 만약에 안된다고 해버리면 제가 봤을 때는 아니 예측 가능성을 너무 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.617,
+                "end": 49.883
+            }
+        ]
+    },
+    "summary": "2주택자까지는 다주택자 프레임을 씌우지 말고 3주택자부터 취득세 중과를 적용하는데 6프로만 적용하자 했지만 아직 개정은 안됐고 취득세 부분으로 걱정되는 부분은 소급제 적용을 안 해줄까 걱정이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

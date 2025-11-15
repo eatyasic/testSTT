@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18239",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 53.787,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 뭐 대출 어 상품 자체에도 규정이 있겠지만 들어오는 임차인 입장에서도 그 대출이 선순위로 돼있으니까 당연히 그거 상환하고 내가 들어가야 안전한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이해되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.228,
+                "end": 11.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이거 이 만약에 임차인이라면 절대 저런집에 선순위 있는 상태에서 들어오시면 안됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.755,
+                "end": 17.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저희집에도 그렇게 들어오시면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.348,
+                "end": 19.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 대출 승인 되면은 은행은 집주인을 거치지 않고 세입자 계좌로 대출금을 지급한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.403,
+                "end": 24.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 증권설정해가지고 아마 하는 방식으로 하겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.631,
+                "end": 29.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 후속 세입자 보호를 위해서 전세금 반환보증보험에 의무적으로 가입하고 보험료를 부담해야 된다 이 이런게 재밌어요 이 왜 재밌냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.129,
+                "end": 36.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 딱 장치를 거는 순간 지금 미등록 어 임대주택을 갖고 있는 사람들 일단 개인을 대상으로 이렇게 한다는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.558,
+                "end": 45.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 딱 하면은 어 등록 임대주택에 대한 어 버 보증보험 약간 좀 비슷해져요 이게 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.145,
+                "end": 53.787
+            }
+        ]
+    },
+    "summary": "대출에 대해서 말하고 또 임대주택 보증보험에 대해서도 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

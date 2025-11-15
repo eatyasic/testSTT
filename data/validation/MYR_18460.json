@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18460",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금 입주 많은 동네 정말 분위기가 안 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심지어는 21년도에서 하반기에서 22년도 상반기까지 전세가가 지금 현재 매매가보다 높은 지역이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.323,
+                "end": 14.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매매가보다 높은 전세금에?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.969,
+                "end": 17.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.531,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "지금 입주 많은 동네는 분위기가 안 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18460_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

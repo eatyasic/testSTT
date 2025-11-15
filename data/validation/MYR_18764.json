@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYR_18764",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 83.516,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 말해서 공부를 하신 분들도 이거를 보시면은 좀 어려울 수가 있고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 요걸 이제 내가 처음 한다 이러신 분들은 정말 이제 완전 멘붕 와버리는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.284,
+                "end": 8.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 이게 뭐냐.라고 되어 있는데 사실 이게 두 가지가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.696,
+                "end": 13.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째는 내용 자체가 워낙 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.419,
+                "end": 16.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 이제 우리 김성은 회계사님께선 잘 쉽게 이제 차근차근 이게 써주시니까 나중에 왜 기사를 찬찬히 보시면은 괜찮은데 내용 자체가 원래 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.720,
+                "end": 27.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 두 번째로는 뭐냐면 이제 글씨에 이제 텍스트 위주로 신문에서는 어쩔 수가 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.076,
+                "end": 31.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신문 기사는 어쩔 수가 없기 때문에 좀 보시기가 조금 어려울 수가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.388,
+                "end": 37.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 제가 요거를 이따가 뒤에 제가 표로 한번 좀 보여 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.175,
+                "end": 41.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 어찌 됐든 여기까지 내용은 뭐냐면은 수입 금액을 계산하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.239,
+                "end": 45.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그 수입 금액을 계산하는 방식이 이제 주택 수에 따라서 달라진다는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.581,
+                "end": 50.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그걸 먼저 아셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.534,
+                "end": 53.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 지금 그 김성은 회계사님도 계속해서 강조를 하고 있지만 임대 주택 등록했다고 저 수입 금액 계산할 때 주택 수 빠지는 거 아니라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.210,
+                "end": 63.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간주 임대료 할 때 소형 주택만 빠집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.484,
+                "end": 66.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이때 소형 주택은 전용 면적 40제곱미터 이하이면서 동시에 기준 시가가 2억이어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 66.070,
+                "end": 71.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리니까 이 중의 하나라도 탈락했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 71.596,
+                "end": 73.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 40제곱미터 이하인데 기준 시가가 뭐 2억 1000만 원이다. 그러면 2억 초과 했기 때문에 그때는 소형 주택 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 73.369,
+                "end": 79.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 간주 임대료 계산할 때 그냥 들어가는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 79.811,
+                "end": 83.516
+            }
+        ]
+    },
+    "summary": "수입 금액을 계산하는 방식은 주택 수에 따라 달라지는데 간주 임대료의 소형 주택만 주택 수에서 빠지고 내용 자체가 워낙 어렵고 텍스트로 보면 어려울 수가 있기 때문에 이따가 표로 한번 보여드리겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

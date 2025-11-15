@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17730",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그거는 그렇게 적으면서 좀 근거를 명확하게 하고 그 전까지는 지금 현재 기준에서는 사실상 주거용으로 쓰면 주택으로 본다 이 말밖에 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 대부분이 오해하실 수 있단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.295,
+                "end": 12.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 그 오해 소재를 없애기 위해서 그렇게 한 거지 그걸 한다고 해서 갑자기 내일 당장 아 뭐 내년부터 업무용으로 쓰던 이 주거용 오피스텔이 갑자기 무조건 주택으로 된다 그렇진 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.726,
+                "end": 24.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 저도 지금 오피스텔 쓰고 있단 말이에요 여기가 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.626,
+                "end": 28.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 문도 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.040,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "현재 기준에서는 사실상 주거용으로 쓰면 주택으로 여기기 때문에 대부분의 사람들이 오해를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17730_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

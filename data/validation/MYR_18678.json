@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18678",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "660만 원 내면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 보유세를 내는데 보유세는 당연히 재산세만 내겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.090,
+                "end": 7.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종부세는 아직은 안 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.257,
+                "end": 8.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보유세 얼마 나올까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.956,
+                "end": 10.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보유세 아까 기억나십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.900,
+                "end": 12.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억이니까 공시가격은 대략 4억 2000 정도 얼마나오죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.465,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "공시가격이 대약 4억 2000 정도에서 보유세는 재산세만 내고 종부세는 아직 안 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18678_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

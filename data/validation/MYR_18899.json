@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18899",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.566,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솔직히 통째로 매장을 빌리는 것 보단 수익이 아주 적습니다, 사실은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그건 어쩔 수 없는 거지만 그래도 유치를 했다는 데 의미가 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.771,
+                "end": 7.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.724,
+                "end": 7.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 뜻이 있으면 길이 있다는 것도 익히는 것도 저희는 뭐 나쁘지 않겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.977,
+                "end": 12.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공간은 협소해도 사고의 틀을 확장하면 길이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.685,
+                "end": 16.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 방금 너무 좋은 멘트였던 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.551,
+                "end": 19.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공간은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.215,
+                "end": 20.566
+            }
+        ]
+    },
+    "summary": "화자1이 공간은 협소해도 사고의 틀을 확장하면 길이 있다고 말하자 화자2가 너무 좋은 멘트였다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18328",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.648,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "막 이렇게 취득하시는 경우가 있는 걸로 알고 있는데 그러시면 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반드시 취득하기 전에 해당 내용을 좀 체크하셔야 되고 본 영상에 거기에 대해서 도움이 되시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.597,
+                "end": 13.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 많은 내용은 제 책에 나와 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.412,
+                "end": 16.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 외에 구체적인 사항들까지 나와있으니까 한번 참고하셔도 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.219,
+                "end": 22.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 도움이 되셨다면 좋아요 구독 부탁드리고 저는 다음 시간에 또 뵙겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.544,
+                "end": 27.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.255,
+                "end": 31.631
+            }
+        ]
+    },
+    "summary": "남성 화자가 취득하기 전에 해당 내용을 체크하고 더 많은 내용은 자신의 책에 나와 있으니 참고하면 좋겠다며 마무리 인사를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

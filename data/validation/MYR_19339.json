@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19339",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.599,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜 8프로 12프로 냐는 거지 왜 왜 왜 왜 왜 왜.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 이 숫자는 어디서 나온 거냐 도대체 이 숫자는.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.464,
+                "end": 12.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 제 짧은 생각으로 추정하기로는 부동산에 취득세가 4퍼센트 이기 때문에 4 곱하기 2 4 곱하기 3 결국에는 구구단에서 나왔다 이거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.044,
+                "end": 32.599
+            }
+        ]
+    },
+    "summary": "한 남자가 중과세 왜 8퍼센트 12퍼센트 인가에 대해서 본인의 생각을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19339_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

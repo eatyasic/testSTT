@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18857",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.39,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 말고 다른 트겠, 트랜드도 있는데 이런 것도 좀 같이 봐야된다 이런 것 좀 같이 말씀해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 좀 확언하긴 어렵지만 이 디티 매장이 전체 스타벅스 매장에서 차지하는 비중이 추세적으로 늘고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.547,
+                "end": 14.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추세적으로 늘고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.535,
+                "end": 15.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면 스타벅스가 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.892,
+                "end": 18.390
+            }
+        ]
+    },
+    "summary": "화자2는 확언하긴 어렵지만 디티 매장이 전체 스타벅스 매장에서 차지하는 비중이 추세적으로 늘고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

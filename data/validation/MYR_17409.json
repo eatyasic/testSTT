@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17409",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.852,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안전 관리 강화를 담은 그러니까 이제 누가 행사를 했는지 불분명할 때는 이때 언제 안전 관리 어떻게 할 거냐 그거를 담은 재난민 안전 관리 기본법 등 어 이런 민생 안전 관련 법안들이 국회에 장기 계류 중이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 장기 계류 중 그러니까 전혀 진척이 안 되고 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.115,
+                "end": 16.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 여야가 지금 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.957,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "한 남성이 재난민 안전 관리 기본법 등 민생 안전 관련 법안들이 국회에 장기 계류 중이라며 장기 계류 중이라는 것은 전혀 진척이 안 되고 있는 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

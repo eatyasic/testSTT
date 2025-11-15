@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17632",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.492,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 입지를 높이면 또 33평 대 신축 하면은 금액이 너무 올라가거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 둘 중 하나를 택해야 되는데 입지냐 평수냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.068,
+                "end": 9.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.945,
+                "end": 10.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 입지를 높이고 평수를 조금 낮추자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.566,
+                "end": 15.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 예를 들어서 입지가 좋은데 뭐 25평.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.996,
+                "end": 19.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.125,
+                "end": 19.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입지는 좀 안 좋은데 33평.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.944,
+                "end": 21.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그런 경우라면 입지는 좋은데 25평이 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.448,
+                "end": 25.492
+            }
+        ]
+    },
+    "summary": "한 남성이 입지와 평수 둘 다 택하면 금액이 너무 올라가기 때문에 입지와 평수 둘 중 하나를 택한다면 입지라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

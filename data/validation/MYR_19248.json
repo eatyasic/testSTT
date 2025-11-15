@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19248",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.462,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이제 투자와 실거주를 분리하는데 이런 분리 그런 공격적인 투자를 위한 분류 분리가 아니라 남편이 투자하는 거 별로 안 좋아해서 실거주 집은 투자하고 별개로 생각해야지 제가 투자를 계속할 수 있는 상태 집값이 안 오르는데도 불구하고 그냥 살았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 살았는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.736,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "여자는 남편이 투자하는 것을 별로 안 좋아해서 실거주 집과 투자하는 집을 분리하기 위해서 집값이 안 오르는데도 불구하고 살았다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

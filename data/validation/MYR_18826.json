@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_18826",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.696,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부탁을 드릴 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.808
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.818,
+                "end": 1.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 무례하지 않게 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.675,
+                "end": 3.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그럼요. 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.754,
+                "end": 4.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 해외 부동산에",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.967,
+                "end": 6.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.240,
+                "end": 6.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관심이 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.890,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.870,
+                "end": 8.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.013,
+                "end": 8.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.410,
+                "end": 9.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 봤을 때는",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.120,
+                "end": 10.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.130,
+                "end": 10.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 작가님 같은 경우에는 상대적으로 좀 더 일찍 시작하신 것 같거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.970,
+                "end": 14.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.460,
+                "end": 15.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 좀.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.010,
+                "end": 15.682
+            }
+        ]
+    },
+    "summary": "화자1은 해외 부동산에 관심이 많고 화자2는 상대적으로 좀 일찍 시작한 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

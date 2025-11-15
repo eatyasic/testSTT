@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17397",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.092,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 즐겨 보는 건 아니어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 뭐 뭐 하시는 거예요. 맨날 엠피엠 검색만 하고 이거하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.362,
+                "end": 5.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 이제 유튜브를 하니까 다른 분들 유튜브 검색도 많이 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.145,
+                "end": 9.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 제이에스박 유튜브도 보고 댓글을 못달았네 댓글을 이제 달아야 겠네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.162,
+                "end": 12.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그러니까 그런 유튜브도 보고 그다음에 재미있는 뭐 스포츠로 제가 유에프씨 좋아하니까 유에프씨 또 하이라이트라든가 찾아서 보고 또 복싱을 좋아하니까 뭐 옛날에 타이슨 경기는 뭐 봐도 봐도 재미있으니까 그런 것도 보고 그러면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.398,
+                "end": 26.092
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 드라마나 영화를 즐겨보는 편이 아니라고 하니 흰색 상의를 입은 남성이 그러면 뭐하느냐고 물어보니 검은색 상의를 입은 남성이 다른 사람들 유튜브도 검색하고 복싱을 좋아해서 유에프씨 경기의 하이라이트 찾아서 보고 옛날 타이슨 경기를 본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17397_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

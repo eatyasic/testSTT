@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18372",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.874,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 아이파크 디 이름 강남 권역에 있는 재개발 입조건 상태인 거를 경매로 낙찰받으셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 회원이라는 분은 학원에서 지금 수업하고 있는?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.609,
+                "end": 20.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "컨설팅으로 그냥 찍어가지고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.574,
+                "end": 23.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 법적으로 조합원 지위 양수 되는지 확인 그게 다 법이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.687,
+                "end": 30.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.363,
+                "end": 30.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재개발은 재건축은 그래서 그거 해서 컨설팅으로 낙찰을 받으셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.876,
+                "end": 36.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 것도 있으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.759,
+                "end": 40.874
+            }
+        ]
+    },
+    "summary": "여성 화자가 학원 회원이 강남 권역에 있는 재개발 입조건 상태인 것을 경매로 낙찰받았다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18399",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.393,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2022 부동산 계급 표 혹시 보셨어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐 그런 거 찾아보면 있겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.033,
+                "end": 5.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 보면은 타이탄 수저, 수드라 막 있고 부동산 계급 표 보면은 왕조 그다음에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.783,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "여성 화자가 2022 부동산 계급 표 보셨냐고 묻고 거기보면 부동산 계급 표에서 왕조가 나온다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18399_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

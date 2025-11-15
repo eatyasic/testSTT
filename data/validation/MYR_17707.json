@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYR_17707",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 64.11,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔을 실제 용도로 뭘 사용했냐 어 그냥 이게 제일 중요 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 거기에 따라서 결과가 완전히 달라진다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.571,
+                "end": 8.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 내용인지 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.688,
+                "end": 10.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 머니투데이 기사고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.434,
+                "end": 12.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 기자님께서 작성해 주셨는데 23년 8월 9일자 기사입니다. 자 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.812,
+                "end": 19.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 좀 중요한 내용이 있어서 좀 가져왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.680,
+                "end": 23.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 사진 설명이니까 넘어갈게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.198,
+                "end": 25.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 직장인 A씨는 오피스텔 분양 안내 전화를 여러 차례 받았다. 저도 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.173,
+                "end": 30.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주거용 오피스텔인데 삐 아파텔이에요 아파텔.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.042,
+                "end": 33.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호재도 있고 계약 후 웃돈을 넣어서 매매도 가능하니까 투자에 적격이라고 설명하는 거죠. 뭐 이제 이런 그 설명하는 전화는 다 좋게 얘기하지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.634,
+                "end": 43.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 그 중에서 우리 귀를 혹하게 하는 게 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.353,
+                "end": 46.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 수에 포함되지 않는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.392,
+                "end": 48.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 각종 세금에서도 자유롭다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.077,
+                "end": 50.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그러니까 이제 이 직장인 A씨가 물어 본 거죠. 아니 내가 @계정1에서 듣고 아니면 다른 데서도 공부를 해보니까 아파텔인 경우에도 주택 수에 포함된다고 들었는데 어떻게 된거냐 하고 다시 물어 보니까 그 담당자가 아니다. 그리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.027,
+                "end": 64.097
+            }
+        ]
+    },
+    "summary": "화자는 주거용 오피스텔이 주택 수에 포함되는지에 대한 신문 기사를 읽으며 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

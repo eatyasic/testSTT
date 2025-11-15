@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18514",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.37,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 개인적으로 이번에 이제 정부가 발표를 하면 어 이 내용이 좀 나와야 된다고 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 단기 5년 이하 어 혹은 어 장특공 어 50프로 되는 거 요런 내용들이 좀 나와야지 어 내가 좀 할 수 있지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.623,
+                "end": 15.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 좀 인센티브가 있지 않을까 저는 그렇게 생각을 합니다. 그런데 어 정부 지난번 보도 자료를 보니까 기준치가 6억에서 9억으로 올려버리고 어 수도권 밖은 3억에서 6억 올리고 이거를 뭐 무려",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.482,
+                "end": 27.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "15년 의무 임대를 한다는데 아 그거는 너무 깁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.391,
+                "end": 31.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 어 뭐 이렇게 증여나 상속 어 쪽으로 이제 가야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.211,
+                "end": 37.370
+            }
+        ]
+    },
+    "summary": "정부가 발표를 하면 단기 5년 이하나 장특공 50프로 되는 내용들이 좀 나와야 인센티브가 있지 않을까 생각을 하는데 보도 자료를 보면 기준치가 6억에서 9억 수도권 밖은 3억에서 6억을 올려 버리고 이것을 15년 의무 임대를 한다고 하면 너무 길고 증여나 상속 쪽으로 가는게 맞다고 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18514_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

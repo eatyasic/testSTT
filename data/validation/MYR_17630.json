@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17630",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.728,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘가 더 올라가려면 앞에 게 더 올라가야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그 물건을 갖고 있다는 게 만족이 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.125,
+                "end": 5.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어차피.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.294,
+                "end": 6.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.387,
+                "end": 7.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 내가 만약 여력이 된다면 너무 무리하지 않는 선에서는 조금 오른 거는 길게 놓고 보면 그게 크게 많이 안 오른 걸 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.014,
+                "end": 15.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요 맞아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.643,
+                "end": 16.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 할 수 있는 한도 내에서는 해도 되지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.479,
+                "end": 19.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.171,
+                "end": 19.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 눈높이를 너무 낮춰서 안 좋은 입지를 가는 거는 그렇게 좋은 선택은 아니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.881,
+                "end": 24.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.040,
+                "end": 24.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 좀 조언을 하고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.637,
+                "end": 26.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.069,
+                "end": 26.688
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 집 마련하는 사람들은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.698,
+                "end": 28.728
+            }
+        ]
+    },
+    "summary": "한 남성이 조금 오른 것은 길게 놓고 보면 크게 많이 안 오른 걸 수도 있기 때문에 여력이 되고 할 수 있는 한도 내에서는 해도 된다고 생각하며 오히려 눈높이를 너무 낮추는 것은 그렇게 좋은 선택이 아니라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

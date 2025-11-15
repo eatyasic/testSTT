@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18316",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래 주택 수가 중요한 거는 양도세, 비과세였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면 1세대 1주택 비과세를 기본으로 해서 일시적으로 예외적으로 1세대 2주택에서도 일부 비과세가 되는 케이스가 있었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.235,
+                "end": 15.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 주택 수를 따지는 게 굉장히 중요했는데 2020년 8월달에 지방세법이 개정이 되면서 취득세도 양도세와 비슷하게 세대 기준 주택 수를 따져서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.259,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "남성 화자가 원래 주택 수가 1세대 2주택에서도 일부 비과세가 되는 케이스가 있었기 때문에 중요한 거는 양도세, 비과세였는데 2020년 8월 지방세법이 개정되면서 취득세도 양도세와 비슷하게 세대 기준 주택 수를 따진다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18316_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

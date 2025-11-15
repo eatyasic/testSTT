@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19534",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.177,
+        "format": "MP4",
+        "date": "2022-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떡 메모지 러그를 준비했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀의 행성 책을 온라인 서점에서 구매 시 소녀의 행성 포토 카드를 받을 수 있습니다 교보문고에서는 소녀의 행성 떡 메모지도 받을 수 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.394,
+                "end": 16.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굿즈들은 한정수량으로 소진 시까지 판매하니 참고해 주시면 감사하겠습니다 항상 소녀의 행성을 응원해 주시는 분들께 진심으로 감사하는 마음을 담아 도서 출간 이벤트를 준비했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.933,
+                "end": 28.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도서 출간 축하 댓글을 남겨주시는 분들 중 추첨을 통해 열 분을 선정해 영상 속에서 보여드린 소녀의 행성 발 매트 러그를 보내드립니다 소행성 채널을 봐주시는 모든 분들께 항상 진심으로 감사드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.729,
+                "end": 44.177
+            }
+        ]
+    },
+    "summary": "서점에서 구매시에는 소녀의 행성 포토 카드를 받을 수 있고 교보문고에서 구매시 소녀의 행성 떡 메모지를 받을 수 있으며 굿즈들은 한정 수량 판매이며 출간 이벤트로 댓글을 남겨 주시는 분들 추첨을 통해 소녀의 행성 발 매트 러그를 보내드리겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

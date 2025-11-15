@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17973",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.265,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 결혼 늦춰야 되는 거 아니야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 관련 법이 통과되려면은 정기 국회 때 연말까지 갈 수도 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.558,
+                "end": 5.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 아마 대부분 시행 시기가 24년 1월 1일일 거란 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.045,
+                "end": 10.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 괜히 그것 때문에 쓸데없이 결혼 막 늦추고 하면 막 혼선이 생기니까 결혼 혼인신고 전후 2년 간 또 여기서 혼인신고 했죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.207,
+                "end": 19.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼을 실제 했고 혼인신고 늦게 하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.280,
+                "end": 21.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신고가 더 늦어지겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.292,
+                "end": 22.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 식으로 해 가지고 2년 간 하는 거를 살펴봤는데 이 내용이 나오고 나서 정부에서 검토한 거 없다 이랬단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.867,
+                "end": 32.265
+            }
+        ]
+    },
+    "summary": "관련 법이 통과되려면 국회 때 연말까지 갈 수도 있기 때문에 대부분 시행 시기가 24년 1월 1일인데 이럴 경우 이것 때문에 쓸데없이 결혼을 늦추면 혼선이 생기기 때문에 혼인신고 2년 전후라는 말이 붙는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17973_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_18450",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 항상 선택의 여지가 있었는데 어떤 사람은 이제 가점이 높아서 청약이 더 유리한데도 강의를 갭 투자를 먼저 듣거나 경매를 먼저 듣거나 해서 자신한테 더 유리한 어떤 투자로 시작을 못하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "어떤 사람은 몰라서 자신한테 더 유리한 어떤 투자로 시작을 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

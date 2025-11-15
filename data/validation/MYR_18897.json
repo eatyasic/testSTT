@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18897",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보니까 27제곱미터 그러니까 평으로 치면 8평 정도 되네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원룸 정도 하나 되는 공간이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.080,
+                "end": 6.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 원룸 정도 하나 되는 공간인데 스타벅스 유치하신 분이 계세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.563,
+                "end": 10.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그렇게 짝은 데두요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.388,
+                "end": 11.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.655,
+                "end": 11.991
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "8평?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.001,
+                "end": 12.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이걸 따져 보면 이런 공간이 8개가 모인 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.857,
+                "end": 17.334
+            }
+        ]
+    },
+    "summary": "화자1은 원룸 하나 되는 공간인데 스타벅스 유치한 분이 계시다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

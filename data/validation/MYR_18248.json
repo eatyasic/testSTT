@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18248",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.269,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등록임대주택같은 경우에는 보증보험도 해야 가입을 해야 되고 부기등기도 해야 되고 여러 가지 안전장치들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 임차인 입장에서는 오히려 그게 안전할 수 있다는 건데 일부 최근의 지금 전세사기 그런 문제가 좀 이슈가 되다보니까 정부 입장에서 이거를 너무 또 활성화하는 거를 염려한 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.340,
+                "end": 18.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 봤을 때 그리고 과거에 매물이 아무래도 묶여버리는 효과가 있으니까 8년 10년 묶여버리기 때문에 그게 이제 공급이 좀 안되서 주택 가격을 좀 상승하는 자극시키는 그런 부분도 분명히 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.785,
+                "end": 30.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 거기에 대해서 좀 뭔가 묘안을 생각하느라고 당초 2분기때 나오기로 했었던",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.208,
+                "end": 36.269
+            }
+        ]
+    },
+    "summary": "전세사기 이슈 때문에 나온 정책인것 같다는 자신의 생각을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

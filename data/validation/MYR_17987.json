@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17987",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 내가 주택을 샀는데 사정이 있어 가지고 1년 이내에 팔았다고 했을 때 그럼 미등기 불법 자산이랑 동일하게 70퍼센트 세율을 적용받는데 이건 저는 문제가 있다고 생각해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러니까 지난 정부에서 어떤 투기 수요를 억제하는 그 취지는 공감을 하지만 세율 자체가 그렇게 높이 돼 있는 상태에서 이거를 낮추니까 무조건 세율 자체를 낮추니까 부자 감세냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.349,
+                "end": 23.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이건 아니라는 거죠 에",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.297,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "지난 정부에서 투기 수요를 억제하는 취지는 공감을 하지만 주택을 샀는데 사정이 생겨서 1년 이내에 팔았을 때 적용받는 세율이 미등기 불법 자산과 동일하게 70퍼센트인 것은 문제가 있다고 생각하며 부자 감세라고 생각하지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17987_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

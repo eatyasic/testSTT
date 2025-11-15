@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17964",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여자가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이제 서로 이제 사랑을 하는 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.841,
+                "end": 3.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 결혼을 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.907,
+                "end": 5.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 하트가 보이십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.150,
+                "end": 6.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 여기 남자측 이렇게 부모님이 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.522,
+                "end": 10.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여자측 부모님이 있고 그럼 이제 뭐 당연히 뭐 남자 입장에서는 이쪽이 인제 장인 장모고 이쪽이 인제 시부모가 되는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.432,
+                "end": 20.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 얼마까지 해준다는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.021,
+                "end": 22.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5000만 원 이렇게 해준다는 거잖아요 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.722,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "현재 기준으로는 두 남녀가 서로 사랑해서 결혼을 하면 증여세 한도 금액으로 각자의 부모님이 각각 5000만 원까지 증여해 줄 수 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17964_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

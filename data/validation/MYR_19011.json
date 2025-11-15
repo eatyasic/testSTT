@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19011",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이거와 좀 비교할 부분은 재산요건 재산요건 재산요건 판단할 때는 미충족한 사람만 피부양자가 될 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 부부 중에 어느 한 사람만 박탈되면은 한 사람은 여전히 피부양자가 유지가 될 수 있다라는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.175,
+                "end": 17.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 소득과는 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.640,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "부부 중에 한 사람만 재산요건이 박탈되더라도 나머지 한 사람은 피부양자를 계속 유지할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19256",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인으로 전환하는 걸 한번 생각해 보셔야 되고 또 그렇지 않더라도 근로 소득 월급 받으신 분들은 결국은 나중에 내가 나와 가지고 내 사업 개인 사업을 하셔야 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 법인에 대한 사업자를 좀 알아두시면은 어 훨씬 도움이 될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.471,
+                "end": 16.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 저도 퇴사 전부터 이미 법인을 만들어 가지고 미리 준비를 했었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.271,
+                "end": 20.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 2개 법인을 운영하면 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.919,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "남자는 법인에 대한 사업자를 알아두면 훨씬 도움이 될 수 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

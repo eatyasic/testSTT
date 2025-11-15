@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18905",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.876,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "통계로써 잡힌 것은 아니라서 좀 사례로써 접근을 해야하긴 할텐데 왜 그런 말씀 들어보셨죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그 강남 불패 그리고 뭐 강남이 아니면 안 된다라는 부동산 시장 격언이 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.294,
+                "end": 16.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 만약에 우리 모두가 다 강남에 살 수 없으니까 그랬을 때는 대안이 있어야 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.759,
+                "end": 22.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.124,
+                "end": 22.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남에서 떨어지지 떨어지면 안 된다라는 이런 강 강남에서 멀어지지 말자 흔히 말하는 이런 얘기를 들어 보셨을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.531,
+                "end": 30.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.503,
+                "end": 31.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐 저도 뭐 시장에서만 들리던 소리였는데 막상 저희가 이 건물주들의 면면을 따져 보니까 이게 정말 이 사례로써 확연하게 드러나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.140,
+                "end": 42.877
+            }
+        ]
+    },
+    "summary": "화자1은 강남 불패라는 부동산 시장 격언이 시장에서만 들리던 소리였는데 막상 건물주들의 면면을 따져 보니까 이 사례로써 확연하게 드러나는 것이 있다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

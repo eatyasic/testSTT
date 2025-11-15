@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18604",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 인근에 있는 아까 여기 A 중개업소 대표님이시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이분이 이렇게 말씀하시는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.316,
+                "end": 6.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 거래가 늘었다고 하지만 실제 그 가격에 나와있는 매물 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.587,
+                "end": 10.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 실제로는 이게 다르다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.891,
+                "end": 15.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 다른데 또 가보면은 이거 직거래다 서로 알아서 그냥 했다 아니면 관외 거래다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.571,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "A 중개업소 대표님이 분양권 거래는 늘었지만 실제 가격에 나와있는 매물은 없고 대부분 직거래나 관외 거래라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

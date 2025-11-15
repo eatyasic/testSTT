@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19302",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.736,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 저희 법인은 부동산인데 계속 이렇게 비용을 잡아 버려 가지고 손실이 나면 대출을 토해내래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 말이 나오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.916,
+                "end": 10.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 또 다른 이야기죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.086,
+                "end": 11.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세금하고 다른 이야기죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.622,
+                "end": 12.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 결국에는 이러지도 저러지도 그런 케이스가 나오는데 그래서 결국에는 저는 그걸 좀 해결하기 위해서는 법인 자체에 어떤 좀 사업 소득이 있어야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.814,
+                "end": 23.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이거를 뭐 저처럼 뭐 유튜브 수익이라든가 강의수익이라든가 이걸 다 누구나 만들 수 있고 그러지는 좀 힘드시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.702,
+                "end": 31.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가장 쉽게 할 수 있는 거는 차라리 부동산을 매매업으로 하시는 게 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.389,
+                "end": 36.736
+            }
+        ]
+    },
+    "summary": "법인으로 부동산을 운용하려면 자체 사업 소득이 있어야 하지만 어렵다면 부동산을 매매업으로 하는 게 낫다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

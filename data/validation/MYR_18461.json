@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18461",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.516,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 고점 전세에 들어갔는데 그 뒤로 가격이 내려가면서 그러니까 이제 앞으로 조금 더 하락할 거라고 하시는 분들은 이걸 보고 계세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 전세 폭탄 있다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.749,
+                "end": 11.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "22년도 고점에 전세 들어간 물량이 매물로 나오는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.492,
+                "end": 16.516
+            }
+        ]
+    },
+    "summary": "앞으로 조금 더 하락할 거라고 하시는 분들은 전세 폭탄 있다고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18461_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

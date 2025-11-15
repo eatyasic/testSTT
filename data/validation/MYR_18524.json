@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18524",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.122,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프리미엄을 많이 낮춰서 살 수 있는 기회는 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 문제는 돈도 없고 명예가 없다면 쉽지는 않은 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.770,
+                "end": 7.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.665,
+                "end": 8.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 아까 다시 한번 제가 강조를 다시 한번 드리면 그냥 세법이 바꼈 단기 양도 세율이 바꼈다라고 생각하고 내가 지금 싸게 사서",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.494,
+                "end": 17.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 몇 달이나 1년쯤 뒤에 조금 올려서 바로 팔고 나와야지라고 생각하는 건 나쁘지 않은데 어 이게 안 팔리거나 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.790,
+                "end": 25.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.961,
+                "end": 26.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 팔리면 결국은 내가 잔금까지 생각을 해야 되고 취득세도 생각을 하고 들어가야 된다 이 얘기를 한번 다시 한번 강조를 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.825,
+                "end": 33.808
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 예 특히 분양권이 이제 좀 하다 보니까 만약에 생각했던 거보다 피가 붙고 가격이 오르면",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.818,
+                "end": 41.107
+            }
+        ]
+    },
+    "summary": "단기 양도 세율이 바뀌었다라고 생각하고 지금 싸게 사서 몇 달이나 1년쯤 뒤에 조금 올려서 바로 팔고 나와야지라고 생각하는 건 나쁘지 않지만 안 팔리면 결국 잔금과 취득세까지 생각을 하고 들어가야 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18524_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

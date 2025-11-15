@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19140",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 양도 차익에 대해서만 세금을 걷겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.790,
+                "end": 3.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "댁에 가시면 이런 거 찍어진 그 분양 계약서들이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.444,
+                "end": 7.538
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 도장이 중요하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.548,
+                "end": 9.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잊어버리면 안 되는 거 잊어버리면 다시 재발급 제가 봤을 때는 안 될 것 같은데 이거 절대 잊어버리시면 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.916,
+                "end": 17.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.391,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "분양 계약서는 절대 잊어버리면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19140_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

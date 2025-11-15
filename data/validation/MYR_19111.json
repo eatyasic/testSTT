@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19111",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도세에서는 그 일시 주택을 세대 기준으로 해 가지고 예를 들어서 부부가 이렇게 가지고 있고 가지고 있으면 세대 기준으로 주택 수를 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.060,
+                "end": 8.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종부세는 이게 이제 동일인이셔야지 이게 되더라고요 동일인.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.538,
+                "end": 12.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동일인이라면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.551,
+                "end": 14.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 이거는 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.252,
+                "end": 16.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "종전 주택.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.907,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "양도세에서는 일시 주택을 세대 기준으로 하는데 종부세에서는 동일인이어야지 해당이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19111_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

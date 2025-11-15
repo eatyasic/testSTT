@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19492",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.11,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그거는 페이지를 보면서 제가 설명을",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 한번 보도록 하겠습니다 다음 페이지 볼까요 그러면은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.529,
+                "end": 4.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.593,
+                "end": 5.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 에 위에 다음에 페이지요 요거를 보시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.333,
+                "end": 8.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.571,
+                "end": 9.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 제 설명을 드리면요 맨 위에 과세체계 여기 보시면 제가 전면 도입이라는 용어를 썼죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.041,
+                "end": 16.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.081,
+                "end": 16.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다 전면 도입입니다 근데 전면도입이라고 해서 무조건 다 세금이 나오냐 그건 아니고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.657,
+                "end": 22.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 먼저 그 주식, 펀드, 채권, 파생결합증권 뭐 ELS 같은 거 그 다음에 파생상품 뭐 파생상품도요 모든 게 다 과세 대상이 들어오는 건 아니고 뭐 주가지수 선물 옵션 뭐 ELS, ELW 이베먼 한정적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.590,
+                "end": 39.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 뭐 이런 파생도 하시는분들이 꽤 있거든요 증권사에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.416,
+                "end": 44.110
+            }
+        ]
+    },
+    "summary": "과세체계에 전면도입이라고 무조건 세금이 나오는 건 아니고 파생상품도 모든 게 과세 대상이 들어오는 건 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

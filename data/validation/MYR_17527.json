@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17527",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월세 같은 거 수익형 이거에 대해서 조언을 해주면 좀 구체적으로 말씀을 해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이유 때문에 그런 건데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.021,
+                "end": 7.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하나는 어 주로 부동산 아파트 같은 경우는 변동성이 강하기 때문에 가격을 떨어지면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.094,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "진행자가 월세 같은 수익형에 대해서 구체적으로 조언을 부탁하자 박사는 아파트 같은 경우는 변동성이 심하다고 말하며 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17527_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

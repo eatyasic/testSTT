@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYR_18144",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.738,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 중랑구 사가정 아이파크를 뭐 한 11,2억 갖고 있는 사람이 아리팍이나 트리마제로 현실적으로 갈아탈 수가 없잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쉽지 않죠. 거의 힘들죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.889,
+                "end": 11.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 불가능하잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.554,
+                "end": 12.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 그런데 그거를 현실적으로 가능하게 해주는 게 바로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.003,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "중랑구 사가정 아이파트를 갖고 있는 사람이 트리마제로 현실적으로 갈아탈 수는 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18144_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

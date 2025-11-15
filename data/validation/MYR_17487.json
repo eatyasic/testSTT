@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_17487",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 60.794,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 숟가락 얹어 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 이 세무사님이 말씀하시는 1세대 주택 비과세 요건 중 반드시 숙지해야 될 두 가지를 소개 한다는 거예요 두 가지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.154,
+                "end": 7.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 몇 가지입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.710,
+                "end": 8.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 가지 이 최소한 이 두 가지는 알고 내가 판다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.561,
+                "end": 11.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 첫 번째 거주자 자 이때 거주자는 조정 대상 지역에 위치한 물건을 한 뭐 거주 이런 거 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.544,
+                "end": 18.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쉽게 말해서 더 쉽게 말하면 어떤 대한민국 국민인데 여기 잘 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.993,
+                "end": 23.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거주자란 국내에 6개월 이상 살고 있는 자를 말하는데 외국에 장기간 거주 상태에서 국내에 있는 주택을 양도하는 경우에는 자칫 잘못하면 비 거주자로 판단이 돼서 1세대 주택 비과세 적용을 못 받는 경우가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.647,
+                "end": 36.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지금 여기에 나오는 거주자 비 거주자 구분에 따른 비과세 혜택 여부는 다른 비과세도 동일하게 들어가고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.921,
+                "end": 45.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 앞에 영상에서도 있었던 증여 증여 할 때 증여 재산 공제 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.473,
+                "end": 50.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 성년 자녀 5000만 원 부부간 6억 이것도요. 거주자가 아닌 비 거주자 외국을 기반으로 살고 있다 그러면은 아예 혜택이 없는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.698,
+                "end": 58.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.693,
+                "end": 60.794
+            }
+        ]
+    },
+    "summary": "남성이 1세대 1주택 비과세 요건 중 반드시 숙지해야 될 두 가지를 소개하며 거주자와 비 거주자의 차이에 따른 비과세 혜택 여부에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

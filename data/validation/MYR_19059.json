@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19059",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "라고 해서 이제 토지는 이 공시 지가라고 부릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토지는 공시 지가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.606,
+                "end": 5.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공시법이니까 개별 공시 지가 토지에 대해서는 이거 이거는 보통 5월에 공시를 하죠 5월에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.620,
+                "end": 13.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 작년은 특이하게 4월에 공시하고 했는데 거의 5월에 공시를 합니다 5월 말에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.295,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "토지에 대한 공지 시가는 보통 5월에 공시를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

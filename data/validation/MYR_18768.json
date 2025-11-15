@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18768",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이때 경비 범위에는 중개 수수료, 임대 주택 차액금 이자 비용, 발생한 재산세, 종부세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이와 같은 비용이 수입 금액의 40퍼센트보다 많은 경우에는 실제 발생한 금액을 한도로 해 가지고 전체를 비용으로 받을 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.589,
+                "end": 14.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 실제 이걸 인정받으려면 적격 증빙, 세금 계산서, 헌금 영수증, 납부 고지서 이런 것들 이렇게 갖춰야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.324,
+                "end": 22.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하고 이제 끝이 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.018,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "경비 범위에는 중개 수수료, 임대 주택 차액금 이자 비용, 발생한 재산세, 종부세가 있고 인정받으려면 적격 증빙, 세금 계산서, 헌금 영수증, 납부 고지서 이런 것들을 갖춰야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19258",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님 @이름1 칼럼니스트인데 세무사님이세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23년 2월 28일 그러니까 2월달 마지막 달에 하면서 이제 3월달 법인세 준비 관련해 가지고 이 글을 올리신 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.423,
+                "end": 11.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "써머리만 요약만 잠깐 보면은 적격 증빙 수취하기 특히 법인 같은 경우에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.186,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "칼럼니스트 @이름1님이 3월 법인세 준비 관련해서 글을 올렸다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19258_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

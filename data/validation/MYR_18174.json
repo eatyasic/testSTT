@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYR_18174",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.959,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단 한 번도 인허가권자랑 인터뷰를 하지 않고 산 적이 없어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.149,
+                "end": 5.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 내가 한남 뉴타운을 살 거야 살 거다 그러면 난 무조건 용산구청 가서 담당자랑 인터뷰를 해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.681,
+                "end": 11.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 그럼 예를 들어 용산구청에서 담당 구청 담당자를 찾아서 내가 이런 거 사려고 하는데 혹시 리스크가 있냐 문제가 있냐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.214,
+                "end": 19.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.220,
+                "end": 19.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근거 좀 알려달라하고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.860,
+                "end": 21.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 물어 보면 되죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.407,
+                "end": 22.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 그걸 해야 된다는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.020,
+                "end": 22.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.720,
+                "end": 23.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.328,
+                "end": 23.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 뭐 내가 어느 정도 지식이.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.800,
+                "end": 25.959
+            }
+        ]
+    },
+    "summary": "꼭 살거면 해당 구청 담당자를 찾아서 여러 질문을 해봐야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18174_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

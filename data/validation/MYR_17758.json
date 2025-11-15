@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17758",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.768,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 언제까지 늦어도 8월달까지는 뭔가 온다는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 사이에 자 연락 언제 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.138,
+                "end": 11.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 내라고 세무서 연락 왔죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.014,
+                "end": 12.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1억 내라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.779,
+                "end": 17.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 7월달 7월달 딱 날짜 딱 맞잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.117,
+                "end": 22.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 안타깝죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.510,
+                "end": 27.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 이제 좀 밑에 길게 적었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.633,
+                "end": 31.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세 주택수가 다르고 양도세 주택수가 다르다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.033,
+                "end": 34.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.097,
+                "end": 34.768
+            }
+        ]
+    },
+    "summary": "취득세의 주택수와 양도세의 주택수가 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17758_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

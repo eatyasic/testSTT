@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYR_18348",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.544,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 중요한 거는 여러분들이 이런 내용들을 좀 보시고 내 상황에 맞는 게 뭐냐 맞춤형으로 어떤 전략을 좀 세우셔야 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면은 각자 처한 상황들이 다 다르기 때문에 그래서 계속해서 제 유튜브 그리고 블로그 네이버 프리미엄 등에서 이런 내용들을 좀 설명을 드리면서 활용할 수 있는 방법에 대해서도 같이 말씀을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.620,
+                "end": 27.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기까지고 도움 되셨다면 좋아요 구독 알림 설정하시면 다음에도 편하게 받아보실 수 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.729,
+                "end": 34.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검색창에서 제네시스박이라고 검색을 해주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.360,
+                "end": 38.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시청해 주셔서 고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 38.333,
+                "end": 44.544
+            }
+        ]
+    },
+    "summary": "남성 화자가 내 상황에 맞는 게 뭔지 전략을 세우셔야 한다며 이런 내용들을 활용할 수 있는 방법에 대해서 계속해서 말씀드리겠다고 말하고 마무리 인사를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

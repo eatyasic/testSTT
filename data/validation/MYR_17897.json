@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17897",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 제가 강남에서 일을 하면서 20년 동안 정말 많은 부자들을 만나봤거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적게는 수십억에서 많게는 수천억까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.445,
+                "end": 6.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.680,
+                "end": 7.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 많은 분들을 만나봤는데 다들 자녀분들께",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.200,
+                "end": 10.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.280,
+                "end": 10.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 용돈 교육 수업부터 아주 기본적으로 시작해서 금융 교육 주식 교육 이런 거를 교육을 시키세요",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.846,
+                "end": 15.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.834,
+                "end": 16.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 왜 부동산에 관련된 기초 교육은 안 시키는지 자녀분들한테 저는",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.497,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "강남에서 20년 동안 일을 많이 하면서 많은 부자들을 만나봤는데 자녀들에게 금융 기초교육부터 많은 교육을 시킨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_18641",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.0,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 증여랑 연관을 시켜보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그러면 증여랑 양도는 다른데 무슨 소리지라고 할 수 있겠지만 대부분은 이제 투자 개념으로 많이 가시니까 거기에 이제 전세가 껴 있다거나 이런 형태일 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.600,
+                "end": 12.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.362,
+                "end": 12.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 그게 부담 부증여가 되기 때문에 양도 부분도 생긴다라고 이제 말씀을 드릴 수 있는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.892,
+                "end": 18.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.236,
+                "end": 18.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3주택 이상자분들 같은 경우는 증여 적기가 이제 제가 봤을 5월이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.481,
+                "end": 22.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 공동이랑 개별 주택 가격이 하락을 했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.537,
+                "end": 25.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.176,
+                "end": 25.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6월 1일 이전에 증여를 해야 되는 이슈가 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.728,
+                "end": 27.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.568,
+                "end": 28.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 세 번째는 조정 대상 지역이 대부분 해제됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.116,
+                "end": 30.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.299,
+                "end": 30.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이게 왜 그런지 하나씩 좀 살펴보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.841,
+                "end": 33.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.413,
+                "end": 34.000
+            }
+        ]
+    },
+    "summary": "투자 목적인 경우가 많아 전세가 껴있는 형태일 텐데 그게 부담 부증여가 되기 때문에 양도 부분도 생기고 3주택 이상자라면 공동이랑 개별 주택 가격이 하락을 해서 6월 1일 이전에 증여를 해야 하는 이슈가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18641_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

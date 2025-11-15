@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18370",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.992,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요청할 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그때 가서 다시 생각해 볼 일이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.970,
+                "end": 4.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어쨌든 경매로 취득할 때는 토지 거래 허가를 받지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.189,
+                "end": 7.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 제가 얼마 전에 토지 거래 신통기획 임장 갔었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.988,
+                "end": 13.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.588,
+                "end": 14.614
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 조합 막 이렇게 하려고 하는데 2년 실거주해야 된다 이렇게 얘기를 하시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.624,
+                "end": 20.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 실거주하는지 막 검사한다고 하시는데 언제 될 줄 알고 끝까지 살아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.212,
+                "end": 26.096
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.106,
+                "end": 26.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 기간 안에 뭐 2년을 살아야 된다 이런 거는 생길 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.743,
+                "end": 31.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그때 가서 이제 살면 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.316,
+                "end": 35.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 일단은 좋은 물건이 있고 기회가 있으면 잡아봐라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.509,
+                "end": 40.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 경매로서 한 거 싼 거 말고 어떤 매리트라고 한다면은 그런 신통기획 토지 거래 허가 없이 강남 권역, 용산 개발 예정지 이런 데를 들어가실 수 있고 공공주택 복합 사업은 안 됩니다 그거는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.606,
+                "end": 58.992
+            }
+        ]
+    },
+    "summary": "여성 화자가 2년 실거주를 해야 된다 이렇게 얘기를 하셨다면서 그럼 그때 가서 살면 된다고 강남 권역, 용산 개발 예정지 같은 좋은 기회가 있으면 잡으라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18370_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

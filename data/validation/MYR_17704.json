@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17704",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.936,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 이제 예전에 한번 맞아 봤잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.232,
+                "end": 2.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그렇게 센 거 말고 좀 작은 걸 봤으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.775,
+                "end": 6.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그 예전에 이제 2007년 8년 서브프라임 모기지 시대 때 금리를 금리가 막 급격하게 올라가면서 사람들이 이제 대출 이자를 낼 수 없는 그런 상황이 막 나왔거든요. 그거는 이제 그 서브프라임이라 그래서 프라임론이 아니라 이 서브프라임론을 많이 준 거예요. 그러니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.178,
+                "end": 25.925
+            }
+        ]
+    },
+    "summary": "화자2는 2007년, 2008년 서브프라임 모기지 시절 금리가 급격하게 올라갔던 이야기를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17704_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

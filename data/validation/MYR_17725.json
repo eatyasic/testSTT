@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17725",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과밀업제권에서 이제 산업 단지 제외한 대도시 안에 있고 마찬가지로 대도시 안에 있는 물건을 취득해가지고 내가 써버리면은 저거는 이제 중과 들어가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 법인 사업자로 할 때만 좀 조심하시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.605,
+                "end": 14.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보유 단계에 있어서는 업무용 재산세냐 주거용 재산세가 나오냐 그것만 따지시면 되는데 아까 분양",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.019,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "대도시 안에 있는 물건을 취득하여 사용해버리면 중과되기 때문에 법인 사업자로 하는 경우에는 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

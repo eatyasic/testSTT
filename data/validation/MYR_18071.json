@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18071",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.539,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 내가 아 초기 재개 극초기 재개발 말고 나는 무조건 조합설립 인가 이후라고 해서 한 2억, 3억이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 저는 장인 뉴타운도 나쁘지 않다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.382,
+                "end": 11.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 장인 뉴타운을 더 말씀드리면 아마 우리 정규반 수학생들이 화 내실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.118,
+                "end": 18.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 일단 그 정도만 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.809,
+                "end": 20.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요정도까지 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.460,
+                "end": 21.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 약간 희망 적이었던 건 3개 다 저랑 일치했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.774,
+                "end": 25.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 정비 사업을 안 해봤음에도 불구하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.919,
+                "end": 30.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.027,
+                "end": 30.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇다는 거는 제가 뭘 잘한다는 게 절대 아니고 사람들이 보는 눈이 좀 비슷할 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.695,
+                "end": 36.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.223,
+                "end": 36.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그렇다 보면 내가 좋아야",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.660,
+                "end": 39.539
+            }
+        ]
+    },
+    "summary": "두 남성이 정기 사업 재개발에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

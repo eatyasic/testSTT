@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18780",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전부 다 등록했을 경우에는 43만 원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등록 안 했을 경우에는 100만 원. 이렇게 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.443,
+                "end": 8.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 너무 책을 다 오픈하는 거 같은데 출판사에서 싫어할 것 같은데. 하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.010,
+                "end": 12.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에 대해서 이제 나와 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.685,
+                "end": 14.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 더 공부하고 싶으신 분들은 그다음 챕터 보시면은 건보료까지 이렇게 잘 나와 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.390,
+                "end": 21.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 돼 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.450,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "등록한 경우 43만 원, 안 한 경우 100만 원 이렇게 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18780_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

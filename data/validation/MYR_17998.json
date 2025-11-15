@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17998",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.468,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "희망 사항입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 빨리 좀 냈으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.747,
+                "end": 2.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 그 이후에 나오니까 나올 것 같고 주택 임대 사업자는 뭐 한치 앞을 내다볼 수 없네요 제가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.107,
+                "end": 11.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그 그것도 이제 관련된 법이 민특법, 소득세법, 주택 특례 제한법 이것저것 많이 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.362,
+                "end": 17.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 만약에 처리를 해야 된다고 하면 정기 국회 돼야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.066,
+                "end": 21.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 그것도 정기 국회 시작하기 전인 8월에는 나오지 않을까 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.550,
+                "end": 25.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 본다면은 7월 말부터 8월에 나오는 굵직굵직한 내용들이 이야 이게 또 어느 정도 범위가 나와서",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.145,
+                "end": 35.468
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자는 제가 한치 앞을 내다볼 수 없지만 이것도 관련된 법이 많이 있어서 처리가 되어야 된다고 하면 정기 국회가 되어야 하고 그렇기 때문에 정기 국회 시작하기 전인 8월에 나오지 않을까 예상합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

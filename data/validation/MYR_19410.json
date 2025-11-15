@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19410",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.377,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 세무사님께서 오셨군요 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 어 그래서 이제 이거는 진짜 히스토리도 되게 많고 어 이거는 뭐 잠깐 짧게 해서 될 게 아니고 요거 특강만 해서 한 최소 2시간 정도 해야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.863,
+                "end": 13.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 이제 앞으로 지금 아파트가 신규 등록이 다시 허용이 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.776,
+                "end": 17.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 2분기 때에는 세 세제 인센티브 관련 해 가지고 인제 뭔가 나온단 말이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.856,
+                "end": 22.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그럼 그때 제가 다시 한번 우리 멤버십 특강이라든지 어 절세 원데이 특강으로 해 가지고 좀 설명을 드리도록 할 게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.482,
+                "end": 28.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 어쨌든 음 임 여기 인제 보면은 요런 세제 혜택 중에 가장 기본이 뭐냐면 임대 등록 요건을 유지한다는 거고 이제 깊숙하게 들어가면은 각종 어 공적 의무 사항을 다 인제 맞추셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.897,
+                "end": 41.374
+            }
+        ]
+    },
+    "summary": "현재 아파트가 신규 등록이 다시 허용이 되고 2분기 때에 세제 인센티브 관련하여 새로 나오게 되면 화자가 특강을 하여 설명해 주겠다고 하고 결론은 세제 혜택 중에 기본은 임대 등록 요건을 유지한다는 것이고 각종 공적 의무 사항을 다 맞춰야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19410_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18110",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "똑같이 조합장이라는 사람도 횡령, 배임 그래서 막 교체되고 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 모든 리스크를 테이킹하고 여러분들이 투자를 하시는 거기 때문에 이 세상에 안전 마진은 없다라는 거 꼭 명심하셨으면 좋겠고 그 저는 개인적으로 보상 마진이라는 표현을 써요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.260,
+                "end": 15.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보상 마진",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.536,
+                "end": 16.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 왜냐하면 내가 시간을 갈아 놓고 응 그 다음에 사업 리스크를 테이킹하는 대신 아 그거에 대한 대가 보상",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.297,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "화자가 투자를 할 때 모든 리스크가 있기 때문에 안전 마진은 없다고 이야기한 후 개인적으로 보상 마진이라는 표현을 쓴다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18110_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17794",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부모의 도움 없이 신혼부부가 내 집 마련하기가 현실적으로 쉽지 않은 상황에서 과도한 증여세를 물리는 게 오히려 부당하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여당 간사인 류성 류성걸 의원은 조선 비즈와의 통해서 1억을 기준으로 그 미만 금액도 공제가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.605,
+                "end": 16.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼 비용 지원에 세 부담을 덜어낸 거고 아직 초안이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.212,
+                "end": 19.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최종안은 아니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.955,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "류성걸 의원은 1억을 기준으로 그 미만 금액도 공제가 되고 결혼 비용 지원에 세 부담을 덜어낸 것이며 아직 초안이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17794_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

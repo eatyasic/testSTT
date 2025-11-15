@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18194",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러다 보니까 그때 이제 결혼도 하기 전이었고 그냥 어 내 집 하나는 있어야 되겠다 라는 생각이었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.411,
+                "end": 5.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 뭐 공부한 것도 하나도 없고 그냥 부모님이 일산에 계시니까 나도 그냥 부모님 옆에다가 집을 하나 해야 되겠다 라고 해서 인제 처음에 한 게 일산에 갭투자였고 그런데 아파트를 딱 사고 났더니.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.913,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "부모님이 일산에 계시니까 그냥 부모님 옆에다가 집을 해야 되겠다해서 처음에 한 게 일산에 갭투자였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18194_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

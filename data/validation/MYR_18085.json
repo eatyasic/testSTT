@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18085",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런 데에는 여러분들이 속으시면 안 돼서 그런 게 너무 너무 안타깝고 그다음에 뭐 제가 보람 된 거는 어쨌든 어 투자를 해서 뭐 수익을 내시거나 아니면 투자를 했는데 거기 사업장이 워낙 잘 되게 되면 그래서 뭐 제일 재밋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제일 재밌지 재밋지",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.861,
+                "end": 20.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아 맞아 진짜 그거는 뭐랄까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.064,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "두 남성이 투자를 할 때 이익을 봤을 때 보람을 느낀 다고 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18085_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

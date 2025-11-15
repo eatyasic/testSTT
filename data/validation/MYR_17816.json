@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17816",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.817,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비 오는 날인데 경찰이 이 노란 저거 있잖아 우비 그걸 차가 다섯 대가 왔는데 한 백 몇 십 명이 온 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰이 더 떨었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.981,
+                "end": 9.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싸우는데 찍어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.015,
+                "end": 11.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손 안 대게 재산 싸움이라 손대지 아직도 경찰이 사고는 안 나는가 카메라로 찍어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.212,
+                "end": 17.817
+            }
+        ]
+    },
+    "summary": "싸우고 있을 때 경찰이 와서 카메라로 찍었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

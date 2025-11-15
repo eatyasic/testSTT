@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18383",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 나 이러다가 죽겠구나 이런 생각을 했었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다시는 내가 이렇게 무리한 투자를 하지 않겠다라는 예방 주사가 있었기 때문에 제가 22년도 이 하락을 견디고 지금도 안 죽고 살아있을 수 있는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.727,
+                "end": 19.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.114,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "여성 화자가 무리한 투자를 하지 않겠다라는 예방 주사가 있었기에 22년도의 하락을 견디고 지금도 살아있을 수 있는 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18383_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

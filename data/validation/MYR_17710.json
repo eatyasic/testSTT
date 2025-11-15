@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17710",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주거용 오피스텔은 주택 수 포함 여부가 이 여부에 따라서 세금 종류에 따라 차이가 있기 때문에 잘 알아보고 선택해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 8일 한국 부동산원 자료에 따르면 오피스텔은 지금 굉장히 좀 분위기가 안좋고 특히 여전히 높은 금리 수준이",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.436,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "화자는 주거용 오피스텔은 세금 종류에 따라 주택 수 포함 여부에 차이가 있기 때문에 잘 알아보고 선택해야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17710_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

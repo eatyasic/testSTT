@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18989",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 78.111,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 어 보험료소득에서 근로소득과 연금소득은 소득 단가율을 50퍼센트로 해서 소득을 낮게 보는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 제가 지금까지 말씀드린 내용을 한 표로 요약을 한 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.234,
+                "end": 18.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법상 소득은 다 따라왔을 것 같긴 한데 보험료 산정하는 소득에 대해서는 되게 저희 은행에 PB분들 그리고 손님분들도 대게 혼란스러워 하셔서 다시 한번 설명을 해드리면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.806,
+                "end": 31.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본적으로 종합과세 소득이 보험료 산정할 때 소득에 포함되는데 그중에서 1000만 원 초과하는 분리과세 금융소득도 포함이 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.116,
+                "end": 40.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2000만 원 이하의 주택임대소득도 포함이 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.086,
+                "end": 44.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사적연금소득은 아예 제외가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.853,
+                "end": 47.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사업소득과 기타소득은 필요경비로 공제가 되는 것이며 근로소득과 연금소득은 50퍼센트만 소득으로 보겠다라는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.914,
+                "end": 57.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근로와 연금은 50퍼센트만 본다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.422,
+                "end": 60.024
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네 그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 60.034,
+                "end": 62.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 퇴직하고 양도는 아예 빠져버리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.172,
+                "end": 64.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.086,
+                "end": 64.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래 금융 금융투자소득이 원래 도입되면은 이 부분은 들어 올뻔했는데 2년 2년 유예가 돼서 2년 지나면은 아마 이쪽에 하나 더 생길 것 같습니다. 네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.815,
+                "end": 78.111
+            }
+        ]
+    },
+    "summary": "많은 사람들이 혼란스러워하니 다시 설명하자면 보험료 산정을 할 때 종합과세 소득이 포함되는데 그중 1000만 원을 초과하는 분리과세 금융소득과 2000만 원 이하의 주택임대소득이 포함이 되고 사적연금소득은 제외되며 근로소득과 연금소득은 50퍼센트만 소득으로 인정한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

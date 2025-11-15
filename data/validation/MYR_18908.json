@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18908",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바로 이로 이로 건너서?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.493,
+                "end": 1.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오, 네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.997,
+                "end": 3.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 분가를 하시면서 뭐 모르겠습니다, 그 집안의 사정이 어떤진 모르겠는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.197,
+                "end": 7.028
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 강남이나 뭐 여기에다가 분가를 시키은 뭐 땡큐였을텐데 뭐 굳이 그렇게 하지 않더라도 옥수동이랑 금호동으로 넘어갔을 사정도 있었을 것 같구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.038,
+                "end": 17.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.918,
+                "end": 18.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만 우리가 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.483,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "화자2는 강남이나 여기에다가 분가를 시키지 않고 옥수동이랑 금호동으로 넘어갔을 사정이 있었을것 같다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18908_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

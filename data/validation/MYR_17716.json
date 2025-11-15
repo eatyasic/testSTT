@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17716",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.356,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "있는 분도 아주 일부 있겠지만 왜 그러냐면 이 오피스텔이 약간 카멜레온 같은 녀석이라 그래야 카멜레온 같은 녀석이어서 이럴 때는 요렇게 되고요 저럴 때는 저렇게 바뀌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카멜레온은 색깔이 변하지 않습니까? 왔다갔다합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.703,
+                "end": 13.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이건 제가 좀 이따 보여드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.227,
+                "end": 15.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다만 세금은 상황에 따라서 차이가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.811,
+                "end": 18.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔은 기본적으로 업무용으로 간주하기 때문에 취득세의 4.6프로만 낸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.720,
+                "end": 23.356
+            }
+        ]
+    },
+    "summary": "화자는 세금은 상황에 따라 차이가 있으며 오피스텔은 기본적으로 업무용이기 때문에 취득세를 4.6퍼센트를 낸다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

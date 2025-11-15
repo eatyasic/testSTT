@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17883",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.794,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 경우",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.680,
+                "end": 1.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 경우는 일단 어 다 중개사고가 나거나 다 거래 사고 다 사기는 아닐 수 있어도 항상 그런 데에 좀 사기가 숨어 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.170,
+                "end": 9.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 이게 확률이 높 위험도가 높다",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.310,
+                "end": 12.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 무조건 뭐 의심을 하고 피해라 라기보다는 굉장히 꼼꼼하게 확인을 해 보셔야지 되는데 이럴 때 약간 대리 서류가 조금 부족하다 라고 해도 물건이 너무 좋으니까 거기에만 정신이 팔리는 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.050,
+                "end": 23.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통 예를 들어서 뭐 이런 것도 있잖아요 뭐 FM대로 하자면",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.831,
+                "end": 27.794
+            }
+        ]
+    },
+    "summary": "물건이 너무 좋고 가격이 싸니까 사기당할 확률이 높아서 꼼꼼하게 확인을 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17883_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17562",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.524,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "통계를 보면은 단독주택은 전세 거의 안 빠졌던데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.306,
+                "end": 3.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 결국은 이런 여러 가지 요인 때문에 역전세난인데도 불구하고 전셋값은 어 오히려 올라가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.676,
+                "end": 11.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 부동산은요 우리가 예측하면 이게 도망가버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.664,
+                "end": 15.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 왜그럴까요. 그녀석은",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.255,
+                "end": 16.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 광속의 시대이기 때문에 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.963,
+                "end": 18.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광속의 시대 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.649,
+                "end": 19.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 호모사피엔스 시대에 폰이 어떻게 보면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.843,
+                "end": 24.524
+            }
+        ]
+    },
+    "summary": "전문가는 통계를 봤을 때 역전세난에도 전셋값은 올라가고 있고 사람들이 예측을 하면 빗나간다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17562_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

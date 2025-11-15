@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18111",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보상을 받는다라는 개념으로 보상 마진이라는 걸 쓰고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 로직은 여섯 가지가 있는데 뭐 잠깐 말씀드리면 보상 마진은 여섯 가지가 있는데 기본 마진은 여러분들이 흔히 생각하는 안전 마진이라고 보시면 될 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.702,
+                "end": 11.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 재개발, 재건축에서 아파트가 지어지면 보통 우리 안전 마전 계산할 때 옆에 있는 신축 아파트 시세랑 비교하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.974,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "화자가 보상을 받는 다라는 개념으로 보상 마진이라는 걸 쓰며 보상 마진은 여섯 가지가 있는데 기본 마진은 안전 마진이라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18111_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

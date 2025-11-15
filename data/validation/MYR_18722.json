@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18722",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혜택을 받으려고 어 평생 1로 줄었나 약간 그런 생각이 들 정도로 그만큼 좋은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 거주 주택에 대해서는 무조건 거주를 하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.846,
+                "end": 9.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거주 주택 외 다른 주택에 대해서는 사업자 등록하고 이때 사업자 등록은 시군 구청하고 세무서",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.048,
+                "end": 15.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 기준 시가가 6억 이하여야 되고 임대료 임대 기간 임대료 인상률 5퍼센트 이내로 해야 되고 지금은 10년이고 이런 게 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.185,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "거주 주택에 대해서는 무조건 거주해야 하고 거주 주택 외 다른 주택에 대해서는 시군구청과 세무서에 사업자 등록을 하고 기준 시가가 6억 이하여야 되고 임대 기간 임대료 인상률은 5퍼센트 이내로 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

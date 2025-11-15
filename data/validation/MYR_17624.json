@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17624",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.912,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 할 거냐 아니면 만약에 내년 총선 지나가지고 바로는 아니겠지만 지나서 취득세가 많이 풀렸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약에 그렇지 응응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.079,
+                "end": 10.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그때는 선택지가 확 열리는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.334,
+                "end": 13.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.517,
+                "end": 14.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 지금 올해 한 8개월 동안 틈새로 억지로 뭐 했어 투자를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.048,
+                "end": 19.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투자금을 다 소진해 버렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.262,
+                "end": 21.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 만약에 풀려.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.237,
+                "end": 22.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이게 잘한 짓일까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.331,
+                "end": 23.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 뭐 저 무슨 말인지 알 거 같애.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.924,
+                "end": 25.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 한 가지를 결정하셔야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.858,
+                "end": 27.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.884,
+                "end": 29.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "느긋하게 기다리고 딱 때가 되면 하던지 근데 물론 그때 가서 안 풀릴 가능성도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.184,
+                "end": 34.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 응 맞아요 맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.004,
+                "end": 36.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.774,
+                "end": 37.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 경우는 본인이 이제 어떻게라도 투자를 해 나가는 게 맞죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.401,
+                "end": 41.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저 같은 스타일은 가만히 있지를 못하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.780,
+                "end": 45.912
+            }
+        ]
+    },
+    "summary": "한 남성이 내년 총선이 지나고 만약 취득세가 풀린다면 선택지가 열리는 것이기 때문에 결정을 해야 하고 이미 투자금을 소진해버렸다면 어떻게라도 투자를 해 나가는 게 맞다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17544",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "급격한 금리 인상으로 인한 심리 붕괴 이게 이제 예 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그게 이제 어떤 시장이 지금 이 상황이 온 게 아닌가 저도 좀 생각을 하는데 이 주제에 대해서 심리 하나 가지고 많은 말씀을 해주셨단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.704,
+                "end": 14.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 그 계기가 좀 있으셨을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.326,
+                "end": 16.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 에피소드나 이런 게?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.976,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "진행자는 책에서 인상 깊었던 부분이 금리 인상으로 인한 심리 붕괴 부분이었고 심리에 대해서 많은 말씀을 해주셨는데 그렇게 쓴 계기나 에피소드가 있는지 박사에게 질문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17544_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_18410",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.678,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "처음 작업하시면 힘들 수 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 마우스가",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.861,
+                "end": 3.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 마우스가 아니라서 여기 이제 보면 부동산 스터디라고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.038,
+                "end": 6.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왼쪽 하단에 보면 여기에 여러 가지 기능이 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.206,
+                "end": 9.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.542,
+                "end": 10.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 여기 우리 @이름1님이 강조하시는 게 이겁니다 이거 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.917,
+                "end": 16.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 이 기능을 지금 많이 쓴다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.265,
+                "end": 18.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.740,
+                "end": 19.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 단지 비교 그럼 여러 단지 비교를 누르면 이렇게 나온다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.185,
+                "end": 23.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 그럼 그다음에 어떻게 하면 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.195,
+                "end": 25.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 그렇게 해서 일단은 이제 이게 너무 큰 것 같은데 이렇게 여기까지 쫙 보이게 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.236,
+                "end": 32.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 급지가 있다라고 얘기한 거는 이제 강남구를 치면 이렇게 나오고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.148,
+                "end": 37.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그다음에 이제 하나 더 뭐 광진구 그다음",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.487,
+                "end": 42.675
+            }
+        ]
+    },
+    "summary": "처음 작업하면 힘들 수 있는데 부동산 스터디 하단에 보면 여러 단지 비교가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18410_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

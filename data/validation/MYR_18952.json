@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18952",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 정도 지나야 금리가 떨어질 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 결국엔 뭐가 되냐면은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.113,
+                "end": 4.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 정말 제 메인 핵심인데 법인에서 매월 그리고 정기적으로 뭔가 매출을 낼 수 있는 그런 사업 아이템이 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.057,
+                "end": 14.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 우리가 뭐 여러분들 흔히 보시는 어떤 회사라든지 스타트업처럼 뭔가 개발을 해 가지고 매출을 내고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.034,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "법인에서 매월 또는 정기적으로 매출을 낼 수 있는 아이템이 필요하다는 것이 핵심이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18952_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

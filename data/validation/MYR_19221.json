@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_19221",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.508,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 그렇게 임장을 다녔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울만 이틀 3일씩",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.375,
+                "end": 2.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기도도 좀 갔지만 경기도 몇 개 도시 딱 제가 마음에 두고 있는 왜냐하면 @이름1님 아시겠지만 그때만 해도 투기 과열 지구로 묶여있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.996,
+                "end": 11.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.575,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거래가",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.997,
+                "end": 12.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "될 수가 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.866,
+                "end": 13.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간단하게 말씀드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.696,
+                "end": 14.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재개발은 투기 과열 지구에서는 관리 처분 인가 이후에는 거래가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.986,
+                "end": 20.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 재건축인 경우는 조합 설립 그러니까 거의 초기 단계 한 이삼십 프로밖에 진행이 안 된 단계에서부터 거래가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.093,
+                "end": 28.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 거래할 수 있는 곳이 많지는 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.111,
+                "end": 31.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 왜 다녔냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.320,
+                "end": 33.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절대 가격이 너무 저렴하니까 너무 매력적이어서 다녔는데 이게 확",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.892,
+                "end": 41.508
+            }
+        ]
+    },
+    "summary": "여자는 재개발은 투기 과열 지구에서는 관리 처분 인가 이후에는 거래가 안 된다고 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

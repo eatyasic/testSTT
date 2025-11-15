@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18124",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 저는 아 주택 임대 사업자를 재 재개발 쪽에 잘 접목하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.602,
+                "end": 5.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 너무 좋을 거라고 생각하는 게 뭐 예를 들면 그거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.512,
+                "end": 8.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 주택 임대 사업자에 등록하면은 10년 의무 임대 기간이 10년인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.801,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.492,
+                "end": 12.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 관리 처분이 나와서 멸실이 돼버리면은 네 그냥 의무 임대 기간이 그걸로 끝나 버리게 될 수도 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.908,
+                "end": 20.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.070,
+                "end": 20.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.676,
+                "end": 21.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.596,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "두 남성이 주택 임대 사업자와 재개발 쪽에 접목하면 좋을 것 같다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

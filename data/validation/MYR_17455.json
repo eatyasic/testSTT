@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17455",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 15억짜리를 13억에 싸게 사서 그 채권 이제 갚아야 되니까 그분은 이제 15억에 갚았겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "15억 5천을 꽉 채워서 갚았지",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.332,
+                "end": 7.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단순히 봤을 때 한 2억 얼마가 이제 수익이 났다. 그러면 그거 할 때 홍티 경매에서 다 하는 거예요. 투자금 이런 거를?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.080,
+                "end": 12.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 제가 뭐 다 할 수도 있구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.835,
+                "end": 16.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 저는 뭐 우리 홍티 경매 유튜브 대부 뭐 유튜브라든가 홍티 경매 또 카페에 오시는 분들 아시겠지만 요거를 이제 회원들한테 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.635,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 15억짜리를 13억에 사서 2억의 수익이 났는데 이런 것을 할 때 투자금을 어떻게 하냐고 질문을 했고 검은색 상의를 입은 남성이 본인이 다 할 수도 있고 본인이 운영하는 유튜브라든가 카페에 오시는 분들에게 어떻게 전달 하는지 말하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

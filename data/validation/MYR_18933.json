@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18933",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 제가 인제 인플루언서로 이렇게 활동을 하고 있기 때문에 블로그, 카페 그리고 지금 여러분들이 보시는 유튜브 이렇게 여러 가지 활동을 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리 책에서 있는 내용 중에서 시간이 지나면 무조건 이제 개정될 내용이 나오게 돼 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.715,
+                "end": 15.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 그거를 또 매번 이렇게 사는 것도 부담이 될 수 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.519,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "책은 시간이 지나면 개정되기 때문에 그럴 때마다 책을 사는 건 부담이 될 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18933_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

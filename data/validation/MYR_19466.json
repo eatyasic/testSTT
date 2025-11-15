@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19466",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.648,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 B주택이 완성되기 전이나 완공 후 2년 내에 팔았어야 되는데 요 규정도 3년 내로 돌아간 그 개정됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 3년 이내에 종전주택을 양도하고 이 B주택이 완성되고 3년 이내에 전 세대원이 1년 이상",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.560,
+                "end": 15.648
+            }
+        ]
+    },
+    "summary": "종전주택을 B주택이 완성되기 전이나 완공 후 3년 이내에 종전주택을 양도 하고 B주택에 3년 이내에 전 세대원이 1년 이상 거주를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19466_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

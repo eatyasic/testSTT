@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17738",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 주택 임대사업자 묶는 거는 저는 좀 반대하는 입장이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 내가 분양 사무실 가가지고 분양을 받았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.396,
+                "end": 6.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이걸 가지고 내가 묶어 버렸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.187,
+                "end": 8.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어떻게 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.368,
+                "end": 9.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음에는 환급을 받죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.855,
+                "end": 11.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 주거용으로 만약에 전세 놔버리면 어떻게 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.544,
+                "end": 14.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부가세 환급받은 걸 토해내야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.599,
+                "end": 17.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.251,
+                "end": 18.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 업무용은 대부분 다 월세란 말이죠. 그래서 투자금이 많이 들어갈 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.266,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "화자는 주택 임대사업자가 주거용으로 전세를 놓으면 부가세 환급받은 것이 환수되기 때문에 반대한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17738_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

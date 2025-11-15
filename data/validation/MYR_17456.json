@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_17456",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말하자면 십시일반 투자를 받아서 그러니까 제네시스 박 우리 대표님이 뭐 한 5천 그다음에 제네스 박 투가 한 3천 제네시스 박 쓰리가 한 뭐 1 억 그래 갖고 이런 분들이 30명이 뭐 거의 15억 13억 가까이를 모아서 30분이 이제 십시일반 모아 가지고 홍티 경매로 돈이 들어와서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 운영하는 카페나 유튜브에서 거의 30명이 되는 회원들의 십시일반 투자를 받아서 13억을 만들었다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

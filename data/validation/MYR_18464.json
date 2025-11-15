@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18464",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지역마다 다르겠지만 쉽게 말해서 그거군요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 지금 맞아야 될 거 맞았다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.061,
+                "end": 7.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 먼저 맞은 데는 이제 끝난 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.515,
+                "end": 10.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 아직 그 차례가 아직 안 온 애들 아직 안 왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.077,
+                "end": 14.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아직 안 온 데 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.147,
+                "end": 15.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 조심해야 되겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.646,
+                "end": 17.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 걸 종합적으로 봤을 때는 아직은 반등이라고 감히 말 못하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.396,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "나는 반등 차례가 아직 안 온 애들은 아직 안 왔다고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

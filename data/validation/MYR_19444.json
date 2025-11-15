@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19444",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.629,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3년 이내면 우리 앞에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.433
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 규정이 들어가겠죠 누구정은 들어가서 살 필요가 없는 거예요 실소유 목적이 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.443,
+                "end": 6.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.426,
+                "end": 7.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 규정은 실소유 목적이라서 이 3년이 지나더라도 혜택을 줄게 다만 나중에 완공 돼 가지고 들어가서 완성된 후 2년인지 이제 뭐 3년으로 개정되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.146,
+                "end": 18.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.963,
+                "end": 19.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3년 이내에 전입해서 1년 이상 계속하여 거주를 해라라고 바뀌는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.367,
+                "end": 24.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이런 케이스가 있어요 잘 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.437,
+                "end": 26.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 3년 경과 후에 완공인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.741,
+                "end": 29.629
+            }
+        ]
+    },
+    "summary": "실소유 목적이면 3년이 지나더라도 혜택을 주면서 완공이 되면 개정 된 3년 이내에 전입해서 1년 이상 계속 거주를 하라는 규정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

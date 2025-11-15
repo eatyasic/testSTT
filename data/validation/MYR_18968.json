@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18968",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.961,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 이렇게 두 개만 할려고 그랬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 개만 할려고 그랬는데 아 좀 뭔가 딱딱하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.343,
+                "end": 3.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 진부하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.981,
+                "end": 6.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 의견들이 조금 있어 가지고 어 어떤 아이디어를 우리 연회원 @이름1에서 받았냐면 세금이니까 이 세금을 줄여야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.465,
+                "end": 15.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이걸 세금을 줄여서 내 소중한 자산을 지켜야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.814,
+                "end": 19.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 널 아껴줄게 넣었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.112,
+                "end": 22.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "널 아껴줄게 여기는 지금 보면 느낌표만 있는데 이게 뒤에 보면 여기 하트 있는 것도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.315,
+                "end": 27.961
+            }
+        ]
+    },
+    "summary": "원래는 2개만 하려고 했는데 진부하다는 의견이 있어서 자산을 지키자는 의미로 널 아껴줄게라는 문구를 적어 놓았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18968_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

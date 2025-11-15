@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18201",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그걸 더 많이 견뎌 낼 수 있을 거라고 생각을 하고 첫 투자 정비 사업 첫 투자가 재건축 아파트였는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.940,
+                "end": 7.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그걸 2009년에 계약해서 2010년 3월에 잔금 쳤거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.540,
+                "end": 12.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 엄청 빨리 했네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.810,
+                "end": 14.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.660,
+                "end": 15.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.073,
+                "end": 15.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2009년에 계약 2009년 11월인가 12월 계약해서 2010년에.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.416,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "첫 정비 사업 투자가 재건축 아파트였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18201_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

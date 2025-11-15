@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18817",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소득세법에 보면은 인제 여기에 대해서 세율이라고 검색하시면 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세율이라고 검색하면 나오는데 우리는 이제 양도세 세율이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.204,
+                "end": 8.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이게 104조를 보면 됩니다. 104조.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.149,
+                "end": 10.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 104조를 이렇게 보시면 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.668,
+                "end": 13.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 이제 보시면 어 분양권의 경우에는 양도 소득 과세 표준의 100분의 60.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.233,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "소득세법의 세율을 검색하고 104조를 보면 양도세 세율에 관해서 나오며 분양권의 경우에는 양도 소득 과세 표준의 100분의 60이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18817_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

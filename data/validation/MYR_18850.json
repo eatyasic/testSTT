@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18850",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.364,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "브랜딩이 잘 된 건데 하와이를 생각하면 어떤 생각이 드세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 그 와이키키 해변, 그리고 그 야자수, 그리고 무엇보다 푸른 하늘, 저는 그게 딱 갑자기 떠올라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.038,
+                "end": 12.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이런 생각이 한국인들만 이렇게 생각을 안 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.665,
+                "end": 16.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠, 대부분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.791,
+                "end": 17.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분의 정말 뭐 미국 본토 사람들도 하와이에 한 번 와보는 게 꿈인 사람도 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.849,
+                "end": 24.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 꿈을 가질 정도에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.127,
+                "end": 25.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 머니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.741,
+                "end": 26.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "머니깐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.525,
+                "end": 27.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예, 한국보다 더 먼 주도 있으니까, 그리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.126,
+                "end": 30.364
+            }
+        ]
+    },
+    "summary": "여성은 미국 본토 사람들도 하와이에 한 번 와보는 게 소원인 사람들도 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18850_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

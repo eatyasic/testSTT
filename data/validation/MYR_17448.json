@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_17448",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.283,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엔피엘을 하시면서 그럼 홍티 경매에서 이 엔피엘을 한 사례가 있어요. 최근에 했던 사례가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.079
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 홍티 경매 저기 제가 뭐 유튜브 앱으로써 작년 8월에 경상남도 이제 사천에 있는 공장의 1순위를 빌려준 농협 채권 농협 채권 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.089,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 검은색 상의를 입은 남성에게 최근에 진행한 엔피엘 사례를 물었고 검은색 상의를 입은 남성은 작년 8월에 경상남도 사천에 있는 공장의 사례를 이야기하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

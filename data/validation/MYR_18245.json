@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18245",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 지자체하고 세무서하고 다 양쪽에 등록을 했단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 2020년 7.10 대책을 전환으로 해가지고 물론 그 그전에 2018년 9.13부터 그러긴 했었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.584,
+                "end": 9.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세제혜택을 계속 축소시켜요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.849,
+                "end": 11.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭐든지간에 이 권리와 의무가 저는 항상 이렇게 밸런스가 맞아야 된다 생각하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.566,
+                "end": 17.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 권리가 많아도 이건 문제고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.343,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "세제혜택을 축소시켰던 사례를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

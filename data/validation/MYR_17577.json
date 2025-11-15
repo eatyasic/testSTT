@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17577",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.939,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대구가 지금 전세가가 좀 더 높아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 최근에 전세 가격이 엄청 올라왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.468,
+                "end": 3.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.741,
+                "end": 4.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 지금 한 최근 6개월 전만 하더라도 완전 바닥이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.115,
+                "end": 7.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상당히 많이 올라와 가지고 지금 서울권 보다 조금 더 높아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.050,
+                "end": 10.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.618,
+                "end": 11.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 전세에 대한 가치도 인정 받고 있구나 매매가가 허수가 아니구나라는 걸 알 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.260,
+                "end": 17.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거긴 또 실수요자들이 워낙 탄탄하니까 그런 것도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.898,
+                "end": 20.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 매매가를 비교 하고 사실 전세가도 같이 비교 해줘야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.009,
+                "end": 24.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 여러분들은 뒤로 돌려서 10번 이상 들으셔야 돼요. 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.906,
+                "end": 28.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 지금 같이 진행을 하는데 야 이거 굉장히 어렵지만 중요한 내용입니다. 그쵸",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.231,
+                "end": 33.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금 제가 방금 얘기 한 거를 논리적인 이야기잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.495,
+                "end": 36.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거를 책상에 앉아서 논리적으로만 풀려고 하는 분들이 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.313,
+                "end": 39.939
+            }
+        ]
+    },
+    "summary": "전문가는 최근 대구의 전세가가 좀 더 높다고 진행자에게 얘기 하며 진행자는 사람들에게 아주 어렵지만 중요한 내용이라고 강조 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

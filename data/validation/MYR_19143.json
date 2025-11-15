@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19143",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.028,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이미 좋은 혜택을 갖고 있으니까 굳이 안 건드리는 게 좋다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 절대 갖고 증여해 주시거나 이렇게 하시면 안 된다는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.510,
+                "end": 7.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.146,
+                "end": 7.705
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 찾아봤는데 아쉽게도 그 기재부 예규에 안 된다 이렇게 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.715,
+                "end": 14.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 다행히 또 이제 아직 파하시지는 않아가지고 이거 먼저 처분하시고 비과세 받으시면 된다 이렇게 안내를 드렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.196,
+                "end": 23.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.221,
+                "end": 24.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그래서 이런 대책이 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.070,
+                "end": 26.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.416,
+                "end": 28.028
+            }
+        ]
+    },
+    "summary": "좋은 혜택을 가지고 있으니까 굳이 건드리지 않는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19143_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

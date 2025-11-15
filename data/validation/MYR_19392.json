@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19392",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 가장 많이 실수하고 오해하시는 게 뭐냐면은 그냥 임대 주택으로 등록을 하면 주택 수 빠진다 이렇게 알고 계시는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 절대 그건 아니고 요 요건들을 다 지켜야지 어 내가 원하는 비과세를 받을 수가 있다 있다 그건데 일단 이 거주 주택에서는 말 그대로 무조건 거주를 하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.173,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "그냥 임대 주택으로 등록을 하면 주택 수가 빠지므로 요건들을 지켜야 원하는 비과세를 받을 수 있고 거주 주택에서는 무조건 거주를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19392_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

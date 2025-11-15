@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18607",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.76,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 전매 제한이 풀려서 그런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그에 따라서 몇 가지들이 부수적으로 가야 되는데 에 그렇지는 못하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.871,
+                "end": 9.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 부동산정보광장에 따르면 지난 4월 서울에서 거래된 분양권 매매는 총 45건으로 집계가 됐는데 최근 들어서 가장 많은거다라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.462,
+                "end": 17.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 중에 동대문구만 14건",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.468,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "분양권 전매 제한이 풀려서 몇 가지들이 부수적으로 가야 하는데 그러지 못하고 있고 서울 부동산정보광장에 따르면 서울에서 거래된 분양권 매매는 총 45건이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

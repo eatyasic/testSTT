@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17401",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.804,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 잘 시켰다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래갖고 속지 말고 하나하나 돈 보낸 거 이자 받은 거 다 확인하고 그 돈 빌려준 당사자 돈 받은 당사자 채무자하고 통화해 갖고 확인을 하는 방법이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.184,
+                "end": 11.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 어차피 그 물건 종류는 가리지는 않으시겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.542,
+                "end": 14.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 좀 가리지 않고 낙찰 가능성 그니까 시세에 이 정도가 나가니까 충분히 뭐 입찰 경매가 무조건 진행되는 거니까 이 정도의 사람이 입찰자가 들어오겠다라고 하는 것은 본인들이 부동산 조사해서 찾아야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.653,
+                "end": 27.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.031,
+                "end": 27.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 다리 품 파는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.509,
+                "end": 29.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 결국에는 뭐 특별한 건 없이 계속해서 노력을 하는 게 예 중요한 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.337,
+                "end": 36.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꾸준히 노력",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.162,
+                "end": 36.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.990,
+                "end": 37.804
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 돈 보낸 것 이자 받은 것 다 확인하고 돈 빌려준 당사자와 돈 받은 당사자들이 통화해서 확인하는 방법이라고 알려주며 흰색 상의를 입은 남성이 물건 종류는 가리지 않겠다고 하자 검은색 상의를 입은 남성이 그렇다며 입찰자가 들어오겠다고 하는 것은 본인들이 부동산 조사해서 발품을 팔아서 꾸준히 노력해야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19138",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 내가 원래 가지고 있는 그 주택을 팔 때 비과세 받을 때 기한에 상관없이 얘는 빼버리겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 주택 사면 우리가 아까 그 3년이니 2년인지 이런 거 있었지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.327,
+                "end": 13.665
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.675,
+                "end": 14.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 기한 필요 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.103,
+                "end": 15.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 10년이 지나서 팔더라도 그냥 다 빼버리겠다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.232,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "그 주택을 팔 때는 비과세 받을 때 기한에 상관없이 빼준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19138_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

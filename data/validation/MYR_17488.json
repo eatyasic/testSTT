@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17488",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 장기간 해외 거주로 인해서 비 거주자로 잘못 간주되 버리면은 비과세 이런 거 하나도 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일시적 1주택 비과세 그런 거 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.059,
+                "end": 7.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싹 다 날라가기 때문에 조심해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.443,
+                "end": 9.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 알기로는 제 주변에 계신 세무사분들 중에서 세무사님들을 보시면은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.484,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "남성이 장기간 해외 거주로 인해 비 거주자로 판단이 되면 비과세 혜택을 받을 수 없으니 조심해야 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18402",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 그러면은 알게 될 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가양동이 급지가 더 높구나 김포보다 가양동에서 높구나 이런 거 알고 그리고 그 평수가 더 넓은 데를 가려면 급지를 내려 가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.108,
+                "end": 13.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 동네를 먼저 필터를 하고 내가 가야 될 동네를 정했으면 거기에 해당 단지를 또 여러 단지 아파트 비교",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.761,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "동네를 먼저 필터하고 정했으면 해당 단지를 비교한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18402_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

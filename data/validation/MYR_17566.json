@@ -1,0 +1,315 @@
+{
+    "metadata": {
+        "filename": "MYR_17566",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 81.481,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지방 아파트는 아직 바닥을 달리고 있어요 더 떨어져야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 전국 주택 가격은 더 빠져야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.133,
+                "end": 6.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 떨어질 겁니다. 보세요 그럼 난 도대체 뭘 보고 얘기를 하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.570,
+                "end": 10.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라 주택이 64프로가 아파트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.545,
+                "end": 13.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.028,
+                "end": 13.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 대부분이 실수자들은 뭘 보고 얘기를 하냐면요 아파트를 보고 얘기 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.704,
+                "end": 19.354
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.364,
+                "end": 19.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평론가 분들은 전국 주택 가격을 갖고 얘기 할 가능성이 높아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.966,
+                "end": 24.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 그럼 다 뭉뚱그려서",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.108,
+                "end": 25.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금 이중 양극화거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.583,
+                "end": 27.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.459,
+                "end": 27.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방 하고 어 서울 수도권간의 양극화",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.938,
+                "end": 31.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.508,
+                "end": 31.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트와 비아파트 간의 양극화잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.805,
+                "end": 33.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.931,
+                "end": 34.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 아파트와 비아파트 묶어 두면 회복 할라면 한참 멀었죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.302,
+                "end": 37.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.655,
+                "end": 38.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 제가 평론가라 생각을 하니까 주택 경기 회복 시점하고 내집 마련 시기를 같이 보고 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.823,
+                "end": 45.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.032,
+                "end": 45.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 불황기 때 사는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.542,
+                "end": 47.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설문 조사를 보면 뭐라고 나오는지 알아요? 내집 마련 적기가 언제 나와요 올 가을부터 내년 상반기 볼 겁니다. 대부분은",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.416,
+                "end": 53.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.681,
+                "end": 54.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현장 가보세요 이미 싼 게 다 팔렸는데 지금 약간 서울 아파트는 어 계륵 같습니다. 제 생각에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.062,
+                "end": 60.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계륵이란 건 왜 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 60.377,
+                "end": 61.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사기 별로 메리트가 없어졌잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.942,
+                "end": 64.216
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사기 메리트가 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.226,
+                "end": 65.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 올랐잖아요. 지금 팔아놔서",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.263,
+                "end": 68.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 좀 이게 너무 그동안 긴 상승기였잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.189,
+                "end": 70.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 내가 평론가가 됐다고 착각을 했기 때문에 이런 착시 현상이 나타났다고 봐요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 70.662,
+                "end": 81.481
+            }
+        ]
+    },
+    "summary": "전문가는 아파트와 비아파트간의 이중 양극화를 얘기 하고 있으며 실수자들이 어떤 것을 가지고 실수 하는지 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

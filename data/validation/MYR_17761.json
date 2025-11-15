@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17761",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 인제 보면은 부동산 절세 무작정 따라 하기 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보면 셋째 마당에 여기 16이라고 써있는 거 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.296,
+                "end": 7.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 여기 보면 분양권 포함 일시적 2주택 양도소득세 비과세 전략 여기 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.085,
+                "end": 11.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 여기에 다 정리를 해 놨으니까 좀 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.843,
+                "end": 17.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사기 싫으시면 저기 도서관 가서 빌려보세요 좀.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.996,
+                "end": 21.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 사셔도 되니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.339,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "부동산 절세 무작정 따라 하기 책에 분양권 포함 일시적 2주택 양도소득세 비과세 전략을 정리해 놓았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

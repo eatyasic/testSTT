@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYR_18158",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거죠. 그 아파트를 지으려고 정비 구역을 지정했다가 다 싹 없는 일로 해버리는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.395,
+                "end": 6.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.724,
+                "end": 7.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 이물제라는 거거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.064,
+                "end": 8.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.600,
+                "end": 9.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 깊이 이 설명을 드릴까요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.374,
+                "end": 11.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간단하게만. 네 모르신 분이 분명히 있을실 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.255,
+                "end": 14.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이물제가 뭐냐면 2012년 2월 1일 날 시행이 됐고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.113,
+                "end": 17.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.771,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "아파트를 지으려고 정비 구역을 지정했다가 싹 없는 일로 해버리는 것을 이물제라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

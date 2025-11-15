@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17491",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.683,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1세대가 1주택을 소유해야 되는데 여기서 이제 세무사님 말씀하시는 건 1세대 1세대 이 1세대가 뭐냐 거주자 및 배우자가 그들과 동일한 주소 또는 거소에서 생계를 같이 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생계를 같이 하는 생활 단위를 말하는데 자 여기서 잘 보십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.452,
+                "end": 16.683
+            }
+        ]
+    },
+    "summary": "남성이 1세대란 거주자 및 배우자가 동일한 주소에서 생계를 같이 하는 것이라고 1세대에 대한 정의를 알려준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17491_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

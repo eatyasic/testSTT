@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYR_18172",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 지역에 딱 가서 빌라의 등기부등본을 딱 떼었는데 어 소유권 보전 등기된 날짜에 접수 날짜가 보고 2022년 1월 28일 전에 접수 날짜가 들어가면 괜찮은데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.772,
+                "end": 12.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거보다 뒤에 있으면 그건 현금 청산되기 때문에 그런 걸 조심하셔야 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.224,
+                "end": 16.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러면 사실 그런 거를.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.356,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "등기부등본을 떼었는데 소유권 보전 등기된 날짜가 접수 날짜보다 전에 들어가 있으면 괜찮다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

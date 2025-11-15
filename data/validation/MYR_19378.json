@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19378",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 54.487,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 거주한 주택을 양도할 때는 주택 임대 사업 겠 사업자겠죠 등록한 임대 주택 있으니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 거주하고 있는 주택을 양도할 때는 등록해 있는 임대 주택을 비과세 판단할 때 일시적으로 빼 주는 게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.635,
+                "end": 13.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런데 굉장히 딱 들어도 어 뭔가 아주 좋은 제도라고 생각이 되지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.300,
+                "end": 19.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 비과세 판단을 아주 엄격하게 하고 여기에 대해서 사건 사고가 생각보다 많이 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.148,
+                "end": 25.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 그렇게 받은 비과세에 대해서 주택 임대 사업자에 대해서 좀 들여다 볼 수 있다라는 기사가 나와서 이제 제가 좀 경각심을 갖기 위해서 가져왔구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.485,
+                "end": 36.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단순히 경각심을 갖는 거에서 멈추면 안 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.162,
+                "end": 39.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현실적으로 어떻게 할 거냐 내가 만약에 비과세를 먼저 받았다 그러면은 혹여 어 내가 잘못 신고한 게 있다면 어 수정 신고라는 걸 해 가지고 지금이라도 늦었지만 세금을 내는 게 오히려 나을 수도 있구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.903,
+                "end": 54.487
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자가 거주 중인 주택을 양도할 때 등록한 임대 주택의 비과세 혜택을 받는 경우에 비과세 판단을 엄격하게 실시하는데 과거에 이미 비과세 혜택을 받은 주택 임대 사업자 들을 대상으로 임대 사업자의 요건 충족이 안된 사람들을 조사할 예정이라는 기사가 나왔고 비과세 혜택을 신청 받고 잘못된 정보가 있음을 발견한 경우 수정 신고를 통해 세금을 지불하는 것이 더 나은 선택일 수 있다고 화자가 경각심을 불어넣고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

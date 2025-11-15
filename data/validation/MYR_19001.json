@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19001",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.569,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 그 이분들은 결국에는 모든 사람들을 해 주는 게 아니기 아니라 자격요건이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저게 인제 중요하겠군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.209,
+                "end": 9.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 자격요건에는 소득요건과 재산요건이 있는데 소득요건에는 연간 2000만 원 이하가 원칙입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.171,
+                "end": 17.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2000만 원 이하가 되어야만 피부양자가 될 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.503,
+                "end": 21.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저게 소득요건이니까 경비를 빼기 전인가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.409,
+                "end": 24.333
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뺀 후인가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.343,
+                "end": 25.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뺀 후입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.161,
+                "end": 25.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 뺀 후다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.780,
+                "end": 27.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경비를 빼고 나서 2000이 안 넘으면 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.245,
+                "end": 30.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.809,
+                "end": 31.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예외적으로 2000만 원에 미달하더라도 사업소득이 있는 경우",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.396,
+                "end": 36.569
+            }
+        ]
+    },
+    "summary": "피부양자가 되기 위해서는 소득요건과 재산요건이라는 자격요건을 충족해야 하는데 이중 소득요건은 경비를 뺀 후 연간 소득금액이 2000만 원 이하여야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

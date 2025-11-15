@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_19291",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 70.37,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그럴 일은 없지만 이 세금을 줄이기 위해서 개인적인 지출을 가공자료를 과다신고 하거나 그러면 문제가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 최대한 많은 금액을 비용으로 인정받아야 되는데 뭐 개인 사업자도 마찬가지지만 매출에서 비용을 차감한 당기순이익을 기초로 해서 과세하는 거지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.345,
+                "end": 17.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 당연히 여기에 대해서 부담을 줄이려면 매출을 줄이거나 비용을 늘려야 되는데 아니 매출을 줄이는 거는 아니 저는 이거 이해할 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.071,
+                "end": 24.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 회사 운영해 보신 분들은 아시겠지만 설령 내가 금액이 이익이 좀 줄더라도 매출 외형은 좀 계속 해서 커지는 모습이 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.600,
+                "end": 34.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야 발전하는 모습이 나오니까 근데 이거를 일부러 줄인다는 거는 내가 봤을 때 말이 안되는 거고 매출은 늘리거나 같이 가는데 최소 같이 가는데 여기서 비용을 늘려야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.785,
+                "end": 43.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 비용을 늘리는 거는 합법적인 비용을 늘려야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.939,
+                "end": 46.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 양도세 필요경비에서 인정되는 것만 많이 봤듯이 그리고 이 매출 같은 경우에는 해 보신 분들은 아시겠지만 부가세 신고를 매 년 3개월 6개월마다 예정신고 확정신고 3개월마다 분기마다 계속 해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.321,
+                "end": 58.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그때 부가세 딱 나온 걸로 매출 그냥 끝나 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.640,
+                "end": 61.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거는 이 분도 그러시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.496,
+                "end": 64.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "줄일 수 없다 이미 끝나버렸기 때문에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.059,
+                "end": 66.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 결론은 비용을 최대한 늘려야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 66.169,
+                "end": 70.370
+            }
+        ]
+    },
+    "summary": "한 남자가 법인세에서 세금 부담을 줄이려면 매출을 줄이는 것이 아니라 비용을 늘려야 한다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19291_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

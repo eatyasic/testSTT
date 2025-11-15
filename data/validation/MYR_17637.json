@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17637",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 법인으로 한다고 가정을 해보면 아까 말씀하신 것처럼 현지 법인 만들고 신고 관련된 거를 하면 되는 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.388,
+                "end": 6.926
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절차가 처음엔 그렇게 어렵지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.936,
+                "end": 8.808
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 미국에 법인 설립하고 그 법인의 계좌를 개설을 한 다음에 한국에서 이제 외국한 은행에다가 이제 해외 직접 투자 신고서하고 내가 뭐 이런 이런 목적으로 자본금 100만 불로 해서 미국에 법인을 설립 했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.818,
+                "end": 22.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이렇게 해서 보내겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.597,
+                "end": 24.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 뭐 예를 들어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.124,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "한 남성이 절차가 그렇게 어렵지 않고 미국에 법인을 설립한 뒤 법인 계좌를 만들어 은행에 해외 직접 투자 신고서와 자본금을 계좌에 보내겠다고 하면 된다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17637_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

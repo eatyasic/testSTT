@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17679",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.956,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 근데 진짜 이거는 뭐 우리 물론 그때 그 좀 더 시간이 지나면 국내 세법이 어떻게 될지 모르겠지만 이 상태로 계속 가버리면은 좀 우리의 국부가 해외로 좀 많이 나갈 수 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럴 수는 있 있죠. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.618,
+                "end": 16.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 뭐 좀 세금이 과도하게 나오는 국내 세금이 맞죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.292,
+                "end": 19.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다. 국내 세금을 피해서 주로 가시는 분들이 많으시니까 아무래도 근데 사실 이게 말은 이렇게 쉽게 했지만 사실 이 절차들을 생각하면 사실 굉장히 복잡하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.423,
+                "end": 29.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 그리고 이제 계속해서 오를 수 있는 물건을 소위 말해서 계속 갈아타기를 잘해야 되는 거잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.371,
+                "end": 33.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갈아타기도 잘해야 되고 그리고 이제 이 재투자를 할 때 기간이 정해져 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.833,
+                "end": 39.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6개월 안에 에스크로가 끝나야 된다 그렇기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.130,
+                "end": 42.942
+            }
+        ]
+    },
+    "summary": "한 남성이 국내의 세금이 많아서 국내 자산이 해외로 나갈 수 있다고 걱정하자 다른 남성은 절차가 상당히 복잡하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17679_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18463",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.0,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금 실거래가를 보면은 지나치게 빠졌다 싶은 지역들은 제일 먼저 거래가 되고 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 이미 빠진 가격이라면 더 내려가지 않을 것이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.131,
+                "end": 16.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 22년도 이후에 거래가 안 됐다면 그 가격이 30퍼센트 내려가야 네 매수자들이 받아들일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.258,
+                "end": 26.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 얘만 안 빠져.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.177,
+                "end": 27.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 그러니까 그 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.290,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "실거래가를 보면 지나치게 빠졌다 싶은 지역들이 먼저 거래가 되고 22년도 이후에 거래가 안 됐다면 가격이 30퍼센트 내려가야 매수자들이 받아들일 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

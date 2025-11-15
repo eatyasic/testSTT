@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYR_19485",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 뉴스를 보니까 금투세 관련된 기사들이 좀 나오더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.769,
+                "end": 10.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금융상품 중에서 이게 뭐 연장이 되네 마네",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.801,
+                "end": 13.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.959,
+                "end": 14.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거 가지고 이렇게 막 시끄럽던데 저는 사실 좀 주식에 대해서 잘 안 하고 있어서 좀 상대적으로 관심이 덜했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.730,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "금투세 관련된 금융상품 중에서 연장이 되는지 마는지 기사들이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

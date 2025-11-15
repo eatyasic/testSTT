@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19403",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.527,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도세의 장기 보유 특별 공제를 추가로 받을 수 있게 해 줬고 재산세, 종부세 부담도 줄여 줬지만 그에 못지 않게 의무 사항도 굉장히 많았죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여러 이런 공적 의무 사항을 어 안 지키면은 세제 혜택도 못 받는 거는 물론 과태료까지 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.248,
+                "end": 13.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 의무 임대 기간 못 지키면은 3000만 원 이하까지 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.912,
+                "end": 17.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 여기 인제 여기 여기 여기가 중요한 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.308,
+                "end": 20.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 임대 사업자가 임대 주택 외에 본인이 거주하고 있는 주택을 팔 때는 다시요",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.179,
+                "end": 27.527
+            }
+        ]
+    },
+    "summary": "양도세의 장기 보유 특별 공제를 추가로 받을 수 있게 해 줬고 재산세, 종부세 부담도 줄여 줬지만 그에 못지 않게 의무 사항도 많았고 이런 공적 의무 사항을 안 지키면 세제 혜택을 못 받을 뿐더러 3000만 원의 과태료까지 나오고 주택 임대 사업자가 임대 주택 외에 본인이 거주하고 있는 주택을 팔 경우가 중요하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

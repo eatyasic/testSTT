@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17414",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.924,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 지방세법 안에 이제 취득세가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지방세법 안에 취득세가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.293,
+                "end": 8.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 행안부는 작년 12월 21일 다주택이야 되는 취득세 증가를 완화한다고 발표했는데 그때 이제 23년 경제 정책 방향이랑 같이 나왔었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.115,
+                "end": 18.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 그 좀 많이들 여러분들이 관심을 좀 갖지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.668,
+                "end": 24.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 2020년 8월까지 이제 거슬러 올라갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.180,
+                "end": 27.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 그 전 정부였죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.571,
+                "end": 28.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2020년 8월 정확하게는 8월 12일부터 이제 시행이 됐는데 주택 투기 억제를 위해서 다주택자 및 법인 취득세 중과가 들어가는데 이 최고 세율이 12퍼센트 그런데 이 12퍼센트가 이제 과하다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.916,
+                "end": 43.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 왜 과하냐 이제 여러분들이 이걸 좀 아셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.703,
+                "end": 48.915
+            }
+        ]
+    },
+    "summary": "한 남성이 지방세법 안에 취득세가 있으며 행안부가 2022년 12월 21일 다주택 취득세 증가를 완화한다고 발표하면서 23년 경제 정책 방향이랑 같이 나왔다고 한다. 2020년 8월로 거슬러 올라가서 설명하는데 2020년 8월 12일부터 시행된 주택 투기 억제를 위한 다주택자 및 법인 취득세 최고 세율이 12퍼센트인데 이것이 과하다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

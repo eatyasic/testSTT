@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19129",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.159,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요요 빨간색이 이제 그 집값 2006년도부터 이게 우리나라 실거래가 부동산 실거래가가 이제 진행이 됐지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재까지 집값이 추세에 대해서 이 빨간색 그래프가 전국의 아파트 실거래가 추입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.465,
+                "end": 14.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.562,
+                "end": 15.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이 초록색이",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.522,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "빨간색이 2006년도부터의 현재까지의 집값 추세이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

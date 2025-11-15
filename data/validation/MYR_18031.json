@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "filename": "MYR_18031",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.535,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 또 질문이 있는데 이게 정비 사업 같은 경우는 재개발 재건축하면 일단 첫 번째가 길다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "길다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.593,
+                "end": 13.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째가 뭔가 좀 돈이 많이 들어갈 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.219,
+                "end": 15.705
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.715,
+                "end": 16.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 뭐 좀 구역에 따라서 얼마라고 대충을 말씀해 주셨는데 이제 궁금한 건 이거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.232,
+                "end": 22.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 저처럼 정비 사업에 대해서 투자를 안 해보고 잘 모르는 사람들이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.076,
+                "end": 25.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.727,
+                "end": 26.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 막 처음 시작한.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.118,
+                "end": 27.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 좀 이렇게 좀 공부를 해봐라",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.332,
+                "end": 29.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.707,
+                "end": 30.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이제 나중에 우리 흥부 님 강의도 듣고",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.195,
+                "end": 32.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.406,
+                "end": 32.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책도 보고 그렇게 하겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.844,
+                "end": 34.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.171,
+                "end": 34.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1번 좀 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.585,
+                "end": 35.535
+            }
+        ]
+    },
+    "summary": "한 화자가 정비 사업에 대해서 투자를 안 해보고 잘 모르는 사람들이 궁금한 점들을 질문하고 한 화자는 경청하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18031_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

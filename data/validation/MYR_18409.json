@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "filename": "MYR_18409",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 57.59,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 골라",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 목놓아 외치입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.139,
+                "end": 3.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.170,
+                "end": 3.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 조금 여러분들 약간 궁금해 하기도 하고 답답해 할 수 있을 것 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.805,
+                "end": 10.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말로만 하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.928,
+                "end": 12.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 제가 원래는 없는데 살짝 보여드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.223,
+                "end": 16.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검색창에 아실이라고 치면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.890,
+                "end": 21.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1님도 제일 많이 사용하신 사이트 뭐세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.942,
+                "end": 26.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저야 뭐 이제 보통은 이제 분위기를 좀 볼려고 네이버 부동산 많이 보고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.803,
+                "end": 32.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그다음에 아실도 저도 많이 쓰고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.043,
+                "end": 35.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 제가 지금 특히 여러분들 이제 아무것도 모른다라고 생각을 하고 한번 해보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.039,
+                "end": 42.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 여기에서 이제 아까 말씀하신 게 아파트 비교하는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.215,
+                "end": 46.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 어디로 가야 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.165,
+                "end": 47.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 일단은 그 여기 이제 여러 단지 비교",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.627,
+                "end": 53.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 여러 단지 비교를 보시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.078,
+                "end": 55.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 조금 도와 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.170,
+                "end": 56.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 약간",
+                "sound_type": [
+                    2
+                ],
+                "start": 56.822,
+                "end": 57.590
+            }
+        ]
+    },
+    "summary": "여러분들이 궁금해 하실 것 같아서 조금 보여드리도록 하겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19402",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소득세법 시행령 155조 20항 외우시든지 아니면 제가 주택 임대 사업자인데 거주하고 있는 주택에 대해서 비과세 받고 싶다 요 말씀 하시면은 아실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 주택 임대 사업자에 대한 혜택은 뭐 여러 가지가 있었는데 거기에 대한 것들은 또 인제 별도의 내용이고 테마고 시간이 오래 걸리기 때문에 어 패스할 게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.181,
+                "end": 19.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정 대상 지역에도 양도 소득세 중과를 피하게 해 주고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.069,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "소득세법 시행령 155조 20항을 외우거나 주택 임대 사업자인데 거주하고 있는 주택에 대해서 비과세를 받고 싶다고 얘기하면 되고 주택 임대 사업자에 대한 혜택이 여러 가지가 있는데 별도의 내용이라 화자는 지금 얘기하지 않겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19402_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17837",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.816,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유네스크 얼마 올랐겠어요 50년 동안에 1억 투자한 게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.085
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 10배?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.095,
+                "end": 5.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10배 3000억이 된 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.813,
+                "end": 8.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3000억이요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.231,
+                "end": 8.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 3000배가 뛴 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.840,
+                "end": 10.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리나라 땅값은 지금까지 50년 동안은 전무후무한 기록을 남기고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.379,
+                "end": 16.816
+            }
+        ]
+    },
+    "summary": "우리나라 땅값은 50년 동안 3000배가 뛰었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17837_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

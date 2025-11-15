@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17646",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 억울한데요 갑자기요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.423,
+                "end": 1.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.933,
+                "end": 2.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 항상 역지사지하는 자 어쨌든 이게 전반적인 프로세스를 한 번 알아봤고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.269,
+                "end": 8.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실제 저 저 뭐 제가 한 번 사 본다고 가정을 하고 좀 여쭤봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.395,
+                "end": 13.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그러면은 그 다음에 원래 제가 질 뭐 질문하려던 게 이거였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.142,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "한 남성이 전반적인 프로세스를 알아봤고 실제 본인이 사 본다고 가정을 하고 여쭤봤다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17646_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

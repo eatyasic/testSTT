@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19344",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.252,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 안 그랬으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 그게 있고 자 그러면 그나마 이제 여러분들 입장에서는 좀 체크 해야 되는 거 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.543,
+                "end": 9.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 우리가 우리가 지금 어떤 상황입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.430,
+                "end": 17.250
+            }
+        ]
+    },
+    "summary": "한 남자가 현재의 상황에서 일반인들이 체크해야 할 상황에 대해서 알아보고자 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

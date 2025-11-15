@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17899",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.531,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 지식을 좀 갖출 수 있도록 어 그런 역할이 좀 우리 사회에 필요하지 않을까 라는 생각을 사실 좀 하고 있어서 거기에 대한 준비도 조금씩",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어유 좋습니다 네 굉장히 또 유용한 또 내용이 나올 것 같고 많이 이렇게 유용한 정보를 널리 알려주셔서",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.000,
+                "end": 17.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.800,
+                "end": 18.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 뭐 요즘 뭐 불인이나 막 그런 말하는데 저도 개인적으로 그런 말을 좋아하지는 않는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.550,
+                "end": 23.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저도 그래요 하하하",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.320,
+                "end": 24.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 거기에 대해서 알고 싶어 하는 분들 저도 이게 부동산 뭐 세 세금 공부하면 할수록 너무 공부할 게 많아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.330,
+                "end": 31.531
+            }
+        ]
+    },
+    "summary": "지식을 갖출 수 있도록 알려주는 강의를 준비를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

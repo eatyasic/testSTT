@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19357",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.56,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대박이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 그 길로 그 친구하고 같이 살게 되었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.607,
+                "end": 4.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같이 살면서 그 친구는 사업을 하고 저는 맨날 독서실을 다니고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.184,
+                "end": 8.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 죽으라고 공부하셨겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.643,
+                "end": 10.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 전 그때 지금까지 모은 돈 다 쏟아붓고 이제 또 떨어지면 친구한테 쪽팔리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.806,
+                "end": 17.543
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그래서 목숨도 내놓고 돈도 다 내놓고 배수의 진을 치고 아 나 이번에 떨어지면은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.553,
+                "end": 27.560
+            }
+        ]
+    },
+    "summary": "한 남자가 다른 남자와 함께 공부 했던 에피소드를 이야기 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19357_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

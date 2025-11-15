@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_18182",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 재개발 재원 쪽 정비 사업이 현재 올해로 15년 차 실전 투자자로 활동하고 있고 그다음에 지금은 건국대학교의 미래 지식 교육원이라고 거기 재개발 재건축 전문가를 양성하는 과정이 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 강의를 하고 있고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.225,
+                "end": 14.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 투자자들을 상대로 강의한다기보다는 아무래도 대학교에서 하다 보니까 조합장님들이나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.915,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "실전 투자자로 활동을 하며 건국대학교의 미래지식 교육원에서 강의를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18182_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

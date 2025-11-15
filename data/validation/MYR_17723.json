@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17723",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 전문가들은 주거용 오피스텔이 아파트 대체제 역할을 하기 때문에 아파트 가격 회복 후에 전체 시장 회복이 가능한 것으로 예상은 하고 있는데 꼼꼼하게 따져라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 너무나 당연한 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.421,
+                "end": 10.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 텍스트를 이렇게 쭉 되어 있으니까 여러분들이 어렵잖아요 그죠? 그래서 제가 좀 준비를 했지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.224,
+                "end": 16.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거는 제가 이제 주말에 하는 강의에서 쓸 거 딱 한 페이지를 보여드릴 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.714,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "화자는 전문가들이 주거용 오피스텔이 아파트 대체제 역할을 하고 아파트 가격이 회복되면 전체 시장 회복이 가능할 것으로 예상하고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17723_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

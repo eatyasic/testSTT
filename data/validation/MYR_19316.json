@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19316",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무런 것도 이렇게 좀 진행이 안 됐었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 주변에 이제 세무사님들한테 그리고 지방세법 좀 하시는 분들한테 여쭤봤는데 전혀 어떤 분위기가 없다고 하더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.981,
+                "end": 11.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 이게 좀 잘 안 될 수도 있겠다 이 생각하고 있었는데 지금 분위기로는 일단 2월 달 임시 국회 통과하는 거는 거의 이제 물 건너 간 거 같구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.581,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "한 남자가 2월 달 임시 국회에서 해당 법안이 통과 되지 않을 거 같다고 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19316_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

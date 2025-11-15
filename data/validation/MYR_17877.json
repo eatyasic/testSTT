@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17877",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.274,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 확인해보시는 방법이 있는데 거기에 만약에 이제 딱 지도를 아 거기에 거기에 만약에 딱 클릭을 해서 중개사무실 이름을 딱 클릭을 해보면 지도가 딱 뜨면서 그 지도 안에서 그 중개 사무실이 어디 위치 해 있는지 점이 딱 찍혀요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 예를 들어서 내가 지금 무슨 아파트를 좀 알아보고 싶다",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.863,
+                "end": 16.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.658,
+                "end": 17.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라고 했을 때 그 중개 사무실을 딱 찍으면 그 아파트 입점해 있는 부동산인지 옆인지 아니면 한 뭐 500미터 떨어져서 주택단지에 있는 부동산인지 위치까지 정확하게 딱 찍히거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.090,
+                "end": 27.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 그렇게 해서 알아보시는 방법이 있고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.220,
+                "end": 29.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.308,
+                "end": 29.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 어 또 반드시 방금 말씀드린 듯이 반드시 뭐 오래됐다고 일 잘하고 뭐 최근에 개업했다고 일 못하는 건 아니니까 물건이 좀 많은 중개사를 좀 찾는 방법은",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.880,
+                "end": 41.274
+            }
+        ]
+    },
+    "summary": "사이트를 이용하면 중개사 사무실 위치까지 알려줘서 그렇게 알아보는 방법이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

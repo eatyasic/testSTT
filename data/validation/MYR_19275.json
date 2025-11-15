@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19275",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.563,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 법에서 정하는 뭐 뒤에 요거 있는데 요 뒤에는 생략하도록 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보면은 비사업용 토지 그리고 주택 아까 여러분들이 좋아하는 주택 이런 거 하 이런 거 하는 양도하는 경우에는 각 사업 연도 소득에 대한 법인세에 추가해서 납부해야 되는 토지 등 양도 소득이 있다 요게 20퍼센트가 또 추가로 들어가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.523,
+                "end": 18.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거에는 10퍼센트 그리고 한때 많이 갔을 때는 제가 알기로 30퍼센트까지 갔던 걸로 알고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.887,
+                "end": 23.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금은 20퍼센트다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.944,
+                "end": 26.559
+            }
+        ]
+    },
+    "summary": "비사업용 토지 그리고 주택을 양도하는 경우에는 각 사업 연도 소득에 대한 법인세에 추가해서 납부해야 된다고 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

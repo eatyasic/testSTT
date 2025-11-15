@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17999",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.655,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흠 좀 변화되는 내용들이 나올지를 좀 두고 봐야 될 것 같고 그에 따라서 이제 우리의 또 어떤 자산 관리 전략이 완전히 또 바뀔 수가 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.702
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 굉장히 좀 어 관심 갖고 좀 보셔야 된다고 생각이 들고 그 관련된 내용을 다 어 풀어 드릴 테니까 구독하시고 알림 설정하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.712,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "변화되는 내용들이 나올지 두고 봐야 할 것 같고 그에 따라서 우리의 자산 관리 전략이 바뀔 수 있기 때문에 관심을 갖고 봐야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17999_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

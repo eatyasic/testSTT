@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18027",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가끔 가다가 이거를 오해하시는 분들이 계시는데 음 오해하시면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리 증여 증여세 같은 경우에 공제 한도 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.672,
+                "end": 13.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 성년 자녀 같은 경우에 10년 간 5000만 원이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.505,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "증여세의 경우 공제 한도는 성년 자녀일 경우에는 10년 간 5000만 원이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

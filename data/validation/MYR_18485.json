@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_18485",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 강남 2개 아니고서야 하나 비규제 여의도도 비규제인데 그래서 이제 내가 이거를 다주택 중과까지 맞으면서 3개까지 해야 되기에는 아직 취득세나 또 경매 같은 경우에는 다주택자들이 많은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "다주택 중과까지 맞으면서 3개까지 하는 것은 추천하지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

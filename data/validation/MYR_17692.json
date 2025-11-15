@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17692",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.136,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 왜냐하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정 정확히는 모르겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.511,
+                "end": 1.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 회사는 잘 안 망할 거 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.927,
+                "end": 3.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 거의 안 망하 망할 일은 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.737,
+                "end": 5.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러니까 제가 봤을 때 오히려 그런 회사를 뚫어야 될 거 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.319,
+                "end": 9.588
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 에스크로 회사는 이제 그 뭐 주로 브로커리지 펌 하고 거래하는 회사들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.598,
+                "end": 15.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이제 뭐 셀러가 정하게 돼 있는데 어쨌든 뭐 에스크로 회사 통해서 진행하면 굉장히 안전하게 거래를 하실 수가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.071,
+                "end": 22.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 정리해 보면 어 미국과 한국의 어떤 문화적인 차이 프로세스가 완전 다르네요. 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.963,
+                "end": 29.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러니까 거기에 대해서 좀 실수하거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.395,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "남성은 미국 부동산 거래는 에스크로를 통하면 안전하게 거래할 수 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17692_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

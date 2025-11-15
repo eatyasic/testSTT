@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18726",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거주하고 있는 주택을 양도할 때 요건을 갖춰 등록한 임대 주택에 대해서는 주택 수를 빼버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 남아있는 게 어떻게 되는 가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.686,
+                "end": 7.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나가 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.808,
+                "end": 8.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 되기 때문에 얘가 비과세가 가능하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.877,
+                "end": 10.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 여러분들은 어떻게 생 어떻게 이해하고 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.834,
+                "end": 13.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 임대 주택으로 등록하면 주택 수 뺀대 이렇게 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.287,
+                "end": 17.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.025,
+                "end": 18.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대 주택으로 등록했을 때 요건을 다 갖춰야 되고 무조건 거주하고 있는 주택을 팔아야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.212,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "거주하고 있는 주택을 양도할 때 요건을 갖춰 등록한 임대 주택에 대해서는 주택 수에서 빼서 거주 주택이 하나가 되기 때문에 비과세가 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18726_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

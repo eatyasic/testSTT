@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_18888",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.357,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추론을 한 번 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 째는 아마 세금일 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.239,
+                "end": 2.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.746,
+                "end": 3.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인은 소득세가 최대 25퍼센트 거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.510,
+                "end": 5.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이것도 과세표준이 3000억이 넘어가는 아주 대기업한테만 해당하는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.681,
+                "end": 9.358
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 꿈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.368,
+                "end": 10.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 번 20, 21조 되는 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.188,
+                "end": 12.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 소원 꼭 되실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.084,
+                "end": 13.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과세표준 2억 이하는 세율이 10프로밖에 안 되요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.820,
+                "end": 16.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 국회에서도 이걸 더 낮추자고, 낮추자고 하고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.757,
+                "end": 19.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 요거는 이제 참고로 말씀드리자면은 올해부터는 1퍼센트 포인트씩 다 내려갔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.390,
+                "end": 23.977
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 이제 2억 이하는 9퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.987,
+                "end": 26.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아, 그렇습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.134,
+                "end": 27.158
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 아까 말씀하신 최고 세율 25는 24, 요거는 우리 이제 최근에 바꼈으니까 참고하시면 될 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.168,
+                "end": 32.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책을 쓰는 당시에 그래서 제가 확인하지 못했네요, 여하튼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.629,
+                "end": 36.357
+            }
+        ]
+    },
+    "summary": "화자1은 추론을 한 번 해보겠다고 하며 첫 째는 아마 세금일 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18888_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

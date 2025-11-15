@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_19224",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.65,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실질적으로 개별 물건들이 너무 천차만별로 진짜 지금은 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.891,
+                "end": 5.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 생각 못했는데 내 물건으로 충분히 세팅 가능한 것 그리고 어 특히 이제 재개발 같은 경우도 재개발이라고 해서 엄청 낙후되고 막 정말 귀신 나올 것 같고 다 그렇지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.348,
+                "end": 18.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괜찮은 곳은 괜찮거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.695,
+                "end": 20.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 몸 테크가 가능한 우리 2030 같은 경우는 재개발 구역 같은 경우는 사실 전세가가 싸서 그렇지 그게 되게 낮아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.500,
+                "end": 29.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸 테크가 혹시 가능하다 그런 분들은 지금 오히려 신혼이나 아니면 사회 초년생도 저는 나쁘지 않다고 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.594,
+                "end": 37.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그러는데 그렇게 해서 매번 이렇게 임장을 자주 가시는데 임장 가면 물건도 보시고 소장님들하고도 인제 뭐 이런저런 이야기도 하고 특히 그런 데서 정보도 듣고 그러시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.432,
+                "end": 47.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.473,
+                "end": 47.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 처음 이렇게 하시는 분들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.817,
+                "end": 50.650
+            }
+        ]
+    },
+    "summary": "여자는 재개발 같은 경우 임장을 가면 모든 곳이 낙후되거나 그렇지 않고 괜찮은 곳도 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19224_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

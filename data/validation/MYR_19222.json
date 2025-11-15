@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19222",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.735,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "풀어졌잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.738,
+                "end": 1.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 지금은 사실 거래가 안 되는 지역이 없다고 말해도 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.273,
+                "end": 4.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남 3구 하고 용산은 뭐 사실 돈이 없어서 못하지 거래가 안 돼서 못 하는 수준은 어차피 일반 투자자들한테는 아니니까 그런데 그게 투기 과열 지구가 풀어질 줄 알고 다녔냐 당연히 그건 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.553,
+                "end": 17.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 가격이 너무 매력적이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.920,
+                "end": 20.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 투과가 해제됐으니까 가격이 올랐냐 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.462,
+                "end": 23.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 조금씩 빠지거나 여전히 어 그냥 그대로 있거나 보통 그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.958,
+                "end": 29.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 다녀보면 정말 상승장에는 어떤 일이 일어나냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.443,
+                "end": 35.735
+            }
+        ]
+    },
+    "summary": "여자는 투기 과열 지구가 해제될 줄 알고 임장을 다닌 건 아니고 가격이 매력적이었다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19222_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

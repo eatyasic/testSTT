@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_18093",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.131,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들 이 두 가지가 정말 핵심이고 음 그래서 그 그런 일반 분양 수입으로 그 규모의 경제를 이루어 낼 수 없는 형태의 사업 규모의 경제를 이루어 낼 수 없는 조그만한 정비 사업은 지금 투자에 조금 신중하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.141,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "화자가 조그만한 정비 사업은 투자에 조금 신중해야 한다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

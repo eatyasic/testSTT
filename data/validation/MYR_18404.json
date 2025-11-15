@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18404",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.283,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "라는 생각이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 필터를 좀 아실에다가 넣어서 여러 다지 비교 이렇게 해보면은 우리 부린이 이 시세가 과거에 어땠었고 흐름을 전혀 모르고 지금 들어왔잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.161,
+                "end": 15.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 과거 흐름을 몰라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.333,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "부린이들은 흐름을 모르니까 필터에 넣어보면 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

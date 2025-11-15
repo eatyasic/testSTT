@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18343",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음 네 번째는 이것도 역시 정부가 예고한 정책인데 원래 작년에 종부세, 중과세를 싹 다 없애려고 했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여전히 3주택 이상이면서 이제 과표가 12억 초과되는 요 부분 이 부분에 대해서는 여전히 중과가 남아있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.998,
+                "end": 18.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에 대해서도 아마 올해 정기국회 때.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.345,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "남성 화자가 네 번째는 정부가 예고한 정책인데 원래 작년에 종부세, 중과세를 다 없애려고 했었는데 여전히 3주택 이상이면서 과표가 12억 초과되는 부분에 대해서 여전히 중과가 남아있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

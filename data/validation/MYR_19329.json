@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19329",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 2개를 좀 분리해야 되지 않냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 정말 이 부동산 시장에 경착륙이냐 연착륙이냐 아니면 꺼져야 될 거품이냐 여기에 대해서 진지하게 토의을 해서 어떤 과학적인 근거와 어떤 데이터를 근거로 해 가지고 여당과 야당이 좀 설전을 해서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.460,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "한 남자가 여당과 야당이 부동산 시장에 대해서 객관적인 데이터를 가지고 토의를 해야 한다고 본인의 의견을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

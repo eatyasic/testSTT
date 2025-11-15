@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18171",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 다 현금 청산이라고 보시면 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들면 이거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.940,
+                "end": 3.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘에 많이 나온 게 신속 통학기에 지금 얘네들의 그러니까 2021년도에 선정된 애들 말고 작년에 선정된 애들의 권리산정기준인데 2022년 1월 28일이거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.001,
+                "end": 17.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.223,
+                "end": 17.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 여러분들이.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.536,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "현금 청산이라고 보면 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18171_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

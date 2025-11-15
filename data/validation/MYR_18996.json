@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18996",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 건보료를 내면 저기 쓰여 있긴 한데 공단이 부과고지 해서 납부한다고 하니까 그냥 저 개인한테 따로 가는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.684,
+                "end": 8.158
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "따로 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.168,
+                "end": 8.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회사에 알려지거나 그런 건 아니잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.634,
+                "end": 10.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회사에서 따로 가는 건 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.484,
+                "end": 12.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 열심히 돈 많이 버시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.269,
+                "end": 14.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.162,
+                "end": 14.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.995,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "공단이 부과고지 해서 납부하는 경우는 회사에 알려지는 게 아니니 열심히 돈을 벌면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18996_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

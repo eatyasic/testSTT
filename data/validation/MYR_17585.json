@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17585",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.042,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 그냥 하면 되지 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 나중에 고거 차려도 되겠네라는 생각을 할 수도 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.752,
+                "end": 3.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.746,
+                "end": 4.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 식으로 그냥 공부해 나가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.116,
+                "end": 6.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 또 같이 스터디하시는 분들이 많이 계실 것 같은데 재밌을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.016,
+                "end": 10.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와요. 네네 @이름1님은 그냥 다 무인 탑승 가능 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.724,
+                "end": 15.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다. 나중에 또 이거 정식적으로 관용도 오픈하고 그럴 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.947,
+                "end": 20.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 기대해 주시고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.191,
+                "end": 21.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 그래서 이게 현금으로는 나왔는데 또 영원한 테마예요. 영원한 테마",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.405,
+                "end": 25.746
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.740,
+                "end": 26.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 부동산 이제 재테크 투자를 했을 때 시세차익이 좋아요 현금 흐름이 좋아요 이거 영원한 테마 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.073,
+                "end": 33.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한번 거기에 대해서 답변 좀 해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.446,
+                "end": 36.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 저는 엄마가 좋아 아빠가 좋아했을 때 물론 정답은 둘 다지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.025,
+                "end": 42.042
+            }
+        ]
+    },
+    "summary": "전문가가 공부 방법을 알려주자 진행자가 다른 사람들도 좋아할 것 같다고 맞장구를 치고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17585_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

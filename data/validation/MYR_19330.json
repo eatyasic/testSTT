@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19330",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 합리적으로 판단을 해야 되는데 뭐 이게 탄핵 소추 하고 서로 기분 나쁘니까 안 해줘 약간 그런 분위기 인 거 같단 말이에요 저희가 보기에는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 높으신 분들의 뜻을 어찌 저 같은 서민이 알겠습니까 만은 저희 같은 일반 서민이 봤을 때는 저는 그렇게 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.607,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "한 남자가 여당과 야당이 부동산 시장에 대해서 객관적인 데이터를 가지고 토의를 해야 한다고 본인의 의견을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19330_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17451",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.0,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 뭐 살짝 설명 좀 해 주세요. 그러면 왜",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 보통 이제 이 연체 채권이 시간이 가면 돈이 되는 걸 알죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.592,
+                "end": 6.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 부동산 똑같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.133,
+                "end": 7.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "급매로 나오는 것도 지금 제가 돈이 필요하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.543,
+                "end": 10.328
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 내년에 돈이 되는 걸 알아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.338,
+                "end": 13.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 잠실 5단지 보이지만 돈이 되는 걸 알아 돈이 되는 걸 아는데 지금 내가 돈이 필요해 그러니까 눈물을 머금고 싸게 파는 게 급매잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.046,
+                "end": 21.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마찬가지로 엔피엘도 금융 기관이 가지고 있으면 배당된 거 알고 있는데 올해 안에 이 자기 자본 비율이라든가 채무액을 줄여야 되기 때문에 어쩔 수 없이 울며 겨자 먹기로 팔 수밖에 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.748,
+                "end": 33.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.181,
+                "end": 34.000
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 연체 채권이 시간이 가면 돈이 되는 걸 안다며 부동산과 같다고 말한다. 급매는 내놓는 사람이 돈이 필요하니 눈물을 머금고 싸게 파는 게 급매이다. 금융 기관도 가지고 있으면 배당되는 것 알고 있는데 올해 안에 자기 자본 비율이라든지 채무액을 줄여야 되기 때문에 어쩔 수 없이 팔 수밖에 없다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

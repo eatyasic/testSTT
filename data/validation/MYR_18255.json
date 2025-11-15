@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18255",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.226,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 여기에서 구체적인 내용이 딱 나오고해도 관련법을 통화를 시켜야되는 거기 때문에 언제될지 모르는 건데 그냥 이제 주택법 개정해서 조속히 추진하겠다 이렇게만 나와서 기다려봐야 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이렇게해서 제가 이제 쭉 봤고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.919,
+                "end": 16.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 보니까 이제 하나 좀 놓친게 있더라고요 제가 기사를 좀 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.732,
+                "end": 20.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐냐면 요겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.464,
+                "end": 22.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼 자금에는 증여세 공제를 확대 검토하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.103,
+                "end": 26.226
+            }
+        ]
+    },
+    "summary": "법 개정에 검토하겠다는 것을 지켜봐야함을 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18255_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

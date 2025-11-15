@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18458",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.462,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올라가도 내 점수는 안 오를 수도 있는 거잖아요.?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 중요한 거는 우리 집인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.847,
+                "end": 5.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 고점 대비 지금 한 30퍼센트 정도 빠진 정도에서 멈췄는데 경매 낙찰가도 최저 매각가 가격이 70퍼센트 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.532,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "올라가도 내 점수는 안 오를 수도 있으니까 중요한 거는 우리 집이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18458_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "metadata": {
+        "filename": "MYR_18825",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.548,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "(배경음악) 자 본인 소개 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.450,
+                "end": 9.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요. 저는 글로벌 프론티어 에셋의 고미연이라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.015,
+                "end": 13.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 한국과 미국을 오가면서 부동산 투자를 하고 미국 부동산 투자 컨설팅하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.180,
+                "end": 20.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.130,
+                "end": 21.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 자 이 책이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.240,
+                "end": 23.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.250,
+                "end": 23.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 나는 당신이 미국 부동산으로 부자가 되면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.699,
+                "end": 27.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.920,
+                "end": 28.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이 책.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.230,
+                "end": 29.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 제가 쓴 책입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.140,
+                "end": 30.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그 출판사에서 받아서 다 봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.530,
+                "end": 33.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아유 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.000,
+                "end": 34.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 재미있게 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.310,
+                "end": 35.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 재미있다고요. 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.350,
+                "end": 36.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 정말로 그리고 이제 에 책을 보고 난 느낌을 딱 뭐냐면. 첫 번째가 뭐였냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.690,
+                "end": 41.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.093,
+                "end": 41.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 하와이에 하나 깃발을 꽂아야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.560,
+                "end": 43.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.380,
+                "end": 44.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 진짜로, 진짜로, 진짜로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.460,
+                "end": 45.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 그때도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.760,
+                "end": 46.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영토 확장.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.285,
+                "end": 47.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그때.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.068,
+                "end": 48.548
+            }
+        ]
+    },
+    "summary": "한국과 미국을 오가면서 부동산 투자를 하고 미국 부동산 투자 컨설팅하고 있는 글로벌 프론티어 에셋의 고미연은 나는 당신이 미국 부동산으로 부자가 되면 좋겠습니다. 책의 저자이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

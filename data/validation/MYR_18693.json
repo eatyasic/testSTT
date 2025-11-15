@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18693",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 도시가 전체적으로 형성이 되었고 이제 서울의 위성도시로 형성이 되다보니까 전세가가 잘 형성이 돼 있는 편이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리가 사실 갭투자가 한참 성행 했을 때 어 정말 메인 도시가 됐던 데들이 대부분 1기 신도시들이 많았던 이유가 그런 이유인데 재건축이 진행될 만한 도시임에도 불구하고 전세가격이 높아서 소액",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.898,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "도시가 전체적으로 형성이 되었고 이서울의 위성도시로 형성이 되다 보니까 전세가가 잘 형성이 돼 있는 곳들이 대부분 1기 신도시들이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

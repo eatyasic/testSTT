@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_19063",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.024,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세금을 계산할 때 필요해서 만들어 낸 가격들이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 해서 이런 가격들이 있다라고 보시면 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.012,
+                "end": 7.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.347,
+                "end": 7.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 오른쪽 오른쪽은 우리가 이제 실제 거래되는 가격들이잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.821,
+                "end": 11.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.898,
+                "end": 12.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이거는 평균액은 다르지만 실제 매매가 수용되면 수용가, 보상되면 보상가, 경매가, 공매가 그리고 옆집의 매매 사례 가격",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.198,
+                "end": 22.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.532,
+                "end": 22.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 것들이 실제 현존하는 거래되는 가격들을 말하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.830,
+                "end": 26.052
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.062,
+                "end": 26.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 국세에서는 이런 것들을 시가라고 부릅니다 시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.663,
+                "end": 30.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.946,
+                "end": 32.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 아까 맨 처음에 말씀드렸듯이 취득세 할 때도 취득세 이제 그 취득세도 시세 기준으로 매길 려고 이 시가의 개념을 가져 왔는데 취득세도 그냥 시가라고 하면 되는데 굳이 취득세에서는 이 법 만들면서 이 시가를 우리 취득세에서는 시가 인정액이라고 부르겠다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.085,
+                "end": 52.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 뭔가 다르게 하고 싶은 거겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.372,
+                "end": 53.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동일하게 하면 되는데 이거하고 헷갈리고 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.859,
+                "end": 57.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.099,
+                "end": 58.024
+            }
+        ]
+    },
+    "summary": "국세에서는 실제 거래되는 수용가, 보상가, 경매가, 공매가를 시가라고 부르는데 취득세에서는 시가 인정액이라고 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19063_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18389",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 봤을 때도 투자를 결정할 수 있다라고 얘기하는 건 다 아실 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.950
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 심지어 그 정도까지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.960,
+                "end": 5.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 아실 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.711,
+                "end": 7.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그러면 예를 들어서 초보 입장에서 내 집 마련을 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.198,
+                "end": 11.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 예를 들어서 대출 포함해서 5억이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.162,
+                "end": 13.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.346,
+                "end": 13.936
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 아실로 어떤 식으로 접근하실 것 같으세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.946,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "여성 화자가 투자를 결정할 수 있는 건 다 아실 때문이라고 말하자 남성 화자가 아실의 사용법을 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18389_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

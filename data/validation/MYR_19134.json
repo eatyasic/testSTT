@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19134",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 이제 우리가 영끌이라는 말을 많이 쓰고 있는데 이때는 이 용어가 더 많이 사용됐었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.296,
+                "end": 6.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 더는 못 버티겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.161,
+                "end": 8.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.278,
+                "end": 8.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집 샀는데 우리 저기 1주택자 되려고 내 집 사고 싶어서 집 샀었는데 아 이게 이자 부담은 그대로 있는데 더 늘어나고 있는데 집값이 내려가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.879,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "1주택자 되려고 집을 샀는데 이자는 늘어나고 집값은 더 내려갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

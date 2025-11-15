@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18845",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.023,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 이제 증명해주는 게 지난 40년 동안 하와이 부동산이 5퍼센트 이상 꾸준히 올라갔거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 서프라임 위기 때도 떨어졌다가 물론 안 떨어진 지역이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.396,
+                "end": 12.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 2년 만에 원래 가격, 정가격으로 거의 회복하고 그만큼 가격 안정성이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.241,
+                "end": 18.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 수요와 공급의 불균형 때문에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.385,
+                "end": 20.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 공부하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.935,
+                "end": 23.023
+            }
+        ]
+    },
+    "summary": "여성은 지난 40년 동안 하와이 부동산이 5퍼센트 이상 꾸준히 올랐으며 서프라임 위기 때도 떨어졌다가 2년 만에 정가격으로 거의 회복하는 등 그만큼 가격 안정성이 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18845_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

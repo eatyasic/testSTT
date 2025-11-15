@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18848",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.302,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "글로벌 자산가들이 그 수요가 있다는 점을 앞서 말씀드렸고, 사실 뭐 공급 제한도 말씀을 드렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 글로벌 자산가들이 공급이 제한되어있고 뭐 위치가 좋다고만해서 사실 좋아하는 게 아니고 그건 이제 기본적인 투자 관점에서의 장점이지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.880,
+                "end": 19.302
+            }
+        ]
+    },
+    "summary": "여성은 글로벌 자산가들이 공급이 제한되어있고 위치가 좋다고만해서 좋아하는 건 아니라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18848_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

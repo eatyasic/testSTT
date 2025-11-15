@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17388",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.559,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 좀 전에도 대표님 그 일과를 말씀해 주셨는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그럼 내가 이걸 공부를 좀 해보고 좀 하겠다 그러시는 분들이 뭐 처음 몇 번 좀 했다가 좀 안 되는 경우도 있고 막 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.441,
+                "end": 11.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 좀 습관을 들이려고 했을 때 좀 잘할 수 있는 어떤 그런 노하우 같은 게 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.156,
+                "end": 17.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글쎄 저는 인제 좀 부지런한 사람이 되자라는 게 모토이기 때문에. 그니까 뭐 직장을 다니던 어쨌든 물론 개인적인 힘든 일이 있겠지만 뭐 직장 생활이 바쁘면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.380,
+                "end": 26.559
+            }
+        ]
+    },
+    "summary": "화자가 대표님에게 NPL이나 대표님의 일과처럼 공부를 좀 하고 싶은 분들이 습관을 들이려고 했을 때 잘할 수 있는 노하우가 무엇인지 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17388_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

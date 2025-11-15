@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYR_19166",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 61.995,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그렇게 이해했는데 제가 이해한 게 맞지 않나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오타 같은데 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.485,
+                "end": 3.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 뭐 따지지 말고 오타가 나올 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.397,
+                "end": 6.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.493,
+                "end": 6.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 예를 들어서 과세 표준이 2억이라고 했을 때 법인세는 9퍼센트의 세율이 적용되는데 종수세는 누진세율로 38퍼센트까지 가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.726,
+                "end": 16.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법인세 세율을 한번 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.195,
+                "end": 17.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23년도 귀속 여기 나오죠 귀속?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.899,
+                "end": 20.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 이제 어 제 방송을 들으면 계속해서 똑똑해지는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.636,
+                "end": 24.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2023년 기준 2023년 귀속 그러면은 과표 법인세입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.663,
+                "end": 30.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2억까지는 9퍼센트 2억 초과 200억까지는 19 원래 20이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.237,
+                "end": 35.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 200초과 3천억까지는 22퍼센트였는데 21 그리고 3천억 초과에 대해서는 25가 아니라 24 원래 정부 안은 뭐였습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.172,
+                "end": 44.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 3천억 초과에 대해서 25를 없애버리고 그럼 이제 3천억 초과 같은 경우는 대부분 다 대기업이겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.639,
+                "end": 50.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 법인을 운영을 하고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.633,
+                "end": 53.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 목표 중 꿈 중에 하나가 뭐냐면은 제발 과표 3천억 떼서 법인세 세율을 24프로 25프로 한번 내보는 게 꿈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.159,
+                "end": 61.995
+            }
+        ]
+    },
+    "summary": "2023년 귀속 과표 법인세는 2억까지는 9퍼센트 2억 초과 200억까지는 19퍼센트이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

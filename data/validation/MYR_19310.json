@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19310",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 뭔가 대가를 받고 하면 뭐 유료광고라도 적고 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절대 그런 일 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.370,
+                "end": 4.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 법인 관련된 내용을 좀 봤는데 아마 처음 보신 분들은 도대체 무슨 소린지 좀 많이 어려우셨을 거라고 조금 염려가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.670,
+                "end": 16.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 제가 좀 알려 드리고 싶은 게 있었고 3월 달에 신고 하시는 분들 중에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.491,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "한 남자가 본인의 설명을 처음 듣는 사람들은 어려웠을 거라고 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

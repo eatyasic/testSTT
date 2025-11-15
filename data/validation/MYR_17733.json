@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17733",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취득 단계에 있어서는 특별히 문제가 없는데 이 보유 단계로 가면서 업무용하고 이제 주거용이 막 갈립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아까 손을 들어가지고 주거용으로 쓰고 있습니다 하면은 그래 기특하다 주거용 바꾼다 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.475,
+                "end": 11.069
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 하나 뭐가 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.079,
+                "end": 12.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 주택 임대 사업자, 임대 주택으로 등록을 해버려요. 그럼 어떻게 되는 거죠? 이건 빼도 박도 못하게 주택 주거용 재산세가 나오면서 종부세도 들어가고 양도세도 그냥 그냥 들어가버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.000,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "화자는 주거용으로 사용하면서 임대 주택 등록을 해버리면 주거용 재산세, 종부세, 양도세가 다 부과된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

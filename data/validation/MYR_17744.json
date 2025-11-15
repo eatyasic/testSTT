@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17744",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.921,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안타까운 케이스가 있어서 그래서 저희 카페 여기 묻고 답하기에 보시면은 질문들이 있는데 일단은 제가 좀 이거를 좀 드려야 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그 글 쓰신 분한테는 굉장히 안타까운 경우라서 이걸 또 생각 나게 해드리는 것 같아서 죄송하기는 한데 한번 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.742,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "화자는 카페의 묻고 답하기에 올라온 안타까운 사연에 대해 이야기하려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17744_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

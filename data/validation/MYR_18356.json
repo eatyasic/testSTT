@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18356",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.835,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 최근에 분양한 단지들 보면 미분양 난 게 다 분양가가 @주소1 막 이런데도 분양가가 앞에 @주소2보다 비싸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.909,
+                "end": 10.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그때는 그 분양가도 괜찮았는데 30퍼센트 빠지고 나니까 너무 높은 분양가 그래서 지금 저는 제일 좋은 거는 경매와 분양권이라고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.521,
+                "end": 24.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @계정1 님도 생각이 좀 비슷하신 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.120,
+                "end": 26.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 뭐 청약 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.780,
+                "end": 28.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 좀 상대적으로 쉽고 너무 가끔 쉽다고 하면 100명 중에 한두 명.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.339,
+                "end": 35.835
+            }
+        ]
+    },
+    "summary": "여성 화자가 본인은 지금 제일 좋은 것이 경매와 분양권이라고 생각한다며 @계정1 님의 의견을 묻자 지금 청약 좋다며 상대적으로 쉽다고 대답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

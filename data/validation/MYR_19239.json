@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19239",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.665,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 누군가한테 뭘 가르치면서 사실 가장 보람이 있을 때가 그때였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.989,
+                "end": 5.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스스로 찾아간 것 내 강의가 얼마나 좋다를 떠나고 저하고 1달 공부하고 나서 그다음 이제는 어떻게 해요 이런 거 말고 그 안에서 자기가 스스로 할 수 있을 만큼이 되어서 날아가는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.366,
+                "end": 17.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.150,
+                "end": 17.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 되게 굉장히 제가 많이 감동받고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.961,
+                "end": 20.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 또 영상이 이렇게 올린 것 중에서 저는 그런 얘기 많이 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.818,
+                "end": 25.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 재개발, 재건축 주로 하긴 하지만 저는 제가 집 문제를 이야기한다는 얘기를 많이 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.279,
+                "end": 32.665
+            }
+        ]
+    },
+    "summary": "여자는 강의를 하고 가장 보람되는 순간은 수강자가 본인 스스로 할 수 있을 만큼이 되어서 날아가는 것이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

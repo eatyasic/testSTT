@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19094",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흔히 말해서 이제 그 개별 공시 지가나",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기준 우리가 알고 있던 기준 시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.415,
+                "end": 4.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.102,
+                "end": 4.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기준 시가를 말 한다고 이해하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.766,
+                "end": 7.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세와 지방세에서 부르는 이름이 조금씩 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.498,
+                "end": 11.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이따가 한방에 정리해 드리도록 하겠습니다 그 부분은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.022,
+                "end": 14.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.572,
+                "end": 15.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 이미 개정이 됐었고 그다음 취득세",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.105,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "국제와 지방세에서 기준 시가를 부르는 이름이 조금씩 다른데 나중에 정리해 주겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

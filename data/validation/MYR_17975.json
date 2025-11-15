@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17975",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.872,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "환경에서 좀 할 수 있도록 증여해 주고 싶은 게 에 부모 마음이겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 비판 의견도 적지 않기 때문에 신중하게 살펴본다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.880,
+                "end": 10.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여기까지는 이제 많이 말씀드렸고 이제 여기서 인제 제 개인적으로 막 계속 말씀을 드렸었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.369,
+                "end": 16.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전의 영상에서도 여기서 그치면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.802,
+                "end": 19.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금까지 수십 년 동안 바뀌지 않았던 상증세의 전반적인 개편으로 가야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.238,
+                "end": 24.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면은 방금 우리가 나왔던 경우는 아주 극히 일부예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.790,
+                "end": 29.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 자녀가 결혼을 하는 혼인 하는 경우에 근데 요즘에 뭐 자녀가 없는 딩크족도 있고 아니면 저처럼 자녀가 아주 어린애도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.723,
+                "end": 38.872
+            }
+        ]
+    },
+    "summary": "좀 더 나은 환경에서 할 수 있도록 증여하고 싶은 게 부모 마음이지만 비판 여론도 적지 않기 때문에 신중하게 살펴본다고 하는데 제 개인적인 의견은 여기서 멈추면 안되고 상증세의 개편으로 가야 된다는 입장이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

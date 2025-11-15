@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18476",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이자는 100만 원 월세는 100만 원인데 이자가 67만 원이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.074,
+                "end": 6.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어 지금 내가 이 월세를 내고 있다면 전세자금 대출 이자를 내고 있다면 대출을 받았을 때 이자랑 근데 우리가 내는 돈은 원리금을 같이 내니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.664,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "월세는 100만 원인데 대출 이자가 67만 원이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

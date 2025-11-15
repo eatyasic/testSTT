@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19227",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.338,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관리 처분 인가 나온 거 입주권 사놓고 있다가 새집 되면 들어오려고요 이렇게 말하면 완전 찐으로 찍히시는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내 집 마련 진짜 하고 싶거나 싶구나 그러면 이 구역보다 5억 정도 있으면 여기 아니야 내가 물건 있는데 저 위에 지하철역 바로 옆에 거기도 갈 수 있어 이런 말도 들을 수 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.378,
+                "end": 19.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 생각한 것보다 어 오 오 진짜로 그래요 5억 정도 너무 충분하지 이러고서 또 해주실 수 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.430,
+                "end": 25.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 돈이 들어오는 경로를 조금 더 정확하게 말씀을 드리라 제가 말씀을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.725,
+                "end": 31.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아주 아주 중요한 팁입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.309,
+                "end": 32.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.936,
+                "end": 33.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.427,
+                "end": 34.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구체적으로 말해야 되고 결국에는 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.396,
+                "end": 38.338
+            }
+        ]
+    },
+    "summary": "여자는 부동산에 갈 때 돈이 들어오는 경로를 조금 더 정확하게 이야기하라고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19227_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

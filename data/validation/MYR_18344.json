@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18344",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.683,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "없애는 거를 추진하지 않을까 하는 게 제 개인적인 생각이고 작년에 종부세 개정되고 나서 추경호 경제부총리죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 남은 것도 추진하겠다 이렇게 언급을 했죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.459,
+                "end": 16.683
+            }
+        ]
+    },
+    "summary": "남성 화자가 작년에 종부세 개정되고 추경호 경제부총리가 남은 것도 추진하겠다고 언급했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

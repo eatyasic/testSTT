@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17478",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.153,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "충분히 보상을 받을 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 집값은 장기적으로 올라가는 거니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.713,
+                "end": 4.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.040,
+                "end": 4.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 @이름1 선생님께서 이런 얘기하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.573,
+                "end": 7.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 고통은 극복이 안된다 아 그거는 견디는 거다 이런 얘기를 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.259,
+                "end": 13.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거처럼 이거는 인생의 어떻게 보면 하나의 어떻게 보면은 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.880,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "남성이 집값은 장기적으로 올라가는 것이기 때문에 충분히 보상 받을 수 있고 어떤 유명인이 고통은 극복이 안되고 견디는 거다라는 말을 하며 인생에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

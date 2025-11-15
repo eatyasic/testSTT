@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19308",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 영세사업자 창업 중소기업 세액감면 특례 규정에 해당할 경우에는 5년간 계속 세액 감면을 받을 수 있고 중소기업 특별세액감면 규정에 따라서 매년 소액일지라도 세액감면 받을 수 있고 지난 번에 아마 이장우 세무사님 나와 가지고 좀 같이 이야기 했었었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 여러가지 세액감면이 있는데 그 중에 근로자 고용하면 또 받을 수 있고 여기 나오죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.726,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "사업자들이 받을 수 있는 여러가지 세액 감면에 대해서 한 남자가 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

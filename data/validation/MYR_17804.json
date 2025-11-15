@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17804",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출산 있고 이 뒤에 양육이 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 젊은 분들이 힘들어하는 게 이거 아닐까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.637,
+                "end": 7.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양육 양육 양육 아 정말 힘들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.193,
+                "end": 11.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 이제 제가 이제 당 색깔로 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.380,
+                "end": 15.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여당에서는 혼인했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.296,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "젊은 사람들이 혼인 후 가장 힘들어 하는 것이 양육이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17804_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

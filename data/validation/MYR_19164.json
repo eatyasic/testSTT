@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19164",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 나오죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인사업자는 종합소득 이자 배자 이배사 근연기 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.573,
+                "end": 5.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 해 5월에 종소세 신고하고 매출액이 큰 경우에는 성실 신고 확인서를 제출해서 6월 30일까지 하면 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.600,
+                "end": 11.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매출액 기준이 뭐 3억 4억 이렇게 일정 부분 넘어가면 성실 신고 사업자가 되는데 아마 그보다 작을 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.694,
+                "end": 17.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 요건을 다 못 외우고 있으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.058,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "5월에 종소세 신고하고 매출액이 큰 경우에는 성실 신고 사업자가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19164_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

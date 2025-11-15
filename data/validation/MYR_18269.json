@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18269",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.628,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엊그저께 흐 흑석 제가 보셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어마어마하게 92만 명, 82만 명?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.111,
+                "end": 4.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어마어마하게 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.964,
+                "end": 8.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 좋은 물건 괜찮은 것만 나오면은 언제든지 이렇게 사겠다하는 대기 수요가 있다는 거를 다시 한번 확인을 했는데 그러다보니까 뭐 일단 일단 사고보자 뭐 선당후공 일단 먼저 당첨이 되고 죽족을 하고 그 다음 나중에 고민한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.583,
+                "end": 26.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런게 약간 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.476,
+                "end": 28.628
+            }
+        ]
+    },
+    "summary": "좋은 것은 일단 사고보는 사람들이 있다는 것에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

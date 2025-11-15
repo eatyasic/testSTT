@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18322",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 57.39,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분양권은 주택이 아니고 권리이기 때문에 이 분양권이 완성되는 즉 준공이 되는 이때부터 3년 아닙니까 이렇게 생각하시는 분들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그게 아니라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.977,
+                "end": 11.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못했다가는 이 처분 기한을 놓쳐서 A 주택 비과세가 안 될 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.623,
+                "end": 17.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이게 소득세법 시행령 156조의 3, 2항에 있는 건데 이게 156조의 2에 있는 조합원 입주권 종전 주택 비과세하고 똑같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.076,
+                "end": 27.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 이 부분 조문을 좀 체크해 놨다가 나중에 상담받으실 때 꼭 체크를 하시기 바라고 3년이 경과하고 나서도 종전 주택 A에 대해서 비과세를 받을 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.678,
+                "end": 39.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그게 바로 156조의 3, 3항에 있는 건데 거의 비슷합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.978,
+                "end": 44.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 복잡한데 A 주택을 취득하고 나서 1년 후에 B 분양권을 취득을 해야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.916,
+                "end": 51.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 21년 1월 1일 이후 취득한 분양권이어야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.136,
+                "end": 54.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 3년이 경과되고 나서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.714,
+                "end": 57.390
+            }
+        ]
+    },
+    "summary": "남성 화자가 세대 분리를 하면 피할 수 있지만 가장 좋은 방법은 분양권을 취득하기 이전에 1번, 2번 주택을 매각하는 거라고 설명하며 비과세, 양도세 부분의 설명 예시로 넘어가고 내가 A 주택을 가지고 있는 상태에서 B 분양권을 취득할 때 A 주택 비과세를 받고 싶으면 주택과 분양권의 취득 시점이 1년의 텀이 있어야 하고 분양권을 취득하고 나서 3년 이내에 A를 매도해야 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

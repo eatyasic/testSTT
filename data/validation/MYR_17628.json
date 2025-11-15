@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17628",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해야 되지 않을까라고 생각을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.766
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.776,
+                "end": 2.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 선택을 해야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.173,
+                "end": 3.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 분들은 이제 아무래도 더 좋은 곳을 갈아탈려고 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.522,
+                "end": 6.805
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.815,
+                "end": 7.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 전부 다 하는 말이 하 내가 옛날에 봤던 시세보다 좀 더 올랐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.425,
+                "end": 11.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 얘기 많이 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.047,
+                "end": 12.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼에도 불구하고 갈아타야 되느냐 아니면 눈높이를 약간 낮춰서 오르지 않는 거를 사야 되느냐 이 질문을 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.392,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "한 남성이 이 분들은 아무래도 더 좋을 곳으로 갈아타려고 하는데 전부 하는 말이 옛날에 봤던 시세보다 좀 더 올랐다고 하며 그럼에도 불구하고 갈아타야 되냐고 질문을 많이 한다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

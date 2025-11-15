@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_17806",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.677,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 좀 더 더 많은 혜택을 주자는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 야당이 지금 여기에 대해서 이제 좀 반대하는 거는 뮙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.879,
+                "end": 7.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 혼인에서 이 혼인 증여 재산 공제를 받는 사람이 도대체 몇 퍼센트냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.543,
+                "end": 12.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "극히 소수 아니냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.586,
+                "end": 15.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 초부자 감세 아니냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.086,
+                "end": 17.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하는데 여기에 대해서는 좀 정확한 어떤 근거가 있으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.365,
+                "end": 20.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숫자가 있음 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.580,
+                "end": 22.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 그래야지 우리가 정말 혜택을 받는 사람이 극소수 뭐 5퍼센트 이내인지 아니면 몇 프로인지 봐야 하니까 자 그래서 첫 번째는 여기에 대해서 근거가 있으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.400,
+                "end": 33.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 그거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.063,
+                "end": 34.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째는 뭐냐면 지금 야당이 제시한 이거랑 약간 비슷한 건데 자 우리가 이렇게 생각을 해봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.261,
+                "end": 42.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리가 혼인을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.157,
+                "end": 44.677
+            }
+        ]
+    },
+    "summary": "혼인 증여 재산 공제를 받는 사람이 얼마나 되는지 정확한 근거가 있으면 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

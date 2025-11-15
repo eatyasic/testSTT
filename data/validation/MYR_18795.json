@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18795",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.673,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 높은 확률로 말했겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저거 풀린다 하더라도 양도세가 너무 높아서 어 많이 못 나올 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.563,
+                "end": 6.702
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 저걸 사주는 매수자 입장에서도 지금 금리가 너무 높잖아요. 그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.712,
+                "end": 10.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금리가 너무 높기 때문에 저거 누가 받아 주겠냐 응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.359,
+                "end": 13.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저런 얘기들이 얘기를 좀 했을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.719,
+                "end": 17.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 언제 정도 되면 좀 되겠냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.046,
+                "end": 19.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하반기 가서 금리가 좀 떨어지거나 그리고 결정적으로는 양도세 세율이 좀 내려가야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.387,
+                "end": 26.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그게 지금 확정은 안 됐는데 아마 올해 정기 국회 때 여기에 대해서 이야기를 하고 실제 시행은 내년 1월 1일 이후 양도물부터 될 가능성이 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.402,
+                "end": 37.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 확정은 아닙니다. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.816,
+                "end": 40.673
+            }
+        ]
+    },
+    "summary": "금리가 너무 높고 양도세가 높아서 물건이 많이 못 나올 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

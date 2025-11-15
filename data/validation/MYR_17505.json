@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17505",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실무 상 1세대 주택인데 이혼 후 호적 정리가 안 돼 있어서 안타까운 사례도 있었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.631,
+                "end": 9.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법의 무지로 인해서 사실상 1세대 1주택에 해당 되는데 세법 상 다주택자로 간주돼 세금이 부과 된 경우라면은 어떻게 할까 그니까 방금 지금 읽어드리는 거는 아예 반대예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.154,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "남성이 이혼 후 호적 정리가 안 되어 있었거나 세법의 무지로 인해 다주택자로 간주 된 사례 등 비과세 혜택을 못 받은 안타까운 상황들에 대해서 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

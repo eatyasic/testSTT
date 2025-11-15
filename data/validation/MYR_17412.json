@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17412",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추진을 할려고 하는 것 같은데 뭐 어떤 식으로 되는지 모르겠지만 들으신 게 있었기 때문에 총력이라는 단어를 썼다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 그러면 도대체 이게 무슨 무슨 내용이냐 여러분들이 좀 그걸 좀 아셔야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.817,
+                "end": 13.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 여러분들이 아마 기억이 안 나실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.268,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "한 남성이 총력이라는 단어를 기사에 쓴 이유는 기자가 들으신 게 있었기 때문에 그런 단어를 썼고 여러분들은 무슨 내용인지 알아야 한다며 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

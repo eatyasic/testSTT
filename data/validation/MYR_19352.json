@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYR_19352",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.695,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본인 소개 먼저 부탁 드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 안녕하세요 저는 @이름1 법무사라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.314,
+                "end": 11.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 일단은 뭐 법대 졸업하고 사법시험 도전했다가 한 번 망했었구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.079,
+                "end": 16.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 사시에 도전 했다가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.265,
+                "end": 18.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 사법시험 도전 했다가 한 번 망했었는데 그 실패하고 법무법인 태평양에서 송무팀에서 일을 했었어요 그래서 5년 동안 일을 하다가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.186,
+                "end": 28.695
+            }
+        ]
+    },
+    "summary": "한 남자가 법무사에게 자기 소개를 해 달라고 말해서 법무사가 본인의 이력을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

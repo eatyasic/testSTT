@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18375",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이야기했는데 진짜 아쉬울 끝날 때도 아쉬울 정도로 너무 비즈니스 마인드 대단하시고 깜짝 놀랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.368,
+                "end": 10.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.832,
+                "end": 11.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 초면에 또 이렇게 봐주셨는데 좋게 봐주셨네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.786,
+                "end": 14.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 또 즐겁게 이야기 나누다 보니까 시간이 또 됐는데 마지막으로 저희 채널 시청하고 계시는 분들께 출연 소감 응원 말씀 좀 부탁을 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.413,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "남성 화자가 초면에 좋게 봐주셔서 고맙다고 말하고 마지막으로 채널 시청하고 계시는 분들께 출연 소감과 응원 말씀을 부탁드린다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18375_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

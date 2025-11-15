@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17609",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.401,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 떠오르는 이미지가 딱 이거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "키워드 하나를 뽑는다면?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.464,
+                "end": 2.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저는 그냥 진짜 아무것도 아니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.794,
+                "end": 10.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 뭐 너무 평범하고 뭐 없다 내세울 게 없다가 제 생각이긴 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.431,
+                "end": 14.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 그냥 다른 사람들이 생각하는 이미지 그거를 생각해 보면 말씀하신 대로 그냥 아파트 투자 좋아하고 아파트 분석하고 가끔씩 전망하고 그냥 그런 이미지로 봐주시지 않나",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.750,
+                "end": 27.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.050,
+                "end": 27.785
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 물론 뒤딴에서는 저도 좋아하는 일 많이 하고 있긴 한데 그게 이제 뭐 제 이미지가 될 순 없을 것 같고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.795,
+                "end": 34.401
+            }
+        ]
+    },
+    "summary": "한 남성이 출연자에게 출연자 본인의 키워드 하나를 뽑아 달라고 말했고 출연자는 본인은 평범한 사람이며 남들이 본인을 봤을 때 아파트 투자와 분석을 좋아하는 사람의 이미지로 봐주실 거라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17609_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 70,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

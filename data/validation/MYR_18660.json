@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_18660",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.655,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 12억 원까지 양도 소득세 비과세지만 그럼 0원이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그냥 일반 세율로 했을 때는 뭐 3억 나오신 분들도 꽤 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.573,
+                "end": 6.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.653,
+                "end": 7.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 양도 차익에 따라서 달라지는 부분 이긴 하지만 그 부분에 대한 기간을 놓쳐 버리면 아주 큰일 날 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.151,
+                "end": 13.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 부분은 제가 어 강조를 좀 많이 드리고 있고 그다음에 비조정 대상 지역에 주택 매매할 때 중과세율 이제 없어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.744,
+                "end": 20.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 중과세에 대한 역사는 이제 오히려 뒤안길로 갔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.891,
+                "end": 24.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.113,
+                "end": 24.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아마 이제 대표님이 이번에 일요일 날 이제 저희 북토쿠쇼 때 말씀하실 것 같긴 한데 지금 핵심은 비과세 만들기다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.727,
+                "end": 32.069
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞으시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.079,
+                "end": 33.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요. 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.331,
+                "end": 33.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 만들기예요 지금은 비과세 플닝을 짜서 나의 세율 수익을 올리는 게 전략으로 가셔야 된다 고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.815,
+                "end": 40.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 조정 대상 지역 내 2년 이상 보유 주택 매매할 때도 중간 세율 이제 적용 자체를 안 받죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.154,
+                "end": 45.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 특례가 계속 연장되고 있으니까 뭐 24년 5월 9일까지인데 제가 봤을 때는 과거 역사 보면 연장되다가 폐지될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.453,
+                "end": 53.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 이번에 제",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.193,
+                "end": 55.655
+            }
+        ]
+    },
+    "summary": "12억 원까지 양도 소득세 비과세지만 그러면 0원이고 일반 세율로 했을 때 3억 나오는 분들도 꽤 있고 양도 차익에 따라 달라지는 부분이지만 그 부분에 대한 기간을 놓쳐버리면 큰일 날 수 있어서 강조를 드리고 비조정 대상 지역에 주택 매매할 때 중과세율이 없어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18660_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

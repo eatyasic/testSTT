@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18318",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.057,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 1번하고 2번 주택이 이렇게 없어져 버린 상태에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나서 이 분양권이 빨간색으로 주택으로 완공이 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.254,
+                "end": 8.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 여러분들은 보통 어떻게 생각을 하시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.242,
+                "end": 10.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내가 3번 분양권이 이렇게 주택으로 완공되는 요 시점에 기존에 있었던 주택 1번하고 2번이 없기 때문에 나는 이게 1번 즉 주택 수가 하나만 돼서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.269,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "남성 화자가 1번하고 2번 주택이 없어져 버린 상태에서 3번 분양권이 주택으로 완공이 되면 여러분들은 내가 3번 분양권이 주택으로 완공되는 시점에 기존에 있었던 주택 1번, 2번이 없기 때문에 주택 수가 하나만 된다고 생각할 것이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18318_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

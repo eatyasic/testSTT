@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19082",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.834,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 자산 관리 그룹 세무사를 2018년부터 지금까지 하고 계셨고 그 전에 경력이 서울 지방 국세청 조사 3국, 2국.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.399,
+                "end": 10.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이렇게 근무하신 분 만나기가 어렵잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.132,
+                "end": 14.086
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 은행에서 타 은행과 통틀어서 했을 때 이 경력이 있는 것은 하나은행에 있는 세무사 저밖에 없다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.096,
+                "end": 21.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나은행에 딱 하나 있네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.189,
+                "end": 22.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.302,
+                "end": 23.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이번 학기에 세무 조사론 수업을 듣는데 어 당연히 세무 조사를 당해 보신 분들은 계시지만 받아보신 분들은 계시지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.323,
+                "end": 34.834
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 세무사에게 세무사 전에 서울 지방 국세청 조사 3국, 2국에 근무했던 사람을 보기가 어렵다고 말하며 대단한 듯 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19082_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

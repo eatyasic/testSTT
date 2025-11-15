@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19030",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.702,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 아시다시피 이제 꼬마 빌딩 기준 시가 시가 표준액 이런 걸로 증여 못하게 막았잖습니까 2019년도부터?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거에 대한 것을 항상 물어보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.785,
+                "end": 9.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 뭐 증여 하려고 하는데 기준 시가 하고 싶은데 세무서 뭐 국세청 감정 평가 한다는데 뭐 어떤 사람은 된다 감정 평가 꼭 해서 신고해야 된다는 분도 있고 뭐 안 해도 된다는 분도 있고 도대체 뭐냐 이거 질문 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.572,
+                "end": 24.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거에 대해 한번 이렇게 깔끔하게 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.663,
+                "end": 27.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 깔끔하게",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.592,
+                "end": 29.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝까지 파헤쳐 보는 정말 제가 끝까지 파헤쳐 봤습니다 이거 도대체 어디까지 와 있는지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.063,
+                "end": 34.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.077,
+                "end": 35.702
+            }
+        ]
+    },
+    "summary": "2019년도부터 꼬마 빌딩에 대해 기준 시가과 시간 표준액으로 증여를 못하게 막았기 때문에 감정 평가를 꼭 해서 증여를 해야 하는지 그 답을 파헤쳐 봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19030_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

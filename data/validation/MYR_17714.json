@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17714",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.597,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 주변 시세 대비 얼마만 오른다고 하면은 수익률이 이렇게 나옵니다. 그런데 왜 안 하십니까? 막 이래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 딱 1번 물어 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.886,
+                "end": 6.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 저 전세로 올 건데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.509,
+                "end": 9.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전세 놓을 거면은 부가세 환급 제가 받은 거 토해내야 되는 거 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.764,
+                "end": 13.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 약간 당황하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.906,
+                "end": 15.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우 그렇죠 선생님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.433,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "화자는 본인이 전세를 놓을 경우 환급받은 부가세가 추징되는 것이 아닌지 물어봤고 상대방은 당황했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

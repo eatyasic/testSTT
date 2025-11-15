@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19355",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 제가 취업이 잘 안 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 그럼 내가 진짜 잘 할 수 있는 게 무엇일까 막 고민을 하다가 법무사 시험이 맞겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.867,
+                "end": 9.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 태평양에서 이제 송무 송무하고 강제 집행 경매 이런 걸 많이 하다 보니까 법무사 시험 과목이 잘 어울리겠다 생각이 들었는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.082,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "한 남자가 취업이 잘 되지 않아 고민을 하다가 본인이 송무 업무를 했던 경력이 법무사 시험에 맞겠다고 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18376",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 우리 @계정1 님 채널에 초대해 주셔서 정말 감사하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 그 세금 분야 부동산 세금 분야를 솔직히 이렇게 쉽게 해 주시는 분이 좀 없다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.486,
+                "end": 13.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 투자자 입장으로 우리가 뭔가를 필요한 어떤 데를 잘 긁어주셔서 정말 근데 세금 관련해서 구독자가 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.229,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "여성 화자가 초대해 주셔서 감사하다고 말하고 @계정1 님은 부동산 세금 분야를 이렇게 쉽게 해주시는 분이 없다고 생각한다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18376_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

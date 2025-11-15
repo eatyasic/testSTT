@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18441",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 투자와 관련된 책이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 좀 부족한 저의 졸저 아파트 투자의 정서가 살짝 비슷한 게 묻어가야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.416,
+                "end": 8.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 뭐 이게 일반적인 아파트 투자서인데 이런 책을 집필하게 된 계기가 있으신가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.213,
+                "end": 14.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그 제가 경매 강의를 했는데 저희 경매 아카데미는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.909,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "나는 아파트 투자와 관련된 책을 집필하게 된 계기가 궁금하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18305",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.233,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가치분석 이 집의 미래가치는 어떻게 될 것인가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 경매를 공부할 때 여러분들한테 이론공부 이론공부는 10프로만 투자해라",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.826,
+                "end": 8.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10프로만",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.144,
+                "end": 8.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "40프로는 현장분석",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.877,
+                "end": 10.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현장분석",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.806,
+                "end": 11.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "50프로가 가치분석",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.612,
+                "end": 13.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가치분석",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.334,
+                "end": 14.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 가치부석하기 위해서는 나름대로 신문이라든지 그 약간의 그런 거를 보면서 흐름을 보면서 그리고 제일 중요한 것이 여러분들의 그 어디고 이 지출 지출 중에서는 소위 말하는 투자의 완성은 절세다 하듯이 세금문제",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.142,
+                "end": 29.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세금을 모르고 경매는 이제 성공 못합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.955,
+                "end": 33.233
+            }
+        ]
+    },
+    "summary": "경매 공부를 할때 중점적으로 둬야할 비율을 설명해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18305_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

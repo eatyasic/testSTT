@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17645",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 뭐 대출 규제라든지 그런 게 다 해당이 안 됐었어요 외국인한테.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 외국인한테요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.390,
+                "end": 5.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 엄청 많이 샀어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.358,
+                "end": 6.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 말도 안 되는",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.560,
+                "end": 7.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제일 많이 사는 사람이 중국인이고 그다음이 미국인이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.517,
+                "end": 10.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.371,
+                "end": 11.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금은 이제 규제가 좀 들어",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.218,
+                "end": 13.108
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 바뀌었나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.118,
+                "end": 13.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 인제 했는데 한때 그런 때가 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.825,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "한 남성이 이제는 규제가 바뀌었지만 한때 외국인에게 대출 규제가 해당이 안됐었고 제일 많이 사는 사람이 중국인이고 그 다음이 미국인이었다고 다른 남성에게 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17645_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

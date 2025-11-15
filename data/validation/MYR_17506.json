@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_17506",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.291,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 실질적으로는 1세대 1주택이야",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 세법 상 다주택자로 간주 되어버려 예를 들어서 주민등록표 상으로는 장모님이 이제 같이 살고 있는데 반대 케이스입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.733,
+                "end": 10.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민등록표 상으로는 같이 살고 있는 걸로 되어있어 그런데 실제로는 떨어져 살았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.232,
+                "end": 13.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어떻게 해볼까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.867,
+                "end": 14.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 사례 보자. K씨는 본인이 주택을 소유하고 있고 K씨의 부모도 주택을 소유하고 있는데 실제로는 따로 살고 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.673,
+                "end": 22.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가족 수당 건강 보험 피부양자 등록 때문에 부모와 주민등록이 같이 등재되어 있는데 요런 경우 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.403,
+                "end": 28.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "K씨는 자신의 주택을 매각한 후 세금 신고 안 했는데 1세대 2주택자로 간주돼서 세금 고지서가 부과 됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.376,
+                "end": 34.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 굉장히 좀 힘드실 수 있지만 그래도 우리 세법은 실질 과세 원칙이요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.445,
+                "end": 39.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 해야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.585,
+                "end": 40.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "따로 떨어져 살았다는 거를 내가 증명하면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.507,
+                "end": 43.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 그게 쉽지는 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.308,
+                "end": 44.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 여기 보면은 각각 별도 세대임을 입증해야 되는데 여기 잘 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.617,
+                "end": 49.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부모님의 노인회 회원 대장",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.182,
+                "end": 52.285
+            }
+        ]
+    },
+    "summary": "남성이 주민등록표 상으로 같이 살고 있는 것으로 되어있어 세금 고지서가 부과 된 경우에는 따로 살았다는 것을 입증해야 한다고 케이스를 들어 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17457",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 돈을 다시 제가 이제 이렇게 나간 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거쳐서 그리고 다시 홍티 경매 유튜브 대부가 돈을 상한을 받고 세금을 떼고 실질적인 순수하게 깨끗한 돈을 드리는 거지 요런 구조로 나가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.148,
+                "end": 12.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 수익률이 얼추 좀 났겠는데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.172,
+                "end": 15.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 대충 뭐 한 22.5프로 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.565,
+                "end": 18.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세전?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.933,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 본인이 운영하는 카페나 유튜브의 회원들이 십시일반 모아서 낸 투자금이 본인을 통해 나갔고 돈을 상환받고 세금을 떼서 실질적인 순수하게 깨끗한 돈을 다시 회원들에게 드린다고 말하고 있고 흰색 상의를 입은 남성이 수익률이 어느 정도 나왔겠다고 묻자 검은색 상의를 입은 남성이 22.5퍼센트 정도 났다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17457_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17548",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.524,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 불안 심리가 공급 부족이라는 시치를 더 어 압도할 정도로 어 영향을 미쳤죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐 이 매스컴에서 만든 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.478,
+                "end": 9.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속 어젠다를 만들잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.481,
+                "end": 11.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 어 이게 이제 여러분들이 올 가을부터 내년 정도 되면은 아마 이게 이제 상당히 다시 또 이 어젠다가 될 가능성이 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.590,
+                "end": 24.524
+            }
+        ]
+    },
+    "summary": "박사는 매스컴에서 만들어 내고 있는 공급 부족이라는 불안 심리가 시장에 영향을 미쳤고 아마 올 가을부터는 또 다시 이런 공급 부족 어젠다가 될 가능성이 높다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17548_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

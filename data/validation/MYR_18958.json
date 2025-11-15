@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18958",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아마 시간이 지나면 계속 바뀔 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 솔직히 말하면 저도 좀 이렇게 변하지 않는 거 딱 써 놓고 계속해서 좀 계속하고 싶고 이런 마음이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.066,
+                "end": 11.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어 제가 조금 약간 힘들면 되잖아요. 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.191,
+                "end": 15.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 이 여덟째 마당은 계속해서 아마 좀 변하지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.639,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "변하지 않는 걸 쓰는 것도 좋지만 내가 좀 힘들더라도 여덟째 마당을 계속해서 변화시킬 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18958_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

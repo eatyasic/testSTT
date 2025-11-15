@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18643",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.99,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실 예측을 하고 있는 바이긴 한데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 준비 중입니다 사고 싶은 게 있어서 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.007,
+                "end": 5.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 좀 알려주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.155,
+                "end": 7.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 어찌 됐든 이제 국회 입법 적용할 예정이었으나 이제 여지없이 무산이 됐고 지금 4월까지도 아무 말이 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.645,
+                "end": 14.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5월까지도 제가 봤을 때는 안 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.590,
+                "end": 17.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 제가 우려되는 바는 7월에",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.291,
+                "end": 20.434
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.444,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "국회 입법 적용할 예정이었으나 여지없이 무산이 됐고 4월까지도 아무 말이 없는 상태이며 5월까지도 안될 가능성이 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18643_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

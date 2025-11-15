@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18326",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 경우에는 비록 비 조종 대상 지역이라고 하더라도 비과세가 깨집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.098,
+                "end": 5.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거 꼭 체크하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.614,
+                "end": 8.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 내가 종전에 있었던 집 팔고 A 주택 부산 팔고 서울에 와서 거주를 못 하겠다 그러면 어떻게 해야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.389,
+                "end": 16.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 안에 그냥 파시는 게 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.221,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "남성 화자는 내가 종전에 있었던 A 주택 팔고 서울에 와서 거주를 못 하겠다면 3년 안에 파는 게 좋다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18326_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_19273",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.668,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 루이뷔통 막 그런 데 외국에서 들어오는 그 그런 거 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 럭셔리 브랜드 걔를 아마 한국 법인 아마 유한 회사일 걸요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.420,
+                "end": 9.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주식회사가 아니라 오픈하기 싫거든.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.820,
+                "end": 13.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 뭐 특정인을 말해서 좀 죄송하긴 한데 어 얘 얘기하면 안 되겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.785,
+                "end": 19.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 두 부부가 무슨 빌딩을 사가지고 뭐 단기 매각을 하려다 말았다 뭐 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.988,
+                "end": 24.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 매도 매각 그 매수했을 때 6대 4로 지분을 나눠 샀는데 1명은 개인 이름으로 샀고 1명은 법인으로 샀는데 그 법인 형태가 주식회사가 아니라 유한 회사였어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.494,
+                "end": 35.668
+            }
+        ]
+    },
+    "summary": "뤼이뷔통 럭셔리 브랜드 한국 법인도 아마 유한 회사일 것이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19273_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

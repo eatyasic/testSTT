@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19550",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.798,
+        "format": "MP4",
+        "date": "2021-11-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개도 브레멘에 함께 가겠대.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "브레멘에 함께 가겠다는 나이 많은 고양이와 닭도 만났어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.670,
+                "end": 13.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "둘 다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.473,
+                "end": 17.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소녀야 이리 갖고 와.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.412,
+                "end": 22.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동물들은 쉬어갈 빈집을 찾아냈는데 도둑들이 먼저 차지하고 있었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.324,
+                "end": 31.798
+            }
+        ]
+    },
+    "summary": "브레멘에 함께 가겠다는 개와 고양이 닭을 만나서 브레멘에 가기 전 쉬어갈 빈집을 찾았지만 이미 도둑들이 먼저 차지하고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19550_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 15,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

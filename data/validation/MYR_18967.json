@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18967",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "500부 사인본 어 작업을 했는데 그때 이제 출판사 가서 이렇게 한 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 거를 했냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.837,
+                "end": 7.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 총 4개를 했어요. 4개",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.897,
+                "end": 9.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보시면 더 리치 어 여러분들 부자 되시라고 이거 하나 넣었구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.904,
+                "end": 16.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에는 얼 댓 텍스 이렇게 넣었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.253,
+                "end": 20.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 세금에 대한 부동산 절세에 대한 모든 것 어 그런 의미로 넣었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.694,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "출판사에 가서 500부 사인본 작업을 했는데 이 중 4개에 의미있는 문구를 넣었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18967_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_19032",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.978,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "21년 46 22년 46 23년 45 이 규모로만 보면 이게 늘어난 건 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.107,
+                "end": 7.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.461,
+                "end": 8.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 거의 뭐 같다고 보이는 수준으로 봐야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.017,
+                "end": 10.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 동일하게 가고 있잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.301,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.492,
+                "end": 12.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 예산을 확보했으면 이거에 버금가게 이제 뭐 이것보다 더 많게 세금이 이렇게 세수가 확보가 되어야 되거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.905,
+                "end": 20.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.150,
+                "end": 20.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 많이 이거를 예산을 확보해서 하기 보다는 이 수준으로 유지하면서 더 이렇게 세수 확보가 될 수 있는 포인트를 노리고 있다고 보시면 되세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.704,
+                "end": 30.281
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.291,
+                "end": 31.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 항상 보고 알 거 아닙니까 국세청도?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.286,
+                "end": 33.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예산 받아서 이렇게 세수 확보에 기여했다 그래야 또 예산이 확보가 되기 때문에 그래서 더 치밀해 지고 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.807,
+                "end": 40.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치밀해 지고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.118,
+                "end": 41.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어떤 느낌인지 알 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.299,
+                "end": 43.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 치밀하게 하고 있는지",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.879,
+                "end": 44.978
+            }
+        ]
+    },
+    "summary": "국세청이 받은 23년 예산 수준을 보면 더 많은 예산을 확보해서 하기 보다는 수준을 유지하면서 세수가 확보될 수 있도록 치밀하게 노리고 있다는 것을 알 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

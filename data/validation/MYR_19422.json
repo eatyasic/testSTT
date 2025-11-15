@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19422",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.529,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 여기 보면은 서울 관할 세무서들 양도세 담당 현황 이런 게 막 나와요 강남 세무서 2개 과 4개 팀.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이거는 야 이건 좀 뭔가 좀 무시무시하다 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.527,
+                "end": 11.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이건 좀 약간 별로 보기 싫으네요 그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.383,
+                "end": 15.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.054,
+                "end": 16.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.191,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "화자는 서울 관할 세무서들 양도세 담당 현황 표를 보기 싫다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

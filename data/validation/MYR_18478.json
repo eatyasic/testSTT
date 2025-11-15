@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18478",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사는 게 더 낫지 않겠느냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.520,
+                "end": 2.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 자기 집에 대한 안정감도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.052,
+                "end": 4.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.092,
+                "end": 5.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지금 가격이 좀 많이 내려왔는데 조금 더 내려간 다음에 잡고 싶은 거 그런 마음도 있고 앞으로 장기 불황이 될 수도 있고 앞으로 오를 수도 있는데 이제 우리는 오르든 내리든 집에서 살아야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.048,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "우리는 집값이 오르든 내리든 집에서 살아야 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

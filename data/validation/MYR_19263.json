@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19263",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.09,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 내가 만약에 이거를 뭐 부동산이 됐든 어떤 사업이 됐든 법인을 통해 가지고 내가 돈을 벌어들였다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.258,
+                "end": 8.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 비록 내가 대표가 내가 관련된 일을 모두 다 했지만 그 돈은 내 돈이 아니라 법인 돈으로 가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.206,
+                "end": 15.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 첫 여기서부터 완전히 2개 길이 갈려 버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.399,
+                "end": 19.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이걸 여러분들이 가장 잘 구분하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.239,
+                "end": 22.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘를 더 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.083,
+                "end": 24.090
+            }
+        ]
+    },
+    "summary": "법인이라면 본인이 모든 일을 다 해서 돈을 벌었지만 그 돈은 내 돈이 아니라 법인 돈으로 가는 것이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

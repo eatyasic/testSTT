@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19018",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 사장님은 직장 가입자",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면 우리가 근로자뿐만 아니라 고용주 사용자 그니까 사장님 흔히 말하는 그 사람으로 들어가니까 근데 저 직원이 말 안 듣는 경우가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.304,
+                "end": 12.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런 경우는 예상 못 하고 있습니다. 아유",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.243,
+                "end": 14.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 물론 주변에 어 그리고 이제 8번 8번 맞벌이 부부 중 한 명이 퇴직을 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.950,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "근로자뿐 아니라 고용주나 사용자도 직장 가입자에 해당한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

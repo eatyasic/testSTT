@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18066",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.532,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신축에 나올 수 있는 그건 정비 사업밖에 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.919,
+                "end": 2.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 얘는 한남 뉴타운 5구역 위에 푸르지오 아파트 있고 그다음에 거기에 수송사가 있고 그다음에 그 위에 유엔사 부지가 얘거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.700,
+                "end": 11.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.277,
+                "end": 11.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요 바로 밑에 수송사 부지에는 그게 들어와 그 뭐죠 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.862,
+                "end": 16.516
+            }
+        ]
+    },
+    "summary": "두 남성이 한남 뉴타운에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18066_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

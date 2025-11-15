@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17864",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 계약을 잘 이끌어내는 공인중개사의 특징이 좀 뭐가 있습니까? 조율을 해보시니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.273
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조율에서 말씀하시는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.283,
+                "end": 6.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조율을 좀 잘하는 조율을 잘하는 중개사들 이렇게 생각하시면 좀 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.057,
+                "end": 12.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중개업무가 일반적인 영업직들 하고는 좀 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.230,
+                "end": 16.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 시스템 자체가 좀 다릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.446,
+                "end": 18.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거를 우리 중개사분들이 먼저 좀 이해를 하셔야지 되는데 일단",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.740,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "중개업무가 일반적인 영업직과 다르고 시스템 자체가 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

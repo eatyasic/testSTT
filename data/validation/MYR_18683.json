@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18683",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국에는 내가 고민해야 되는 건 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세금을 안 아무 고민이 될 이유가 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.272,
+                "end": 4.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 이거를 언제 살거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.519,
+                "end": 6.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디에 있는 걸 살거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.371,
+                "end": 8.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 내가 자금조달 느냐가 그 6억이라고 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.051,
+                "end": 10.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 대출 포해해서 내가 감당할 수 있을 거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.522,
+                "end": 13.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억을 가는데 내가 3억 있고 뭐 절반 정도는 3억을 대출 받는다 그런데 뭐 대출금리자 지금 뭐 3 프로 정도 나오나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.098,
+                "end": 20.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "담보대출 아마 더 그렇게 나오는 경우도 있을텐데 그래도 4 퍼센트 잡으면은 어 3억에 4 퍼센트니까 1년 이자만 1200만 원 한 달에 100만 원씩 나가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.812,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "내가 고민을 해야 하는 것은 집을 어디에 사느냐 자금 조달이 되는냐 대출이자가 얼마냐를 고려해 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

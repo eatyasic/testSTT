@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17985",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다만 이 역시 부자 감세 논란에서 자유로울 수 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 했는데 저는 여기에 대해서 아주 반대하는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.703,
+                "end": 7.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 부자 감세가 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.090,
+                "end": 9.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 욕을 먹더라도 이건 말해야 될 것 같아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.030,
+                "end": 11.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면 기존 기존에 세율 자체가 너무 높았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.796,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "기존 세율 자체가 너무 높았기 때문에 이것이 부자 감세 논란이라는 것에는 반대하는 입장이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17985_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

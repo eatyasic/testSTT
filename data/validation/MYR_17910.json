@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17910",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.797,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이론에서 우리가 배우지 못했던 그런 부분들을 실무에서 어떤 부분들을 조심해야 되는지 예를 들어서 중개사들이 업무용 부동산을 전문으로 중개 한다라고 하면 항상 묻는 것들이 제소전화해 주소에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 근데 우리 공인중개사 시험 과목에는 공부 과정에 그게 없거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.385,
+                "end": 14.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.325,
+                "end": 14.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 가장 중개 사고 많이 나는 게 이제 신탁 부동산",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.790,
+                "end": 17.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.611,
+                "end": 18.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신탁 부동산에서 중개 사고가 정말 많이 나요",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.180,
+                "end": 20.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1, 2, 3위 안에 드는데 여기서 왜 중개 사고가 나는지에 대해서 이론적으로 공인중개사들이 배워본 적인 전혀 없어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.480,
+                "end": 26.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇겠죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.617,
+                "end": 27.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 전혀 없어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.430,
+                "end": 28.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과목이 없으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.370,
+                "end": 29.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.030,
+                "end": 30.797
+            }
+        ]
+    },
+    "summary": "공인중개사들이 이론에서 배우지 못한 부분과 실무에서 어떤 부분을 조심해야 하는지에 대한 강의를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

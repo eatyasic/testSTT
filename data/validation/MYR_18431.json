@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18431",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.34,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팩트 아니면 안 믿으시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.919,
+                "end": 2.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 안 믿어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.568,
+                "end": 3.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 개통하면 오를 거예요 그러면 개통하는 게 진짜 언제 올랐는지 다 찍어봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.769,
+                "end": 9.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찍어보고 제가 찍어봤더니 가양동 9호선이 2009년도 개통했는데 2016년도까지 계속 떨어졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.414,
+                "end": 18.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억에서 4억까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.152,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "나는 팩트가 아니면 안 믿고 다 찍어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18431_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYR_17958",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 58.858,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 미리 보는 세법 개정안입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼인 증여세 그리고 부동산 양도세 손댄다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.095,
+                "end": 11.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 이제 거의 확정된 것 같고 최근 나온 내용을 보니까 어디까지 손을 댈 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.504,
+                "end": 17.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 관건이라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.985,
+                "end": 20.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 여기에 적혀있지 않은 취득세 중과 완화 그리고 주택 임대 사업자 이것도 저는 관심 사항인데 아직까지 거기에 대해서는 얘기가 안 나온 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.714,
+                "end": 31.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 현재 시점 기준에서 지금 7월 17일이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.200,
+                "end": 35.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 라이브 방송하고 있는 게 그래서 제헌절 날 한번 맞이해서 미리 보는 세법 개정안 어떤 내용들 나오는지 조금 업데이트 해보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.545,
+                "end": 43.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미리 말씀드리는데 지난 번 제가 올려드린 영상에서 크게 차이 나는 건 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.832,
+                "end": 48.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 혼인 증여세, 부동산 양도세 손댄다 어디까지 할 거냐가 관건인데 @이름1 기자님이 7월 17일 제헌절 새벽 1시에 올리신 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.368,
+                "end": 57.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 경제를 제가",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.064,
+                "end": 58.858
+            }
+        ]
+    },
+    "summary": "제헌절을 맞이해서 세법 개정안을 업데이트 해 볼 예정인데 혼인 증여세와 부동산 양도세에 손대는 것은 거의 확정이고 어디까지 손을 댈 것인지 그게 관건인 상황이며 취득세 중과 완화나 주택 임대 사업자 관련 사항은 아직 이야기 나온 게 없는 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17958_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18723",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.537,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 길죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 우리가 이제 글로 보니까 잘 와닿지가 않잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.299,
+                "end": 4.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 제가 좀 제 책에 있는 걸 간단히 보여 드릴 건데 어 해당 내용은 제 책에 이제 셋째 마당에 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.741,
+                "end": 10.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "셋째 마당에 보면은 이제 양도세 맞춤 절세 플랜이라고 있는데 셋째 마당에 어 3주택 비과세가 가능하다고 여기 파트를 보면은 임대 사업자의 거주 주택 비과세 특례가 178페이지부터 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.609,
+                "end": 24.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 178페이지 제가 잠깐 보여드리자면",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.132,
+                "end": 28.528
+            }
+        ]
+    },
+    "summary": "해당 내용은 제 책 셋째 마당에 보면 양도세 맞춤 절세 플랜이라고 있는데 3주택 비과세가 가능하다고 임대 사업자의 거주 주택 비과세 특례가 178페이지부터 나와 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18723_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

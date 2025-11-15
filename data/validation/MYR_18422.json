@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18422",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.937,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 어떤 그 큰 가르침은 그냥 생기지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 이거를 역조사를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.638,
+                "end": 11.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역조사라는 건 어떤 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.868,
+                "end": 14.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거에 지하철이 개통했을 때의 아파트 단지 흐름이 어땠었는지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.198,
+                "end": 20.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.204,
+                "end": 20.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개통했을 시점 그리고 그 시세 흐름이 어땠는지 그런데 개통하는 시점에 오르지 않더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.645,
+                "end": 27.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.646,
+                "end": 28.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 이제 알려주는 사람이 저는 어떻게 배웠냐면은 발표 날 때 오르고 착공할 때 오르고 개통할 때 오른다 그래가지고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.061,
+                "end": 37.937
+            }
+        ]
+    },
+    "summary": "내가 역조사를 해보니까 개통하는 시점에 오르지는 않더라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

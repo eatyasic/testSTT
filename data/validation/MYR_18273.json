@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18273",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 1년 이상은 66프로 2년 이상도 66프로 등기될 때까지 66프로 부가세라기 보다는 이제 지방소득세라고 하는게 좀 더 맞을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 우리 다시 그림으로 가면은 이게 취득세를 피하기 위해서 팔고는 싶은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.654,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "지방 소득세가 붙기 때문에 취득세를 매각하려 하는 것에 대해서 생각을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18273_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

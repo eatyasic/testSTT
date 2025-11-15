@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYR_19577",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "깨끗한 피부 그다음에 좀 웬만큼 날씬한 몸매 그다음에 이제 사람한테 호감을 살 수 있는 온화한 편안한 미소 이렇게까지만 준비가 좀 돼도 외적인 거는 조금 끝났다고 볼 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 간혹 선생님 저 브이엑스 이거 그 교정기 꼈는데 될까요 면접볼 때는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.897,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "깨끗한 피부 그리고 날씬한 몸매 그리고 호감을 살 수 있는 온화하고 편안한 미소로 외적인 거는 끝났다고 봐야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

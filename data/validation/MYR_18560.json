@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_18560",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 똑같이 문재인 때처럼 문재인 정부 때처럼 제일 좋은 게 많이 올 수밖에 없고 그냥 서울이든 경기도든 아님 지방이든 저가형 매물들은 더 이상 오르기가 쉽지 않다라고 전 생각 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 마지막 부분 말씀해 주셨는데 아까 취득세 중과 완화 관련해 가지고 뭐 이게 다주택자도 있고 건설사 입장도 있고 여러 가지가 있었지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.147,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "문재인 정부 때처럼 제일 좋은 게 많이 올 수밖에 없고 서울이든 경기도든 지방이든 저가형 매물들은 더 이상 오르기가 쉽지 않다고 생각한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

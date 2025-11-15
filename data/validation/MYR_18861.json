@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18861",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.356,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쭉 늘어나면서 2019년이 되면서 디티 매장이 정점을 찍습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거는 지금 누적이 아니라 그 해에만 늘어난거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.342,
+                "end": 9.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 해에만 늘어난거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.351,
+                "end": 10.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2019년 기준으로 142개의 점포가 신규 출점을 했는데 그 중에 58곳이 디티 매장이라는 것이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.431,
+                "end": 18.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 40퍼센트가 넘네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.126,
+                "end": 19.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.415,
+                "end": 19.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10개 중에 4개가 디티 매장이라는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.903,
+                "end": 22.356
+            }
+        ]
+    },
+    "summary": "화자1은 2019년 기준으로 142개의 점포가 신규 출점을 했는데 그 중에 58곳이 디티 매장이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

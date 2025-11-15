@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17446",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.648,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 후순위 확인한 거에 덧붙여서 현장 가서 시세 조사 그다음에 얼마나 나가나 값어치가 되는지 여부가 필수 2개가 맞물려가지고 이 이 금액의 적정선을 봐야 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 물건 사는 거하고 똑같은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.965,
+                "end": 12.502
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇네 어 쉽게 말해서 그냥 뭐 내가",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.512,
+                "end": 15.648
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 등기부등본상의 순위를 확인하는 것에 덧붙여서 현장 가서 시세 조사한 다음에 값어치가 얼마나 되는지 이 2개가 맞물려서 금액 적정선을 봐야 한다며 물건 사는 것과 똑같다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

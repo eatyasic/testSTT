@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18481",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.423,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그 인덕원의 가치는 계속 있으니까 내가 너무 바닥 이거보다 더 떨어지는 거 기다리기보다는 그 또 놓치기보다는 좀 사는 게 더 낫지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 1주택자는 사실 지금 갈아타기 되게 좋은 시즌이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.288,
+                "end": 16.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 보니까 상승장에서는 상급지와의 가격이 벌어졌다가 하락이 되면 이 가격 차이가",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.442,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "인덕원의 가치는 계속 있으니까 놓치기보다는 사는 게 더 낫지 않을까라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

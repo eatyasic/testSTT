@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18564",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.727,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 우리가 이제 전세 사기 같은 경우에도 내용을 좀 구분을 하셔야 되는데 우리가 사기라는 게 말 그대로 남을 이렇게 기망해서 속여서 어떤 불법적인 이득을 얻으려고 하는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 그런 건 처벌 받아야 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.642,
+                "end": 12.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어떤 이것도 사업이기 임대업도 사업이기 때문에 사업이 안 되서 사업을 접어야 될 수도 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.563,
+                "end": 18.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 문제는 그게 뭐냐면 그게 이제 임차인한테 피해가 가는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.639,
+                "end": 21.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 오히려 저 같은 경우는 아 차라리 그러면 그 임차인이 피해를 보면 안 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.543,
+                "end": 27.727
+            }
+        ]
+    },
+    "summary": "전세 사기 같은 경우에도 내용을 구분을 해야 하는데 사기라는 게 말 그대로 남을 기망하고 속여서 불법적인 이득을 얻으려고 하는 거라서 당연히 처벌 받아야 되는데 임대업도 사업이기 때문에 사업이 안 되서 접어야 될 수도 있는 건데 문제는 그게 임차인한테 피해가 가는 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

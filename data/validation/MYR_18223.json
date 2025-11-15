@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYR_18223",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.827,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 뒤에 에 설명 드리도록 할게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 임대 주택 공급을 위해서 뭔가 좀 새로운 거를 지금 정부가 어 계획 중인 거 있는 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.389,
+                "end": 9.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 토지 소유자하고 주택 소유자가 다르면 이거 임대 주택 등록으로 중고 협상 배제 같은 거 안 되거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.319,
+                "end": 15.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 앞으로는 그것도 가능하도록 하겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.350,
+                "end": 18.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 토지 소유는 서울시다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.319,
+                "end": 20.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 건물 소유는 주택은 제네시스 박이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.499,
+                "end": 23.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 원래는 안 됐었는데 여기에 대해서 중고 협상 배제해 주겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.542,
+                "end": 27.827
+            }
+        ]
+    },
+    "summary": "임대 주택 공급을 위해서 정부가 새로운 계획을 하고 있는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17502",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실제 생계로는 함께 살고 있는 거죠 함께 살고 있는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이게 빨간색이 1세대라는 거예요 1세대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.303,
+                "end": 7.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민등록표 주민등록표 상으로는 1세대가 두 명이지만 이 빨간색 주민등록표 상으로는 두 명이지만 빨간색 상으로는 세 명이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.482,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "남성이 주민등록표 상으로는 1세대가 두 명이지만 생계를 같이 하며 함께 살고 있기 때문에 가족은 세 명이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

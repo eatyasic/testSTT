@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYR_18752",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 42.809,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "(배경음악) 자 5월달에 여러분들이 하셔야 되는 것 중의 하나가 종합 소득세 신고가 있는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그중의 하나가 뭐냐면은 주택 임대 소득에 대해서 여러분들이 이제 신고 납부 하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.990,
+                "end": 15.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 얼마 전까지는 수입금의 2,000만 원 이하까지는 비과세였었는데 이제 전면 과세로 바뀐 지 몇 년 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.293,
+                "end": 22.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 내가 수입 금액이 있으면 거기에 대해서 경비 관련된 거 털고 그래도 남으면 그게 이제 소득 금액이라고 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.228,
+                "end": 30.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 거기에 대해서 세금을 내야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.574,
+                "end": 33.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 좀 오늘 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.097,
+                "end": 35.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려운데 한번 잘 들어 주시고 어 이거 이제 필요하신 분들은 세금 신고 납부 하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.375,
+                "end": 42.809
+            }
+        ]
+    },
+    "summary": "5월에 주택 임대 소득에 대해서 신고 납부해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

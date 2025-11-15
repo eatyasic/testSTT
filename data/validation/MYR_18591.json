@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18591",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.475,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 왜 화가 나냐면 이런 식으로 사칭해가지고 하는 사람들도 행태도 화가 나지만 이 카톡이 물론 모든 걸 다 잡아낼 수 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모든 걸 다 잡아낼 수는 없는데 아이 그렇다고 이렇게 막 좀 이렇게 분명히 신고가 들어갔을 건데 왜 여기에 대해서도 아직까지 이렇게 에 계속 이렇게 남아있는지 제가 아마 요고 했을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.915,
+                "end": 21.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 제가 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.559,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "사칭하는 사람들의 행태에도 화가 나지만 분명 카톡에 신고가 들어갔을 건데 아직까지 남아있는지 이해가 되질 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18591_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

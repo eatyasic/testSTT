@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18733",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.962,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 막 여러분들이 오피스텔이고 뭐 빌라인데 자진 말소 된다 이렇게 잘못 알고 계셔 가지고 절반 임대했으니까 여기 나오죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절반 임대했으니까 내가 말소해 가지고 뭐 그때부터 5년 안에 팔아서 비과세 받겠다 이렇게 착각하시는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.351,
+                "end": 14.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절대 그렇지 않다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.187,
+                "end": 17.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 짧은 글이지만 굉장히 중요한 내용이 많이 있었고 여러분들 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.164,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "여러분이 오피스텔과 빌라가 자진 말소가 된다고 잘못 알아서 임대 기간의 절반을 임대했으니까 자진 말소해서 그때부터 5년 안에 팔아서 비과세 받겠다고 착각하면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

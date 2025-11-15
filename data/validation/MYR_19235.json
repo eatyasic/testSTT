@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19235",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.9,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 제가 퀘스쳔을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결정은 항상 스스로 하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.880,
+                "end": 4.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야 얘가 조금 더 빠져져도 그걸 버틸 마음의 힘이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.485,
+                "end": 9.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 딱 찍어 줬을 때 그걸 매수했다 그러면 그 사람이 원망 되는 것도 있지만 그걸 버틸 힘이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.665,
+                "end": 16.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마음이 무너지게 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.689,
+                "end": 18.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 공부 충분히 하시고 제가 초보 때 계절이 3번 바뀌도록 임장했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.377,
+                "end": 25.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겨울에 시작해서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.099,
+                "end": 26.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등기를 9월에 쳤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.316,
+                "end": 27.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음 해 9월 얼마나 무서웠겠어요 제 전재산 들어가는 건데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.916,
+                "end": 33.900
+            }
+        ]
+    },
+    "summary": "여자는 부동산 공부를 충분히 하라고 이야기하면서 결정은 항상 스스로 해야 한다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19235_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18387",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 잘 쓰는 저는 약간 그게 궁금했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 저자가 그러면 실제 가장 잘 쓰는 사이트는 뭘까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.389,
+                "end": 6.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저랑 한번 비교해 보려고 어떤 걸 제일 많이 쓰세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.407,
+                "end": 10.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아실입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.061,
+                "end": 11.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아실 네 여기서 여러분들 아실은 무슨 과일 이름이 아니고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.820,
+                "end": 17.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 실거래가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.738,
+                "end": 19.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아실을 가장 잘 쓰고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.013,
+                "end": 20.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아실을 가장 많이 쓰는 이유는?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.806,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "남성 화자가 저자가 가장 잘 쓰는 사이트는 뭔지 궁금하다고 질문하자 여성 화자는 아실이라고 대답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18387_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

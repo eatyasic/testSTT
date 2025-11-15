@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18498",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그전에 이제 619도 나왔었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 연속적으로 주택 임대사업자 혜택을 축소하면서 급기야는 710 대책 때 이제 아파트 신규 등록은 막아버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.659,
+                "end": 10.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 이제 민간 단기 이거 4년짜리 있었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.735,
+                "end": 16.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 4년짜리도 그냥 없애버리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.181,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "정부는 연속적으로 주택 임대사업자 혜택을 축소하면서 급기야는 710 대책 때 이제 아파트 신규 등록을 막아버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18453",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.44,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 골고루 골고루 좀 지식을 한 겹 정도 깔고서는 좀 시작을 했으면 좋겠어서 이 책을 좀 쓰게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.813,
+                "end": 8.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그래서 책을 이제 다 봤는데 목차를 보니까 1장이 아파트에 투자한다 2장이 아는 만큼 보이고 보는 만큼 보는데 이게 약간 좀 대출 관련된 내용 특히 대출 관련 내용도 있고 이제 집테크 관련된 것 말이 있고 그리고 이제 맞춤형 투자로 실속 챙기자 여기 이제 청약 분양권 경매 갭투자 재건축 재개발 이렇게 다 나오고 특히 이제 자산별 투자 모의 실험 이거 재미있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.673,
+                "end": 33.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6천만 원부터 5억까지 그리고 이제 세금도 이제 4장에 들어가 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.949,
+                "end": 40.440
+            }
+        ]
+    },
+    "summary": "나는 이 책에서 특히 이제 자산별 투자 모의 실험이 재미있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18453_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 69,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

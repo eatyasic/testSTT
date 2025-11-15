@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18997",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.657,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지역가입자는 지역가입자는 직장가입자 피부양자 외에 모든 자를 가르킵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통상 뭐 자영업자라든지 소상공인들 그리고 아 여기에서 근로자 없는 1인 사장님들도 지역가입자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.113,
+                "end": 14.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 월 60시간 이상 근로자가 한 명이라도 있으면은 그 사업자는 직장가입자가 되는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.061,
+                "end": 20.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 고용을 했으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.625,
+                "end": 22.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.540,
+                "end": 24.657
+            }
+        ]
+    },
+    "summary": "직장가입자와 피부양자 외 자영업자, 소상공인, 월 60시간 근로자가 없는 1인 사장님들이 지역가입자에 해당한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

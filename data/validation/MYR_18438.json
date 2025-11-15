@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18438",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "준비를 했는데 사실 @이름1님 같은 경우는 근데 그 @이름1 그 닉네임의 뜻이 뭐예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 땅 부자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.019,
+                "end": 7.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 땅 부자?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.837,
+                "end": 9.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마 전에 @이름2님 나오셨는데 빌딩 부자",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.173,
+                "end": 13.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.299,
+                "end": 14.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비슷하네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.286,
+                "end": 15.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그게 이제 뭔가 큰 활동을 하려고 만든 게 아니고 아무 생각 없이 만들었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.032,
+                "end": 20.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "똑같이 말씀하셨어요 그분도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.577,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "닉네임은 큰 활동을 하려고 만든 게 아니라 아무 생각 없이 만들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

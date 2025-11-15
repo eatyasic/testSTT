@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYR_19294",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.816,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠 그리고 지금 여기 내용에는 안 나와있는데 제일 좋은 방법이 제가 대표자 인건비라고 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 여러분들이 오해하시는 게 이거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.883,
+                "end": 8.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 오해하시는 게 뭐냐면 아니 나는 이 법인 사업자에서 대표자 인건비를 받을 건데 전 어차피 부동산이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.329,
+                "end": 16.816
+            }
+        ]
+    },
+    "summary": "한 남자가 대표자 인건비에 대해서 오해하는 부분을 설명하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19294_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

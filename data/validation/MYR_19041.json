@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19041",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.267,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인 명의로 되어있는 그 부동산을 이제 증여하려면 그 주식으로 증여를 해줘야 되거든요 자녀한테 주식 평가 해 가지고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.138,
+                "end": 7.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 증여를 할 때 평가를 해야 되잖아요 우리가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.623,
+                "end": 10.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비상장 주식 평가",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.652,
+                "end": 11.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.979,
+                "end": 12.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 재무제표 대차 대조표하고 손익 계산서 재무 상태표 손익 계산서 가지고 평가해야 되는데 그 재무 상태표에 있는 그 취득 원가 그거 말고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.402,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "법인 명의로 되어 있는 부동산을 증여하려면 주식 평가를 해서 주식으로 증여를 해 줘야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

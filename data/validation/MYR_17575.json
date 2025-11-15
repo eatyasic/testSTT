@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17575",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 53.019,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입지가 완전 다르니까 그랬을 때 이걸 내가 갖고 싶은지까지 같이 판단을 해줘야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 결국에는 비교를 해야 되는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.697,
+                "end": 7.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기준점을 잡고 그죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.399,
+                "end": 8.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그쵸 지역에 대한 입지 이해 가격 가치에 대한 이해 그리고 나서 비교를 해야지만 이 선택이 정말 괜찮겠다라는 확신이 들거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.553,
+                "end": 16.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대구의 1급지면은 서울의 1급지에 대략 몇 퍼센트가 될까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.733,
+                "end": 21.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 아까 신길에 있는 래미안 하고 그다음 동대문구에 있는 래미안 크레시티가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.036,
+                "end": 28.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동작구에 있는 신축도 비슷 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.338,
+                "end": 31.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대략 한 50프로에서 55프로 사이예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.576,
+                "end": 34.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남구 대비 강남구에 있는 래대팰 대비 저는 그게 머릿속에 들어와 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.507,
+                "end": 40.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 그래서 동대문구 대장 살래 아니면 그 범호동 그냥 살래라고 했을 때 선택은 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.683,
+                "end": 49.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 재미난 건 전세가가 얼마냐 가보자 했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.274,
+                "end": 52.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.360,
+                "end": 53.019
+            }
+        ]
+    },
+    "summary": "전문가는 입지가 다르기 때문에 자기가 원하는 지역의 가격 가치 이해과 입지 이해를 하고 비교를 해야 확신이 들 수 있다고 말 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17575_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

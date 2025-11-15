@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17533",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 초점은 거기 가 있으니까 스트레스를 덜 받는다고 말씀을 드리고 결국은 앞으로 일본으로 갈지 안 갈지가 당장은 아니라고 말씀을 드렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 우리나라가 이제 경제가 성장을 안 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.861,
+                "end": 10.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해도 지금 1퍼센트 대 뭐 중반 이런 얘기 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.863,
+                "end": 15.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라 잠재 성장률이 지금 2프로가 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.260,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "박사는 앞으로 우리나라 부동산이 당장은 일본처럼 되는 건 아니지만 우리나라가 경제 성장이 올해도 1프로 대 중반으로 2프로가 안 되고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

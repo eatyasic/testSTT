@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19507",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감투세가 되면 전면과세니까 이런 질문들을 많이 하시는데 그럴 필요가 없다라는 걸 말씀을 드리",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.292
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 왜 왜 필요가 없죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.302,
+                "end": 6.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그 의제 취득가액이라는 개념이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.531,
+                "end": 9.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.069,
+                "end": 9.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 무슨 무슨 얘기냐면요 누구나 상식적으로 갑자기 과세가 된다고 하면 팔아 버리겠죠 그럼 팔아 버린다는 게 말이 판 거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.646,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "감투세가 되고 전면과세로 바뀌어도 비과세일 때 팔 필요가 없다며 의제 취득가액이라는 개념이 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

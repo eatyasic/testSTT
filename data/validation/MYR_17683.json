@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17683",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.312,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "100퍼센트 원화 자산에다가 다 몰빵을 해 놓으면 실제로 헷징하기가 굉장히 어렵지 않을까 이런 생각이 좀 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 어 저희가 뭐 2007년 2008년 금융위기 때도 마찬가지겠지만 그 당시 환율이 굉장히 올라갔잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.869,
+                "end": 12.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시에 달러 자산을 보유하고 게셨던 분들은 한국에 또 부동산 투자를 쉽게 하실 수 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.446,
+                "end": 17.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐 달러는 올라갔는데 한국의 자산 가치는 떨어졌으니까 오히려 엄청나게 이득을 볼 수가 있었던 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.315,
+                "end": 23.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이런 식으로 그니까 우리가 살다 보면 어쨌든 위기 상황은 1번씩 온다고 저는 생각을 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.681,
+                "end": 29.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이런 시기에 헷징할 수 있는 자산이 뭐냐 달러자산이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.328,
+                "end": 33.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 달러 자산을 벌 수 있는 방법이 뭐냐 미국 부동산이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.459,
+                "end": 36.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 의미에서 좋은 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.609,
+                "end": 38.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정리를 하자면은 미국 부동산을 사면은 어떤 취득세라든지 양도세라든지 절세적인 측면도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.831,
+                "end": 44.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.551,
+                "end": 45.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그런데",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.303,
+                "end": 46.312
+            }
+        ]
+    },
+    "summary": "남성은 미국 부동산에 투자하는 것은 위험 분산 차원에서 좋은 거 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

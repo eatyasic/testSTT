@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18787",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.735,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중심적으로 말씀을 드릴 거고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결론부터 말씀드리자면 분양권 단기 양도 세율, 이제 분양권은 또 단기 양도 세율도 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.842,
+                "end": 7.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등기 칠 때까지 60퍼센트 정도죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.093,
+                "end": 8.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 안 바뀌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.552,
+                "end": 10.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 가끔가다가 다 그러신 건 아닌데 일부 몇몇 분들이 바뀐 것 아니냐.라고 어 오해하시는 분들이 있어서 말씀을 드리려고 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.387,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "분양권 단기 양도 세율은 등기 칠 때까지 60퍼센트다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18787_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

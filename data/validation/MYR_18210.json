@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18210",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 원금이랑 얼추 비슷한 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.164,
+                "end": 2.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 어 내가 가진 재건축 아파트는 나중에 신축이 될 것이고 근처에 일자리도 들어올 거고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.716,
+                "end": 11.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.070,
+                "end": 11.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 지하철도 뭐 새로운 호재도 있고 가만 생각해 보니까 이걸 지금 팔면 안 되겠다는 생각이 들었죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.512,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "여러 가지 조건들을 따져 보니까 지금 팔면 안 되겠다는 생각이 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18154",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.618,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느 구다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 딱 봤을 때 노후 주택이라 하면 좀 있으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.718,
+                "end": 2.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 물론 서초 강남 빼고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.907,
+                "end": 4.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.640,
+                "end": 5.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어느 구나 다 깔려 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.277,
+                "end": 7.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 상대적으로 접근하기도 훨씬 쉽고 근데 다시 말씀 드리지만 분명히 리스크를 체크할 줄 아셔야 된다는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.195,
+                "end": 14.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 리스크를 체크하는 어떤 그 조심해야 되는 부분.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.469,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "어느 구에 다 깔려 있기 때문에 리스크를 체크해서 접근해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_19448",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.723,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 A주택을 B주택 완공된 상태로 팔았어도 이게 적용이 가능하다라고 생각을 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 으리네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.573,
+                "end": 9.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 조금 더 가면은 이거 보세요 이거 완공된 후 2에서 3년 이내에 종전주택 양도잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.055,
+                "end": 16.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.397,
+                "end": 16.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 완공된 후 당연히 주택인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.796,
+                "end": 18.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.445,
+                "end": 19.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 주택이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.362,
+                "end": 20.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.511,
+                "end": 21.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 적용이 되는 거잖아요 이 규정이 그래서 저도 그렇게 곰 생각을 좀 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.028,
+                "end": 25.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 근데 요즘엔 이제 주택 거래가 워낙 안 되니까 아 그럼 내가 완공되기 전에 팔면 되지 않냐라고 쉽게 말씀하실 수 있지만 요즘에 거래가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.287,
+                "end": 32.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.932,
+                "end": 33.496
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 이게 놓칠 수가 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.506,
+                "end": 34.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 팔립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.752,
+                "end": 35.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그러면 만약에 이 경우에 요렇게 그럼 마지막에 요 방법도 있을 거 아니에요 아까 방금 말씀하신 것처럼 자 완공되기 전에 3년 이내에 팔려고 했는데 안 팔려",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.308,
+                "end": 43.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.022,
+                "end": 43.710
+            }
+        ]
+    },
+    "summary": "완공되기 전에 팔면 되지 않냐라는 말을 할 수 있겠지만 요즘 주택 거래가 잘 되지 않아 놓칠 수가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

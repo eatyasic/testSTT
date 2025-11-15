@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18650",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 나오는 보유세 쪽에 말씀을 드릴 건데 보유세가 22년 7월에 이제 말 그대로 종부세죠 종합부동산세가 매인이었지만 세율에 대한 협의점이 결국은 중도 중간선에서 조정이 됐었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.942,
+                "end": 14.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 조정한 대로 결국 통과가 안됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.418,
+                "end": 16.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 바가 비슷하게 취득세에서 혹시나 적용이 될까 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.582,
+                "end": 20.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.176,
+                "end": 20.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 우려되는 바가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.680,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "보유세가 22년 7월에 종합부동산세가 메인이었지만 세율에 대한 협의점이 중도 중간선에서 조정이 됐었고 조정한 대로 통과가 안됐었는데 비슷하게 취득세에서 적용이 될까 우려가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19393",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.416,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년 이상 그리고 전체 세대원이 모두 거주를 하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중요한 게 뭐냐면 지역 불문이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.745,
+                "end": 7.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상관없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.654,
+                "end": 9.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 비조정이라도 그냥 무조건 거주를 해야 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.321,
+                "end": 12.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 여기서 많이 당해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.552,
+                "end": 14.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 이름 자체가",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.256,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "비조정이라도 지역 불문으로 전체 세대원이 2년 이상 거주를 해야 하는데 여기서 많이 못 지키는 경우가 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19393_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

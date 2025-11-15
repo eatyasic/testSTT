@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18149",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러다 보니까 그렇게 접근할 수가 있는 거거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 여러분들이 아이고 잘 사는 분 나와서 야 한남 뉴타운 3구역 그게 한두 푼도 아닌데 그것도 나한테 해당이 없어 이렇게 생각하지 마시고 내가 예를 들어서 경기도 평택이 됐든 안성이 됐든 한 4억 5억짜리 아파트 한 채를 갖고 있는 사람도 똑같단 말이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.660,
+                "end": 17.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.260,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "그렇게 접근할 수 있는 방법을 알려 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18149_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

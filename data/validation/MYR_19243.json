@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "filename": "MYR_19243",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 96.763,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등기를 쳐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인 집",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.886,
+                "end": 2.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.131,
+                "end": 2.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음 집을 사신 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.527,
+                "end": 3.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 여태까지 정말 뭐 했나 싶더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.743,
+                "end": 7.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 그게 이제 내 집에 대한 이야기를 했거든요 제가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.602,
+                "end": 10.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.796,
+                "end": 11.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 지금부터라도 정말 공부 열심히 하려고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.107,
+                "end": 15.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그분이 나는 자산도 하나도 못 늘렸어 이런 얘기가 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.049,
+                "end": 18.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.707,
+                "end": 19.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 집을 그냥 젊었을 때는 뭐 아파트 청약받으면 이제는 싸게 원가에 사서 집 이제 가격 좀 잘 오르고 이런 개념만 있고 아무것도 따로 공부하거나 하지 않고 막 바쁘게 살다 보면 어느새 그냥 후루룩 시간 가거나 어떤 안 좋은 경험 때문에 집은 안 사는 거야 이렇게 나 나름 좀 결론을 내리고 살거나 하다가 한 일이십 년 이상이 지났더니 정말 이렇게 됐더라 이거 그분이 그거 왜 남기셨겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.066,
+                "end": 45.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 어찌 보면 부끄러운데 그걸 보시는 많은 분들이 그냥 보고 귀감이 되면 좋겠다는 마음으로 저는 읽어졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.387,
+                "end": 53.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저한테만 하는 메시지가 아니라 그래서 지금 2030분들 그리고 뭐 40대도 마찬가지예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.510,
+                "end": 59.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.597,
+                "end": 61.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 하락장인데 네 더 빠질 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.040,
+                "end": 63.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어느 정도이다 싶을 때 내가 들어가 살면서 거기서 누리는 그 안정감 제 사촌 동생 하나도 인천에서 동구 하면 아주 변두리 공단 옆에 살았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.822,
+                "end": 76.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 20년을 집 1채 처음 그런 거 있잖아요 @이름1님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 76.446,
+                "end": 80.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 임대로 몇 년 살다가 이제 분양받아서 사는 24평 아이가 하나니까 사실 괜찮기는 했는데 그 집 살면서 사실은 뭐 지난 상승장 보기도 전에 조금 있으면 남편이 이제 정년 퇴직할 나이도 이제 다가오고 50 들어가면 지금 40대 후반이지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 80.143,
+                "end": 96.763
+            }
+        ]
+    },
+    "summary": "여자는 자신의 영상 댓글을 보고 그걸 보는 많은 사람들이 귀감이 되면 좋겠다는 마음으로 읽혔다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

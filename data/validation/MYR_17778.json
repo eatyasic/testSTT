@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17778",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.624,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 잘 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어렵죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.572,
+                "end": 8.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일단 두 개 케이스를 봤는데 안타깝게도 하나는 해피하지 못했고 하나는 그래도 해피했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.790,
+                "end": 17.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 제가 두 분한테 잔소리를 똑같이 하자면 팔기 전에 제발 좀 확인하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.540,
+                "end": 24.624
+            }
+        ]
+    },
+    "summary": "두 가지 케이스를 보면서 주택을 팔기 전에 요건을 확인하라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17778_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

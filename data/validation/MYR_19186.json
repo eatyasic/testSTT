@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19186",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그래가지고 한 번은 이런 일이 있었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 모르는 돈이 5만 원인가 6만 원인가 이렇게 들어온 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.491,
+                "end": 7.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 뭐냐고 도대체?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.610,
+                "end": 9.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 뭐지 뭐지 해서 막 봤더니 예전에 강의가 끝나고 뒤풀이를 했는데 뒤풀이 하면 이제 뭐 뭐 1인당 5천 원 1만 원 이렇게 좀 모아가지고 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.565,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "나도 모르는 돈이 5만 원인가 6만 원이 들어왔었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19186_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

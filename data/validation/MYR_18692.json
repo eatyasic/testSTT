@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18692",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 기존에 있는 걸 부시고 뭔가 하려고 했을 때 대부분은 전세가가 되게 낮게 되어 있어 가지고 투자금이 되게 많이 들어와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 소액밖에 없으신 분들이거나 이제 초보 투자자 분들은 이제 재건축이나 재개발 리모델링에 접근하기가 조금 상당히 제한적인 부분이 있는데 1기 신도시는 너무 또 특별하고 너무 좋게",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.610,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "소액밖에 없으신 분들이거나 초보 투자자 분들은 재건축이나 재개발 리모델링에 접근하기가 조금 상당히 제한적인 부분이 있는데 1기 신도시는 특별하고 너무 좋게 가져갈 수가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18692_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

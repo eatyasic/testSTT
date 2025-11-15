@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19196",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.195,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 좀 법인에 참여 넣어서 지분을 조금씩이라도 만들어 놓는 게 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 해당 법인이 이제 매출이 늘어나고 소위 말해서 몸값이 올라가면 그 똑같은 지분이라고 하더라도 넘길 때 돈이 더 들어갈 수 있기 때문에 이런 게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.089,
+                "end": 15.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 뒤에는 이제 으 간주 임대료 이자율 올라간 거 그런 건데 우리 메인 주제가",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.304,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "법인이 매출이 늘어나고 몸값이 올라가면 넘길 때 돈이 더 들어갈 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19196_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

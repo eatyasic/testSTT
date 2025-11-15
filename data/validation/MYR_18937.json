@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18937",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 시각도 좀 필요하다 해 가지고 여러분들이 잘 아시는 부동산 전문 @이름1 세무사님 감수까지 더해 가지고 이번에 작업을 했는데 아 정말 개인적으로 놀랬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜 그러냐면 @이름1 세무사님이 여러분들 아시는 것처럼 요즘에 굉장히 활동도 많이 하시고 어 특히 이런 부분에 있어서 이제 상속 증여 중심으로 해 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.152,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "많은 활동을 하고 있는 상속 증여를 전문 세무사가 감수 작업을 해줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18937_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17881",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.382,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 너무 저렴한 물건은 매매든 임대든 예 너무 싼 거는 그러니까 저렴하면 좋죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저렴하면 좋은데 어 이게 그 우리가 생각하는 그 상식 이하로 저렴한 물건이 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.090,
+                "end": 10.618
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세상에 공짜는 없습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.620,
+                "end": 11.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 분명히 그걸 여러분들이 아시고 너무 저렴하다라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.610,
+                "end": 15.382
+            }
+        ]
+    },
+    "summary": "상식이하로 너무 저렴한 물건은 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

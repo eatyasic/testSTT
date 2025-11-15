@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYR_18748",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.427,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등록을 지금 하라는 건데 지금 등록하면 이게 10년을 가지고 가야 된단 말이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 2분기 때 뭔가 세제 개편안이 또 나온다면서요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.864,
+                "end": 11.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 솔직히 약간 부정적인데 그러니까 그거 보고 등록하셔도 된단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.743,
+                "end": 16.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 등록하시는 건 좀 그렇고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.590,
+                "end": 19.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차라리 A를 꼭 비과세를 받고 싶다 그러면 조금 아쉽더라도 저라면 그냥 B를 매각할 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.585,
+                "end": 27.427
+            }
+        ]
+    },
+    "summary": "2분기 때 세제 개편안이 나오니 지금 등록하지 말고 그걸 보고 등록하셔도 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18748_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

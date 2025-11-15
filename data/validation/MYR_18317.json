@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYR_18317",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 67.801,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기본 세율 즉 1에서 3퍼센트가 아니라 8퍼센트, 12퍼센트 이렇게 중과를 매겨버린 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 주택 수가 굉장히 중요해졌는데 다시 말씀드리지만 취득세 주택 수 다르고 양도세 주택 수 기준이 다르다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.325,
+                "end": 16.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 날짜는 여러분들이 좀 불편하시더라도 반드시 외워야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.202,
+                "end": 21.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 이제 어떤 식으로 또 규제가 완화될지 모르지만 현재 기준으로써는 이 내용을 다 알고 계셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.554,
+                "end": 28.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 눈치 빠르신 분들은 눈치 채셨겠지만 내가 분양권 주택 분양권을 취득할 때 취득세에 있어서 뭔가 이슈가 될 수 있구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.417,
+                "end": 36.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 양도세에 있어서도 이슈가 될 수 있겠구나 이 두 가지를 여러분들이 아셔야 된다는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.526,
+                "end": 42.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에 대해서 설명을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.373,
+                "end": 45.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 경우 취득세가 어떻게 되는지 한번 좀 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.066,
+                "end": 49.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 주택이 이미 2채가 이렇게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.633,
+                "end": 53.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1번 주택, 2번 주택 파란색하고 노란색 주택 이렇게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.340,
+                "end": 57.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 나서 내가 분양권을 취득을 하는데 비조정에 있는 분양권을 취득을 한다고 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.172,
+                "end": 62.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런 이후에 1번하고 2번 주택을 매각을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.835,
+                "end": 67.801
+            }
+        ]
+    },
+    "summary": "남성 화자는 8퍼센트, 12퍼센트 이렇게 중과를 매겨버린 것이고 그래서 주택 수가 중요하기 때문에 날짜를 꼭 외워야 하고 내가 주택 분양권을 취득할 때 취득세, 양도세에 있어서 이슈가 될 수 있겠구나를 아셔야 한다고 말하며 먼저 취득세가 어떻게 되는지 알려주기 위해 예시를 든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18317_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

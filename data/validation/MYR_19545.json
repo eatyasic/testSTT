@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYR_19545",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 80.48,
+        "format": "MP4",
+        "date": "2022-04-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행성이 안돼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.219,
+                "end": 21.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안돼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.487,
+                "end": 27.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리와 빨리와.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.802,
+                "end": 44.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리와 행성아 빨리와 빨리와 못오지 바보야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.950,
+                "end": 49.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 올려줬으면 좋겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.223,
+                "end": 80.480
+            }
+        ]
+    },
+    "summary": "행성이 주인이 있는 침대 위로 올라가고 싶어 하지만 주인은 올라와 보라며 행성이를 놀리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

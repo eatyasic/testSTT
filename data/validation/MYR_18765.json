@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_18765",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.885,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일, 어찌 됐든 이제 요렇게 한번 수입 금액이 나왔다. 그러면 그 수입 금액이 아까 제가 말씀드렸던 매출액이라 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 매출액이 나오면 여기에 이제 경비를 빼야 돼요. 겅비를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.664,
+                "end": 10.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 분리 과세가 적용되는 2,000만 원 이하 먼저 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.192,
+                "end": 14.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 구청 세무서에 양쪽 모두 임대 사업자 등록을 했다면 60퍼센트 경비율을 적용한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.232,
+                "end": 20.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 해 보시면 아시겠지만 사실 그 주택 임대 사업을 하면서 경비 쓸 일이 그렇게 많이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.471,
+                "end": 27.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜 그러냐면 처음에 이제 들어오고 나가고 할 때 좀 수리 같은 거 간단히 하고 좀 그렇게 하겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.789,
+                "end": 33.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 들어가고 나면은 특별한 경우가 없으면 쭉 그대로 사시는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.473,
+                "end": 37.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 간단한 것들은 임차인분들이 그냥 수리해서 고치잖아요. 그죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.571,
+                "end": 42.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 저 60퍼센트 경비로 받는 거는 생각보다 꽤 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.169,
+                "end": 45.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 2,000만 원 이하 돼 가지고 요 60퍼센트 경비로 받는 게 제일 좋은 거죠. 어떻게 보면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.985,
+                "end": 51.885
+            }
+        ]
+    },
+    "summary": "구청 세무서에 양쪽 모두 임대 사업자 등록을 했다면 60퍼센트 경비율을 적용하는데 사실 주택 임대 사업을 하면서 경비 쓸 일이 많이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

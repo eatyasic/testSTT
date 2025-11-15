@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18803",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.744,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 예를 들어서 내가 이제 분양권을 취득했다고 합시다",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 요 때. 요 때 분양권을 취득을 했는데 이때 인제 준공이 되는 거예요. 입주를 하는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.427,
+                "end": 17.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이렇게 됐을 때 1년이 만약에 안 된다. 1년이 안 된다. 그러면 어떻게 되는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.802,
+                "end": 26.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득 세율이? 에 그 양도 세율이.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.838,
+                "end": 29.729
+            }
+        ]
+    },
+    "summary": "분양권을 취득하고 입주하는데 그 기간이 1년 미만일 때 어떻게 될까.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

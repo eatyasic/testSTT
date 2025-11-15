@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_18865",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.156,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지방으로 내려갈 수록 그 땅 값이 내려가는 걸 활용한건데 이제 추세적으로 디티가 늘어난다는 변수 하나와 그 과정에서의 땅 값 때문에 그 늘어나는 디티는 지방으로 늘어난다 라는 우리가 경향성을 한 번 짚어볼 수 있는 자료인 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.297
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면은 이게 인제 어떤 일종의 추세라고 본다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.307,
+                "end": 22.156
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 설명하는 자료는 추세적으로 디티가 늘어난다는 변수 하나와 그 과정에서의 땅 값 때문에 늘어나는 디티는 지방으로 늘어난다는 경향성을 짚어볼 수 있는 자료라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18865_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

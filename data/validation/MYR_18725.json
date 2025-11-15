@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_18725",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.483,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내용이 이 그림으로 다 할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 무슨 말이냐면 거주하고 있는 주택이 있는데 이 주택에서는 전 세대원이 2년 이상 거주해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.962,
+                "end": 8.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비조정이라도 거주해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.241,
+                "end": 9.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 여기서부터 여러분들이 한 절반 정도가 멘붕이 걸립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.895,
+                "end": 13.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비조정인데 왜 거주하냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.100,
+                "end": 14.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜냐하면 여러분들은 조정 이꼴 거주, 거주 이꼴 조정 이렇게만 머릿속에 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.316,
+                "end": 19.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 않아 그렇지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.051,
+                "end": 20.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나머지 주택을 전부 다 임대 주택으로 등록해야 되는데 이때 임대 주택 등록은 구청하고 세무서 양쪽 다 등록하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.492,
+                "end": 26.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의무 임대 기간이 현재는 10년입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.001,
+                "end": 29.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2020년 7월 11일 이전은 5년 그리고 7월 11일부터 8월 17일까지는 8년인데 지금은 10년이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.471,
+                "end": 35.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 등록 당시 기준 시가가 6억 이하 수도권 밖에는 3억 이하 그리고 의무 임대 기간 10년 동안 5퍼센트 이내만 임대료를 인상을 해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.995,
+                "end": 45.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어떤 일이 발생하냐면 잘 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.651,
+                "end": 48.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 임대 사업자가",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.612,
+                "end": 50.483
+            }
+        ]
+    },
+    "summary": "거주 주택에서 전 세대원이 2년 이상 거주해야 하는데 비조정이라도 거주해야 하고 나머지 주택을 전부 다 임대 주택으로 등록해야 하는데 구청하고 세무서 양쪽 다 등록해야 하고 등록 당시 기준 시가는 6억 이하이고 수도권 밖은 3억 이하이며 의무 임대 기간 10년 동안 5퍼센트 이내로 임대료를 인상해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

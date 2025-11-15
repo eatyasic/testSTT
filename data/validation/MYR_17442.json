@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17442",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.06,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 혹시 또 졸거나 뭐 이럴 수 있어서 아예 카메라를 켜놓고 계속 그 상가 들어간 입구를 거의 뭐 열 시간 그 촬영한 적이 있어서 빨리 돌리기 해서 몇 명이 왔다 갔다 했나 사람 명수를 확인한 적도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어차피 이제 그래야 이제 매출액이라든지 그런 게 나오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.485,
+                "end": 14.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체적으로 값어치가 있는지 없는지를 확인하려면 뭐 내 돈으로 보는 거지 요즘 뭐 인터넷 로드뷰가 잘 되어 있다 하더라도 저 한계가 있다고 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.151,
+                "end": 21.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 자 그런데 여기 지금 이제 준비해 주신 거 보면은 등기부등권을 좀 잘 봐야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.686,
+                "end": 27.060
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 경매로 나온 상가를 방문해서 카메라를 켜서 입구를 촬영해서 몇 명이 왔다 갔다 했는지 사람을 세어 본 적도 있다고 말하면서 전체적으로 값어치가 있는지 없는지 확인은 본인이 하는 것이라며 아무리 인터넷이 잘 되어 있다고 하더라도 한계가 있다고 본다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

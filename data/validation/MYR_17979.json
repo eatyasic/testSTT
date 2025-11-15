@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17979",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.902,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일반 기본 세율 중에서 가장 높은 45퍼센트로 하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그게 합리적이라고 개인적으로 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.284,
+                "end": 7.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 아직 이건 법이 개정돼야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.257,
+                "end": 9.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지켜봐야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.800,
+                "end": 10.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그게 첫 번째가 있고 두 번째가 뭐냐면은 다주택자 양도세 중과 자체를 폐지하려고 하는데 일단 2가지를 말씀드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.895,
+                "end": 20.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째는 다주택자 양도세 중과가 뭐냐 두 번째는 과연 폐지가 될 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.712,
+                "end": 25.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건데 여러분들이 다주택자 양도세 중과에 대해서 어 좀 이제 고 어 좀 고민을 하셔야 되는데 구분을 하셔야 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.365,
+                "end": 35.902
+            }
+        ]
+    },
+    "summary": "일반 기본 세율 중에서 가장 높은 45퍼센트로 하는 게 가장 합리적이라고 개인적으로 생각하지만 이건 법이 개정되어야 해서 좀 더 지켜봐야 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17979_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

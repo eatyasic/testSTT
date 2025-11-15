@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_19429",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.699,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요번 1월 26일날 나온 우리 그 내용인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.486,
+                "end": 5.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 뭐 크게 보자면 요거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.920,
+                "end": 8.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이건 좀 확대 해서 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.449,
+                "end": 9.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네 원래 2년 이내에 양도하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.715,
+                "end": 13.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.886,
+                "end": 14.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년 이내에 전입을 했었어야 돼요 근데 크게 그게 이제 3년 이내에 양도 3년 이내 전입으로 지금 변경된 상황인데 이게 제가 지금 오늘 녹화일 기준으로 2월 9일인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.422,
+                "end": 26.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.619,
+                "end": 27.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소득세법 시행령 개정 이게 시행령이 원래 개정되려면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.305,
+                "end": 32.699
+            }
+        ]
+    },
+    "summary": "2년 이내에 양도하고 2년 이내에 전입을 했었어야 했지만 이제 3년 이내에 양도 3년 이내에 전입으로 변경됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

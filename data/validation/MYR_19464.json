@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_19464",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.007,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조합원 6조건이랑 똑같습니다 예 그래서 A주택 취득하고 뭐 비과세 요건을 만족하고 1년 이상이 경과한 후에 B분양권을 취득하고 대신에 요건은 21년 1월 1일 이후에 취득한 분양권부터 적용이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 취득 시기가 당첨된 경우는 청약 당첨일이고 전매한 경우는 잔금청산 일이겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.403,
+                "end": 18.621
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러면은 저기 분양권 취득 시 같은 경우에 일단 당첨이 되면 당첨일",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.631,
+                "end": 22.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.805,
+                "end": 23.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 그 뒤에 이제 계약서 쓰고 계약금 내잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.148,
+                "end": 25.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.941,
+                "end": 26.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 좀 더 앞이겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.260,
+                "end": 27.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 당첨일로 봅니다 이건 뭐 정확하게 얘기가 나왔으 나왔으니까 이렇게 보시면 되고 조합원 입주권이랑 똑같아요 21년 1월 1일 이후에 B분양권을 취득한 경우는 3년 이내 종전주택양도하면 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.887,
+                "end": 39.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 5번",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.153,
+                "end": 41.007
+            }
+        ]
+    },
+    "summary": "A주택 취득하고 비과세 요건을 만족하면 1년 이상이 경과한 후에 B분양권을 취득하는 것이 21년 1월 1일 이후에 취득한 분양권부터 적용이 되고 3년 이내 종전주택을 양도하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

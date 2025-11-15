@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18270",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.539,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흔히 통하는 말처럼 됐는데 분양권 취득세에서는 그렇지 않다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아까같은 경우에 먼저 처분을 해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.855,
+                "end": 7.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 관련 법 조항을 보면 기존 1주택 상태에서 20년 8월 12일 이후 주택 분양권을 매입하면 그 순간 2주택자가 되고 2주택자가 추가로 분양권을 매입하게 되면 3주택자가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.871,
+                "end": 19.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세는 분양권 주택 완공시에 납부하지만 취득세율 적용 기준 날짜는 분양권 취득시점을 기준으로 해서 이걸 이제 좀 어려운 말로 시점 과제라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.339,
+                "end": 28.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 직장인 김모씨는 2주택 상태에서 서울의 한 아파트 분양권 취득했는데 아까 똑같죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.151,
+                "end": 33.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2주택 플러스 서울 분양권이니까 곧바로 얘가 3번이 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.206,
+                "end": 39.539
+            }
+        ]
+    },
+    "summary": "취득세 적용 날짜에 대한 기준에 대해서 설명을 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18270_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

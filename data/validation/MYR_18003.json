@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18003",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내년부터 혼인하는 경우에 인제 아 내년 증여세 공제 확대 혜택이 구체적으로 시행이 될 예정인데 그럼 내년에 시행된다 해서 하니까 내년에 꼭 혼인을 해야 되는 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구체적으로 혼인신고해야 되냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.812,
+                "end": 14.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 아니라 올해 하는 경우에라도 아마도 혜택이 될 거 같다 라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.050,
+                "end": 19.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 확정은 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.502,
+                "end": 21.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 내용인지 보죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.362,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "내년부터 혼인하면 증여세 공제 확대 혜택이 되니까 내년에 혼인신고를 해야 된다는 것이 아니라 아직 확정은 아니지만 올해 하는 경우에도 혜택이 적용될 것 같다는 내용이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

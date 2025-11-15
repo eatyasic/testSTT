@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19128",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "처분 기한을 말하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 이제 지금 이제 3년이죠 3년.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.434,
+                "end": 3.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.276,
+                "end": 3.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 날짜가 이제 그 우리 정부 들어선 날짜에 맞춰서 3년으로 다 개정이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.591,
+                "end": 9.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.710,
+                "end": 10.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 보시면 야 제가 또 이 집값과 이 좀 전에 처분 기한에 대해서 이렇게 한번 분석을 해봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.511,
+                "end": 17.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.315,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "처분 기한이 정부 들어선 날짜에 맞춰서 3년으로 개정이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

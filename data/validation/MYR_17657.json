@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17657",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 단기간에 그 공사를 해서 비싸게 팔던지 아니면 뭐 조그맣게 리모델링을 해서 이 집을 이 집의 월세를 좀 올린다든지 이런 것들이 이제 전략이 좀 구사가 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 의도적으로 만약에 내가 좀 그 거의 재건축 수준으로 하고 싶다 그러면 살 때 굉장히 허름한 매물을 사는 게 중요해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.142,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "한 남성이 단기간에 공사를 해서 비싸게 팔거나 리모델링을 해서 월세를 올리는 전략들을 구사할 수 있고 재건축 수준으로 하고 싶으면 허름한 매물을 사는게 중요하다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

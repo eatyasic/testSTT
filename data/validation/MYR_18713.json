@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18713",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.187,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "낮춰서 평형대를 넓혀서 가야 되니까 그러면 그 다음에 이제 분당이 안 되면 이제 평촌을 가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.534
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.544,
+                "end": 5.702
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 평촌에서 돈을 벌면 또 다들 분당으로도 많이 가고 싶어 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.712,
+                "end": 9.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 과천으로도 가고 싶고 하긴 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.680,
+                "end": 11.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.665,
+                "end": 11.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 서로 이제 왔다갔다 하는 그런 것들이 있기 때문에 고렇게 생각하셔 가지고 내가 아직은 아이도 없어 그래서 조금 공격적으로 할 수 있어 그러면 높은 지역에 좀 절대가 낮은 걸로 어 좀 평형을 줄여서 봐도 되고 그게 아니고 당장 이제에 거주를 해야 되고 10년 이상 거주할 거다라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.007,
+                "end": 31.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 집 마련으로 사실 지금 대출이 막 이렇게 금리가 왔다갔다 해서 불안 한 시기에 대출을 받으라고 하기에는 추천드리기는 좀 그런데",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.421,
+                "end": 42.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.120,
+                "end": 42.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.607,
+                "end": 44.177
+            }
+        ]
+    },
+    "summary": "만약에 분당이 안 되면 이제 평촌을 가는 거고 돈 벌면 다시 또 분당으로 가고 또 과천으로 가려고들 많이 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

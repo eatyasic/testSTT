@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17884",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.993,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 공동명의야",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.100,
+                "end": 2.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 남편만 왔어 아내 신분증, 위임장, 인감도장 다 있어야 되잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.500,
+                "end": 6.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원칙적으론 다 있어야죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.840,
+                "end": 7.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 부부니까 보통 넘어가 그러다 이제 혹시 사고가 나면",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.950,
+                "end": 12.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그럴 수도 있고 특히 이제 대리인 계약에서 사고가 많이 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.880,
+                "end": 16.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대리인 계약이 사고가 많이 있기 때문에 근데 그런 대리인 계약에서 사건 사고가 나는 그런 물건을 보면 굉장히 저렴한 물건 조금 뭔가 어 계약시에 뭔가 부족한 게 있어도",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.920,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "대리인 계약에서 사건 사고가 많이 나는 물건을 보면 굉장히 저렴한 물건들이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17884_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

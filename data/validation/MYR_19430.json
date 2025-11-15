@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19430",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 입법이 돼서 뭐 규제 심사, 법제처 심사 뭐 이런 과정들이 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 이제 법제처 심사 다음에 뭐 국무회의를 하고 뭐 이런 식으로 진행을 하는데 아직 시행령이 개정이 개정안 자체가 올라오질 않았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.890,
+                "end": 15.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 들리는 소문에 의하면은 이게 이미 법제처를 뭐 심사",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.775,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "법제처 심사 이후 국무회의를 하고 이런 식으로 진행을 하지만 아직 시행령 개정안이 올라오지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19430_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

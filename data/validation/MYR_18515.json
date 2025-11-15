@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18515",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.076,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한 가지 뭐 이런 건 있을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 수준에서 예를 들어서 뭐 초기 재개발 같은 걸 노리고 없는 셈 치고 난 그냥 종부세 합산배제만 받아도 된다 어 그런 것들을 그냥 묻어 두고 어 10년 이상 그냥 계속 가져가겠다 하시는 분들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.409,
+                "end": 15.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 해볼 만하기는 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.358,
+                "end": 17.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 그 녀석이 계속해서 주택 수가 카운트가 되기 때문에 어 다른 주택 비과세 받기가 굉장히 힘들다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.174,
+                "end": 23.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다른 주택 비과세를 받으려면 무조건 거주하셔야 되고 등록한 임대 주택도 요건 다 지켜야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.745,
+                "end": 29.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 거주 주택 비과세 특례 소득세법 시행령 155조 20항에 있는 건데 굉장히 좀 어렵기 때문에 이거는 제가 다음에 설명을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.300,
+                "end": 43.076
+            }
+        ]
+    },
+    "summary": "화자는 초기 재개발 같은 걸 노리고 종부세 합산 배제만 받아서 10년 이상 계속 가져가겠다 하시는 분들은 해볼 만하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

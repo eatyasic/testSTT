@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19080",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보다 양질의 서비스를 제공하기 위해서 열심히",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자산 관리 컨설팅 팀.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.696,
+                "end": 4.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 센터.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.589,
+                "end": 5.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 이따 한 번 좀 여쭤 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.366,
+                "end": 7.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 @이름1 세무사님은 저희 채널에서 좀 나오셔 가지고 명사 특강에서 뭐 평가하는 거라든지 상속 증여 관련해 가지고 좋은 말씀 많이 해 주셨는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.661,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 세무사에게 상속 증여와 관련해 좋은 말씀을 많이 해 주셨다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

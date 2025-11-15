@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17967",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.524,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한도를 늘려버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어떻게 하냐면은 자 여기 부모에서 받는 거를요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.453,
+                "end": 6.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5000이 아니라 1억 5000까지 해버리는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.495,
+                "end": 11.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1억 5000까지 그러면은 5000 공제하고 나서 1억이 남잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.453,
+                "end": 15.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이 1억에 대해서 10퍼센트가 되거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.809,
+                "end": 18.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증여세가 현 현 현행으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.210,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "요즘에는 부모에게 받는 것을 1억 5000만 원까지 받는데 이때 1억 5000만 원에서 5000만 원은 공제하고 남은 1억에 대해서 현행 기준으로 10퍼센트의 증여세가 붙는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17967_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

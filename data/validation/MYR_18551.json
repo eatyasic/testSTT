@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18551",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 보도 자료를 냈게 냈고 그 소급되는 날짜가 12월 21일 22년도기 때문에 아까 말한 7월 달에 낸다는 거는 안일 뿐이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국에는 9월 달 정기 국회 때 통과를 시켜야 되거든요. 근데 정기 국회라는 게 연말까지도 생각을 해야 되니까 그러면 연말까지 간다고 가정을 하면 소급 기간이 너무 길어져 버리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.596,
+                "end": 19.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년이나 차이가 나잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.466,
+                "end": 21.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 그 소급 날짜도 잊어버리신 분들도 많을 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.369,
+                "end": 25.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.167,
+                "end": 25.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 약간 느낌이 안 좋은 게 뭔 줄 아세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.665,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "보도 자료를 냈고 소급되는 날짜가 22년도 12월 21일이기 때문에 7월 달에 냈다는 거는 안일 뿐이고 결국 9월 달 정기 국회 때 통과를 시켜야 되는데 정기 국회라는 게 연말까지 간다고 가정하면 소급 기간이 1년이나 차이가 나는데 아마 소급 날짜도 잊어버리신 분들도 많을 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_19348",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말씀 드리는 거예요 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 내가 만약에 2주택이다 그런데 내가 3으로 갔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.127,
+                "end": 8.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.344,
+                "end": 9.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "똑같아요 빨간색으로 가면 규제지역이니까 12가 나오고 그 외로 가면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.623,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "한 남자가 2주택자에서 3주택자로 갈 때 규제지역으로 가면 12퍼센트가 나온다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18794",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.388,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "9일 한국일보가 주요 단지를 확인한 결과 시장 분위기는 잠잠했다. 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애초 전매 제한 규제가 풀리면 일제히 매도 물량이 쏟아질 거라고 전망했었는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.097,
+                "end": 11.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 글쎄. 제가 요즘 최근 이 라이브를 좀 바빠 가지고 못 하고 있는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.738,
+                "end": 16.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 했다면은 분명히 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.027,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "전매 제한 규제가 풀리면 일제히 매도 물량이 쏟아질 것으로 전망했지만 주요 단지를 확인한 결과 분위기는 잠잠했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18794_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19021",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.368,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자동차 뭐 이런 정보들을 투입하고 계산하기를 해보면 매월 본인의 예상 보험료가 산출이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이게 그대로 꽤 정확히 나오는 거잖아요. 그렇죠? 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.027,
+                "end": 11.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 지금 스마트폰에 어플로 다운로드 받아 가지고 손쉽게도 조회를 해볼 수가 있기 때문에 그렇게 뭐 그렇게 접근하시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.922,
+                "end": 20.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 이제 입력 값을 잘 넣어줘야 되는데 이제 뭐 대략적인 거를 확인할 때는 좀 가볍게 보시면 좋고 좀 더 정확하게 하고 싶다 그러시면 여기 그 고객센터가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.593,
+                "end": 31.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.024,
+                "end": 31.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전화해 가지고 물어보면 잘 알려 주시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.659,
+                "end": 33.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 이제 좀 더",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.785,
+                "end": 35.368
+            }
+        ]
+    },
+    "summary": "자동차같은 정보를 투입하고 계산하면 매월 예상 보험료가 산출이 되고 스마트폰 어플을 다운 받거나 고객센터에 전화해서 물어보면 손쉽게 조회가 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

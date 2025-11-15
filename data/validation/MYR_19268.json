@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYR_19268",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인으로 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이거는 법인세예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.863,
+                "end": 2.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세에는 그냥 하나 통을 해가지고 법인세를 납부해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.805,
+                "end": 7.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기에 뭐가 있냐면은 소위 말하는 추가 법인세라고 있는 있는데 토지 등 양도 차액에 대한 추가 법인세가 붙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.069,
+                "end": 14.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20퍼센트가 이렇게 나와요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.690,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "법인으로 할 때는 양도세가 아니라 법인세로 해서 통으로 법인세를 납부한다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

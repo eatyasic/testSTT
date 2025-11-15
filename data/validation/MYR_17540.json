@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17540",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 3자의 시각에서 바라보기 에 그리고 곱씹지 않기 이 반추라 그러거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응 그리고 망각하기 이런 말씀을 좀 드렸고 어 그리고 마지막으로는 이 내가 어 투자 사건에 실패했더라도 어 내 인생에 낙오자는 아니라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.854,
+                "end": 17.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 단일 사건과 내 인생을 연결하는 것은 굉장히 위험한",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.000,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "박사가 제 3자의 시각에서 보지 않고 곱 씹지 않고 망각하기를 말했고 마지막으로 투자에 실패 했더라도 내 인생의 낙오자는 아니라는 내용들을 책에 담았다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17540_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

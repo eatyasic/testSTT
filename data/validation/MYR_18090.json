@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18090",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.293,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주거 환경 개선을 사업을 하 하기 위해선 빌라 지어 진 걸 때려 부숴야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 아파트를 올려야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.331,
+                "end": 6.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 때려 부시고 올리는 데는 당연히 돈이 들어가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.089,
+                "end": 9.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.792,
+                "end": 10.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비용이 들어 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.395,
+                "end": 11.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 원래 재개발 재건축은 일반 분양을 해서 일반 분양 수입으로 빌라를 때려 부수고 아파트를 올 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.210,
+                "end": 20.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 일반 분양 수입으로 이걸 다 충당이 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.425,
+                "end": 23.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 조합원들이 분담금이라는 걸 내는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.828,
+                "end": 26.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.797,
+                "end": 27.293
+            }
+        ]
+    },
+    "summary": "한 남성이 주거 환경 개선을 사업에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

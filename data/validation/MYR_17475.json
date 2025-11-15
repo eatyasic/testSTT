@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17475",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.763,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세대 탓이나 시대 탓으로 생각해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 라이타 같은 것 잃어버리면 내 탓이라고 할 수 있는데 핸드폰을 잃어버려도 괜찮았어요. 내 탓이라고 해도 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.096,
+                "end": 8.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 너무 큰 어 실수라든지 이런 고통은 내 탓이요 하면은 우울증 밖에 안 와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.667,
+                "end": 14.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인간은 상황으로부터 그렇게 자유롭지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.374,
+                "end": 17.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 관계를 중시하는 집단적 사고 어 가 강한 이런 우리 한국 사회에서는 어 이게 더 이 또래 압박이라고 그러거든요. 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.592,
+                "end": 29.763
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입고 있는 남성이 요즘 세대들의 많은 대출에 대해서 세대 탓, 시대 탓으로 해야 한다고 말하고 있다. 라이터나 핸드폰 같은 것을 잃어버릴 경우 내 탓이라고 해도 되지만 큰 실수 같은 경우 내 탓이라고 하면 우울증이 걸린다며 한국과 같이 관계를 중시하는 집단적 사고가 강한 곳에서는 또래 압박이라고 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17475_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

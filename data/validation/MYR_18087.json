@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18087",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주소를 좀 하나 공유를 해드려야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 예스 아이캔 93이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.319,
+                "end": 6.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 제가 93 학번이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.370,
+                "end": 7.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 제가 원래 아이디 제 아이디 아이 아이디 맞죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.873,
+                "end": 12.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이디는 예스 아이캔예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.433,
+                "end": 13.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예스 아이캔",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.456,
+                "end": 14.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 제가 링크를 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.104,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "두 남성이 주소를 공유하고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18087_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

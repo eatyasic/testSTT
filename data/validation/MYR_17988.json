@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17988",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.3,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마치 뭐랑 비슷합니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 내가 이 펜을 만 원에 파는 데 뭐 이 이만 원이라고 해 놓고 50퍼센트 세일 하니까 만 원 원래 가격이 만 원인데 그건 약간 사기잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.419,
+                "end": 11.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 약간 그런 거예요 그런 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.767,
+                "end": 13.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 개인적인 생각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.598,
+                "end": 16.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생각이 다르신 분들도 물론 계시겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.511,
+                "end": 18.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 우리가 뭐 생각이 다를 순 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.702,
+                "end": 21.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다양성은 존중해야 되니까 그래서 어쨌든 저는 반대한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.361,
+                "end": 24.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 이 이 말이 저는 좀 맞지 않다고 생각한다 라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.732,
+                "end": 27.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 부자 감세가 아니라 이거는 정상화다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.025,
+                "end": 31.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그게 맞다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.380,
+                "end": 34.300
+            }
+        ]
+    },
+    "summary": "물론 제 생각과 다른 분들도 계시겠지만 제 개인적으로는 이것은 부자 감세가 아니라 정상화라고 생각합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

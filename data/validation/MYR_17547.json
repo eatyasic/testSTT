@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17547",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.762,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거는 펀더멘탈과 관계 없이 집값이 올라 버리는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.702
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 정부 때에 어젠다 중에 하나가 뭐였냐 하면은 이른바 공급 부족이라는 어젠다였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.712,
+                "end": 12.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공급이 제 생각에는 그렇게 부족하지도 않았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.005,
+                "end": 16.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 공급이 부족할 것이라는 이 불안 심리입니다 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.828,
+                "end": 21.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 불안 심리",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.779,
+                "end": 23.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불안 심리가 더 시장에 강하게 작용했다. 오히려",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.093,
+                "end": 28.762
+            }
+        ]
+    },
+    "summary": "박사는 전 정부의 어젠다 중에 하나가 공급 부족이었다고 말하며 본인의 생각에 공급이 부족하지 않았지만 앞으로 공급이 부족 할 것이라는 불안 심리가 시장에 강하게 작용 했었다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17547_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

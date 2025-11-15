@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19325",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.06,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 왜 이런 일이 생기겠냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소관 부처인 행안부의 이상민 장관 탄핵 소추안이 국회를 통과하며 불확실성이 커졌는데 여러분 여기서 알아두셔야 되는 게 뭐냐면 우리가 이제 부동산을 취득하면서 취득세가 있고 재산세가 있지 않습까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.021,
+                "end": 16.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 지방세법 이에요 지방세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.152,
+                "end": 18.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지방자치단체에 대해서 좀 쓰는 그런 기능을 하는 곳인데 이쪽의 주무부서가 행정안전부 입니다 행정안전부 행안부.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.147,
+                "end": 27.060
+            }
+        ]
+    },
+    "summary": "지방세법 관련 주무부서가 행정안전부인데 해당 부처의 이상민 장관 탄핵 소추안이 국회를 통과하여 불확실성이 커졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

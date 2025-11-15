@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18959",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 그런 내용이 예 그런 생각이 좀 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 인제 조금 여러분들이 아쉬워할 수도 있을 것 같아서 토지 관련된 내용도 좀 제가 적었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.781,
+                "end": 9.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 토지 관련된 절세에 대해서 최소한 알고 있어야 될 정보를 좀 적었는데 어 별도 마당까지 빼기는 약간 분량이 적어서 저희가 인제 권말 부록으로 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.320,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "여러분들이 아쉬워할 것 같아서 토지 관련 절세에 대한 최소한의 정보를 권말 부록에 적었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18959_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19217",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.572,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집이 20평이 있으니까 20평 하나 받는대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.157,
+                "end": 2.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬는데 뭐야 우리 집 나 5억 원은 하는 줄 알았는데 3억밖에 안해 한 평이 아 짜증나 팔아 막 이렇게 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.701,
+                "end": 7.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.881,
+                "end": 8.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 안타까운 거는 그걸 가지고 있다가 음 내가 아 돈이 없으니까 난 그럼 24평을 해야겠다 하고 24평을 신청하시는 분들이 제일 안타까워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.876,
+                "end": 19.542
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 그래서 이것도 영상 하나 찍었는데 물론 최근의 댓글에는 노부부고 진짜 감당하기 어려운데 이런 경우도 꼭 34평 해야 되냐 그건 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.552,
+                "end": 29.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 말씀을 드리는 것 24평, 34평, 42평 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.525,
+                "end": 35.568
+            }
+        ]
+    },
+    "summary": "여자는 재개발 원주민이 돈이 없어서 24평을 신청하는 게 안타깝다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19217_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

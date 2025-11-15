@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18282",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 취득세 같은 경우에는 20년 8월 12일 그때 조합원입주권, 주택분양권 그리고 주거형오피스텔 그리고 정확하게 이 주거형오피스텔은 주택분 재산세가 나오는 거여야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "업무용 재산세 나오면 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.514,
+                "end": 13.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 요렇게 세 가지가 소유 주택수로 추가가 또 된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.038,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "건물 용도에 따라 취득세에 대해서 설명을 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

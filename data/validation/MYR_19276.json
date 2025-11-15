@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19276",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인세 신고를 위해서는 재무상태표 손익계산서 합계잔액시산표 이익잉여금 처분가산세를 작성해야 되구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 듣자마자 어떤 느낌이 듭니까 하나도 모르겠죠 저도 몰라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.895,
+                "end": 9.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거에 세무사 공부했을 때는 막 손으로 쓰고 막 해보고 했는데 지금 제가 하겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.119,
+                "end": 13.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 합니까 다 저의 세무 대리인이 하시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.479,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "한 남자가 법인세를 신고를 위해 작성해야 하는 자료들에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19276_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

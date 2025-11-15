@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18606",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울에 새 아파트인데 그리고 앞으로 많이 변할 호재도 많이 있고 그런 곳인데 괜찮지 않냐 그랬는데 그게 아니라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 보시면 서울 아파트 분양권 거래량 추이를 보면 작년에 12월에는 17가구 비슷하게 가다가 에 최근 4월 되니까 45건으로 껑충 뛰죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.021,
+                "end": 22.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 이렇게 올라가느냐 아시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.301,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "서울 아파트 분양권 거래량 추이를 보면 작년에 12월에는 17가구로 비슷하게 가다 최근 4월에는 45건으로 뛰었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18606_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

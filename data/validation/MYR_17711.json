@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17711",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.955,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유지된 게 영향을 많이 작용한다고 보는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 분양시장에도 좀 찬바람이 불고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.431,
+                "end": 7.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일부 단지는 계약금을 캐쉬백 방식으로 돌려주거나 뭐 계약금 무이자 신용대출 뭐 30퍼센트 할인 여러 가지를 지금 하고 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.068,
+                "end": 15.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 이 과정에서 정보가 좀 전달될 때 일부분만 제공된다 요게 이제 불완전 판매에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.816,
+                "end": 21.955
+            }
+        ]
+    },
+    "summary": "화자는 분양시장에 찬바람이 불고 있고 정보를 전달하는 과정에서 일부분만 제공되는 것이 불완전 판매라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17711_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 20,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

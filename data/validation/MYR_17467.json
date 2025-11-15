@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17467",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.978,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집이 한 채 있더라도 투기과열지구도 이 추첨제가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그거 한번 해 보시고 그다음에 비규제 지역은 아까 추천제 물량 또 있다고 했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.945,
+                "end": 9.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 한번 노려보는 투 트랙으로 가시는 것도 나쁘지 않겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.405,
+                "end": 13.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 어 무 무주택자하고 1주택자하고 거의 스탠스가 같다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.983,
+                "end": 18.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자분들은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.454,
+                "end": 20.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저는 그냥 조금은 슬림하게 가시는 건 좋다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.366,
+                "end": 23.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "슬림하게라는 거는 일부 처분을 하는 게 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.938,
+                "end": 26.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일절은 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.330,
+                "end": 28.962
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성은 집이 한 채 있더라도 투기과열지구 추첨제도 있고 비규제 지역도 물량 있으니 두 가지를 생각해 보는 것도 나쁘지 않다고 말하며 다주택자들은 일부 처분하는 것이 좋을 것 같다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17467_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

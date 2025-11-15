@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19480",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.624,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래 이게 제가 알기론 그 기본 통칙이 있었을 겁니다 당첨일로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.543,
+                "end": 4.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 아파트 분양권 같은 경우는 당첨된 날 이렇게 돼 있었어요 근데 이게 21년에 되게 이슈가 많이 됐었거든요 뭐 무슨 날이냐 근데 아무리 생각해도 당첨일로 보기에는 돈도 안 내고 당첨되고 취소할 수도 있는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.882,
+                "end": 18.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그니까 즈 저 약간 좀 본론으로 돌아와서 21년 1월 1일에 분양권 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.589,
+                "end": 24.624
+            }
+        ]
+    },
+    "summary": "아파트 분양권 같은 경우 당청된 날로 돼 있었지만 21년에 당첨되고 취소할 수도 있어 이슈가 많이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19480_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

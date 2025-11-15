@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18903",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.523,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 소액을 가지고 있는 이들이 모여서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.942,
+                "end": 3.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 최소한의 자본을 마련해서 이 매장 유치에 성공한 경우라고 볼 수가 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.297,
+                "end": 8.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 굉장히 좀 좋은 팁을 알려주신 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.253,
+                "end": 12.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 생각을 좀 전환하는 하면은 공간이 협소해도 유치할 수도 있고, 자금량이 쫌 쩍더라도 해볼 수 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.207,
+                "end": 22.523
+            }
+        ]
+    },
+    "summary": "화자2은 화자1에게 굉장히 좋은 팁을 알려준 것 같다고 하면서 생각을 전환하면 공간이 협소해도 유치할 수 있고 자금량이 적더라도 해볼 수 있을 것 같다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

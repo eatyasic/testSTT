@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17747",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.196,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 분이 원하는 거는 A주택에 대해서 비과세를 받고싶은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "A주택에서 비과세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.843,
+                "end": 5.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 비과세라는 거는 굉장히 좋은 혜택이기 때문에 요건을 다 갖춰야지 비과세를 해주는 거거든요. 거기서 하나라도 어긋나면 혜택을 못 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.656,
+                "end": 17.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 일반적인 비과세가 뭐 1세대 1주택 비과세 아니면 일시적 유주택 비과세 그냥 그런 거란 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.302,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "비과세는 굉장히 좋은 혜택이고 조건 중 하나라도 어긋나면 혜택을 받지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

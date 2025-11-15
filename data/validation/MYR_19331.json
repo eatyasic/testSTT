@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19331",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.072,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야당은 다주택자 취득세 중과 완화에 반발하고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부안은 2주택자에 대해 현행 중과세율 8퍼센트를 일반세율로 전환해서 중과세를 폐지하는 건데 3주택자는 중과세는 유지하되 8에서 12퍼센트인 4에서 6퍼센트로 경감한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.736,
+                "end": 13.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인과 4주택 이상 보유자는 세율을 12퍼센트에서 절반인 6퍼센트로 낮춘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.999,
+                "end": 19.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 여당과 정부의 생각인 거고 야당 입장에서는 아니다 3주택 이상 그리고 법인에 대해서는 중과세율 체계를 그대로 현행대로 둬야 된다고 주장하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.072,
+                "end": 30.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이렇게 서로 주장하는 거는 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.533,
+                "end": 33.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 여기에 대해서 이제 치열하게 좀 고민을 해야 된다는 거죠 왜.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.200,
+                "end": 36.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 왜 8퍼센트까지 올려야 되냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.778,
+                "end": 39.072
+            }
+        ]
+    },
+    "summary": "한 남자가 다주택자 취득세 중과세율에 대해 정부와 여당 야당의 의견이 다른 것은 좋은데 그 주장 근거에 대해 고민을 해야 된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19331_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

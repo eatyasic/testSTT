@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17917",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 70.737,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이제 일을 잘하는 중개사들은 그 부분을 좀 잘 파악을 해요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "센스가 있구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.400,
+                "end": 4.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇죠 그니까 고객이 어 고객의 조건 중에서 현장에서 물건을 보고 대화를 통해서 또는 물건을 보는 고객의 어떤 표정을 통해서 어떤 조건을 조금 변경해도 오히려 그게 이 고객한테는 더 나은 방향이겠다 라는 걸 판단해서 거기에 대한 어떤 제시 제안",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.140,
+                "end": 22.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들면 어 대표님 지금 지하철역 5분 거리에서만 찾으셨는데 조금만 뒤로 좀 가면 오히려 깔끔하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.030,
+                "end": 28.090
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "훨씬 좋은 조건이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.100,
+                "end": 30.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 뭐 투룸을 찾는 고객이 있는데 아이가 애기예요 그럼 사실 투룸이 꼭 필요하진 않거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.560,
+                "end": 35.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분리형 원룸에 대해서 더 깔끔하게 같은 금액이고 나머지 조건이 좋다면 투룸보다는 사실 분리형 원룸이 더 신축일 가능성이 커요",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.580,
+                "end": 42.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 쪽으로 좀 제시를 해보면서 좀 안내를 해본도 본다던가",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.310,
+                "end": 46.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 그 그 상대방이 원하는 핵심이 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.460,
+                "end": 50.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.180,
+                "end": 50.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "핵심이 그냥 좀 분리되면 좋겠다해서 투룸인데 꼭 투룸만 그거만 찾는다는 거 잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.720,
+                "end": 56.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일을 좀 계약을 잘 못 하시는 분들은 고객이 얘기한 딱 그 프레임 안에서만 움직여요",
+                "sound_type": [
+                    2
+                ],
+                "start": 56.970,
+                "end": 61.520
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 들으셨죠 여러분 그 약간 좀 핵심이 뭘 원하는지를 파악 두 번째는 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.520,
+                "end": 67.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 두 번째는 뭐냐면요 어 일단",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.560,
+                "end": 70.737
+            }
+        ]
+    },
+    "summary": "일을 잘하는 중개사들은 고객이 원하는 핵심을 잘 파악해서 제시를 잘한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

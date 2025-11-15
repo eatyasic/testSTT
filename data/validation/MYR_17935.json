@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17935",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 저를 이제 그거를 그만두기를 바라고 저는 이제 그 일을 나는 끝까지 하겠다 성격이 좀 강하다 보니까 충돌이 좀 심해서 거의 한 반 의절까지 뭐 그 정도 상태까지 갔었거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 제가 한 이 삼 년 정도 집에 못 들어갔던",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.699,
+                "end": 14.801
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.811,
+                "end": 15.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 아버지하고 사이가 안 좋아서 이제 그런 일이 있었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.370,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "아버지와 일 때문에 거의 의절 상태까지 간 적이 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

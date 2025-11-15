@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18311",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.927,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 어 오늘 이 우리 독자님들에게 해드리고 싶은 이야기는 경매 공부를 너무 어렵게 하지 말자",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.382,
+                "end": 8.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "머리 좋다고 1등 된다는 보장은 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.139,
+                "end": 10.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법원은 다 평등합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.903,
+                "end": 13.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 제가 항상 느낀 것은 그겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.304,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "독자들에게 경매 공부를 어렵게 하지 말자는 메시지를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18311_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

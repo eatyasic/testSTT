@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_18720",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 73.006,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리 @이름1 세무사님의 절세 노트는 어 굉장히 그 임팩트 있게 짧게 딱 핵심만 있는데 안에 있는 내용이 어 정말 중요하고 어 일부는 좀 어려운 것도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 잘 들으셔야 되는데 일단 어떤 케이스인지 한번 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.587,
+                "end": 15.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 정부가 주택 시장 침체를 감안해서 일시적 2주택 비과세 처분 기간을 3년으로 완화해서 시행하고 있는데 이거는 올해 2월 28일날 시행령이 다 개정이 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.194,
+                "end": 23.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세, 종부세, 양도세 1세대 2주택 전부 다 3년으로 늘어났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.202,
+                "end": 28.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 그 중에서 양도세예요 양도세",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.474,
+                "end": 31.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 종전 주택을 처분 기한 내 팔아야 되는데 못 팔면 종전 주택 비과세 혜택을 못 받죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.343,
+                "end": 37.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 매수자가 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.228,
+                "end": 39.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거래도 잘 안 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.036,
+                "end": 40.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 써 먹을 수 있는 방법 중에 하나가 거주 주택 비과세 특례로 활용하는 게 있는데 이게 소득세법 시행령 155조 20항에 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.091,
+                "end": 49.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 이제 나중에 세무사님하고 상담할 때는 어 거주 주택 비과세 특례 뭐 주택 임대 사업자 거주 주택 비과세 특례 아니면 제가 조금 어렵더라도 155조 20항 이렇게 좀 말씀하시면은 그 세무사님들이 딱 정확히 알아들으실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.323,
+                "end": 64.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이게 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 64.638,
+                "end": 66.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 무엇보다도 사건 사고 좀 많이 나고 있기 때문에 정말 조심해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 66.568,
+                "end": 70.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 한번 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.793,
+                "end": 73.006
+            }
+        ]
+    },
+    "summary": "정부가 주택 시장 침체를 감안해서 일시적 2주택 비과세 처분 기간을 3년으로 완화해서 시행하고 있고 종전 주택을 처분 기한 내에 팔아야 하는데 못 팔면 종전 주택 비과세 혜택을 못 받는데 소득세법 시행령 155조 20항의 거주 주택 비과세 특례를 활용하는 방법이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

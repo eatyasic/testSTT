@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18473",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.295,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더 떨어질까 봐 못 샀잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "못 샀는데 항상 떨어질 것 같은 생각은 올랐으면 올라서 있고 떨어졌으니까 더 떨어져서 근데 이 부평금호 이 아파트를 이제 예를 들면 앞으로 5천 세대 입주가 예정이 돼 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.476,
+                "end": 16.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부평 그랑일스 그래가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.041,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "떨어질 것 같은 생각은 올랐으면 올라서 있고 떨어졌으니까 더 떨어져서 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

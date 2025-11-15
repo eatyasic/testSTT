@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17762",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.661,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 안타깝잖아요 그죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 하나만 더 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.539,
+                "end": 5.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 양도세 도와줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.983,
+                "end": 7.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "똑같죠 제목이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.960,
+                "end": 9.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 앞의 케이스와는 다르게 해피한 케이스.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.640,
+                "end": 15.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해피한 케이스.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.020,
+                "end": 16.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이분도 뭘 실수했냐면은 이분도 뭘 실수했냐면 팔았어 그니까 팔기 전에 검증을 하는 게 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.500,
+                "end": 27.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 저희 카페에서 하라는 게 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.029,
+                "end": 28.661
+            }
+        ]
+    },
+    "summary": "남성이 양도세를 도와달라는 똑같은 제목의 케이스를 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17762_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

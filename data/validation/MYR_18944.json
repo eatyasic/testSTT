@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18944",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 양도세 중과를 별도 마당으로 챕터로 빼놨었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 양도세 중과가 점점 중요성이 줄어들고 아시는 것처럼 조정대상지역이 대거 해제가 됐기 때문에 요 부분을 아예 그냥 다 합쳐버렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.736,
+                "end": 12.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 양도소득세의 계산 기초개념은 물론이고 1주택 2주택 그리고 3주택 이상인 경우의 비과세 방법",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.994,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "양도세 중과에 대한 중요성이 줄고 조정대상지역이 대거 해제됐기 때문에 별도 챕터에서 하나의 챕터로 합쳐 양도소득세의 기초 개념과 다세대 주택의 비과세 방법을 담았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

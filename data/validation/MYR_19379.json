@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19379",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 내가 만약에 이걸 하겠다 하시는 분들은 반드시 반드시 어 최소 2명 이상 어 세무사님의 상담을 받으시고 그중에 어 나랑 좀 맞을 거 같다 좀 잘해 주실 거 같다 어 그런 분한테 아예 그냥 맡기시길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 주택 임대 사업자 거주 주택 비과세 특례는 어 무조건 그렇게 하라고 말씀을 드려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.088,
+                "end": 22.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 내용인지 한번 보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.729,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자로서 거주 주택 비과세 특례를 신청하려는 경우 꼭 2명 이상의 세무사 상담을 받고 자신과 잘 맞는 세무사를 선택해 업무를 맡기는 것이 좋다고 화자가 조언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

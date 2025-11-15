@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18312",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 10년 경매 공부하고 20년을 투자해도 남는 게 없는 사람은 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 경매를 어저께 배운 사람이 아까 제가 말했던 그 상가 휴대폰 가게 6600 투자해가지고 월 500 나오는 거 그런 걸 봤을 때 엄청난 수익이 되는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.822,
+                "end": 15.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그 사람들은 10년 공부했습니까 20년 공부했습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.540,
+                "end": 18.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제아래 갓 들어온 기초생입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.813,
+                "end": 20.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 경매의 고수는 10년 20년 한 사람이 아니고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.688,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "경매는 공부를 오래했다는 게 중요한 게 아니라는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18312_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

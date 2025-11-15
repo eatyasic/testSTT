@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19067",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.719,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이거는 이 기준 시가 세금 매기는 이 기준 시가 그것보다 더 떨어지는 한 6, 7억 대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 형성이 되고 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.960,
+                "end": 8.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손님들한테 설명 드릴 때 이렇게 설명을 드리면 제일 빨리 이해하시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.605,
+                "end": 13.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 저렇게 딱 해줘야 해요 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.131,
+                "end": 14.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10억",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.891,
+                "end": 15.715
+            }
+        ]
+    },
+    "summary": "기준 시가의 세금 매기는 가격은 실제 거래 가격보다 더 떨어지는 6, 7억 대로 형성이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

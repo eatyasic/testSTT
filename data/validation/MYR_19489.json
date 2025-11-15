@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19489",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소액투자자 보호라고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.810,
+                "end": 2.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년 돼서 유예했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.395,
+                "end": 4.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.462,
+                "end": 5.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 약간 좀 약간 비전문가인 제가 보기에는 유예 안 하면 보호하지 않는다는 거 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.189,
+                "end": 12.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실은",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.131,
+                "end": 13.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 너무 정곡을 찔렀네 제가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.245,
+                "end": 16.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.481,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "금투세가 소액투자자 보호라며 1년 돼서 유예를 했는데 비전문가가 보기에 유예를 안 하면 보호하지 않는 거냐며 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

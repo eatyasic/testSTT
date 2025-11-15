@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18859",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "디티는 처음에는 테이크 아웃 손님들을 잡, 잡으려는 의도에서 출범을 했는데 이러한 배경 때문에 상대적으로 외곽에서도 손님들을 유, 유인할 수 있는 이런 지금 매장으로서 스타벅스가 밀고 있거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 실제로 자료를 보면서 한 번 얘기를 해볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.348,
+                "end": 15.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 저희가 이제 준비한 자료가 있는데 이게 이제 디티 관련된 건데 2012년부터",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.739,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "화자1은 디티는 처음에는 테이크 아웃 손님들을 잡으려는 의도에서 출범을 했는데 이런 배경 때문에 상대적으로 외곽에서도 손님들을 유인할 수 있는 매장으로서 스타벅스가 밀고 있다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18859_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

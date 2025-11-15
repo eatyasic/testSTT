@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18552",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 기간이 너무 기니까 소급되는 날짜를 바꾸거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 땡기든가 앞으로 확 땡기거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.949,
+                "end": 5.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 원래 정부가 할려고 했었던 50퍼센트 인하 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.481,
+                "end": 9.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 부분에서 좀 절충을 하거나 근데 개인적인 느낌으로는 어떤 게 현실성이 있을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.654,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "기간이 너무 길기 때문에 소급되는 날짜를 바꾸든 앞으로 땡기든 정부가 하려고 했었던 50퍼센트 인하에서 절충을 하든 근데 개인적인 느낌으로는 어떤 게 현실성이 있을까 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18552_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

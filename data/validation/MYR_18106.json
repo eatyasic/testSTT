@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18106",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 마진이 있는 이유는 그러니까 여러분들이 생각하고 있는 그 마진이 있는 이유는 당연히 리스크가 있기 때문에 마진이 있는 거지 이 세상에 공짜가 어디 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.686,
+                "end": 9.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 아 결과적으로 그 리스크는 뭐냐라고 그니까 내가 그 마진을 갖고 가는 거에 대한 대가를 여러분들이 지불을 하셔야 되는데 그게 두 가지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.158,
+                "end": 18.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.050,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "화자가 마진이 있는 이유는 리스크가 있기 때문에 마진이 있는 거라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

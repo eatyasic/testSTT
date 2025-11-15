@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17805",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.321,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "증여 재산을 좀 더 공제하는 걸 신설 한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마까지 1억까지 그리고 이제 야당은 여기에 대해서 출산 양육 관련해서 비과세 한도액이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.272,
+                "end": 15.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기존에 10만 원이었는데 20만 원으로 좀 늘려주자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.248,
+                "end": 21.321
+            }
+        ]
+    },
+    "summary": "여당은 증여 재산을 1억까지 공제하는 것을 신설하고 야당은 출산 양육 관련 비과세 한도액을 20만 원으로 늘리자고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17463",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.852,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 신청을 해본다든지 물론 자기 조건이 맞으면 되겠지만 지금은 분양 이 생각보다 내 집 마련의 어떤 가장 좋은 방법이긴 하지만 기회가 자꾸 없어질 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 민간 쪽에 요새는 지금 어떻게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.607,
+                "end": 17.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비규제 지역에서 보면은 중소형 이른바 80제곱미터 이하는 60프로가 추첨제입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.323,
+                "end": 23.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 어 85제곱미터 초과는 100프로가 추첨제예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.646,
+                "end": 27.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이게 옛날에는요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.305,
+                "end": 28.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무주택 세대의 중심의 청약 시장이었는데 지금 어떻게 됐어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.941,
+                "end": 33.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 비규제 지역에서는 만약 아빠가 세대주면은 엄마 통장도 나오고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.105,
+                "end": 39.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아들딸 통장 다 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.096,
+                "end": 41.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 전부 다 그리고 이 전매를 할 수 있다 보니까 완전히 가수 시장으로 많이 바뀌어 버린 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.094,
+                "end": 46.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 지금 보니까 뭐 서울 뭐 어 7월달까지 뭐 경쟁률이 거의 70 대 1 가까이 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.052,
+                "end": 52.852
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성이 분양이 생각보다 내 집 마련의 가장 좋은 방법이긴 하지만 기회가 자꾸 없어질 수도 있다며 비규제 지역에서 80제곱미터 이하는 60퍼센트가 추첨제이며 85제곱미터 초과는 100퍼센트 추첨제라 예전에는 무주택 세대 중심의 청약시장이라면 지금은 그렇지 않다고 말하고 있다. 그러다 보니 지금 서울은 경쟁률이 70대 1 가까이 나오고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYR_17742",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.058,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔에 있어서는 절대 이렇게 확답을 하시면 좀 힘들어요. 위험할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 꼭 이거를 주의하시고 여러분들이 주거용인지 아니면 투자용인지를 구분하셔서 접근하시는 게 좋겠습니다. 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.468,
+                "end": 13.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 도움 되셨다면 좋아요 구독 부탁드리고 오늘도 시청해주셔서 고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.366,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "화자는 오피스텔은 주거용인지 투자용인지를 구분해서 접근하는 것이 중요하다고 강조한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

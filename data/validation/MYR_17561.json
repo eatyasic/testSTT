@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17561",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.292,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 전세 대출금이 약간 좀 오르긴 했지만 그래도 전월세 전환율 보다 낮은 데도 많고 이러다 보니까 지금 아파트 전세는 오히려 어떻게 보면 수요가 좀 몰리죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.886
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안정적으로 돼 버렸다 안정적으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.896,
+                "end": 14.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이러다 보니까 이 아파트 전세 가격이 다세대 다가구 보다 훨씬 많이 빠졌거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.318,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "분석가가 전세 대출금이 오르긴 했어도 전세 가격은 전체적으로 많이 빠진 추세이며 전월세 전환율이 낮은 곳도 많기 때문에 아파트 수요는 몰리는 추세라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

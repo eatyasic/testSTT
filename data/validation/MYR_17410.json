@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17410",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.63,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몇몇 분야에 대해서 이제 대립각을 세우고 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 우리 입장에서는 아니 그래 대립각을 세우고 있는 그건 그거고 응 어떤 민생 안전 관련된 것들이니까 취득세에 관련된 내용인 지방세법 그리고 뭐 불 주관 불명 행사 안전 관리 강화를 담은 재난 안전 관리 교육법 이거는 통과시키고 싸울 건 싸워야 되지 않냐라고 생각하는 건데 뭐 우리가 그분들 사정을 잘 모르니까 함부로 말은 못 하겠지 그게 그런 게 아닌가 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.090,
+                "end": 30.630
+            }
+        ]
+    },
+    "summary": "한 남성이 여야가 몇몇 분야에 대해서 대립각을 세우고 있다며 대립각을 세우고 있는 건 그거고 어떤 민생 안전 관련된 것들이니까 취득세에 관련된 내용인 지방세법, 재난 안전 관리 교육법 이것은 통과시키고 싸울 건 싸워야 하지 않냐고 생각한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17410_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

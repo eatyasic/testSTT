@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18526",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.558,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 관심 있게 보는 혹시 지역이라든가 뭐 그런 거 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단은 뭐 저뿐만 아니라 거의 대부분 모든 분들이 쳐다보고 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.261,
+                "end": 7.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.726,
+                "end": 8.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.327,
+                "end": 9.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 서울 중에서도",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.455,
+                "end": 10.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 서울에 당연히 이제 한남이든 강남이든 서쪽 반포가 제일 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.863,
+                "end": 15.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 근데 이제 현실적으로 현실적으로 투자금이 이런 게 다 있는 게 아니니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.162,
+                "end": 19.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이게 서울 같은 경우는 최소한 괜찮은 1급지 같은 경우는 최소한 투자금이",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.384,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "관심있게 보는 지역은 서울인데 서울 중에서도 한남이든 강남이든 서쪽 반포가 제일 좋다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

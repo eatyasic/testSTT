@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18630",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.271,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "23년 10월 청량리 지금 동대문구 조종이에요 비조종이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비조종이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.212,
+                "end": 6.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 취득 당시에 분양권 취득 당시에 세대 기준으로 주택수가 없었다면 무주택이었다면은 이 경우에는 거주권 들어가요 안 들어가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.883,
+                "end": 14.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세할 때 안 들어가죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.819,
+                "end": 17.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 무슨 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.591,
+                "end": 19.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잔금 치르고 나서 주택으로 완공되고 나서 2년만 내가 보유해버리면은 물론 실제 거주할 가능성이 더 높지만 그게 아니고 2년만 보유하면 비과세 돼버리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.935,
+                "end": 29.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 돼버리는데 내가 굳이 60프로 70프로 내가 세금 내면서 지금 팔 그게 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.834,
+                "end": 35.268
+            }
+        ]
+    },
+    "summary": "분양권 취득 당시 무주택이었다면 거주권은 안 들어가고 잔금 치르고 나서 주택으로 완공되고 3년만 보유하면 비과세가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

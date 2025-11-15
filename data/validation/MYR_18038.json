@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18038",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.457,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 어떻게 평가하는 데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 여러분들이 예를 들어서 뭐 땡땡 1 구역에 땡땡 1 구역에 조합장 평판 조사를 하려고 하는데 땡땡 1 구역에 있는 부동산 중개업소에 가서 물어보면 당연히 나쁜 얘기 안 하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.150,
+                "end": 14.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋다고 하겠지 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.081,
+                "end": 14.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋다고 하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.869,
+                "end": 15.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 땡땡 1 구역이 아니 땡땡 2 구역 가는 땡땡 2 구역",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.536,
+                "end": 19.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 따른 지역",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.611,
+                "end": 20.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.250,
+                "end": 20.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구역이 다른 곳",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.605,
+                "end": 21.447
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뚜렷 다른 곳에서 거기서 땡땡 2 구역의 물건을",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.457,
+                "end": 24.457
+            }
+        ]
+    },
+    "summary": "화자가 구역이 다른 곳으로 가서 평판을 조사하라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18038_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18074",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 @계정1 님 운영하시는 채널이 지금 블로그 있으시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 블로그만 있습니다 블로그.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.196,
+                "end": 4.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 거 하실 생각 없어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.801,
+                "end": 5.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희도 유튜브는 하게 되면은 또 편집도 하고 다 하고 저는 그냥 하고 투자하고 그다음에 임장다니고 강의 하고 그게 더 재미있는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.816,
+                "end": 16.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 저도 하다 보니까 뭐 이게 다른 요청하는 경우도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.757,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 블로그 말고 유튜브를 할 계획이 있는 지에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18074_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

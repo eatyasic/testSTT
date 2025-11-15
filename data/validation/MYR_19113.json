@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19113",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.333,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래 계산의 원칙이 인별로 하는 것이기 때문에 이게 기재부에서 이미 해석을 내 가지고 사람이 다르면 안 된다 제가 이렇게 빨간색으로 적어 놨지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.785
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.795,
+                "end": 10.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소유자가 동일해야 일시적 2주택 혜택을 받을 수 있다는 점이 양도세랑 차이가 있다라고 보시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.062,
+                "end": 17.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 이것 좀 방금 그 설명해 주신 거 좀 조심해야 되니까 이해 안 되셨다면 뒤로 또 가셔 가지고 다시 들으시면 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.860,
+                "end": 25.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 개정이 완료가 됐습니다 3년으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.661,
+                "end": 28.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.426,
+                "end": 28.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다음은 양도세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.822,
+                "end": 31.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이제 양도세입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.214,
+                "end": 33.333
+            }
+        ]
+    },
+    "summary": "종부세의 계산 원칙이 인별이기 때문에 이미 소유자가 동일해야 1주택 혜택을 받을 수 있다는 점이 양도세랑 차이점이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17735",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 사실 어려운 시장인건 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 저라면 이런 거는 해 볼 만할 것 같애. 예를 들어서 어 토지 거래 허가로 묶인 지역들 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.084,
+                "end": 12.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성, 청담 뭐 청담 뭐 잠실 뭐 이런 데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.403,
+                "end": 16.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 거에 면적 얼마 이하는 이런 업무용 오피스텔 같은 경우는 매수할 수가 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.050,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "화자는 현재 시장이 어렵지만 토지 거래 허가로 묶인 지역들의 업무용 오피스텔 같은 경우는 매수가 가능하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17735_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

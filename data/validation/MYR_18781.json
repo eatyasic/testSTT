@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18781",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들 보셔서 아시겠지만 어 책이 나쁘진 않은 것 같아요. 그쵸. 하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 좀 민망합니다. 이렇게 자화자찬하기가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.713,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이제 어 말씀드린 것처럼 이 책이라는 것도 이제 활자로 인쇄돼서 나오기 때문에 여러분들이 이제 좀 빠르게 보시는 데 좀 도움이 될 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.115,
+                "end": 20.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 필요한 경우에 이제 영상 같은 경우에도 할 수 있을 것 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.460,
+                "end": 25.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 이제 이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.951,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "책이라는 것도 활자라 빠르게 보는 데 도움이 될 것 같고 필요한 경우에는 영상도 할 수 있을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

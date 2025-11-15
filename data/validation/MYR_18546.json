@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18546",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.186,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부에서는 1주택자 무주택자한테도 혜택을 줄 수 있지만 결국은 다주택자들한테 혜택을 주면서 조금 니네들이 와서 좀 사달라라고 그 구원의 메시지를 던질 텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 미분양들이 좀 또 최근에 또 후진이 또 되고 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.919,
+                "end": 15.082
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 한 6만 7만까지 갔다가 지금 최근에 좀 약간 줄어들었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.092,
+                "end": 19.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.227,
+                "end": 19.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 정부에서도 한 10만까지는 내비두겠다 막 그래 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.873,
+                "end": 23.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 10만 정도까지 그 거리보다 더 미분양이 나와 줘야 취득세 중과를 풀어줄까 말까인데 여기서 이제 시장이 조금 일부 살아나면서 미분양이 소진돼 버리면 현실적으로 취득세 중과를",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.450,
+                "end": 36.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "풀어줄 만한 명분이 이제 없어지는 거라고 저는 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.722,
+                "end": 40.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 예를 들어서 뭐 저도 동의를 굉장히 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.113,
+                "end": 45.178
+            }
+        ]
+    },
+    "summary": "정부에서는 다주택자들한테 혜택을 주면서 좀 사달라고 구원의 메시지를 던질 텐데 미분양들이 최근에 7만까지 갔다가 줄어들었는데 정부에서도 10만까지는 내버려 두겠다라고 해서 10만 정도 거리보다 미분양이 더 나와 줘야 취득세 중과를 풀어줄까 말까인데 시장이 일부 살아나면서 현실적으로 취득세 중과를 풀어줄 만한 명분이 없어지는 거라고 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18546_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

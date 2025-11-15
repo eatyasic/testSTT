@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17822",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 돼지가 나 그렇게 영리한 줄 몰랐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어떻게요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.352,
+                "end": 4.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밥줄 때는 잘 와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.083,
+                "end": 5.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차에 좀 실을려고 가면은 엄청 빨라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.446,
+                "end": 9.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빠르군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.245,
+                "end": 12.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄청 빨라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.220,
+                "end": 12.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람 3배에서 빠를 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.769,
+                "end": 14.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바깥으로 뛰쳐나가면요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.355,
+                "end": 16.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쏜살같이 없어져요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.805,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "한 남성이 돼지가 매우 영리하고 사람의 3배는 빠르다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

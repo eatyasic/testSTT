@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_18258",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신혼 생활 때 애가 태어났는데 어 좀 애가 태어나니까 또 이것저것 많이 들어가서 조금 부모님한테 손을 벌리고 싶은데 이 사람들은 이제 5000만 원 공제 써버렸으니까 안되고 이번에 막 결혼한 사람들은 또 뭐 한도 금액이 늘어나도 되고 야 이건 좀 어떻게 해결할까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "결혼 자금 공제에 대해서 이미 사용한 사람들에 대한 자신의 견해를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18258_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

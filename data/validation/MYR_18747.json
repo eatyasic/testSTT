@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_18747",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3년 내 A를 처분해야 되는 거 아닙니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야 되는데 지금 이게 잘 안 되고 있다는 거잖아요. 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.781,
+                "end": 8.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.306,
+                "end": 9.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 차라리 A를 팔 때 주택 수요를 빼야 되니까 이 B를 세법에서 말하는 장기 임대 주택 요건을 갖춰서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.901,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "A 주택을 3년 내 처분해야 하는데 잘 안될 때 B 주택을 장기 임대 주택으로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

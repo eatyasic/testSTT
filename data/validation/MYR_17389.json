@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17389",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.755,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다 하더라도 새벽에 좀 출근 시간 전에 내가 뺄 수 있는 시간 또 출근 일찍 해서 뺄 수 있는 시간 한 40분에서 1시간씩 빼서 고 시간 동안에 그냥 경매 물건 검색을 하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "NPL 물건을 찾 찾고 계속 검색을 하다 보면은 인제 이게 또 시간이 가면서 찾는 속도도 빨라지고 물건을 보는 눈도 이것도 넓어져요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.742,
+                "end": 20.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.809,
+                "end": 21.755
+            }
+        ]
+    },
+    "summary": "새벽에 출근 시간 전이나 출근을 일찍 해서 삘 수 있는 시간을 40분에서 1시간씩 만들어서 그 시간 동안 경매 물건 검색을 하는 건데 NPL 물건을 찾다 보면 시간이 지날수록 찾는 속도도 빨라지고 보는 눈도 넓어지게 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17389_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

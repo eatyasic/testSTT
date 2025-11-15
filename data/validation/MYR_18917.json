@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18917",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.285,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "커피를 이렇게 대접할 수가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 이게 저와는 상관 없는 일이라고 생각하고 커피를 멀리했으면 제가 스타벅스 주제로 책을 쓸 수 썼을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.282,
+                "end": 9.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제네시스 박 시청자 여러분들과 그리고 독자 여러분들도 저희 책이 정말 답은 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.232,
+                "end": 16.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 책에 썼지만 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.600,
+                "end": 18.285
+            }
+        ]
+    },
+    "summary": "화자1은 자신과 상관없는 일이라고 생각하고 커피를 멀리했으면 스타벅스 주제로 책을 쓸 수 없었을 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

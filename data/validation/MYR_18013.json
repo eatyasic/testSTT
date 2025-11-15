@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18013",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 정부가 이렇게 지금 하려고 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 우리가 이렇게 해줄게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.483,
+                "end": 6.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 해줄게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.365,
+                "end": 7.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 만약에 이때 혼인을 했잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.577,
+                "end": 10.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 이 이거 혼인했는데 정확하게는 지금 혼인 신고일을 기준으로 지금 하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.941,
+                "end": 15.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 지금 양도세, 비과세 판단할 때도 혼인신고를 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.165,
+                "end": 18.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실질 과정 원칙이면 동거한 날부터 해야 되는 게 맞긴 맞는데 알 수가 없어요 그게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.302,
+                "end": 22.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 혼인 신고일를 기준으로 하는데 이날 전부터 1년",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.521,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "혼인했다는 기준은 정확하게 혼인 신고를 한 날을 기준으로 잡는데 양도세, 비과세 판단할 때도 혼인신고를 기준으로 삼는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

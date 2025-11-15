@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18877",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 언급하기 전에 근데 월세를 어떻게 받을지를 정해야되거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월세는 정액과 정률이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.591,
+                "end": 5.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정액은 매 달 정해진 액수를 받는 거구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.121,
+                "end": 7.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예컨대, 아까 2억 6000만 원에 월세 1000만 원 이런 식이구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.689,
+                "end": 11.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딱 딱 정해져구지구",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.099,
+                "end": 12.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 정률 같은 경우에는 2억 6000만 원에 그 달 매출의 그 예컨대 10프로 이렇게 받는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.481,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "월세는 정액과 정률이 있는데 정액은 매 달 정해진 액수를 받는 것이고, 정률은 그 달 매출의 10프로를 받는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

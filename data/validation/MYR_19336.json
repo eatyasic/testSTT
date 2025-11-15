@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19336",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 22년 12월 21일 그 전날 그러니까 12월 20 아니면 12월19 뭐 그 뒤로 쭉 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.961
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 취득한 다주택자들은 어떻게 되는 거냐 그냥 끝나는 거죠 뭐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.971,
+                "end": 10.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별거 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.048,
+                "end": 10.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이쪽에 취득하신 분들은 아무 상관이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.943,
+                "end": 15.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저처럼 저는 12월 15일 날 잔금 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.456,
+                "end": 19.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 과감하게 12퍼센트 내는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.661,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "22년 12월 21일 이전 취득한 다주택자들은 아무 상관없이 취득세를 12퍼센트 내야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19336_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

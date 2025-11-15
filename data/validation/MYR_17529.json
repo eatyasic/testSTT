@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17529",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속해서 이렇게 요동 치는 어떤 그런 구조인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 내가 그러면은 이 여기에서 어 이런 요동치지 않고 행복을 어떻게 하면 내가 많이 가져갈까 하는 부분에 대해서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.920,
+                "end": 13.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 행복을 한 번을 받지 말고 열두 번으로 쪼개 받아라 이런 얘기를 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.507,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "박사는 집값의 오르고 내림에 요동치지 않고 행복을 많이 가져가려면 이 행복을 한 번에 받지 말고 열두 번에 쪼개 받으라는 조언을 해준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

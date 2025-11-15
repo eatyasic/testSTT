@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17875",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.5,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인테넷에서 중개업소 검색 이렇게 단어를 쳐 가지고 검색을 해보시면 중개업 조회 이렇게 검색을 해보시면 어 국토부에서 운영하는 사이트가 하나 나오거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.280,
+                "end": 9.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 사이트에 딱 들어가 보시면 내가 지금 이사가려고 하는 지역 옮길려고 하는 지역에 어떤 중개사들이 있는지 거기서 다 검색이 가능해요",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.607,
+                "end": 17.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 어 내가 지금 이사가려고 하는 지역이 어 수원시 장안구 정자동이다",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.578,
+                "end": 22.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 거기다 입력을 하는 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.510,
+                "end": 23.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.770,
+                "end": 24.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기도 수원시 장안구 정자동 이렇게 입력하고 엔터를 딱 치면 장안구 정자동에 있는 중개업소 리스트가 전체가 쫙 떠요",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.090,
+                "end": 33.500
+            }
+        ]
+    },
+    "summary": "내가 이사가려고 하는 지역의 중개업소를 확인하려면 국토부에서 운영하는 사이트에서 검색을 해보면 전체 리스트가 뜬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17875_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19450",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.698,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하셨지만 세대 전원이 이사 이사하여 가지고 1년 이상 계속하여 거주하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 요것도 많이 물어보시더라고 완성되는 2년 이내에 그 1년 이상을 살아야 되냐 이렇게 많이 물어보시는데 그 말이 뭐냐면은 이 완공된 후 3년 이내에 1년을 채워야 되냐이거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.845,
+                "end": 19.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.137,
+                "end": 19.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.623,
+                "end": 20.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년, 3년이 되는 날까지 전입신고를 해가지고 그 날로부터 1년 이상 계속하여 거주하시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.337,
+                "end": 27.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어 2년 10개월 있다가 세대원이 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.852,
+                "end": 31.698
+            }
+        ]
+    },
+    "summary": "많이 물어보는 것 중 하나가 완성되는 2년 이내에 1년 이상을 살아야 되는지 물어보는데 3년이 되는 날까지 전입신고를 해서 그 날로부터 1년 이상 계속 거주하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

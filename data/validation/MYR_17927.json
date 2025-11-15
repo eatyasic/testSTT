@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_17927",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.049,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "20년 차 라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 20년이 이제 딱 됐죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.190,
+                "end": 3.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 오래되셨네요",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.320,
+                "end": 4.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 네 이제 어 후배들도 많이 생겼고 처음에 시작할 때는 선배님들이었었는데 이제 선배보다는 후배가 더 많은 시점이 됐네요 벌써",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.370,
+                "end": 13.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그 근데 그 닉네임 의미가 어떤 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.050,
+                "end": 15.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 닉네임 의미는요 처음에는 제가 어 큰 의미가 없었어요 저의 아이들 이름에 후자가 들어가요",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.630,
+                "end": 20.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 아이들의 아빠",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.770,
+                "end": 23.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 아이들의 아빠 해서 @이름1라는 거를 그냥 그냥 바로 만든 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.010,
+                "end": 27.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 제가 처음에 유튜브를 시작할 때 나는 유튜버가 될 거야라고 시작한 게 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.970,
+                "end": 32.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음음",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.159,
+                "end": 32.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 저희 직원들을 위한 교육 영상을",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.600,
+                "end": 35.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.020,
+                "end": 35.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직원들이 아무래도 많다 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.540,
+                "end": 36.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.860,
+                "end": 37.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경력 차가 뭐 10년도 있고 3년도 있고 이게 다른 경력을 가지고 있는 직원들을 한자리에 다 모아놓고",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.340,
+                "end": 43.043
+            }
+        ]
+    },
+    "summary": "일을 한지 20년차가 됐고 유튜브 이름의 의미는 아이들의 이름을 따서 만들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18813",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 좀 이슈가 있는 부분이라서 좀 말씀드리기가 조심스럽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 개인적으로 그냥 안 하시기를 권합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.119,
+                "end": 6.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 하는 건 좋은데 문제는 그 손피 거래할 때 그 매수자 부담 양도세를 제발 아까 말씀드린 77, 66으로 해야 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.266,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "손피 거래할 때 그 매수자 부담 양도세를 66, 77로 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18813_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

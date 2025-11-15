@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19438",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.273,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 B조합원 입주권을 승계 취득한 날이 2022년 2월 14일 이전이라면 요 1년 이상이 지난 후에 취득할 필요가 없는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2월 15일 이후라면 1년 이상이 지난 후에 취득을 해야 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.315,
+                "end": 15.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.145,
+                "end": 15.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 승계 조합원 입주권 취득 후에 3년이 지난 후이면서 주택이 완성되기 전 또는 완성된 후 2년이었는데 요기가 3년으로 바뀐 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.527,
+                "end": 27.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 바뀌려고 하는 거죠 지금 바뀌려고 하는 거예요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.778,
+                "end": 30.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완성된 후 3년 이내에 종전 주택을 양도하셔야 돼요 종전 주택을 양도해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.933,
+                "end": 35.656
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.666,
+                "end": 36.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 4번 조합원 입주권으로 취득한 주택으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.291,
+                "end": 40.273
+            }
+        ]
+    },
+    "summary": "승계 조합원 입주권 취득 후에 3년이 지난 후이면서 주택이 완성되기 전 또는 완성 후 3년 이내에 종전 주택을 양도 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

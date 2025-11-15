@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_19373",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 66.032,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법무사의 어떤 주요 업무 중 하나가 물론 여러 가지가 있겠지만 이제 가장 처음에 우리가 접하는 건 소유권 이전이란 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 명의를 내 걸로 이제 가져오는 데 있어서 그러다 보면 만약에 이제 거래가 돼야 되는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.082,
+                "end": 12.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 저는 하나 정말 궁금한 게 뭐냐면 우리 일상 대첩 얼마 전에 나와 가지고 부동산이 좀 약간 훈기가 돌고 있다 급매다 이제 사라지고 있다 이제 뭐 어떤 분들은 막 이제 드디어 상승 전환이다 또 막 이게 막 엄청 막 말들이 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.443,
+                "end": 26.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 단톡 방에 막 그 사진 같은 것도 막 돌고 막 대화 창 캡처 해 가지고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.770,
+                "end": 30.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 좀 반반이거든요 제가 봤을 때 아 정말 그럴까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.651,
+                "end": 34.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이제 실무에 계시니까 어떻게 보면 가장 좀 이렇게 옆에서 접하실 수 있는 분 중에 한 분이잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.608,
+                "end": 42.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에서 보시기에 좀 어떠십니까 어떻습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.053,
+                "end": 44.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 느끼신 바와 좀 비슷하다는 생각이 좀 들었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.152,
+                "end": 47.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아까 말씀하신 바와 비슷한데 물론 부동산이 침체기라서 저 같은 사람 지금 많이 힘들거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.197,
+                "end": 52.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 거 같아요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.379,
+                "end": 53.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 법무사가 힘들어질 수 밖에 없고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.707,
+                "end": 55.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 뭐 저 진짜 다른 쪽으로 일 늘려야 되는 상황이에요 지금 법 진기는 없어지고 있으니까 근데 아까 말씀하신 것처럼 뭐 소진되고 있다 이렇게 말씀하시는데 저도 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.924,
+                "end": 66.032
+            }
+        ]
+    },
+    "summary": "법무사의 주요 업무 중 하나는 소유권 이전 관련 사항이며 최근 부동산 시장에서는 가격의 상승이나 하락에 대해 말들이 많아 화자1이 화자1에게 의견을 묻고 있고 화자2는 부동산이 힘든 상황이라고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17395",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.684,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 춥다고 하더라도 뭐 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 저는 좀 그건 좀 대단하신 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.743,
+                "end": 4.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 계속 그렇게 라이브 하시고 일찍 출근하셔 가지고 그 시간 되면 딱 사무실에 가서 계속 물건을 찾는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.596,
+                "end": 11.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물건도 찾고 뭐 개인 업무도 보고 일도해야 되니까 뭐 다 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.425,
+                "end": 16.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퇴근은 그러면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.079,
+                "end": 17.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴근은 좀 빨라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.145,
+                "end": 18.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 제가 5시에 출근을 하면 요즘은 어 한 4시면 퇴근하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.300,
+                "end": 22.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3시 반 4시면 퇴근을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.705,
+                "end": 24.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 저는 뭐 저녁때 술을 먹거나 하는 일이 없으니까 저 술을 거의 안 먹거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.912,
+                "end": 29.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 뭐 술을 먹거나 뭐 이렇게 유흥에 제가 그렇게 좋아하는 편이 아니라서 그냥 집에 가서 어 저희 아내하고 밥 먹고 어 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.775,
+                "end": 38.671
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 대단하신 것 같다며 일찍 출근하셔서 사무실에 가서 계속 물건을 찾으시냐고 물었고 검은색 상의를 입은 남성은 물건도 찾고 개인 업무도 본다고 답한다. 그러면서 퇴근은 조금 빠른 편이라고 하며 3시 반이나 4시면 퇴근해서 집에 가서 아내와 저녁을 먹는다고 하면서 본인은 술이나 유흥을 좋아하지 않는다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17395_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

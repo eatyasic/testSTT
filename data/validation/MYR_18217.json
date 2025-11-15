@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18217",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그때 재건축 아파트는 사실 이제 대부분 다 강남에 모여있고 여의도 목동 노원이 있긴 하지만 그다음에 성산시영 이렇게 좀 있긴 광운대 미미삼 이렇게 있긴 하지만 에 재개발 쪽 가면은 이제 뭐 빌라도 있고 그래서 조금 소액으로 투자할 수 있었던 경우들이 많았거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 18.325
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.335,
+                "end": 18.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그때부터.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.841,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "재개발 쪽으로 가면 빌라도 있고 소액으로 투자할 수 있었던 경우들이 많았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18217_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_18811",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.403,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울이 규제 지역에서 풀려서 입주 후 2년만 보유해도 집값 12억까지는 양도세가 0원이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 여기서 중요한 건 뭐냐 하면 양도세가 0원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.775,
+                "end": 8.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세도 중요하지만 입주 후 2년. 요거죠. 요거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.014,
+                "end": 12.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 입주할 때 잔금 치르니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.096,
+                "end": 13.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 이제 그 나 좀 더 일 일찍이요. 일찍.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.936,
+                "end": 17.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 잔금 한 날이냐 입주한 날이냐. 사용성이 되느냐 아 사용한 날이냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.107,
+                "end": 21.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그래서 그날 부터 좀 빠른 날로 좀 보시면 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.282,
+                "end": 24.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기에서 이제 중요한 건 또 왜 2년 보유입니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.713,
+                "end": 28.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년 보유인 경우도 있고 2년 거주해야 되는 경우도 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.654,
+                "end": 32.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 잔금 하는 당시에 조정 대상 지역이면 거주.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.274,
+                "end": 36.403
+            }
+        ]
+    },
+    "summary": "서울이 규제 지역에서 풀려 입주 후 2년만 보유해도 집값 12억까지는 양도세가 0원이며 잔금 하는 당시에 조정 대상 지역이면 거주해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18811_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

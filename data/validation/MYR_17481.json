@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "MYR_17481",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.759,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 1세대 2주택 비과세 요건 반드시 알아야 되는 절세 전략인데 생각보다 이게 사건 사고가 많이 터집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 봤을 때는 몇 가지 이유가 있는데 그 중 첫 번째가 뭐냐 하면 1세대 1주택이 상대적으로 좀 수월하다 보니까 쉽다 보니까 여러분들이 좀 약간은 자만하시는 게 아닌가",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.944,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "남성이 1세대 2주택 비과세 요건은 반드시 알아야 되는 절세 전략인데 여러분들이 상대적으로 수월하게 생각해 자만하다 보니 사건 사고가 많이 터진다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

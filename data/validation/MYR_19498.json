@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19498",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.243,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 뭐 그 설명을 또 할 쓰 이제 하나 하는 거 그것도 지금 하는 게 낫겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 페이지 보시면 예 그래서 그 지금 뭐 애즈 이즈도 옛날 현재도 그렇고 지금은 어떻게 돼 있냐면은 뭐 상품 별로 각계전투를 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.531,
+                "end": 15.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.069,
+                "end": 15.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 섹터만 집중 투자하면 거슬릴 게 없다 그러면 금액이 얼마가 됐든 뭐 분석투자 할 의지가 없거든요 그러니까 그 뭐냐 비가 섹터만 하니까 굳이 절세 전략을 짤 필요도 없는데 금융투자 소득세가 시행이 된다고하면 이제 인 별 공제 한도를 이용해야 된다 그걸 말씀드리고 싶고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.669,
+                "end": 35.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.292,
+                "end": 35.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 위탁 계좌, 일반 계좌에서는요 그 아까 말씀드린 그 뭐 주식형 국내 상장 주식 2억 5천",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.636,
+                "end": 43.243
+            }
+        ]
+    },
+    "summary": "비과세 섹터만 집중 투자하면 거슬릴 게 없고 절세 전략을 짤 필요도 없는데 금융투자 소득세가 시행이 된다면 인 별 공제 한도를 이용해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

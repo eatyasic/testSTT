@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18988",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.263,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보험료 산정할 시 반영하는 소득에는 어 기본적으로 종합과세 소득이 포함되는데 종합과세 소득에서 추가되는 세금 아 추가되는 소득이 1000만 원 초과하는 분리과세 금융소득이 포함되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2000만 원 이하의 분리과세 되는 주택임대소득이 포함이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.953,
+                "end": 19.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사적연금소득은 아예 제외가 되는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.675,
+                "end": 23.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사업소득과 기타소득에서는 필요경비가 공제가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.629,
+                "end": 30.263
+            }
+        ]
+    },
+    "summary": "종합과세 소득은 보험료를 산정할 때 반영되는데 여기에서 추가되는 소득은 1000만 원을 초과하는 분리과세 금융소득과 2000만 원 이하의 주택임대소득이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

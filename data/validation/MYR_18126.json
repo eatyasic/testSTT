@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18126",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.655,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 차라리 어 내가 만약에 취득세를 좀 부담하고서라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.239
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.249,
+                "end": 3.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인으로 해서 주택 임대 사업자하는 것도 방법 될 수 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.599,
+                "end": 6.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.649,
+                "end": 6.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러 가지 방법이 나오는",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.997,
+                "end": 8.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그렇게 하면 이제 그냥 나오는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.446,
+                "end": 10.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.625,
+                "end": 11.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이제 전에 뭐 극초기 재개발이 그렇게 되는데 그런 질문들은 많이 들어와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.757,
+                "end": 15.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 지금 오세훈 서울 시장이 극초기 재개발을 막 밀어 주고 있는 데 그게 잘 될거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.984,
+                "end": 22.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.032,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "두 남성이 법인으로 해서 주택 임대 사업자하는 것과 여러 방법에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18126_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

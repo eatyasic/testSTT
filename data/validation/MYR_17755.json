@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17755",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주택으로 포함이 안 되는 줄 알고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 아 사람이니까 당연히 그렇게 할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.140,
+                "end": 5.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안되는 줄 알고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.136,
+                "end": 6.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어떻게 해야 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.120,
+                "end": 7.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확인을 한 다음에 팔아야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.140,
+                "end": 8.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그냥 먼저 매도를 해버렸죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.580,
+                "end": 11.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 더 안타까운 게 뭐예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.070,
+                "end": 13.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 공급에 관한 규칙 53조 10항 이거 무슨 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.121,
+                "end": 16.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 주택법이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.391,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "주택법 규칙을 확인하고 매도를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18835",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.446,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달러라는 기초통화를 쫌 확보하고 싶다, 분산투자 목적으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 생각도 있었구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.561,
+                "end": 5.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 무엇보다도 미국 부동산을 다른 나라 중에서도 택한 이유는 외국인에게도 70퍼센트까지 대출이 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.717,
+                "end": 13.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 대출 많이 되네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.692,
+                "end": 14.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그 레버리지가 그 제로금리 시대에는 더할 나위 없이 이용할 수 있는 좋은 시기였잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.883,
+                "end": 22.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 외국인에게도",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.117,
+                "end": 23.446
+            }
+        ]
+    },
+    "summary": "여성은 무엇보다도 미국 부동산을 다른 나라 중에서도 택한 이유는 외국인에게도 70퍼센트까지 대출이 되기 때문이었다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18835_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

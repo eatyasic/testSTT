@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19292",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 비용을 최대한 늘리기 위해서는 세금계산서 신용카드 현금영수증 이런 적격 증빙을 수취해야 되는데 되게 3만원 초과 같은 경우에는 다 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "접대비는 1만원 이하 일반경비는 3만원 이하 거래는 적격증빙이 아닌 간이영수증도 가능 할 수 있지만 하다 보니까 저는 이런 거 받을 일이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.391,
+                "end": 17.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 비용을 쓸 때마다 무조건 사업용 신용카드로 결제하는데 개인 사업자 같은 경우에는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.296,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "최대한 많은 금액을 비용을 인정 받기 위한 방법을 한 남자가 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

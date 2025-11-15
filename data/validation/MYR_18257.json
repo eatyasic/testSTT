@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18257",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.883,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 좀 늘어난다고 결혼을 더 많이 할까 이 생각을 하면 조금 개인적으로 회의적이긴 한데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이제 궁여지책으로 뭐 이런거라도 좀 뽑아내지 않았나하는 생각이 좀 드네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.780,
+                "end": 14.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기보시면 예비 신혼부부들의 결혼 비용 부담을 일부나마 일부나마 예 이 이 이게 왜 이런 말이 나오는지 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.252,
+                "end": 21.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 구체적인 수치는 향후 여론 수렴을 거쳐서 세법 개정 단계에서 개정하겠다는 입장인데 뭐 뻔하지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.926,
+                "end": 28.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 기존부터 많이 나왔던 금액이 뭐 한 1억정도 올리자 뭐 이런 거였기 때문에 대략 뭐 그 정도 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.812,
+                "end": 37.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그리고 어 결혼자금에 한해서 증여세 공제 한도를 두니까 그럼 이제 다른 사람들 형평성 어떻게 할거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.811,
+                "end": 44.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 결혼했을 때 이미 5000만 원 공제를 쓴 사람이 나중에 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.425,
+                "end": 49.883
+            }
+        ]
+    },
+    "summary": "결혼 자금에 대한 증여세 공제를 얘기하면서 자신의 생각을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18257_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

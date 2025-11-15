@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_19416",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공적 의무를 이행하지 않은 것으로 확인되면 세제 혜택 받은 걸 토해 내야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.293,
+                "end": 5.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 진짜 이게 엄청 무서워요 음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.136,
+                "end": 9.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 진짜 좀 조심하셨으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.198,
+                "end": 12.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마침 일선 세무서의 양도세 인력 운용 여력이 풍부해 졌다고 하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.860,
+                "end": 18.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 알기로는 일손이 굉장히 부족한 거로 아는데",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.533,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "공적 의무를 이행하지 않은 것으로 확인되면 세제 혜택 받은 걸 토해 내야 하니 조심해야 하고 일선 세무서의 양도세 인력 운용 여력이 풍부해 졌다고 적혀 있지만 화자가 알기론 사실 굉장히 일손이 부족하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

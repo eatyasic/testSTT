@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17873",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사무실에",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 너무 많죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.500,
+                "end": 2.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그중에서 좀 뭔가 내가 좀 나와 이제 궁합이라는 것도 물론 있겠지만 일반적인 관점에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.120,
+                "end": 7.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.850,
+                "end": 8.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 이게 좀 좋다고 하는 중개 사무실을 내가 찾을 수 있는 혹시 팁 같은 게 그런 게 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.410,
+                "end": 13.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮은 중개 사무실을 좀 찾는 팁이요",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.590,
+                "end": 15.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 좀 뭔가 책임감도 좀 있고 좀 성실하고 역으로 중개사분들은 또 이렇게 하면은 또 자기한테 좀 소위 말해서 홍보도 될 수 있는 그런거 있잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.850,
+                "end": 24.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 그런 게 뭐가 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.380,
+                "end": 25.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 사실 우리가",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.770,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "책임감 있고 성실한 중개 사무소를 구하는 팁을 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17873_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

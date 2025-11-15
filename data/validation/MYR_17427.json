@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17427",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 개인적으로는 어 큰 기대 하지 말자 큰 기대하지 말고 안 된다라고 생각을 한 상태에서 어 여러분들이 대응책이 있어야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그 중에 하나가 정리할 건 좀 정리도 하셔야 되고 어 일부 이렇게 좀 갈아타는 것도 필요하고 현금 확보도 필요하고 이렇게 말씀을 드렸는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.832,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "한 남성이 개인적으로는 큰 기대 하지 말고 안 된다고 생각을 한 상태에서 대응책이 있어야 하며 그 중에 하나가 정리할 건 정리하고 갈아타는 것도 현금 확보하는 것도 필요하다고 개인적인 생각을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17427_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

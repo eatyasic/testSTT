@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17981",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.428,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 들어가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 예를 들어서 서울이 지금 이렇게 있다고 치고 용산, 서초, 강남, 송파 이렇게 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.820,
+                "end": 7.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정 대상 지역이 그럼 그 외 나머지 지역들 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.660,
+                "end": 11.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나머지 지역은 플러스 수도권 외 나머지 지역은 중과 자체가 안 들어간다니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.291,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "조정 대상 지역인 서울의 용산, 서초, 강남, 송파를 제외한 나머지 지역들과 수도권 외 지역은 중과 대상 자체가 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17981_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

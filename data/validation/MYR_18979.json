@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18979",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.477,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1 세무사님이시구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은행 자산관리그룹 세무사를 하셨는데 어 원래는 세무사 자격시험 하시고 하나은행에서 계속 근무를 하신 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.578,
+                "end": 9.624
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.634,
+                "end": 10.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 오래 근무하셨다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.596,
+                "end": 11.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "약 15년 동안 뭐 은행에서 근무하고 지주에서 근무했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.773,
+                "end": 15.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나은행이 있고 거기 하나은행이 그 지주사잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.356,
+                "end": 19.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 지주사에서 제가 알기로는 그런 지주사를 좀 어떤 그 에이스들만 가는 거로 제가 알고 있는데 그 일을 잘하시는 분들만 가는 걸로",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.118,
+                "end": 27.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 운 좋게 가게 돼 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.701,
+                "end": 29.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 아 너무 겸손하신 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.916,
+                "end": 32.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 세무사 업무하셨고 은행 재무기획부 지주 그룹 세무 총괄 여기 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.020,
+                "end": 37.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연결법인세 이거 어렵단 말이에요. 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.447,
+                "end": 39.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래 가지고 인제 은행 PB분들 VIP분들을 대상으로 인제 상담도 하시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.502,
+                "end": 44.477
+            }
+        ]
+    },
+    "summary": "세무사는 15년 동안 은행에서 세무사 업무, 재무기획부, 지주 그룹 세무 총괄을 담당하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18979_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

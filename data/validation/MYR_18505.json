@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18505",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.559,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2개 이상 그러면은 내가 집이 하나 있고 나머지 하나 임대 주택 등록했는데 이 나머지 하나만 등록해서는 재산세 감면 혜택이 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 더 사야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.912,
+                "end": 10.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 취득세 어떻게 할건데 최소 8프로 나와버릴 건데 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.243,
+                "end": 13.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 내가 살던 집을 나가서 나는 임채로 들어가고 이걸 내줘야 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.722,
+                "end": 17.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 이상해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.143,
+                "end": 18.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 정부가 지난번 보도 자료를 보면은 다른 항목도 앞으로 2개 이상은 등록을 해야지 혜택을 주겠다라고 한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.483,
+                "end": 26.559
+            }
+        ]
+    },
+    "summary": "내가 집이 하나 있고 나머지 하나는 임대 주택 등록을 했는데 하나만 등록해서는 재산세 감면 혜택이 없어서 하나를 더 사야 하는데 취득세가 8프로는 나올건데 어떻게 할 것이며 내가 살던 집을 나가서 이걸 내줘야 하는건지 이상한 부분이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

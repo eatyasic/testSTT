@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_19201",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.446,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 첫 번째 질문인데 처음 투자금이 5천만 원 정도라고 하셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 만약에 지금 다시 내가 재개발 재건축 투자를 하겠다 처음부터 하겠다 그럼 현 상황에서 최소 얼마 정도 있으면 좋을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.967,
+                "end": 18.956
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금도 5천만 원으로 가능해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.966,
+                "end": 20.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 5천만 원으로 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.520,
+                "end": 21.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 얼마 전에는 안 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.783,
+                "end": 23.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 말하는 기준은 최소한 광역시급 이상",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.792,
+                "end": 26.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오케이",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.961,
+                "end": 28.048
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지방 소도시도 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.058,
+                "end": 29.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정리해보자면 최소 5천이어도 괜찮은 곳을 투자할 수 있는데 그렇다고 저기 무슨 시골 소도시 이런 데가 아니라 아니라 최소 광역시",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.184,
+                "end": 36.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광역시급 이상",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.798,
+                "end": 37.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 그러면 여기 5천으로 투자를 해가지고 여기 책에 있는 대로 만약에 좀 어느 정도 거래도 하고 기다리고 그렇게 한다면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.854,
+                "end": 45.996
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.006,
+                "end": 46.446
+            }
+        ]
+    },
+    "summary": "지금 투자금 5천만 원으로 최소 광역시급 재건축 투자가 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19201_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

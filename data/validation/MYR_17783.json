@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17783",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.484,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내용이 다 오픈하기엔 좀 안되는 그런 내용이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 간단하게만 제가 좀 익명 처리하고 피드백 간단히 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.692,
+                "end": 9.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 또 작성해 주셨는데 그래서 좀 그 부분 약간 기다려 주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.536,
+                "end": 14.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 늦게 되고 있는 건 양해 말씀드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.182,
+                "end": 16.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.077,
+                "end": 17.484
+            }
+        ]
+    },
+    "summary": "오픈하기 곤란한 내용은 익명 처리하여 피드백 준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

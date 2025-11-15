@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYR_19536",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.408,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "망토 뒤집어 졌네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 27.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "니네 망토좀 똑바로 해줄래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.463,
+                "end": 29.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟤 안 보여 지금.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.402,
+                "end": 31.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 자기 몸 건사하기도 힘든 애가 무슨 악역을 하겠다고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.191,
+                "end": 41.408
+            }
+        ]
+    },
+    "summary": "강아지가 입은 망토가 뒤집어 져서 망토 좀 똑바로 해 달라며 자기 몸 건사하기도 힘들면서 악역을 맡는다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19536_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 15,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

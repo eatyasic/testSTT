@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17650",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.054,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네 아 한국의 오피스텔 형태",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.474,
+                "end": 2.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그런 것처럼 미국에서도 좀 접근할 만한 좀 작은 단위의 어떤 그런 월세 받는 게 어떤 게 좋아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.431,
+                "end": 9.283
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 미국은 이제 콘도라는 게 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.293,
+                "end": 11.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "콘도",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.317,
+                "end": 12.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 한국의 아파트가 미국의 콘도와 동일한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.070,
+                "end": 15.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.158,
+                "end": 15.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 한 미국 아파트라는 말도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.568,
+                "end": 17.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 미국의 아파트는 렌탈용이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.873,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 미국에도 작은 단위의 월세 받는 것 중 어떤 것이 좋냐고 물었고 다른 남성은 한국의 아파트와 동일한 콘도라는 것이 있으며 렌탈용이라고 대답하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

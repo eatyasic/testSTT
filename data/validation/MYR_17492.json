@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17492",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.128,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생계를 같이 하는 가족이란 뭐냐 거주자와 그 배우자의 직계존속 거주자와 그 배우자의 직계존속 그리고 직계존비속의 배우자 형제 자매",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 배우자의 형제 자매 그러기 때문에 장인 장모 처남 처제 사위 며느리도 생계를 같이 하는 경우에는 1세대로 구성하는 가족의 범위에 포함이 되고 예를 들어서 내가",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.665,
+                "end": 28.128
+            }
+        ]
+    },
+    "summary": "남성이 생계를 같이 하는 가족이란 거주자와 그 배우자의 직계존속과 직계존비속이 해당 되며 이를 쉽게 예를 들어 말해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

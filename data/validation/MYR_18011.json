@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18011",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.656,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "논의하고 에 그런 모습을 보고 싶은데 쓰으 하 제 기억에는 본 적이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어쨌든 자 어쨌든 이 시기 이제 이거를 인제 관련된 내용을 이제 통과를 좀 시키려고 하지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.289,
+                "end": 13.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그러면 이게 만약에 이제 통과가 됐다 입법이 됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.548,
+                "end": 19.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법을 바꿔야 되니까 이제 시행 시기가 문제잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.590,
+                "end": 23.656
+            }
+        ]
+    },
+    "summary": "어쨌든 이 시기에 관련된 내용이 통과가 돼서 입법이 되면 법이 바뀌니까 시행 시기가 문제가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

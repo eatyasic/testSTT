@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17413",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.668,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보시면 2022년 작년입니다. 작년",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12월 21일 에 발표한 에 보도 자료고 행안부에서 발표합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.403,
+                "end": 12.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어 저희가 세법이면은 기획재정부 아닌가요 그렇지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.600,
+                "end": 16.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 세법이 크게 두 가지가 있는데 국세가 있고 지방세가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.001,
+                "end": 20.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세는 기획재정부 국세청에서 이렇게 하고 있고 지방세는 행정안전부 행안부에서 하고 있는데 이게 그게 이제 이태원 그 일도 생기면서 이제 전혀 뭐 올스톱 이 돼버린 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.898,
+                "end": 33.666
+            }
+        ]
+    },
+    "summary": "한 남성이 2022년 12월 21일에 행안부에서 발표한 보도자료를 설명하고 있는데 세법은 크게 두 가지가 있고 그중 하나는 국세이며 국세는 기획재정부, 나머지 하나는 지방세로 행정안전부에서 발표한다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

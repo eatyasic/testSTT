@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18293",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.404,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "90명?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 92명이 들어왔습",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.372,
+                "end": 1.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄청 많이 들어온 거 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.800,
+                "end": 2.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 92명이 들어왔다면은 집행관이 그 92명을 다 불러주는 것도 그렇고 입찰 봉투를 개찰할 때 상당히 힘들고 그 법정에 92명만 오는 게 아니고 92명 중에서 한 사람이 한 사람만 데려만 데리고 오더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.939,
+                "end": 17.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.059,
+                "end": 17.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통 보통 혼자 안 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.590,
+                "end": 19.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.288,
+                "end": 19.836
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 명, 세 명도 갈 수 있는 야 그 한 사건에 200명이",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.846,
+                "end": 24.391
+            }
+        ]
+    },
+    "summary": "한 사건에 92명이 입찰한 이야기를 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18293_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

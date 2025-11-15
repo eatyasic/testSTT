@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18067",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.688,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 낮게 지어지는 아파트를 뭐라 그러더라",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "타운 하우스?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.137,
+                "end": 2.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 타운하우스 타운하우스 그런데 여러분들 한남 뉴타운 5구역은 한강변 앞이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.771,
+                "end": 7.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.073,
+                "end": 7.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 제는 얼마 해야 되는 거냐고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.469,
+                "end": 9.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.228,
+                "end": 10.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 내가 돈이 정말 많다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.874,
+                "end": 12.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.971,
+                "end": 13.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나는 정말 최고를 하나 갖고 가고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.614,
+                "end": 17.604
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.614,
+                "end": 18.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 한남 5구역입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.180,
+                "end": 19.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한남 5구역 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.081,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "두 남성이 한남 5구역에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

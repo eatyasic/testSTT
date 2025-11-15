@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19210",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요거 한번 참고해 보시면 좋을 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.220,
+                "end": 2.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래도 이제 많이 이렇게 잘 쉽게 설명을 해 주시기는 했는데 그럼 정비 사업이라는 게 이제 관련 법도 여러 가지를 좀 알아야 되고 특히 이제 세금도 알아야 되고 여러 가지 공부도 해야 되니까 아무래도 일반 아파트 투자보다는 조금 더 허들이 있을 수가 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.537,
+                "end": 18.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.452,
+                "end": 18.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 @이름1님은 계속 이걸 15, 10년 넘게 15년 동안 하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.863,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "남자는 정비 사업이라는 게 일반 아파트 투자보다는 조금 더 허들이 있을 수 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

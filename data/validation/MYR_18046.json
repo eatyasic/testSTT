@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18046",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 얼마 정도 수도권에 요 정도면 얼마 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 말씀드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.996,
+                "end": 3.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.861,
+                "end": 4.801
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 아니 구역까지는 말씀을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.811,
+                "end": 7.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말씀드려도 된 것 예 그럼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.734,
+                "end": 9.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 요것도 제 개인적인 생각이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.534,
+                "end": 12.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 잘 사는 구가 보는 서울의 재개발 구역은 탑5가",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.653,
+                "end": 17.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 탑5 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.377,
+                "end": 18.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "탑5",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.176,
+                "end": 18.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한남, 성수",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.863,
+                "end": 19.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.863,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "한 남성이 서울의 재개발 구역은 탑5에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

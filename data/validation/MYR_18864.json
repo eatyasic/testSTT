@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18864",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.633,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울은 5프로밖에 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울은 5프로밖에 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.802,
+                "end": 3.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 수도권도 20프로밖에 안 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.427,
+                "end": 6.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.562,
+                "end": 7.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 반면에 우리가 크게 기획, 구획을 나눴을 때 전라도가 60프로로 가장 많구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.318,
+                "end": 13.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 인천, 충청도가 40퍼센트 정도, 경상이랑 경기가 30퍼센트 정도 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.385,
+                "end": 19.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 이걸 어떻게 해석해야 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.593,
+                "end": 20.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 그렇게 본다고 치셨을 땐 가장 큰 건 땅 값이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.003,
+                "end": 24.302
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "땅 값이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.312,
+                "end": 25.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수도권과 서울에서는 매장을 내는데 절대적인 땅을 확보하기가 비용이 너무 많이 들어가기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.258,
+                "end": 32.633
+            }
+        ]
+    },
+    "summary": "화자1은 수도권과 서울에서는 매장을 내는데 절대적인 땅을 확보하기가 비용이 너무 많이 들어가기 때문에 서울 5프로, 수도권 20프로이고 반면에 전라도가 60프로로 가장 많다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

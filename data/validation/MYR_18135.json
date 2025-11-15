@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "filename": "MYR_18135",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.731,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아파트가 오르는데 재개발 재건축에 안 오를 리 없잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.170,
+                "end": 3.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 따라 오른단 말이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.780,
+                "end": 4.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.740,
+                "end": 5.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 내가 아파트를 5억 주고 사서 8억에 팔아서 3억의 수익을 내는 거랑 재개발을 5억 주고 똑같이 8억 사는 거랑 똑같은 것 똑같은 결과값을 가져가는데 우리는 흔히 그거를 아파트가 완공될 때까지 가져가려는 생각을 갖다 보니까 그게 지루한 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.315,
+                "end": 24.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요. 맞아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.170,
+                "end": 24.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전혀 그럴 필요가 없거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.751,
+                "end": 26.003
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.013,
+                "end": 26.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이건 확실 확실한 것 그게 아파트 될 때까지 가져가는 게 마진이 제일 커요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.398,
+                "end": 31.731
+            }
+        ]
+    },
+    "summary": "확실한 건 아파트가 될 때까지 가져가는 게 마진이 제일 크다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYR_18203",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 산 재건축 아파트가 거의 한 40프로 정도 하락을 했었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 별로 상상하기 싫은데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.674,
+                "end": 6.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그 그랬었어요. 그때 2010년에 잔금 치고 한 2014년까지 엄청나게 빠졌었거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.486,
+                "end": 12.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 음 그냥 어 뭐 잠실 쪽 이쪽에 있었던 아파트가 15프로 20프로 정도 빠질 때 제거는 거의 더블 가까이 빠졌으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.381,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "내가 산 재건축 아파트가 한 40프로 정도 하락을 한 적이 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18203_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

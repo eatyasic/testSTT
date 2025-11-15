@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18887",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.47,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 이제 쫌 어려운 말로 현물 출자라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현물 출자를 한건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.416,
+                "end": 3.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.315,
+                "end": 3.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 엄밀힌 자기는 판 건 아니다, 자기가 법인으로서 쫌 성격을 쫌 달리 가져가 주주가 된거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.714,
+                "end": 9.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법률상 임대인이 바뀐 건 맞지만 개인 회사다 보니까 사실상 임대인이 그대로 된거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.702,
+                "end": 14.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굳이 왜 그랬을까 이렇게 되면 양도소득세 내야죠, 취득세 내야죠, 법인 설립 하면서 비용도 들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.618,
+                "end": 21.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비용이 한 두 가지가 아닌데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.654,
+                "end": 23.398
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국에는 이렇게 드는 비용을 감수하고라서라도 얻는 이익이 있었을 거란 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.408,
+                "end": 28.470
+            }
+        ]
+    },
+    "summary": "화자2는 자신이 설명하는 사람이 비용이 한 두 가지 드는 것이 아닌데 비용을 감수하고서라도 얻는 이익이있었을 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

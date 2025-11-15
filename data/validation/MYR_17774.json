@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17774",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.188,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 내용이 삭제가 되면서 전입을 안 해도 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 이 사람이 비과세 받고 싶은 게 에이잖아요 에이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.071,
+                "end": 7.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21년 2월인데 언제 팔았다고 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.540,
+                "end": 10.207
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23년 7월에 매도했다면서 23년 7월 23년에 7월 매도했으니까 요 23년 1월 12일날 이후에 양도한 거잖아 양도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.200,
+                "end": 22.188
+            }
+        ]
+    },
+    "summary": "남성이 비과세에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17774_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

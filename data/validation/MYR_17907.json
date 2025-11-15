@@ -1,0 +1,268 @@
+{
+    "metadata": {
+        "filename": "MYR_17907",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 103.036,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 어디 가서 배울 때도 없지 않아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 특히 이제 나이가 좀 있으신 분들 40대 중후반이나 50대에 자격증을 따서 처음 도전하시는 분들은 일을 배울 데가 없어요 이제 나이 많다고 안 뽑아주니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.050,
+                "end": 11.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.550,
+                "end": 12.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그러다 보니까 이분들이 굉장히 자격증 따고 현실에 딱 실무를 시작하시면 굉장히 어려워 하시는데 이게 우리가 자격증 취득할 때 했던 공부는 여기 이만큼 있거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.110,
+                "end": 22.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.382,
+                "end": 22.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실무에서 사용하는 실무적인 지식은 여기 이만큼 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.870,
+                "end": 26.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 교집합이 한 요만큼 밖에 안돼요",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.180,
+                "end": 27.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.960,
+                "end": 28.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그러다 보니까 이분들이 그런 부분 때문에 현장에서 굉장히 어려워 하시고 또 이제 이런 부분들이 많이 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.440,
+                "end": 34.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이론에는 존재하지 않는데 실무에서만 발생하는 거래사고들 중개 사고들 이런 것들이 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.403,
+                "end": 39.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄청 엄청 얼마나 다양하겠어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.987,
+                "end": 41.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 굉장히 케이스가 다양하고 또 법에서는 이렇고 해라라고 배웠어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.340,
+                "end": 46.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현장에서 그렇게 하니까 중개 사고로 이어지는 이런 것들이 사실 경험을 많이 해보고 많은 상황들을 접해보지 못하면 절대로 알 수가 없는 부분들 들이 거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.410,
+                "end": 57.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 이런 부분들을 때문에 너무 힘들어 하셔서 이제 우리 공인중개사의 업무의 시작부터 끝까지 차례대로 상담 뭐 물건 준비하고 고객 미팅하고 권리분석을 하면서 중개 사고를 피해가는 방법들과",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.503,
+                "end": 70.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 현장에서 조심해야 되는 것 임차인분들 매수인분들을 위해서 또 조심해야 되는 부분들 이런 부분들을 이제 하나하나 단계별로 지금은 이제 가르쳐 드리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.470,
+                "end": 80.039
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공인중개사분들을 위한 강의를 지금 일단 먼저 오프라인 강의를 시작을 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 80.049,
+                "end": 84.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 84.705,
+                "end": 85.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그전에 제가 뭐 콜로세라던가 뭐 클래스원 이런 데서 또 오프라 아 온라인 강의가 이런 데서 있었거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 85.130,
+                "end": 91.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 91.290,
+                "end": 91.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 온라인 강의에서는 좀 얘기 못하는 부분들이 있었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 91.860,
+                "end": 94.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 그런 게 있죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 94.600,
+                "end": 95.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그 현실에서는 분명히 벌어지는 일인데 좀 요거는 깊게 온라인에서 얘기할 수 없는 부분들",
+                "sound_type": [
+                    2
+                ],
+                "start": 95.830,
+                "end": 101.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 101.370,
+                "end": 101.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 오프라인에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 101.800,
+                "end": 103.036
+            }
+        ]
+    },
+    "summary": "40대 중후반이나 50대에 공인중개 자격증을 딴 분들은 실무를 배울 곳이 마땅치가 않아서 오프라인으로 강의를 먼저 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17907_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17453",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.168,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 그 아까 말씀하신 사천 공장은 지금 다 마무리가 된 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 마무리가 되고 작년 아니야 올해 이제 7월달에 음 이제 공장 요건 이제 엔피엘의 구조와 좀 다른데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.702,
+                "end": 11.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경매에 들어가서 진행을 해서 낙찰이 되고 우리는 낙찰되는 돈의 배당을 받으면 그만인데 여기는 좀 독특하게 제가 이제 공장 사장님이 경매로 들어가는 걸 원치 않고 이곳 공장 내가 살릴 수 있다 그래서 제가 공장을 가서 조사해 보고 이분이 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.391,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 사천 공장 경매 건은 마무리가 되었냐고 물었고 검은색 상의를 입은 남성이 올해 7월에 마무리가 되었고 엔피엘의 구조와 좀 다르게 경매에 낙찰되는 돈의 배당을 받으면 그만인데 여기는 좀 독특하게 공장 사장님이 경매로 들어가는 걸 원치 않으셨고 본인이 공장에 가서 조사해 본 사례를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17453_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

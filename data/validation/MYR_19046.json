@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19046",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그 고지를 하려고 보니까 자기 내부 지침에는 그게 나대지하고 꼬마 빌딩만 하게 되어있으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그 근거가 있어야 되잖아요 근거가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.770,
+                "end": 10.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직전에 이게 변경이 됐잖습니까 제가 좀 전에 페이지에서 보여드렸듯이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.057,
+                "end": 13.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.533,
+                "end": 14.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10월 12일 13일 전에 이게 규정이 바뀝니다 국세청 내부 규정이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.099,
+                "end": 18.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "규정이 바뀌어 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.953,
+                "end": 20.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.395,
+                "end": 21.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 등을 만들어 가지고 등을 만들어 가지고 이 고지가 된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.059,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "10월 12일에 국세청 내부 규정이 바뀌어서 고지가 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

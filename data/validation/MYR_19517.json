@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYR_19517",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.4,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동산이 많더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 요즘 금융 상품도 앞으로 점점 더 이렇게 비중이 늘어나고 관심들이 많아 질 거기 때문에 이에 대한 좀 뭐 정보 그게 이제 책이 될 수도 있고 블로그가 될 수도 있고 그리고 이제 유튜브가 될 수도 있는데 우리 @이름1 세무사님께서 블로그도 있으니까 블로그 뿐만 아니라 유튜브까지 잘 해가지고 하시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.214,
+                "end": 25.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오늘 시간 귀중한 시간 내주셔서 고맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.229,
+                "end": 27.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.910,
+                "end": 28.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.596,
+                "end": 33.400
+            }
+        ]
+    },
+    "summary": "앞으로 금융 상품에 대한 관심이 늘어날 거기 때문에 블로그 뿐만 아니라 이제 시작하실 유튜브가 잘 됐으면 좋겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19517_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17989",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.529,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자 양도세 중과가 내년 5월까지 한시 유예된 만큼 개정 시기를 내년으로 아 이거는 무슨 말이냐면 만약에 만약에 어 예를 들어서 뭐 저같이 생각하는 사람도 있겠지만 아니다 이거 부자 감세다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 생각하시는 분도 분명히 계시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.550,
+                "end": 14.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 뭐 정답은 없을 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.466,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "정답은 없을 수 있으나 저같이 생각하는 사람도 있겠지만 이건 부자 감세라고 생각하는 사람도 있을 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

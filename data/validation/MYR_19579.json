@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19579",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 내가 어 157 158인데 안 되는 거 아니냐 승무원 이런 고민 너무 사소한 고민 하지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본인이 어느 정도 이미지만 정돈을 하고 면접 답변을 확실하게 대답할 수 있고 그 면접장에서 어 그 심사위원들과 다른 사람들을 좀 압도할 수 있는 능력이 될 때까지 연습을 진짜 많이 하시면 승무원 될 수 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.921,
+                "end": 19.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.668,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "키에 대한 사소한 고민 하지 말고 본인의 이미지만 잘 정돈하고 면접장에서 확실한 답변과 다른 사람들을 압도할 수 있는 능력이 될 때까지 연습을 많이 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17839",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.202,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 땅은 반드시 투자를 하셔야 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "땅 갖고 돈 번 사람은 많아도 딴 건 사업하다 망하기도 하고 막 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.804,
+                "end": 9.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 망할 게 없는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.723,
+                "end": 11.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갖고만 있으면 무조건 돈이 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.744,
+                "end": 14.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 아파트도 부분 부분적으로 뛰는 거지 전체가 뛰는 건 아니거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.317,
+                "end": 20.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.160,
+                "end": 21.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 하신 분과 그 당시 비교해 봐도 그 당시에 강남에다가 아파트를 산 분이 50년 돼서 과연 3000억이 되냐 1억 주고 산 게 안되거든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.100,
+                "end": 31.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "땅을 따라올 자가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.533,
+                "end": 34.200
+            }
+        ]
+    },
+    "summary": "땅은 갖고만 있어도 돈이 되기 때문에 반드시 투자를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

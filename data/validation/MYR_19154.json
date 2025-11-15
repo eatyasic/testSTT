@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19154",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.191,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종소세 신고를 하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 월급을 받고 있으면 근로소득자죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.374,
+                "end": 4.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 근로소득 내가 하나만 있으면은 굳이 내가 5월달 종합소득세 신고 안 하고 2월달 연말정산으로 끝나는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.297,
+                "end": 10.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 내가 회사를 다니다 다니면서 회사를 다니면서 내가 자영업을 하고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.027,
+                "end": 14.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회사를 다니면서 퇴근 후에는 무슨 호프집을 운영하고 있다 자영업이잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.225,
+                "end": 18.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이 2개가 더해져 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.303,
+                "end": 19.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 된다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.578,
+                "end": 20.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합과세가 돼서 5월달에 종합소득세 신고를 하셔야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.355,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "회사를 다니면서 자영업을 하는 사람은 5월달에 종합소득세 신고를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

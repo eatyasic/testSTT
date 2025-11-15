@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17411",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.145,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에 이게 완전히 다르다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다르기 때문에 우리는 어 여기에 대해서 어 계속 파이팅을 하겠다 이런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.457,
+                "end": 7.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 외에 이제 이런 사연들이 쭉 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.696,
+                "end": 10.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 쭉 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.473,
+                "end": 12.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 이 기사를 쓰신 기자분이 그래도 현장에 계시니까 그분들이 좀 뭔가 현장 분위기를 보지 않았겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.012,
+                "end": 22.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에 대해서 이제 정부가 좀 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.709,
+                "end": 26.126
+            }
+        ]
+    },
+    "summary": "한 남성이 여야 국회의원들의 입장과 생각들이 다르기 때문에 법안들이 국회에서 통과 하지 못하고 있고 이 기사를 쓰신 기자분이 그래도 현장에 계시니 현장 분위기를 봤을 거고 그부분에 대해서 기사를 쓰고 있다고 말하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17411_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

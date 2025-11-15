@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18870",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대략 좀 어느 정도 수준인지 좀 한 번 말씀 좀 해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 일단은 절대적인 매장 크기가 있어야겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.190,
+                "end": 7.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매장을 우리가 분석해보니까 평균 1. 6층 규모에 333제곱미터가 필요해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.865,
+                "end": 14.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평으로 치면 100평 정도 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.162,
+                "end": 16.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 준비해 온 표 보면서 한 번 설명해볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.065,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "화자2는 분석해보니까 평균 1. 6층 규모에 333제곱미터가 필요한데 평으로 치면 100평 정도가 된다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

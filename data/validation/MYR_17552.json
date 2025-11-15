@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17552",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.746,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "15억 초과 담보 대출 제한 그게 폐지된 것도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.480,
+                "end": 5.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.700,
+                "end": 6.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 뭐 젊은 층에 대한 기대도 일부 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.265,
+                "end": 8.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 과오에 또 집값이 뭐예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.979,
+                "end": 10.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남부터 움직이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.646,
+                "end": 12.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.226,
+                "end": 12.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그런 여러 가지 학습 효과라든지 뭐 어떤 그동안의 어떤 게놈의 법칙이 이런 것들이 좀 작용을 했다고 보는 건데 그래서 제가 이번 체계 굉장히 중요하게 보는 것 중의 하나가",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.520,
+                "end": 24.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.330,
+                "end": 24.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단순 도식에 빠지지 마시라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.874,
+                "end": 26.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.924,
+                "end": 27.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장은 1차원 방정식이 아니라 다차원 방정식입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.746,
+                "end": 31.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 종합적 사고를 할 줄 알아야 되고 이 맥락적 사고를 할 줄 알아야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.873,
+                "end": 36.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이런 말씀을 자꾸 좀 드릴게요. 그니까 뭐 가계 부채가 많아서 집값이 폭락 온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.586,
+                "end": 43.743
+            }
+        ]
+    },
+    "summary": "집값은 강남부터 움직인다 얘기하며 남자가 중요하게 보는 체계는 단순 도식에 빠지지 않는거다 라며 강조 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17552_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

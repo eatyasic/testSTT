@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17941",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.797,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갈아입고 이제 갈 데가 없으니까 돈도 없고 도서관을 갔어요 항상",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.680,
+                "end": 4.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 아마 책은 정말 많이 봤던 거 같아요 도서관 가서 책 보고 밤 되면은 다시 병원으로 와서 지하주차장에서 옷 갈아입고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.130,
+                "end": 11.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.190,
+                "end": 11.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양복 딱 넥타이 매고 올라가서 다녀왔습니다 하고 그거를 이제 아버지한테 속이고 한동안 하고 있었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.629,
+                "end": 18.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어느 날 또 양복 입고 넥타이 딱 매고 있는데 아버지가 부르시더라고요 침대에 누우셔가지고 이렇게 부르시더라고요 일로 와봐 해서 예 아버지하고 이렇게 딱 갔는데 이렇게 저를 위아래로 이렇게 보시더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.650,
+                "end": 30.797
+            }
+        ]
+    },
+    "summary": "출근하는 척 한동안 아버지를 속이고 도서관을 갔는데 어느 날 아버지가 불렀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17941_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

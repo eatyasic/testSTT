@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17921",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 일을 잘하는 사람들은 그렇게 그런 자투리 시간들을 잘 보내고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 고객과 고객 예를 들어서 미팅이 2시에 끝났어요 다음 미팅이 세 시에 있어요 근데 물건 준비는 오전에 다 끝나있어",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.989,
+                "end": 9.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.940,
+                "end": 10.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 시간이 뭔가 좀 애매하잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.410,
+                "end": 11.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피 마시고 한숨 돌리고 금 뭐 한 2시 20분 됐는데 조금 있다가 이제 손님이 또 어 나온다고 예정된 게 있으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.990,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "일을 잘하는 사람이 자투리 시간을 어떻게 보내는지 예를 들고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17921_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

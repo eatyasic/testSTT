@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19039",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.719,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 보시죠 제가 그대로 이게 국세청 내부 규정입니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 공개는 되어 있어요 국세 법령 정보 시스템에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.016,
+                "end": 7.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.105,
+                "end": 7.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 20년 7월에 이렇게 국세청 직원들 직원들이 이 규정을 따라서 해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.602,
+                "end": 13.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 비주거용 부동산과 나대지에 대해서 국세청 직원들 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.661,
+                "end": 19.719
+            }
+        ]
+    },
+    "summary": "20년 7월에 국세청 직원들이 따라서 해야 하는 국세청의 내부 규정은 국세 법령 정보 시스템에 공개되어 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

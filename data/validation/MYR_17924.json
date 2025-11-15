@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17924",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "낮에 좀 시간을 그렇게 허투루 쓰시는 분들 중에 또 끝나고 나서 또 그렇게 밤에 야근한다고 또 그러시는 분들이 많은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이분들 보면은 또 저녁 먹고 한 7시 반쯤에 또 웹서핑 잠깐 했다가 또 뭐 1시간 뭐 일할까 말까 하다가 한 9시 되면 또 가요",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.024,
+                "end": 14.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 사실 6시 이전에 끝내고 6시에 자기 취미활동을 즐기러 가거나 친구를 만나러 가거나 데이트를 하러 가거나 영화를 보러 가거나 충분히 할 수 있는 시간인데 이제 그런 시간들을 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.420,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "낮에 시간을 허투르 쓰는 사람이 야근을 하는 경우가 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17924_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

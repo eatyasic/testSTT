@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYR_17604",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @계정1님 어서 오십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.888,
+                "end": 9.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@계정2 구독자 여러분 많이들 아실 텐데 요즘 어떻게 지내세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.165,
+                "end": 13.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.612,
+                "end": 15.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 뭐 그냥 직업이 유튜버라서 열심히 유튜브 촬영하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.074,
+                "end": 19.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘에 유튜브 굉장히 많이 올리시는 것 같던데",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.694,
+                "end": 21.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 요즘 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.829,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "전문가와 진행자가 웃으며 서로의 안부를 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

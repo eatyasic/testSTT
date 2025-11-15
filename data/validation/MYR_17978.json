@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17978",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.412,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 중과는 어디까지 수위를 조절할 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현행 소득세법 같은 경우에는 2년 이내 단기 보유하거나 다주택자가 보유한 부동산 양도하면은 중과세율로 적용하고 있는데 자 일단 이걸 여러분들이 좀 잘 구분하셔야 되는데 내가 취득을 해 가지고 매각을 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.341,
+                "end": 15.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 기간이 2년 미만 단기간이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.202,
+                "end": 18.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그러면은 여기에 대해서 굉장히 좀 높은 양도세율을 매깁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.066,
+                "end": 22.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년 미만은 70, 1년에서 2년은 60인 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.184,
+                "end": 25.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거 굉장히 조심해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.470,
+                "end": 27.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 주택 같은 경우에 다른 상가 토지는 1년 미만 50, 1년에서 2년 40 그리고 2년 넘으면 기본 세율이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.176,
+                "end": 34.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여기에 대해서 단기 양도세율을 적용하는 기간을 2년이 아니라 1년으로 줄이자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.656,
+                "end": 41.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 1년 미만 같은 경우에 70인데 이건 너무 과하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.309,
+                "end": 45.412
+            }
+        ]
+    },
+    "summary": "현행 소득세법 같은 경우에는 내가 취득을 해서 2년 미만의 단기간이면 높은 양도세율을 매기는데 여기에 대해서 단기 양도세율을 적용하는 기간을 2년이 아니라 1년으로 줄이자는 의견이 나오고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17978_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

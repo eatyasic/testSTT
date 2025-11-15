@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19020",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.748,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "커피숍 하루 종일 같이 보면은 안 좋을 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 안 좋을 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.522,
+                "end": 5.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 여러분들 보시면서 어 스스로 한번 좀 테스트를 해 보셔 가지고 하면 좋겠습니다. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.022,
+                "end": 11.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기까지 쭉 각 캐릭터별로 설명을 드렸고 이어서는 건강보험공단에서 모의 계산 저희가 인제 상담을 하다 보면은 자기의 보험료가 얼마 내는 거냐라고 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.751,
+                "end": 24.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실제 저희가 계산할 때는 이 건강보험공단에 들어가서 한번 계산을 해 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.197,
+                "end": 29.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 건강보험공단 홈페이지 홈페이지에 들어가 보면은 보험료 조회 납부 보험료 계산기가 있는데 여기로 들어가 보면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.268,
+                "end": 37.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "각 여기에서 뭐 직장보험료 모의 계산하기 지역보험료 모의 계산하기 이런 거를 클릭해서 들어가서 각각의 뭐 소득이라든지 재산",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.080,
+                "end": 48.748
+            }
+        ]
+    },
+    "summary": "상담을 하다 보면 자신의 보험료가 얼마인지 물어보는 고객들이 있는데 실제 보험료를 계산하기 위해서는 건강보험공단 홈페이지에 들어가 보험료 계산기를 누르면 직접 계산을 할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19012",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소득하고는 좀 다르네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소득하고 재산 그럼 아까 제가 예를 든 거는 좀 잘못 들었네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.040,
+                "end": 5.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재산으로 해 가지고 박탈되는 경우에는 나머지는 남을 순 있겠네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.157,
+                "end": 9.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 맞으면 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.605,
+                "end": 10.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 약간은 좀 봐주는구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.860,
+                "end": 13.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.322,
+                "end": 15.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 어 쇼킹합니다. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.788,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "아까 사례로 든 거는 잘못된 사례이며 재산요건은 소득요건과 다르게 한 명이 박탈이 되더라도 나머지는 남을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19012_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

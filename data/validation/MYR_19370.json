@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19370",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.962,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대중분들은 그 감평사를 접할 기회가 흔치는 않잖아요. 근데 뭐 저도 평가사님 만나기 전에 마찬가지였는데 읽어 보니깐 저는 딱 드는 느낌이 어 뭔가 좀 헌법 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.869
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 헌법?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.879,
+                "end": 11.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그리고 이제 부동산의 헌법과 같은 느낌이다라는 생각이 들었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.730,
+                "end": 15.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 왜 왜 그렇죠? 뭐 제일 최상위라서 그런 가장 기본적으로 알아야 돼서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.508,
+                "end": 18.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그것도 있고 뭔가 이제 부동산을 바라볼 때 뭔가 이제 읽으면서 네 큰 그림? 잡힐 듯 잡힐 듯 잡히지 않는 느낌? 그리고 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.866,
+                "end": 28.962
+            }
+        ]
+    },
+    "summary": "화자1은 감정 평가사 쓴 책의 내용을 보고 부동산의 헌법과 같은 느낌을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19370_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

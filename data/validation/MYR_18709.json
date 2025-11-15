@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18709",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시기를 좀 넉넉하게 보시라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 특히 이제 그쪽을 좀 더 여러분들이 더 관심 갖고 보시면 더 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.652,
+                "end": 7.288
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼭 지금 그 지역을 어떻게 해라 그런 게 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.298,
+                "end": 10.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 지금 몰리면 분당",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.071,
+                "end": 11.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 여기는 이제 뭐 다 여력이 좀 다 다르시니까 어 그리고 인제 아까 말씀하신 대외 환경도 어떻게 될지 보니까 같이 좀 보시면 좋을 것 같습니다. 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.559,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "여러분들이 시기를 좀 넉넉하게 보시고 대외 환경도 달라지니까 상황에 따라서 이제 평촌을 좀 더 관심 갖고 보시면 더 좋을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

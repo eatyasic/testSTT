@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYR_19313",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 56.056,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원천징수 되기 전에 금액은 되게 많은데 세금 떼고 나니까 남는 게 없다고 하소연 정말 많이 하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 변호사 분들 의사 제가 그런 분들 많이 만났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.653,
+                "end": 9.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 분들이 또 할 수 있는 것 중에 하나가 법인인데 또 그런 분들은 이제 관련된 폼 내에서 법인을 만들기가 쉽지가 않더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.993,
+                "end": 17.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 제재 사항이 있더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.834,
+                "end": 19.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 분들은 또 그 분들 나름대로 고민이 있고 일반적인 우리들은 또 우리들 나름대로 고민이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.245,
+                "end": 24.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국에는 뭐냐면은 세금을 많이 내는 게 결코 나쁜 게 아니다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.481,
+                "end": 28.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많이 벌고 많이 내시고 거기서 내가 낼 거 내고 내가 활용할 있는 걸 잘 활용하면 굉장히 좋은 그런 것들이 많이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.597,
+                "end": 38.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘 좀 어려운 내용 말씀드렸는데 도움 되셨다면 좋아요 구독 부탁 드리구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.016,
+                "end": 43.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 시리즈 또 계속 나오면 말씀 드릴테니까 알림 설정까지 하시면 더 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.485,
+                "end": 49.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘도 시청해 주셔서 고맙습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.442,
+                "end": 56.056
+            }
+        ]
+    },
+    "summary": "일반적인 사람이든 전문직이든 돈을 잘 벌고 세금 관련 활용할 수 있는 걸 잘 이용하면 좋겠다고 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

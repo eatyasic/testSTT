@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17445",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그면 일단 모르는 사람들이 볼 때는 와 3천짜리를 2천에 해 준다고 혹 할 수 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 문제는 그 아파트 시세가 1억이 안 되고 9천이 안 되고 8천이 되면은 3천이 아니라 3백만 원을 준다 그래도 이건 의미가 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.680,
+                "end": 14.053
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.063,
+                "end": 14.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 그 등기부등본상의 순위를 순위에서 이제 금액을 확인하되",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.640,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 3천만 원을 2천만 원에 살 수 있게 해준다고 그러면 모르는 사람들이 혹 한다며 문제는 아파트 시세가 1억이 안 되고 9천만 원도 아닌 8천만 원이 돼버리면 의미가 없어지는 것이기 때문에 등기부등본상의 순위에서 금액을 확인해야 한다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17445_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

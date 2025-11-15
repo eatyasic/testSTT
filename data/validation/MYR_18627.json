@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18627",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.184,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞죠 지금 현재 양도세율은 자 그러고나서 10월이라고 가정해 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10월달은 이제 잔금을 다해가지고 이제 주택으로 바껴요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.113,
+                "end": 7.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입주를 해요 사람들이 그럼 그때부터 어떻게 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.827,
+                "end": 10.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택이 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.707,
+                "end": 11.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 그 주택이 된 상태에서 몇 년 있어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.745,
+                "end": 15.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본세율 받으려면 6에서 45 기본세율 받으려면",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.155,
+                "end": 18.184
+            }
+        ]
+    },
+    "summary": "잔금을 다 치러 주택으로 바뀌고 기본세율 6에서 45 받으려면 몇 년 있어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

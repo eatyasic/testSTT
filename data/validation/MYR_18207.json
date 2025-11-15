@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18207",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집 앞에서 버스 타고 평내호평역 와서 평내호평역에서 경춘선 타고 상봉역 가서 상봉역에서 중앙선 타고 옥수역 가서 옥수역에서 3호선 타고 충무로 왔다 갔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.638,
+                "end": 9.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래 나 엄청 빠지니까 그러다가 이제 회복을 하니까 얼마나 기뻤겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.142,
+                "end": 13.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.855,
+                "end": 14.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 중개사님이 원금 회복했으니까 팔아라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.226,
+                "end": 18.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.930,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "엄청 빠졌다가 원금을 회복하니 중개사님이 팔아라고 하셨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18207_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

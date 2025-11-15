@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17830",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.718,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이해할 수 있는 것만 이해하는 거야 150페이지까지만 수학 그거 어렵잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지긋지긋한 고등학교 때 적분, 미적분보다 조금 더 어려운 것들이 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.121,
+                "end": 11.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 건 저도 안 보고 알 수 있는 것만 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.315,
+                "end": 15.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 재밌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.250,
+                "end": 16.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 오늘 경매 돼지 명도에서부터 양자물리학까지 갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.945,
+                "end": 24.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 야 오늘 굉장히 많이 좋은 말씀 해주셔서 정말 감사하고 특히 더 많은 내용은 여기 책에 있으니까 여러분들이 한번 책도 많이 사랑해 주시면 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.020,
+                "end": 35.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원장님 저희 마지막으로 저희 채널을 보고 계신 저희 구독자분들에게 뭐 좀 응원 말씀 한마디 좀 부탁 좀 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.016,
+                "end": 44.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 양자역학 책에서 배운 얘기인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.263,
+                "end": 46.713
+            }
+        ]
+    },
+    "summary": "책에 적분, 미적분보다 더 어려운 것들이 나오지만 내가 이해할 수 있는 것까지 이해하면서 본다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17830_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

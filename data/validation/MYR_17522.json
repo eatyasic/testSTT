@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_17522",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 66.599,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고점일 때 집 값도 특히 아파트 실거래가가 고점인 경우가 이번에 발견됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 실제로 제가 아파트 어 실거래가 고점 2021년 10월이라고 말씀 드렸죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.837,
+                "end": 10.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10월이었는데 M2 어 그니까 M 어 M1 M2 비율 고점이 2021년 9월입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.916,
+                "end": 19.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 한 달 빨라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.043,
+                "end": 19.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때가 언제냐 어 역대 37점 8프로로 가장 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.806,
+                "end": 24.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역대 평균이 28점 8이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.332,
+                "end": 26.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 6월 달이 얼마 정도 되느냐 31점 2프로 정도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.973,
+                "end": 30.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 지금도 약간 역대",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.943,
+                "end": 33.096
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올해 6월이 31점 2라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.106,
+                "end": 34.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "31점 2요 조금 높죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.793,
+                "end": 36.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 조금 높은데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.476,
+                "end": 37.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 높은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.325,
+                "end": 38.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 어쨌든 M1 M2 비율도 어 고점을 따질 때 굉장히 중요한 하나의 지표가 될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.256,
+                "end": 45.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 어 월간 단위로 나오기 때문에 조금 우리가 리얼 타임으로 따라갈 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.774,
+                "end": 49.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 서울 아파트 기준으로 본다면은 외지인 비율이 높았을 때 갑자기 이게 늘어났을 때가 이게 특히 바닥권에서 갑자기 늘어난 건 뭔가 이게 시장을 바꿔 놓는 어떻게 보면 이게 전환점이 되는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.800,
+                "end": 66.599
+            }
+        ]
+    },
+    "summary": "박사는 M1 M2 비율이 고점이었을 때가 2021년 9월로 이때 아파트 실거래가도 고점 이었다고 말하며 37점대로 역대 가장 높은 점수였고 지금은 31점 정도인데 지금도 약간 높은 편이라고 설명하며 고점을 따질 때 중요한 지표가 될 수 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17522_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

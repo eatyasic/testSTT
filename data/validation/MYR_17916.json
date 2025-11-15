@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17916",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 거기에 대한 간극이 분명히 존재해요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.180,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고객이 생각했던 본인의 조건 그리고 거기에 맞는 본인이 합당하다고 생각하는 금액이 있을 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.719,
+                "end": 8.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.300,
+                "end": 8.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현실에서는 또 현실의 물건이 있고 현실에서 합당한 그 물건에 대한 실제 가격이 있는데 이 두 가격이 항상 미스매치예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.780,
+                "end": 15.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.822,
+                "end": 16.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매치가 항상 안돼요",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.250,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "고객이 생각하는 물건의 가격과 실제 그 물건에 대한 가격의 간극이 발생한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17916_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18449",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.93,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문고리를 뭘 잡고 먼저 들어가느냐 따라서 결과가 많이 좀 다른 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청약을 시작을 하시는 사람 청약만 이제 바라보고 또 갭투자하시는 분들은 갭 투자만 보고 경매하시는 분들은 경매만 막 판단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.570,
+                "end": 16.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 그것만 잘해도 뭔가를 이렇게 할 수가 있기 때문에 근데 제가 보니까 내가 선택의 여지가 없다고 생각을 했는데 항상 선택의 여지는 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.484,
+                "end": 28.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 몰랐을 뿐이지",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.070,
+                "end": 30.930
+            }
+        ]
+    },
+    "summary": "내는 선택의 여지가 없다고 생각을 했는데 항상 선택의 여지는 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

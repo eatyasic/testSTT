@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19008",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 명이라도 이 소득요건을 충족하지 못한다 그러면은 모두가 피부양자가 될 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 진짜요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.814,
+                "end": 6.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저 저거 몰랐는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.808,
+                "end": 8.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그러면 자 봐봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.948,
+                "end": 10.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면은 예를 들어서 뭐 아들이 회사를 다니고 그 밑에 인제 직장가입자 밑에 인제 피부양자잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.943,
+                "end": 18.604
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 엄마 아빠 두 부모님을 피부양자로 해서 모시고 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.614,
+                "end": 22.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그중에 뭐 한 분이 예를 들어서 뭐 어머님이 부동산에 관심이 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.145,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "부부 중 한 명이라도 소득요건을 충족하지 못하는 경우 모두 피부양자가 될 수 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

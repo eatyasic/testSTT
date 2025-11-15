@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18187",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.519,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 좀 올바른 방향으로 갈 수 있게끔 멘토링 해주는 게 저한테 되게 잘 잘 맞더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그러면서 아 뭐 형님은 되게 선한 영향력이 있다 이제 아 그다음에 형님 덕택에 뭐 이러 이렇게 잘할 수 있었다라는 얘기를 평소에 많이 들어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.280,
+                "end": 15.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 고론 좀 선한 영향력 그니까 좀 착하고 착한.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.215,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "평소에 주변에서 선한 영향력이 있다는 이야기를 많이 들어서 멘토링 해주는 게 잘 맞는 것 같았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18187_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

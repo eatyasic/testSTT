@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18520",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.179,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 중심지 말씀하셨었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.390,
+                "end": 2.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구는 좀 어때요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.065,
+                "end": 2.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대구 같은 경우도 지금은 어 솔직히 분위기는 분위기는 그렇게 좋지는 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.721,
+                "end": 8.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋지 않고 저는 전 올해가 물량이 아주 많고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.330,
+                "end": 11.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내년도 그렇게 적지는 않은데 계속 지금 대구에 좀 범어동이든 약간 메인 핵심지 같은 경우는 가격이 조금 반등을 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.876,
+                "end": 21.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 오히려 생각 그니까 생각했던 거보다 에 그렇게 막 퍼거나 그런 건 않던데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.550,
+                "end": 26.254
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다 그래서 저는 일단 내년까지 아니면 내후년까지 대구 시장을 좀 더 안 좋아질 거라고 예상을 했는데 아 이게 좀 시장",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.264,
+                "end": 34.167
+            }
+        ]
+    },
+    "summary": "대구 같은 경우 분위기가 그렇게 좋지는 않고 올해 물량이 아주 많은데 내년도 그렇게 적지는 않지만 대구 범어동이든 메인 핵심지 같은 경우 가격이 조금 반등을 해서 내년이나 내후년까지 대구 시장이 더 안 좋아질 거라고 예상을 하고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18520_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

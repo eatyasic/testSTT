@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19137",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.519,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그분들 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 하우스푸어 하우스푸어 집을 팔고 싶어도 받아주는 분들이 없기 때문에 세금 혜택에서 이 1주택자들의 주택을 사주셔라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.856,
+                "end": 11.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사주셔라 그러면 그 사주시는 분들한테 혜택을 주겠다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.397,
+                "end": 15.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.517,
+                "end": 16.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어마어마한 혜택이었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.028,
+                "end": 17.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 이 주택을 산다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.474,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "집을 팔고 싶어도 받아주는 사람이 없는 사람의 집을 사면 혜택을 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

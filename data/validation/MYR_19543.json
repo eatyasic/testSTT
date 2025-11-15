@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19543",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.71,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 영상은 워너브러더와 함께합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소행성을 데리고 DC리그 오브 슈퍼 펫을 패러디 해보았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.575,
+                "end": 6.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DC리그 오브 슈퍼 펫은 무시무시한 악당들의 계략으로 슈퍼맨과 저스티스 리그 히어로들이 위험에 빠지면서 시작되는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.487,
+                "end": 14.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀가 슈퍼맨을 구했던 것처럼 히어로들을 구하기 위한 슈퍼 펫 친구들의 좌충우돌 모험 이야기를 그린 애니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.174,
+                "end": 21.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DC 리그 오브 슈퍼 펫은 8월 10일에 개봉합니다 DC 리그 오프 슈퍼 펫은 DC에서 처음으로 나온 애니메이션이래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.241,
+                "end": 28.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동물들이 주인공이라니 얼마나 귀엽고 짱쎄고 다할지 궁금해지네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.627,
+                "end": 32.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "히어로물 팬은 물론 동물을 사랑하는 가족 관객들에게 특히 추천드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.864,
+                "end": 37.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예고편이 궁금하신 분들은 더보기란이나 고정 댓글을 확인해 주시면 감사하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.589,
+                "end": 43.710
+            }
+        ]
+    },
+    "summary": "소행성을 데리고 DC 리그 오프 슈퍼 펫을 패러디 했다며 DC 리그 오프 슈퍼 펫은 동물이 주인공으로 나오며 히어로들을 구하기 위한 좌충우출 모험 이야기로 8월 10일에 개봉하며 예고편은 더보기란이나 고정 댓글을 참고해 달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19543_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 15,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

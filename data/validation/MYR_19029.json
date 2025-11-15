@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19029",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상속으로 가다 보면 물건 가격 자체가 올라 버리면 어차피 증여나 상속이나 이 그 가격이 얼마냐 가지고 세금을 메기는 건데 기다리면 거의 서울 시내 부동산이나 뭐 일반적인 부동산들은 다 가격이 올라가잖아요. 그러면 세금 면에서 이제 손해잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 증여를 해 주려고 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.710,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "상속이나 증여는 가격을 가지고 세금을 메기는 데 기다리면 부동산 가격이 다 오르기 때문에 손해다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19029_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

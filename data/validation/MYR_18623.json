@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18623",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.091,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이제 관외 거래 그리고 떴다방을 통한 물밑 거래가 분양권 전매 제한이 해제된 지금에서야 실거래로 등록된 것이라는 추측도 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 이게 이건 좀 확인은 안되는데 추정하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.509,
+                "end": 13.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 이런 식으로 왜 이렇게 좀 직거래를 하고 어 좀 어떤 내용인지 투명하게 안되는 거는 왜 그럴까 그중에 하나가 제가 봤을 때는 세금이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.740,
+                "end": 25.091
+            }
+        ]
+    },
+    "summary": "떴다방을 통한 물밑 거래가 분양권 전매 제한이 해제된 지금에서 실거래로 등록된 것이라는 추측도 나오는데 이런 식으로 직거래를 하는 이유는 세금인 거 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18623_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

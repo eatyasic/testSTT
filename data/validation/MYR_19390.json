@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYR_19390",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 임대료 임대 주택으로 등록한 집이 이렇게 또 하나 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 이렇게 총 몇 개가 있죠? 5개가 있죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.559,
+                "end": 10.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5개가 있는데 몇 가지 요건을 갖추면은 요 파란색 주택 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.277,
+                "end": 15.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파란색 주택을 주택세에서 빼 버리는 거예요 이렇게.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.644,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "임대 주택으로 등록한 집이 5개가 있을 때 몇 가지 요건을 갖추면 1개를 제외한 나머지 주택의 주택세를 뺄 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19390_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

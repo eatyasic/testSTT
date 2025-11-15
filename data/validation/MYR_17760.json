@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17760",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 남은 에이하고 주택하고 분양권 하나 남은 상태에서 1세대 주택 비과세를 따졌어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그게 좀 안돼서 어 굉장히 좀 안타까운 그런 케이스입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.938,
+                "end": 13.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 해당 내용은 제 책을 갖고 계신 분은 아마 보셨을 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.283,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "남은 주택과 분양권 하나 남은 상태에서 1세대 주택 비과세를 따져야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17760_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18059",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔이 오피스텔 700 몇 세대가 들어오고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "700 몇 세대",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.853,
+                "end": 5.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 770인가 예 그 다음에 이제 아파트가 420세대인가 들어와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.697,
+                "end": 9.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.998,
+                "end": 10.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 옆에 호텔이 들어오거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.782,
+                "end": 12.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 호텔이 어떤 호텔이 들어오냐면 전 세계 톱10안에 들어오는 최고 좋은 호텔이 들어오고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.871,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "화자가 오피스텔과 호텔이 들어온다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17664",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.899,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 방장에 이 맵 지구라는 맵에 방장이 저는 미국이라고 생각을 하는데 그 방장 땅에 내 깃발 꽂는 거 그거는 두렵긴 하지만 굉장히 어떻게 보면은 또 도전적으로 해보고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 그런 마음이 들 수도 있다고 생각하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.460,
+                "end": 18.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 너무 두려워만 하지 마시고 시도해 볼 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.751,
+                "end": 22.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지금이 굉장히 공부하기 좋은 시긴 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.411,
+                "end": 24.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니깐 어쨌든 금리 때문에 투자하기도 굉장히 어려운 상황이니까 지금은 많이 많이 공부를 하시고 물론 미 부동산",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.717,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "남성은 미국 땅에 투자하는 것은 도전적으로 해볼 수 있다고 하며 지금은 공부를 많이 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17664_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

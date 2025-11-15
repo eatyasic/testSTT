@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19142",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.795,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "증여한 거는 새롭게 했으니까 거기는 그 지분은 따로 안 줘야 되지 않을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.011,
+                "end": 4.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 근데 이게 이제 다른 주택을 팔 때 이게 빠지는지 들어가는지를 봐야 되기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.596,
+                "end": 10.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.720,
+                "end": 11.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 이제 그 중간에 증여를 해버리면 세대 기준으로 따지니까 요 자체가 적용이 안 돼버리니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.423,
+                "end": 17.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.639,
+                "end": 18.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 주택 팔 때 아까 그 혜택 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.210,
+                "end": 20.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비과세가 안 돼버리는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.350,
+                "end": 21.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그래서 이런 거 갖고 계시는 분들은 절대 증여해 주시면 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.797,
+                "end": 26.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 가만히 그냥 가만히",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.197,
+                "end": 27.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혜택이 사라진다는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.495,
+                "end": 28.795
+            }
+        ]
+    },
+    "summary": "중간에 증여를 해버리면 비과세가 안 되니까 증여해 주면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

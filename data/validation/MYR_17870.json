@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17870",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.535,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아예 상관 안 하는 그런 건물주분보다는 이런 분들이 훨씬 좋아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 우리가 이거를 방금전에는 이게 단점이라고 생각을 했는데 이거를 조금 바꿔보면 이건 굉장한 장점이 거든요 임차인의 근데 제가 지금 말씀드린 게 어 거짓말이냐 아니에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.103,
+                "end": 16.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영상을 보시는 분중에 혹시 중개사분이 계시다면 이거 바로 어 맞아라고 바로 얘기를 하실 거예요 현장에선 이게 사실이 거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.640,
+                "end": 22.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 부분을 어필을 해줄 수 있는 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.940,
+                "end": 24.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오히려 인제 잘 모르는 임차인한테 중개사분이 이런 걸 말해줘야지 아 이런게 있구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.700,
+                "end": 30.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.248,
+                "end": 31.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 최근에 경험으로 느꼈거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.157,
+                "end": 32.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러세요",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.940,
+                "end": 33.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네 어쨌든 굉장히",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.640,
+                "end": 35.535
+            }
+        ]
+    },
+    "summary": "상관을 안 하는 건물주보다는 관심을 갖는 건물주가 오히려 장점이고 이런 부분을 중개사가 어필할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

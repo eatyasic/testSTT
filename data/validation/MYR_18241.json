@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18241",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.437,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 여기 나오죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주거비 부담 완화를 위해서 공정시장가액비율 아까 설명드렸던 작년 수준 60퍼센트 유지하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.998,
+                "end": 8.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 뭐 이제 청년 신혼부부 등에 대한 주거지원 강화 뭐 디딤돌 버팀목 대출 주택청약종합대출 뭐 소득공제 한도 상향 전세금 반환보증료 30만 원까지 전액지원 이런 것들은 관심 대상이신 분들은 좀 보시면 좋을 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.576,
+                "end": 25.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 또 봐야되는 건 요런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.443,
+                "end": 27.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대공급 자 지금 어 7월 달에 나오는 세제개편안에서 과연 이 주택임대사업자가 나올거냐 안 나올거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.152,
+                "end": 37.437
+            }
+        ]
+    },
+    "summary": "주택 임대 대출에 대한 정책 지원 등을 살펴보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17869",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.883,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 나 이 집 싫어 아 나머지는 다 좋은데 여기 뭔가 건물주가 이상한 것 같애 그리고 안 하려고 돌아서는 경우들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.540,
+                "end": 7.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 이거는 이제 임차인분 입장이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.677,
+                "end": 10.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 이걸 만약에 반대로 생각해 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.513,
+                "end": 12.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반대로 생각해 보면 이런 건물일수록 들어갈 때는 조금 깐깐하게 보일 수 있지만 들어가고 난 후에는 이런 건물이 임차인들 입장에서 살기가 굉장히 쾌적하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.848,
+                "end": 23.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관리가 잘 돼있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.684,
+                "end": 24.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.493,
+                "end": 25.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 괜히 이상한 뒤탈 없고 깔 업무처리 그런 사람이 업무처리 업무처리는 깔끔해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.080,
+                "end": 29.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이런 건물주의 성향이 우리 현장에서 어떠냐면 이런 성향을 갖고 있는 건물주분들이 건물에 대한 애정이 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.700,
+                "end": 35.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 제가 그 말하려고 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.400,
+                "end": 37.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애정이 있고 그다음에 세입자를 가려서 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.300,
+                "end": 39.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.822,
+                "end": 40.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 세입자들 간의 어떤 분쟁이 있거나 이러면 그걸 중간에 중재를 하거나 바로 개입해서 통제를 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.420,
+                "end": 45.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 신경을 건물에 아무도 안 쓰고 누가 들어오든",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.373,
+                "end": 49.883
+            }
+        ]
+    },
+    "summary": "깐깐한 성향의 건물주는 건물에 대한 애정이 있어서 임차인이 쾌적하게 살 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17869_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

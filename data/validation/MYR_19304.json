@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19304",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.184,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 어 오늘 3월 말 쯤에 하는 원데이 특강에서는 제가 하나씩 하나씩 차분하게 설명을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 마침 이 관련된 내용이 있어 가지고 아 좀 맛보기 식으로 보여주면 좋겠다 했는데 그 하나하나 내용에 정말 설명 드릴 게 너무 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.493,
+                "end": 16.182
+            }
+        ]
+    },
+    "summary": "한 남자가 한 가지 내용에 설명 드릴 게 너무 많아 3월 말에 하는 특강에서는 천천히 자세하게 설명을 해 주겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

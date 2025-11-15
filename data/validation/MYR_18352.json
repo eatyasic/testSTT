@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18352",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.501,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 금리에 대한 금융 비용 조달 뭐 여러 가지 때문에 앞으로는 분양가가 조금 높아질 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 가장 최근에 인플레이션이 오기 직전에 분양했던 그 가격으로 앞으로 또 분양할 수 있을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.883,
+                "end": 16.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 힘들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.641,
+                "end": 17.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그 지금 3기 신도시 분양가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.782,
+                "end": 20.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.827,
+                "end": 21.488
+            }
+        ]
+    },
+    "summary": "여성 화자가 앞으로는 분양가가 조금 높아질 거라 말하고 가장 최근에 인플레이션이 오기 직전에 분양했던 가격으로 앞으로 또 분양할 수 있을지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

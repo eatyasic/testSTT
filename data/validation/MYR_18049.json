@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18049",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.352,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이제 북아현 같은 경우는 북아현 1 다시 1 다시 1 다시 3은 이미 아파트로 끝났고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 2 구역이 아현역 바로 위고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.720,
+                "end": 6.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 그 위가 북아현 3 구역인데 아 한남 3 구역이 관리 처분 인가가 나면서 급매들이 싹 들어가면서 노량진 쪽은 좀 올라왔는데 올라왔는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.742,
+                "end": 19.352
+            }
+        ]
+    },
+    "summary": "화자가 북아현과 노량진에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

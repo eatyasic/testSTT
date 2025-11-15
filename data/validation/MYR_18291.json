@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18291",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.925,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입찰 그 경매 시장에 대한 흐름을 보면은 그렇게 뭐 적극적으로 나서는 것은 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직까지도 이 가격이 더 떨어질 것이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.025,
+                "end": 9.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이런 것도 있고 뭐 가장 큰 이유는 뭐 대출이겠지요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.730,
+                "end": 13.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대출이 문제인데 근데 뭐 저는 뭐 이렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.038,
+                "end": 16.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 뭐 내년에 총선이니까 또 혹시 뭐 대출 제도가 조금 더 바뀌지 않을까 뭐 이런 생각도 가지고 있는데 지금 현재 부동산 시장에서 경매 시장 같은 데는",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.070,
+                "end": 25.925
+            }
+        ]
+    },
+    "summary": "대출에 대한 것이 규제가 바뀔 수도 있지 않을가하는 견해를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18291_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

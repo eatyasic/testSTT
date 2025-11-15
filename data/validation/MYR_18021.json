@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18021",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결혼식장 대여비 등은 대부분 축의금 등으로 충당할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 게 나오는데 결국에는 에 전세 보증금 그리고 주택 매입 자금 이게 이제 핵심입니다 핵심.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.042,
+                "end": 10.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 자 일각에서는 제도 개편에 대한 비판도 나오고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.924,
+                "end": 14.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증여할 재산이 없는 부모와 자녀에게 상대적 박탈감을 줄 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.515,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "결국에는 전세 보증금과 주택 매입 자금이 핵심인데 증여할 재산이 없는 부모와 자녀에게 상대적 박탈감을 줄 수 있다는 것 때문에 제도 개편에 대한 비판도 나오고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19447",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 적용이 돼야 된다고 생각을 하는 게 법 구조 자체가 1주택자가 1승계 조합원 입주권을 취득이라고 돼 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.015,
+                "end": 7.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 네 그렇기 때문에 저는 개인적으로 뭐 판례들의 판례들을 제가 약간 확장해 가지고 해석을 하더라도 그런 식으로 해석을 하는 게 좀 많아 많아 보이더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.792,
+                "end": 17.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그래서 그 A주택을 취득하고 조합 조합원 입주권을 취득한 다음에 이게 완공이 됐는데 그게 3년이 안 된 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.100,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "법 구조 자체가 1주택자가 1승계 조합원 입주권을 취득이라고 돼 있다며 그렇기 때문에 개인적으로 판례들을 약간 확장해서 해석을 하는 게 많아 보인다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19447_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

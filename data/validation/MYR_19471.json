@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19471",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.401,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 그 여러분이 아무리 막 잘 설명한다 그래도 상대방이 못 알아들을 수 있습니다 제가 뭐 입주권 있었는데 분양권 산 후에 그럼 이제 앞에 계신 세무사님은 머리가 막 도는 거예요 분양권을 언제 샀을까 21년 1월 1일을 넘어서 샀을까 이거에 따라 완전 또 달라지거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.261,
+                "end": 18.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려우시더라도 요 조문에 의해서 어 이렇게 좀 말씀하시면 조금 더 훨씬 나으실 것 같구요 두 번째 로는 어 이건 저도 좀 약간 쉽게 봐 가지고 좀 놓친 것 같은데 종전 주택 이제 완공되고 나서 3년 이내 양도인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.901,
+                "end": 34.401
+            }
+        ]
+    },
+    "summary": "어렵더라도 조문을 통해 말하면 얘기에 훨씬 쉽게 얘기할 수 있고 두 가지 당부 중 두 번째를 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19471_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

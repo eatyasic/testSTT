@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_18226",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결혼 자금의 한에서 결혼 자금에 한해서어 증여 공제 한도액을 좀 높일 수도 있다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 성년 자녀 같은 경우는 10년 동안 5000만 원이지 않습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.730,
+                "end": 9.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 증여 상속세가 너무 지금 몇십 년 동안 바뀌지 않고 그러고 있는데 결혼 자금에 한해서.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.650,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "결혼 자금에 한해서만 증여 상속세가 바뀌지 않았는데 공제 한도액을 높일 수도 있는 걸로 바뀌었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18226_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

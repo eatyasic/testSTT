@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19107",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세율 분리함은 이번에 완전히 개정해 가지고 없앴다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 약간 서울에 2주택 가져 가시고 굉장히 불리하셨던 분들한테 올해부터 이제 유리하게 작용이 될 수 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.230,
+                "end": 12.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.922,
+                "end": 13.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 3주택이더라도 3주택이더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.897,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "세율이 분리됨에 따라 예전에 서울에 2주택을 가지고 불리했던 사람들에게 올해부터 유리하게 작용할 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

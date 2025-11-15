@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19324",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.313,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자를 바라보는 그 관점이 다른거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기사 내용을 한 번 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.820,
+                "end": 4.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 근거로 이렇게 내용이 나오는지 자 현재 정부의 다주택자 취득세 완화 방침이 거대 야당 민주당의 반대로 물거품이 될 위기에 처했다 무산 될 판이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.502,
+                "end": 14.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 12일 국회에 따르면 이게 2월 12일에 나온 기사잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.551,
+                "end": 18.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행안위 법안심사 제1소위는 지난주 다주택자 취득세 중과 완화 내용을 담은 지방세법 개정안에 대해 논의했지만 그러니까 이제 논의를 한 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.705,
+                "end": 26.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 12일 기준에서 지난주니까 2월 초죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.682,
+                "end": 30.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 2월 임시국회를 통과시켜야 되니까 논의를 시작을 했지만 반대로 합의되지 못하고 보류된 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.892,
+                "end": 37.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다시 소위를 열고 논의를 재개 할 예정인데 지금 현재 방송을 하고 있는 23일 현재 기준에서서도 별 다른 말이 없는 걸로 제가 알고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.313,
+                "end": 47.313
+            }
+        ]
+    },
+    "summary": "다주택자 취득세 중과 완화에 대한 논의를 시작 했지만 야당의 반대로 보류되고 있는 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

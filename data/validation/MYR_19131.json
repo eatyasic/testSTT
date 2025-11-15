@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19131",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.763,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "직접적으로 이게 막을 수는 없다 집값 상승을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.979,
+                "end": 3.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많이 이렇게 했지만 이 내려가는 이 시점 이 시점에서는 이렇게 점차 이렇게 낮춰주고 있으니까 이게 비교적 약간",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.687,
+                "end": 14.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.322,
+                "end": 15.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞는 것 같기도 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.047,
+                "end": 16.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.596,
+                "end": 17.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다음 페이지 한번 보면서 제가 왜 이 그래프를 이제 그렸냐면 이 그래프와 집값에 대한 그래프와 일시적 2주택에 대한 허용 기한에 대한 그래프를 왜 그렸냐면 다음 페이지 한번 보여드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.035,
+                "end": 29.763
+            }
+        ]
+    },
+    "summary": "내려가는 시점에서는 낮춰주고 있지만 직접적으로 집값 상승을 막을 수는 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYR_18162",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재개발 투자자 재개발 투자에 있어서 가장 큰 사업 리스크예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.483,
+                "end": 4.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팁을 하나 드리면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.015,
+                "end": 5.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.195,
+                "end": 5.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 드리면 이제 아 그 리스크를 측정하는 방법은 굉장히 다양하게 여러 가지가 있는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.800,
+                "end": 11.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.060,
+                "end": 11.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그 우리 장위 10구역의 사랑 제일 교회 문제로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.454,
+                "end": 16.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.188,
+                "end": 16.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속 시끄러웠잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.656,
+                "end": 18.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.018,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "재개발 투자에 있어서 가장 큰 것은 사업 리스크이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

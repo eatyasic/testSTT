@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17517",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 한 번 되돌아보십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.273
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.285,
+                "end": 1.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오락 프로그램에 주식 전문가들 많이 나왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.713,
+                "end": 4.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.170,
+                "end": 4.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 2021년 10월에 우리나라가 아파트 가격이 실거래가입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.766,
+                "end": 9.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때에 연애 오락 프로그램에 어떤 부동산 전문가가 나오는지 한 번 찾아보십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.420,
+                "end": 15.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 버블 지표라고 보고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.737,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "박사는 예전을 한 번 되돌아보라며 오락 프로그램에 주식 전문가들과 부동산 전문가가 많이 나왔을 때가 버블 지표라고 보면 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17517_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

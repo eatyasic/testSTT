@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19359",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.667,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 용어 자체도 다 제가 익숙하지 않은 것들이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 집행이나 경매 이런 것들은 용어가 상당히 익숙하지 않거든요 실체법에 비해서 이런 절차법들이라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.277,
+                "end": 9.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 논리구조도 논리구조도 이게 아예 논리구조 자체가 없는 그런 법들이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.059,
+                "end": 15.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 경우들이 있기 때문에 외우기도 힘들구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.092,
+                "end": 18.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 많이 어렵죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.084,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "한 남자가 집행이나 경매에 대한 용어가 상당히 어렵고 논리구조가 없어 외우기도 어렵다고 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19359_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

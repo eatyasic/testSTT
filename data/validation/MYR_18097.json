@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18097",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 최종 결정은 본인들이 하시는 거기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.175,
+                "end": 2.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 대해서 충분히 공부를 하시고 바라보면 너무 좋을 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.636,
+                "end": 6.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.261,
+                "end": 6.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.693,
+                "end": 7.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 좋아",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.571,
+                "end": 7.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 오늘 너무 좋은데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.941,
+                "end": 9.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥부님 어 이거 제가 좀 욕심이 나기 시작해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.547,
+                "end": 14.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 제가 원래는 이런 걸 하면서 저희 이제 저는 이제 제 수강생 분들이 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.412,
+                "end": 19.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.959,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "화자가 충분히 공부를 하시고 바라보면 좋겠다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

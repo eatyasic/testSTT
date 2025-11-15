@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18766",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.43,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이거 60퍼센트는 아무나 받는 게 아니라 구청하고 세무서 모두 등록을 해야 되는 거고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등록을 안 했다. 정화하게는 구청에 등록을 안 했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.983,
+                "end": 7.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 경우에는 50퍼센트 경비율을 적용받게 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.842,
+                "end": 13.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 다른 종합 소득 금액이 2,000만 원 이하인 경우에는 50퍼센트 또는 60퍼센트 경비율을 적용한 금액에 추가로 200만 원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.658,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "구청과 세무서 모두 등록해야 60퍼센트 경비율을 적용받을 수 있고 한쪽만 하면 50퍼센트 적용받게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18766_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

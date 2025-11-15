@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18911",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.007,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 그런 얘기를 저도 한 적이 있었는데 또 이제 우리 작가님도 통계까지는 아니더라도 실제 그걸 다 떼보신거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 그 동네가 좋고 나쁘다라는 걸 얘기할려고 하는 건 아니구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.481,
+                "end": 11.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 특정 지역을 뭐라하는 건 아니고 예시로 든거지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.087,
+                "end": 14.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 사례가 있다더라 뭐 참고할만 하지 않을까란",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.210,
+                "end": 17.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.808,
+                "end": 18.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 거기서 힌트를 쫌 얻었던 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.684,
+                "end": 20.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.595,
+                "end": 21.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 뭐든 좀 옆에 가까이 있다는 게 중요한 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.574,
+                "end": 26.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 마지막으로 저희 이렇게 채널을 시청하고 계시는 분들에게 쫌 소감이라든지 응원 말씀 한 말씀 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.296,
+                "end": 35.376
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 제가 이 책 쓰고 나서 가장 많이 받았던 말은 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.386,
+                "end": 41.007
+            }
+        ]
+    },
+    "summary": "화자2는 그 동네가 좋고 나쁘다라는 것을 얘기할려고 한 건 아니고 참고할 만한 사례라고 이야기한 것이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

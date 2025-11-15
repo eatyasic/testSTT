@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18745",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 약간 제가 그 오류는 있을 수도 있습니다. 지금 다 기억을 못 하고 있어서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 가산세가 그만큼 무섭다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.962,
+                "end": 7.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.064,
+                "end": 8.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 지금 어 김대경 세무사님께서는 내가 1번 주택이 있고 2번 주택이 있는데 1번 주택이 안 팔린다. 그러면 2번을 등록을 해 가지고 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.402,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "가산세는 무서우니 진짜 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18745_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

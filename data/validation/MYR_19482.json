@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19482",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 무슨 말인지 모르겠어요 아 요거 취득한 다음에 3년 내 처분 하는거 요때는 청약 당첨일로 볼 수 있으니 우리 입장에서 조금 더 조심하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.954
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠 네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.964,
+                "end": 10.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.396,
+                "end": 11.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보수적으로 들어가는 거예요 저게 저희한테 유리한 게 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.501,
+                "end": 13.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연하죠 우리 입장에서는 보수적으로 하고 빨리빨리 그냥 다 채우지 마시고 좀 여유 있게 파시는 게 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.888,
+                "end": 18.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.963,
+                "end": 19.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래요 자 그렇습니다 오늘 어쨌든 이거 너무 감사를 좀 드리고 혹시 이제 상담이 필요하신 분들은 2호선 서초역",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.754,
+                "end": 29.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.319,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "취득한 다음에 3년 내 처분하는 거고 이때 청약 당첨일로 볼 수 있으니 조금 더 조심하자며 보수적으로 들어가는 게 아니라 우리한테 유리한 것이 아니라라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19482_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

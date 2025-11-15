@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_17680",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 있다가 에스크로에 대해서는 뭐 간단하게 설명을 드리겠지만 그러니까 그런 시점들 같은 것들을 잘 맞춰야 되기 때문에 혼자 이렇게 하 하시긴 좀 어려울 순 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 전문적으로 하신 해 한 것과 좀 협업을 해야 된다 조언을 받아야 된다 좀 그런 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.023,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "남성은 시점을 잘 맞춰야 하므로 혼자 하기는 어려울 수 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17680_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

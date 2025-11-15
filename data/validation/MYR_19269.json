@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_19269",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 그 어디를 보더라도 이 법인세에는 1세대 1주택 비과세 이런 거 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 중과도 없고 어 그렇기 때문에 여러분들이 이 중과를 피하려고 이 법인세로 오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.962,
+                "end": 12.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 법인세는 또 요게 있어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.740,
+                "end": 15.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추가 법인세 20퍼센트에 네 그런데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.309,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "중과를 피하려고 법인세로 오는데 추가 법인세 20퍼센트가 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

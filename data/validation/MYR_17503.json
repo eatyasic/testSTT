@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17503",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 봤더니 남편 하나 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장모 하나 있기 때문에 요 세 명이 갖고 있는 주택이 몇 개라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.180,
+                "end": 6.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 채라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.005,
+                "end": 8.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 1세대 2주택이라는 거지 그럼 비과세 돼 안돼 깨지죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.638,
+                "end": 14.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이걸 어떻게 압니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.556,
+                "end": 18.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 사는지 안 사는지",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.246,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "남성이 남편과 장모가 주민등록표 상에는 같이 없지만 함께 살고 있는 경우 각각 1주택이 있다면 1세대 2주택에 해당 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17845",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.483,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 그래도 원장님 아무리 땅이라지만 나는 상가가 맞는데 맞는 건 어쩔 수 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 통계를 쭉 보면 상가는 땅에 대해서 훨씬 떨어지지만 그래도 자기 취향이 그쪽이면 어쩔 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.223,
+                "end": 14.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상가하실 분은 상가하고 공장 같은 것도 상당히 매력이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.635,
+                "end": 18.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공장은 공장 건물을 보는 게 아니라 땅을 사실 보는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.736,
+                "end": 23.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크잖아요 공장.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.745,
+                "end": 25.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 땅값 영향을 많이 받는 거니까 월세도 받을 수 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.149,
+                "end": 29.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 오히려 상가보다 훨씬 공장이 매력이 있는 거야 알고 보면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.993,
+                "end": 34.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공장을 하시는 분도 있고 실력이 땅을 진짜 잘 보지 않으면 공장을 많이 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.757,
+                "end": 40.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "땅값도 올라가니까 임대료를 받으니까 훨씬 일반적으로 쉽다고 생각이 들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.459,
+                "end": 48.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "땅은 그니까 돈이 안 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.260,
+                "end": 50.483
+            }
+        ]
+    },
+    "summary": "상가든 공장이든 본인의 취향에 맞는 곳에 투자하는 것이 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17845_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

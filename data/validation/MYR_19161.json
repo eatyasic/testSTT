@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19161",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.688,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "별거 아닌 것 같지만 이 두 개의 세계의 매트릭스를 가르는 굉장히 중요한 그런 말입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 이거 가지고 한 몇 달 공부해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.653,
+                "end": 8.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본적인 거 아시더라도 근데 우리가 그럴 수는 없잖아요 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.684,
+                "end": 11.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부가가치세는 공통으로 납부를 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.251,
+                "end": 14.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 이 사업을 하면 결국 사업 개인 사업 개인 사업을 하든 법인으로 사업을 하든",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.361,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "개인 사업이나 법인 사업이나 부가가치세는 공통으로 납부한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19161_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

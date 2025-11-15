@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "filename": "MYR_18535",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 75.175,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 오늘은 @계정1 님 모시고 인터뷰 나눠보도록 하겠습니다 안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.535
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.545,
+                "end": 10.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 와주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.626,
+                "end": 12.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초대해 주셔서 정말 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.124,
+                "end": 14.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네 그 일단 저는 그래도 아는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.434,
+                "end": 17.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 구독자 분들은 좀 모르실 수가 있어서 아시는 분도 계시겠지만 그냥 간단하게 본인 소개 좀 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.813,
+                "end": 24.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.136,
+                "end": 25.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "닉네임 @계정1 @계정1로 활동하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.133,
+                "end": 28.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손품으로 어 손품 전문가로 전국 도시별 지역 분석 전문가로 활동하고 있습니다 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.157,
+                "end": 35.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 혹시 @계정1 닉네임 뜻은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.777,
+                "end": 37.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거는 예전에 좀 철 없을 때 제가 좀 지어 가지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.918,
+                "end": 42.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.586,
+                "end": 42.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 빌딩 부자 뭐 이런 건데 빌딩 부자하면 너무 검색하면 다른 것들이 많이 검색되다 보니까 그걸 줄여서 빌부로 했습니다. 약간 닉네임들 지금은 좀 바꿔야 된다고 생각하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.981,
+                "end": 55.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아닌데요 요즘에 가장 인기 있는 게 빌딩이기 때문에 예 빌딩 부자 꼭 닉네임대로 되시길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.025,
+                "end": 62.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.110,
+                "end": 62.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 아까 그 손품 이렇게 많이 말씀하셨는데 특히 제가 알기로도 투자를 많이 해오신 걸로 제가 알고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.908,
+                "end": 69.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 물론 지금 뭐 우리가 짧은 시간 안에 전체 다를 다루기는 좀 힘들겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 69.278,
+                "end": 75.175
+            }
+        ]
+    },
+    "summary": "화자는 손품 전문가를 모시고 닉네임에 대한 이야기를 나누고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18535_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18535_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

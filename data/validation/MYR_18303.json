@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18303",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.658,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불호와 매각 취소를 모르고 지나갔다면은 우리 낙찰자는 나중에 국가를 상대로 손해배상 청구해가지고 경매 담당 공무원은 구상금을 타는 그런 사례가 법에 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 물건 명세서 만큼은 경매 계장과 사법 보좌관님이 굉장히 철두철미하게 봐가지고 우리 이 이집을 샀을 때 소위 말해서 추가 분담이 있을 수 있나 없나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.782,
+                "end": 26.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 집을 샀는데 낙찰자가 소유권이 제한이 되나 안 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.431,
+                "end": 30.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또는 소유권 상실 되나 안 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.144,
+                "end": 32.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 거를 다 적어놨기 때문에 그런 말이 있으면은 그 집을 안 사면 되는 거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.151,
+                "end": 36.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.786,
+                "end": 37.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 내가 사더라도 내가 손해를 작게하려면은 많이 유찰되면 사야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.428,
+                "end": 42.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들은 물건 명세서를 볼 줄 알면 되는데 한글만 알면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.637,
+                "end": 47.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 여러분들은 권리 분석은 그렇다치고 여러분들이 해야될 일은 법원에서 안해주는 거 즉 등기상 권리분석은 법원에서 다 해줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.060,
+                "end": 58.658
+            }
+        ]
+    },
+    "summary": "법원에서 권리분석을 해준다는 것에 대해서 설명을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

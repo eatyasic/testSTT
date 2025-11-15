@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19486",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.762,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 금융 소문 관련해서 전문 좀 세무 업무를 하고 계시기 때문에 이게 도대체 뭡니까 그리고 왜 이렇게 이슈가 되고 있는 거예요 요즘에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면요 그 아까 우리가 그 1부에서 말씀드린 그 성장 주식 대주주 얘기를 안 할 수가 없는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.080,
+                "end": 15.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.722,
+                "end": 16.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 대주주가 아니면 양도세를 안 내죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.143,
+                "end": 19.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.199,
+                "end": 19.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소액 주주가",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.522,
+                "end": 20.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.657,
+                "end": 20.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 10억이 안 되는 분들이 그냥 소액 주주라고 세무상 용어로 표현을 하는데 금투세는요 소액 주주도 과세대상이 들어옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.967,
+                "end": 28.762
+            }
+        ]
+    },
+    "summary": "소액 주주는 10억 원이 안되는 분들을 세무상 용어로 표현하는데 금투세는 소액 주주도 과세대상이 들어온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

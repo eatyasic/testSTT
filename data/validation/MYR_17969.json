@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17969",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.698,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시부모 아이 이거 저기 장인 장모 장인 장모에서 천만 원이 아니라 또 여기서 1억 1억 1000을 받지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1억 1000 왜냐면은 여기서 인제 천만 원 공제 금액 빼면 다시 1억이 되니까 그래서 또 10퍼센트 그니까 10퍼 1억까지 과표 1억까지 10퍼센트 세율이란 말이에요 증여세율이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.742,
+                "end": 21.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 최대한 거기까지 간다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.422,
+                "end": 23.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이게 또 똑같이 천만 원 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.731,
+                "end": 25.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 1억 1000을 받았는데 천만 원 세금 나오니까 또 이거 빼면은 1억이 남아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.006,
+                "end": 31.698
+            }
+        ]
+    },
+    "summary": "장인 장모에게도 천만 원이 아니라 1억 1000을 받으면 천만 원 공제 후 1억에 대해서 10퍼센트의 세율 천만 원을 제외하면 다시 1억이 남게 되므로 최대한 이런 식으로 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

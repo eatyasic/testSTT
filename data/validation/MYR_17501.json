@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17501",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.162,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 가지고 여기 이제 주민등록표예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여기에 장모님이 같이 산다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.489,
+                "end": 11.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장모님 주택이 하나예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.630,
+                "end": 13.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 주민등록 상으로는 분리가 이렇게 되어있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.508,
+                "end": 18.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민등록 상으로는 분리가 되어있어요 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.451,
+                "end": 20.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 실제 생계로는 이 빨간색이 실제 생계입니다 실제 생계.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.699,
+                "end": 29.162
+            }
+        ]
+    },
+    "summary": "남성이 1세대 1주택 비과세에 실수를 하는 경우를 예로 들며 남편과 아내 장모가 같이 살 때 주민등록 상에는 따로 살지만 장모가 주택이 있는 경우를 설명해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

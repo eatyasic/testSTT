@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18279",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.01,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 내가 종전 주택이 있고 분양권을 사면은 이 분양권을 취득한 날로부터 3년 안에 종전 주택 팔면은 양도세 비과세도 가능하고 그리고 취득세 중과도 피할 수도 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 분양권에 대해서 근데 뭐 이 분양권이 비조정이면 아무 문제 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.191,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2번 비조정이니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.492,
+                "end": 14.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우병탁 신한은행 부동산 팀장님은 일시적 2주택의 경우에 분양권 주택 취득세를 낼 때 3년 내에 기존 주택을 팔 거라는 가정 하에서 1주택 기준으로 납부하거나 아니면 일단 2주택 기준으로 세금 납부하고 나중에 팔면은 돌려받을 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.618,
+                "end": 30.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기서는요 일시적 2주택인 경우에 주택이 있고 분양권이 있는 경우에는 나중에 어 취득한 분양권 자체를 또 팔아가지고 중과를 피할 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.162,
+                "end": 39.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정인 경우에 어 거기까지 알고 계시면 좋을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.441,
+                "end": 44.010
+            }
+        ]
+    },
+    "summary": "1주택자가 분양권을 샀을 때 행동할 수 있는 방법에 대해서 얘기를 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18279_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

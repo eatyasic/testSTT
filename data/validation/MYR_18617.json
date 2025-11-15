@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18617",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 시스템에는 올라와 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜그럴까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.430,
+                "end": 4.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장에서 이제 중개사 앉혀놓고 자기들끼리 직거래하는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.003,
+                "end": 8.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 생각을 해보 해보십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.459,
+                "end": 10.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 어디까지나 추정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.881,
+                "end": 13.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 처음에 가격이 있었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.152,
+                "end": 17.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단순하게 했을 때 10억이라고 해볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.473,
+                "end": 19.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10억이 있는데 지금 나와있는 가장 싼 게 15억이에요 1층이",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.164,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "시스템에 올라와 있는 이유는 시장에서 중개사를 앉혀놓고 서로 직거래를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18617_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17687",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.175,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당장 뭐 1번에 그런 걸로 잡혀가진 않겠지만 얘네들이 뭐 집주인이라고 해서 그 임차하고 있는 그 지역을 맘대로 들어갈 수는 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 굉장히 프라이버시가 중요하기 때문에 그래서 그런 사람들은 이렇게 항상 방문할 때 전에 나 몇 시에 방문할 거다 미리 노티스를 주고 가서도 막 잔소리 같은 거 하면 안 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.717,
+                "end": 19.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 어 집 좀 정리 좀 하고 청년 그렇게 살면 안 돼 어 그러면 큰일 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.505,
+                "end": 25.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 걔네들이 그런 것들 다 로깅을 남겨놨다가 나중에 이제 소송을 걸게 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.042,
+                "end": 29.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 인제 굉장히 오랫동안 이게 진행될 수도 있고 그 진행되는 기간 동안에는 또 월세를 받을 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.303,
+                "end": 35.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 법원에서 홀딩을 해 놓으니까 그 홀딩 해놨다가 그 결론에 따라서 이게 바뀌거든요. 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.375,
+                "end": 42.175
+            }
+        ]
+    },
+    "summary": "남성은 미국은 프라이버시가 중요하기 때문에 세입자에게 한국처럼 행동하면 소송이 걸릴 수 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

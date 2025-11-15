@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17660",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국은 더럽고 힘든 일 일수록 인건비가 더 비싸고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 우리도 인건비 많이 올라가고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.888,
+                "end": 4.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.605,
+                "end": 5.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 근데 이제 미국은 하여튼 하여튼 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.178,
+                "end": 8.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 목수분들 굉장히 좋은 또 직업이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.137,
+                "end": 10.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 꾸준히 수요가 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.283,
+                "end": 12.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞 에 그럴 거 같아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.357,
+                "end": 13.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 목조 주택이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.053,
+                "end": 14.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목조 주택이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.127,
+                "end": 14.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.742,
+                "end": 15.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그러구나 그래서 이런 인테리어를",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.542,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 미국은 더럽고 힘든 일 일수록 인건비가 더 비싸며 꾸준히 수요가 있는 목수가 굉장히 좋은 직업이라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17660_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

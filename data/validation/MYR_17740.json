@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17740",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.261,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 내가 이것까지 안 보여주려고 그랬는데 안 팔겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니야 아니야 이건 됐어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.558,
+                "end": 4.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 오래 갖고 계실 분들은 이제 그렇게 해서 주임사로 묶는 방법이 하나가 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.585,
+                "end": 10.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 상업용 그런 수요가 있어서 내가 일반 임대사업자인데도 충분히 버틸 수 있다 그러신 분들은 그냥 일반임대하는 게 제일 깔끔하고요. 주택 수도 빠져 버리고 그 때는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.317,
+                "end": 19.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나중에 주택 수는 내가 들어가고 양도세는 내가 각오하니까 난 투자금 줄이고 싶다 그러면 그냥 전세로 세팅하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.001,
+                "end": 28.261
+            }
+        ]
+    },
+    "summary": "화자는 경우에 따른 과세 처리 방법을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

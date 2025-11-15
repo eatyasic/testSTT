@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18047",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노량진, 흑석, 북아현이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 한남, 성수, 노량진, 흑석, 북아현",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.724,
+                "end": 6.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.086,
+                "end": 6.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "외우세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.759,
+                "end": 7.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 한남, 성수는 일단 뭐 여기는 현금만 10억이 훌쩍 넘어가야 되는 쪽이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.215,
+                "end": 13.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.071,
+                "end": 13.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 이제 노량진",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.583,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "한 남성이 네 한남, 성수, 노량진, 흑석, 북아현 에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

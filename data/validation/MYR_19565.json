@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19565",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희만의 촉인데 물론 틀릴 때도 있죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 대놓고 학생한테 너는 될 것 같다 안 될 것 같다 이렇게 특히 안 될 것 같다라는 얘기는 진짜 거의 할 수가 없거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.359,
+                "end": 11.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 촉 아니면 이 친구는 조금 될 것 같다하는 그런 포인트들을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.937,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "대놓고 학생들에게 될 것 같은지 안 될 것 같은지 말 할 수 없지만 될 것 같은 친구들에 대한 포인트가 있다며 하지만 촉이 틀릴 때도 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

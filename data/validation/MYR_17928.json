@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17928",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.066,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "교육을 하기가 좀 어렵지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 그때그때 필요한 것들을 직원들이 바로 좀 볼 수 있도록 영상을 좀 만들어서 안에다가 서버를 만들려고 했는데 저희 직원들 말로는 유튜브에 올려라",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.564,
+                "end": 11.048
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.058,
+                "end": 11.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 직원들 권유로 유튜브에 이제 올리기 시작했던 게 지금까지 온 거 거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.580,
+                "end": 15.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 유튜브를 이렇게 시작하시는 또 경우가 또 있네요",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.840,
+                "end": 19.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 처음에는 유튜브라는 게 이제 그 당시까지만 해도 저희 아이들이 공짜로 뭐 핑크퐁을 보는 곳 뭐 고 정도만 생각을 했었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.430,
+                "end": 27.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.023,
+                "end": 27.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다가 한 열 분이 보시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.520,
+                "end": 29.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.941,
+                "end": 30.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "백 분이 보시고 백 분이 넘어갈 때 제가 깜짝 놀랬어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.497,
+                "end": 32.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.745,
+                "end": 33.066
+            }
+        ]
+    },
+    "summary": "교육 영상을 직원들의 권유로 유튜브에 올렸는데 다른 사람이 시청을 해서 깜짝 놀랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17928_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17534",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 71.137,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 부동산이 따로 실물 경기랑 존재 할 수가 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 경제가 성장해야지 집값이 올라가는 건데 그러면은 언제 집값이 올르기를 기우제를 지내면서 기다리고 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.876,
+                "end": 11.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 다음은 어 이제 제가 저도 이제 아무래도 세금 쪽을 하다 보니까 이 질문을 안 드릴 수가 없는데 박사님 보시기에 지금 현재 정부의 부동산 정책 어 정책이 이제 세금 관련해 가지고 뭐 전반적으로 봤을 때 어떻게 생각하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.266,
+                "end": 26.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 세상 규제는 다 풀렸죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.756,
+                "end": 28.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부가 할 건 다 했어요. 시행령 할 거는 거의 다 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.696,
+                "end": 31.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 모법이 통과가 안 되니까 상당 부분이 지금 어 입법화가 뭐 지연되고 있다 이렇게 보시면 될 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.345,
+                "end": 39.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가령 뭐 아파트 매입 임대 사업 비용이라든지 아니면 뭐 취득세 뭐 중과 어 그다음에 단기 양도세 율 뭐 인하라든지 그 조건 완화 재초완이라 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.170,
+                "end": 51.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재건축 초과율 환수제에 따른 어떤 부담금 완화 이런 것들이 지금 통과가 안 되고 있으니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.959,
+                "end": 58.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거는 아마 지금 당장은 힘들 거 같고 내년 총선 이후에 아마 약간 변수가 될 수 있지 않을까 이렇게 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.548,
+                "end": 67.308
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아무래도 좀 혹시 이제 그런 거 기다리시는 분들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.318,
+                "end": 71.137
+            }
+        ]
+    },
+    "summary": "진행자가 지금 현재 정부의 부동산 세금 관련 정책에 대해 박사에게 묻자 박사는 정부가 할 수 있는 것은 다 했지만 모법이 통과가 안되어 입법화가 지연 되고 있다고 말하고 지금 당장은 힘들고 내년 총선 이후에 약간 변수가 될 수 있을 거라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

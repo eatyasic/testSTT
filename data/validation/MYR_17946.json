@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17946",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 어머니한테 받은 돈 몇 푼을 가지고 학원을 갔거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학원을 딱 갔는데 거기는 이미 기본서 반이 다 끝나고 문제 풀이 반이더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.351,
+                "end": 7.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 제가 따라갈 수가 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.242,
+                "end": 8.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 자리에서 1차 책만 사 가지고 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.990,
+                "end": 11.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본서 기본서만 사 가지고 와서 이제 그걸로 혼자 공부를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.393,
+                "end": 15.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학원을 안 다니고 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.167,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "어머니께 받은 돈을 가지고 학원을 가 보았으나 학원에서는 기본서 반은 다 끝나고 문제 풀이 반 수업이라 따라갈 수가 없어서 1차 기본서 책만 사고 돌아와서 학원을 안 다니고 혼자 공부했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

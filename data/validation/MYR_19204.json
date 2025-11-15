@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19204",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 보니까 이제 저자분이 @이름 님이 직접 이거를 하고 이제 이걸 이제 마무리 작업을 이제 출판사에서 하셨다는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 보시면 투자 탐색기 초기 투자기 그리고 이제 투자 안정기 그리고 절세 투자기 이 말이 제일 마음에 들었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.023,
+                "end": 16.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 투자 결실기 해가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.056,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "책에 보면 투자 탐색기 초기 투자기 그리고 이제 투자 안정기 그리고 절세 투자기 투자 결실기가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19204_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

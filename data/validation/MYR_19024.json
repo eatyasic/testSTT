@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19024",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.828,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 아까 우리 사례에서도 봤지만 직원을 고용을 하거나 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그 외에서 다른 좀 뭐 할 수 있는 팁 같은 게 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.870,
+                "end": 8.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 일단 재산이다 재산도 있으면은 뭐 이렇게 좀 아까 설명 드렸다시피 피부양자에서 박탈되는 기준이 재산 같은 경우에는 어느 한 사람만 박탈이 되기 때문에 재산은 한쪽으로 좀 모는 것도 좀 방법일 수 있을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.603,
+                "end": 23.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 그러니까 좀 약간 과표 9억이 넘지 않게끔 분산을 해 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.259,
+                "end": 28.828
+            }
+        ]
+    },
+    "summary": "직원을 고용 하거나 피부양자 박탈되는 기준인 과표 9억에 맞게 재산을 한쪽으로 분산하는 것이 방법이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

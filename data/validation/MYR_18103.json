@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18103",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이 정비 사업의 전체적인 프로세스를 모르면 그 사업이라는 게 가다가 되게 위기에 봉착될 수도 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그때 여러분들 어떻게 처하실 거냐는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.914,
+                "end": 9.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사는 건 잘 샀지만 응 중간에 굉장히 여러 가지 일이 일어날 수 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.699,
+                "end": 14.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거 어떻게 대처하실 거냐는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.808,
+                "end": 16.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러 분들께서 조금만 공부하면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.125,
+                "end": 18.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 공부하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.905,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "화자가 정비 사업의 전체적인 프로세스를 모르면 위기에 봉착될 수있기 때문에 공부하라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

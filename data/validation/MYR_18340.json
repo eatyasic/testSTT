@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18340",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 뭐 너무 똑같죠 이제 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회 통과가 돼야 되는데 당초 이제 2월달 임시국회 때 하려고 했었지만 이것도 현재 지금 무산됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.903,
+                "end": 10.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 좀 염려되는 분들 중에 한 몇몇 분들이 어떤 분들이냐 하면은 정부가 당시 보도자료를 내고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.235,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "남성 화자가 국회 통과가 돼야 되는데 2월 임시국회 때 하려고 했었지만 현재 무산됐다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18340_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18125",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 굳이 내가 뭐 10년 의무 임대 기간에 갖지 않아도 되는 예 현상이 또 벌어 질 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중간에 그 종부세에 혜택 받을 수 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.060,
+                "end": 9.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.862,
+                "end": 10.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 거기서 이제 내가 이제 꼭 거주 주택 비과세를 받으려고 하시는 분들은 좀 조심해야 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.309,
+                "end": 16.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.251,
+                "end": 16.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어차피 내가 그럴 목적이 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.981,
+                "end": 18.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.478,
+                "end": 18.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 이제 그 두 가지를 결합시키면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.933,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "두 남성이 종부세에 혜택에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17768",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해 1월 올해 2월 28일날은 또 시행령 개정하면서 23년 1월 12일 이후 양도 부문에 대해서는 또 종전 주택 처분 기한을 2년에서 3년 늘려버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전입 요건 없는 상태에서 자 그러니까 이분은 지금 어떤 케이스예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.515,
+                "end": 15.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘 다 조정이긴 하지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.620,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "2월 28일 시행령 개정하면서 23년 1월 12일 이후 양도 부문에 대해서는 종전 주택 처분 기한을 2년에서 3년 늘렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

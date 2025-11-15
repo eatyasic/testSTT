@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19205",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.32,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 관련된 정비 사업의 단계와 이 투자 타이밍을 이렇게 일목요연하게 한눈에 보겠다고 해주신 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 이 중에서 @이름이 가장 선호하는 투자 타이밍이 있다면 어디입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.437,
+                "end": 13.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매수 타이밍 말씀드리는데 사실 이 워딩도 제가 진짜",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.593,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "정비 사업의 단계와 이 투자 타이밍이 있는데 이 중에서 가장 선호하는 투자 타이밍은 어디인지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19205_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

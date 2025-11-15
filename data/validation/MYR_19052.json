@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19052",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부모가 취득하신 때로부터 2년이 경과한 시점에 이렇게 2년이라는 게 의미가 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증여 소급해서 2년 2년간 평가 심의 위원회 그 기간을 말하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.979,
+                "end": 12.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.581,
+                "end": 13.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경과한 시점에 이렇게 싸게 증여하는 편법 증여가 늘어나고 있다 이거로 과세한 것이지 이 감정 평가 때문은",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.051,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "국세청은 감정 평가 때문이 아니라 부모가 부동산을 취득한 후 2년이 지난 시점에 편법 증여가 늘어남에 따라 과세한 것이라고 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19052_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

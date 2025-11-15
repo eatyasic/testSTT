@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17865",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중개를 할 때 조율을 할 때 조율을 할 때 보통 보면 중개사분들 중에",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나를 어필하거나 내가 얼마나 일을 잘하는 중개사인지 또는 우리 중개 사무실이 얼마나 손님이 많은 중개 사무실인지",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.352,
+                "end": 11.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 나나 우리 중개 사무실을 어필하면서 조율에 들어가는 그런 중개사분들이 좀 계세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.723,
+                "end": 17.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의외로 근데 이러면 정말 하수거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.300,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "중개사 본인이나 중개 사무실을 어필하면서 조율에 들어가는 중개사는 하수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17865_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

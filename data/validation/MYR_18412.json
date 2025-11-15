@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18412",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 67.634,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "켜켜이 시세가 있는데 켜켜이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 으 급지가 상대적으로 낮은 은평구도 오르고 어 광진구도 오르고 강남구도 오르는데 우리가 이제 한 채 가지고 집을 사서 부자 되기 어려운 이유는 이런 가운데를 좀 빼서 보면은 은평구도 4억에서 이게 한 칸이 적지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.318,
+                "end": 28.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4억이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.168,
+                "end": 29.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 칸 4억에서 8억이 됐지만 여기 일반 여기 4억이 됐던 게 상승장에서는 한 칸이 4억이니까 지금 16억까지 차이가 나게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.133,
+                "end": 40.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 어 이게 우리가 한 채 가지고 상급지로 못 가는 이유예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.381,
+                "end": 45.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면은 우리 집보다 더 위급지는 두 배가 오르기 때문에 우리 집 한 채로는 부자가 못 되고 보태서 더 좋은 집을 가거나 이걸 팔아서 나한테 유익을 줄 수 없는 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.687,
+                "end": 59.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 과거 퍼포먼스는 사실은 과거의 이야기고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.773,
+                "end": 63.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 아실 그래프는 항상 과거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.515,
+                "end": 65.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 미래를 알 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.955,
+                "end": 67.634
+            }
+        ]
+    },
+    "summary": "과거의 퍼포먼스는 항상 과거의 이야기고 그래프로 미래를 알 수는 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

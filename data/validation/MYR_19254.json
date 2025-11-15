@@ -1,0 +1,225 @@
+{
+    "metadata": {
+        "filename": "MYR_19254",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.102,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소중한 말씀 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 어 움직이는 사람이",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.245,
+                "end": 4.782
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.792,
+                "end": 5.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭔가를 얻어 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.352,
+                "end": 7.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.088,
+                "end": 7.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니하면 아무 일도 일어 일어나지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.546,
+                "end": 10.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 아까 이 그게 좋았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.304,
+                "end": 12.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.810,
+                "end": 13.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 너무 조급하게 생각하지 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.229,
+                "end": 14.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.937,
+                "end": 15.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조급하게 생각하지 마시고 왜냐하면 방법은 여러 가지 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.763,
+                "end": 18.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.415,
+                "end": 19.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그래서 여러분들 어 우리 영상 보시면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.032,
+                "end": 22.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.494,
+                "end": 22.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 작가님 책도 참고하시면서 어 여러분들만의 스타일을 찾고 공부하시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.851,
+                "end": 28.335
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.345,
+                "end": 28.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희도 다음에 소중한 말씀 들어보도록 하고 오늘 귀중한 시간 내주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.664,
+                "end": 32.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 선생님 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.790,
+                "end": 34.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 34.426,
+                "end": 36.102
+            }
+        ]
+    },
+    "summary": "남자는 조급해하지 말고 책도 참고하면서 자신만의 스타일을 찾고 공부하면 좋겠다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19254_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18902",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.09,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 건물주 그리고 그걸 통해서 스타벅스를 또 유치하는 것도 방법은 방법이지 않을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.745,
+                "end": 6.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 이 스타벅스 매장 아까 말씀드렸던 법인 가운데 주식회사 형태를 띄는 펀드도 되게 여럿입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.286,
+                "end": 13.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주식회사",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.871,
+                "end": 14.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예, 펀드도 결국엔 주식회사니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.912,
+                "end": 16.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.927,
+                "end": 17.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "펀드 법인을 띄는 형태로 여럿이니까 이런 경우에는 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.200,
+                "end": 23.090
+            }
+        ]
+    },
+    "summary": "화자1은 실제로 스타벅스 매장 법인 가운데 주식회사 형태를 띄는 펀드가 여럿이라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

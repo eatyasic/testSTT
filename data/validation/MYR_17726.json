@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17726",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.926,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분양이었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔 분양권?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.945,
+                "end": 2.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔 분양권 같은 경우에는 내가 특별하게 신고 안하고 주택 임대 사업자 등록을 안하면 그냥 업무용 재산세로 부과해버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.044,
+                "end": 8.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그런 줄 알아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.692,
+                "end": 9.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "업무용 재산세에 부과를 해야지 지자체에 수익이 더 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.768,
+                "end": 13.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공정시장 가액비율 70퍼센트예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.430,
+                "end": 15.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 주거형은 60퍼센트예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.520,
+                "end": 17.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 공부상 업무용이기 때문에 특별하게 내가 신고 안하면은 세금 더 많은 쪽으로 업무용이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.614,
+                "end": 22.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 몇만 원 혹은 몇십만 원 조금 아끼실려고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.973,
+                "end": 26.926
+            }
+        ]
+    },
+    "summary": "오피스텔 분양권 같은 경우 주택 임대 사업자 등록을 안하면 그냥 업무용 재산세가 부과되는데 업무용 재산세에 부과를 하는 것이 지자체에 더 많은 수익이 되기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17726_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

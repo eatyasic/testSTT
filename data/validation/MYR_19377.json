@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYR_19377",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.332,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 주택 임대 사업자이면서 비과세를 받았다 즉 등록 임대 주택이 있는 상태에서 주택 임대 사업자가 거 비과세를 받는 거는 이제 흔히 말하는 거주 주택 비과세 특례라고 하거든요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 17.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 이제 소득세법 시행령 155조 20항에 있는 건데 어 제가 조정 대상 지역이니까 거주하니까 그 거주 주택 비과세입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.962,
+                "end": 25.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.825,
+                "end": 26.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 다시 말씀드리지만 등록한 임대 주택이 있는 상태에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.774,
+                "end": 32.332
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자가 비과세 혜택을 받는 경우를 소득세법 시행령 155조 20항의 거주 주택 비과세 특례라고 하고 조정 대상 지역이라고 거주 주택 비과세를 적용 받는 것은 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19377_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

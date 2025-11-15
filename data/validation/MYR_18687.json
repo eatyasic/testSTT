@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18687",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 61.294,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 채널 제네시스 박 제네시스가 만난 사람들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 @이름1 님 모시고 한번 인터뷰 나눠보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.930,
+                "end": 12.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.510,
+                "end": 13.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.177,
+                "end": 14.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 와주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.282,
+                "end": 15.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아우 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.941,
+                "end": 17.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 본인 소개 간단히 좀 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.111,
+                "end": 19.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.252,
+                "end": 20.281
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 부동산 지역 분석 전문가로 활동을 하고 있고 현재 힐링재터크라는 채널을 운영하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.291,
+                "end": 26.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 최근에 1기 신도시 재건축 미래지도라는 책을 어 출간을 했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.944,
+                "end": 32.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 이 책을 출간하게 된 계기는 초보자 분들이 처음에 이제 부동산 공부를 시작하면 부분 다 부동산 학과를 나오거나 이제 경제학과를 나오신 분들이 아닌 상태에서 공부를 하기 시작하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.721,
+                "end": 46.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 어 용어도 낯설고 부동산 강의를 듣다 보면 정말 한국어지만 외계어처럼 들리는 효과가 있어서 되게 이야기가 어려운데 특히나 초보자분들이 부동산 보는 눈을 키울려고 이제 지역을 공부를 했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.657,
+                "end": 61.294
+            }
+        ]
+    },
+    "summary": "최근에 1기 신도시 재건축 미래지도라는 책을 출간을 했는데 이 책에는 부동산 공부를 시작하려는 초보자분들을 위한 책이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17565",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제발 어 평론가가 됐다고 생각 하지 마시고 실수라고 생각 하셔야 돼",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.276,
+                "end": 6.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평론가는 이 대타를 볼 때에",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.039,
+                "end": 9.023
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.033,
+                "end": 9.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이것도 이제 조작적 정의라고도 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.363,
+                "end": 11.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.951,
+                "end": 12.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사전에 뭘 보고 얘기 할 건지를 보고 판단 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.609,
+                "end": 16.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.558,
+                "end": 16.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 서울 아파트 하고 수도권 아파트는 이미 바닥을 쳤죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.954,
+                "end": 21.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.169,
+                "end": 22.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 전국 아파트를 보면 이제 바닥을 지나고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.910,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "전문가는 대타를 볼 때에는 뭘 보고 판단 해야 하는지 신중하게 할 것을 강조 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

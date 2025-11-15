@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19421",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.441,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이런 거는 우리가 어떻게 컨트롤 못하는 거잖아 그래서 어떻게 해야 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 원리 원칙대로 하시고 어 성실 납세 그렇게 하는 게 가장 최선입니다 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.216,
+                "end": 8.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 한 일선 세무사는 세무사님은 2018년 구일삼 대책 전에 주던 혜택의 경우 올해가 부과 제척 기간에 해당되기 때문에 세무서에서 움직이기 시작한 것으로 보인다는 아까 위에서 인제 있었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.264,
+                "end": 18.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5퍼센트 룰 어 그리고 이제 의무 임대 기간 의무 임대 기간은 그래도 좀 이제 중간에 약간 공백이 있다거나 어 좀 그런 거 이슈 몇 가지 있는 거 빼놓고는 그래도 괜찮은데 또 5퍼센트가 굉장히 좀 이슈가 될 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.598,
+                "end": 32.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저런 것들이 안 되는 것들은 안 된 케이스들은 조사를 받을 가능성이 좀 높은 상황이라고 이제 본인 개인 의견을 좀 말씀 주셨네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.381,
+                "end": 41.441
+            }
+        ]
+    },
+    "summary": "화자는 성실 납세를 추천하고 의무 임대 기간은 중간에 공백이 있다는 것 외에 몇 가지 이슈를 빼고는 괜찮은데 5퍼센트 룰이 이슈가 될 것이고 저런 것들이 안 된 케이스들은 조사를 받을 가능성이 높다고 세무사가 의견을 남겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

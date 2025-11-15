@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17922",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 물건은 오전에 찾아놨는데 그렇다고 또 마땅히 다른 걸 중간에 하기에는 애매하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.270,
+                "end": 5.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물건을 더 찾는 것도 아닌데 매물장은 열어 놓고 뭐 일을 하는 것도 아니고 안 하는 것도 아니고 그냥 손님만 기다리고 있단 말이죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.740,
+                "end": 12.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그런 시간을 일을 잘하시는 분들은 그런 시간을 활용을 되게 잘하세요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.469,
+                "end": 16.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.200,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "뭘 하는 것도 아니고 그냥 손님만 기다리는 사람이 있는 반면 일을 잘하는 사람은 그런 시간도 활용을 잘한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

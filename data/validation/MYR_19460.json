@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19460",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.532,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심판례는 그럼 과연 어떻게 볼건지 뭐 된다고 봐주겠죠 이거는 뭐 봐줘야 되지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇지만 뭐라고 말은 못 하나",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.187,
+                "end": 7.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 예 그래서 요거 이제 이해가셨죠 그 다음에 3번 재건축 등으로 인해 주택이 완성되기 전 또는 완성된 후 2년인데 요번 개정안으로 3년 얘네 대체주택을 양도하셔야되요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.464,
+                "end": 21.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요것도 공정주택을 양도하는 거는 요 규정제이고 대체주택은 요 규정이에요.만",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.674,
+                "end": 26.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그리고 4번 재건축 등으로 인해 주택이 완성된 후",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.860,
+                "end": 31.531
+            }
+        ]
+    },
+    "summary": "재건축 등으로 인해 주택이 완성되기 전 또는 완성된 후 2년이 이번 개정안으로 3년 내 대체주택을 양도 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19460_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

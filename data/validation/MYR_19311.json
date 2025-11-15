@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19311",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.761,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 그 담당 세무사님 세무사 사무실에서 잘 챙겨 주시겠지만 간혹 가다가 또 놓치는 경우도 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들도 같이 좀 알고 계셔서 크로스 체크를 하면 좋겠다라는 걸 말씀드리고 싶어서 가져왔고 막간을 이용해서 3월 25일 토요일에는 관련된 법인 사업자 관련해서 오프라인 특강이 있으니까 강남에서 그것도 좀 관심 가져주십사 제가 홍보도 할 겸 가져 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.597,
+                "end": 27.761
+            }
+        ]
+    },
+    "summary": "한 남자가 가져 온 자료는 세무사가 잘 챙겨 주겠지만 내용을 알고 크로스 체크를 했으면 좋겠다는 생각으로 가져왔다고 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19311_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

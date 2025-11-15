@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18120",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.086,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 세금들 중에 2개는 신속 통학 계획으로 선정이 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.236,
+                "end": 3.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 1군데는 서울시까지 올라갔다가 서울시에서 떨어졌거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.783,
+                "end": 7.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 딱 선정이 되고 나서 지금 갭은 한 1억 7000에서 2억 정도 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.543,
+                "end": 13.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 2채는 확실히 수익이 났고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.872,
+                "end": 16.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 이제 거기 사람 따라서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.587,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "화자가 신속 통학 계획으로 선정되어 수익이 난 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

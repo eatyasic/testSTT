@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19372",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.298,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생각이 느낌이었습니다 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분들 그 부분을 좀 중심으로 해서 보시고 서점에서 딱 거기만 골라서 보고 가고 그러지 마시고 구매도 하시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.215,
+                "end": 9.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 이제 좀 그 책 이야기도 있는데 저는 이제 우리 법무사님 이야기를 좀 해보자면",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.597,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "화자2가 지역과 시장을 보자 챕터를 읽기를 추천하고 법무사인 화자1에 대해서 애기를 시작하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

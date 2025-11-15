@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18051",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.419,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 동부권은 청량리를 좋게 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그 다음에 동남권은 뭐 거여마천 밖에 없으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.298,
+                "end": 5.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.162,
+                "end": 5.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그중에 청량리 말씀 드리면 청량리 중에서 7구역은 조금 있으면 일반 분양 할 거니까 고건 빼고 이제 6, 9역 청량리 6구역 같은 경우는 지금 실투 금액으로 한 5억 6억 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.676,
+                "end": 19.419
+            }
+        ]
+    },
+    "summary": "화자가 청량리에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18051_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

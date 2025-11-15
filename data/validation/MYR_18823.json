@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_18823",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.48,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 매도자 입장에서 어떻게 해야 된다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "메도자 입장에서는 그거 감안하고 하셔야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.438,
+                "end": 4.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 혹시 그거 중개할 때 잘 모르시는 중개사님들 계시면은 조심해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.112,
+                "end": 8.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 매수자 입장에서는 어 매도자 입장에서는 매도자 입장이 지금 약간 호가를 높여서 세 부담까지 하는 거기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.759,
+                "end": 16.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매수자 입장에서는 정말 그거 잘 알아보고 하셔야 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.257,
+                "end": 18.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 드물게 아주 드물게 어 포기하고 던지는 물건들이 나올 수 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.883,
+                "end": 24.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그게 이제 얼마나 잘 나올지는 저도 모르겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.490,
+                "end": 27.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장 상황에 따라 달라지는 거니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.270,
+                "end": 28.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어차피 내가 여기는 실거주하고 싶고 내가 대출 포함했을 때 요 이 정도 금액은 가능하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.962,
+                "end": 34.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 딱 보면 그러니까 레인지가 있어야 돼요. 여러분들이 준비를 해야 돼요",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.603,
+                "end": 37.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 타깃 레인지에 들어왔다. 그러면 할 수 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.859,
+                "end": 41.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 물건이 나오면 그때 고민해 보면 늦어요. 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.015,
+                "end": 45.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 경험상 다 그러더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.038,
+                "end": 47.480
+            }
+        ]
+    },
+    "summary": "매도자 입장이 약간 호가를 높여서 세 부담까지 하므로 매수자 입장에서는 잘 알아보고 하셔야 하고 미리 준비해야지 물건이 나오고 고민하면 늦는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

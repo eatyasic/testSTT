@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_18654",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.152,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 이제 보유세 부분입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 중간 완화하기로 해가지고 기본 공제 많이 올라갔기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.471,
+                "end": 4.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.622,
+                "end": 5.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 23년에 종합 부동산세 부담 좀 완화되실 거라고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.148,
+                "end": 9.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 좋은 부분이 이제 이거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.356,
+                "end": 12.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23년 공동주택 가격하고 개별 주택 가격 지금 공시되셨을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.101,
+                "end": 15.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 상당히 많이 내려갔더라고요 그래도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.805,
+                "end": 18.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "69퍼센트로 맞췄더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.144,
+                "end": 19.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 진짜 많이 낮춰준 그게 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.993,
+                "end": 22.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 18 평균은 18프로 이상 하락으로 봤는데 진짜 많이 낮아졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.570,
+                "end": 27.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거 본인분들 거 이제 자산 형태에서 한 번쯤은 공동 주택 가격이랑 개별 주택 가격 한번 확인을 해보셨으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.192,
+                "end": 35.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라고 말씀을 드리고 이것도 마찬가지로 23년 7월 세제 개편안에 다시 한번 나올 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.380,
+                "end": 41.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 나머지 남아 있는 중과세",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.455,
+                "end": 43.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다 예 세율 부분을 아직 다 못해서 그때 22년 12월 23년 1월에 이제 그때 기획 재정부 장관님이 그 얘기를 하셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.310,
+                "end": 51.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.555,
+                "end": 52.152
+            }
+        ]
+    },
+    "summary": "보유세는 중간 완화하기로 해서 기본공제가 많이 올라갔기 때문에 23년 종합부동산세 부담이 조금 완화될 거라 보고 23년 공동주택 가격과 개별주택 가격이 상당히 많이 내려갔으며 평균은 18프로 이상 하락으로 봤는데 많이 내려갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18654_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

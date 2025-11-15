@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18381",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자기 스스로를 잘 돌봐야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 투자하는 중간에도 항상 나가 나 내가 나임을 놓칠 정도로 힘든 투자를 하시면 안 되고 언제나 웃을 수 있는 정도까지만 투자를 해야 되는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.286,
+                "end": 18.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.704,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "여성 화자가 투자하는 중간에도 내가 나임을 놓칠 정도로 힘든 투자는 하면 안 되고 언제나 웃을 수 있는 정도까지만 투자해야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18381_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18985",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.735,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이쿠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 괜찮습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.486,
+                "end": 1.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어서 워밍업 개념으로 세법상 소득과 보험료 산정할 때 반영하는 소득에 대해서 먼저 설명해 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.832,
+                "end": 11.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이렇게 조금 반대로 되어 있어요. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.999,
+                "end": 17.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법상 소득에는 종합소득 퇴직소득 양도소득이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.517,
+                "end": 22.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴직소득과 양도소득은 분류과세소득으로서 보험료 산정할 때 전혀 고려하지 않아도 되는 세금이니까 요거는 무시하시고 지내시면 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.744,
+                "end": 32.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합소득에는 금융소득",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.568,
+                "end": 35.735
+            }
+        ]
+    },
+    "summary": "세법상 소득에는 종합소득, 퇴직소득, 양도소득이 있는데 퇴직소득과 양도소득은 분류과세소득으로서 보험료 산정 시 고려되지 않기 때문에 무시해도 괜찮다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18985_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

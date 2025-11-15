@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18439",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러다가 이제 뒤늦게 바꾸기도 그렇고 그래서 그냥 쭉 쓰게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.635,
+                "end": 6.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 뭐 어차피 이제 땅 부자 건물 부자 부동산 부자 이미 부자시잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.204,
+                "end": 11.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 네 그냥 뭐 열심히 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.474,
+                "end": 14.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이게 특히 요즘에 이제 경매 관련된 내용도 관심들이 많고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.096,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "요즘에 사람들이 경매에 관심이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18439_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

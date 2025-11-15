@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18681",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으 제로 왜그러죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 조정 비조정대상 지역이잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.359,
+                "end": 4.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비조정대상 지역이니까 2년 이상 보유만 하면 비과세 돼 버리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.756,
+                "end": 10.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 비과세 됐을 때 양도가 12억 이하라면은 세금 한 푼도 안 나오죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.210,
+                "end": 15.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 화끈하게 10억까지 이렇게 오른다고 했음에도 불구하고 양도세는 한 푼도 안 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.864,
+                "end": 21.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 무슨말이에요 이사람은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.614,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "비조정대상 지역의 주택은 2년 이상 보유만 하면 비과세 돼서 세금이 한 푼도 안 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18681_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

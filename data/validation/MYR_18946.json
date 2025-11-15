@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18946",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 넷째 마당에서는 제가 제목은 또 다른 보유세 주택임대소득세라고 했는데 엄밀히 말하면 보유세는 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업소득세죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.718,
+                "end": 7.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합소득세인데 저는 개인적으로 이 주택임대소득세가 앞으로 훨씬 더 많이 각광을 받을 거라고 생각을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.663,
+                "end": 13.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 아시는 것처럼 전세가 많이 줄어들고 월세로 많이 바껴 버렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.724,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "넷째 마당은 주택임대소득세이며 개인적으로 전세가 줄고 월세로 바뀌면서 앞으로 더 많이 각광을 거라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

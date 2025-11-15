@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18501",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지 지금 제도가 있는데 혜택이 있는데 취득세 감면이 있고 재산세 감면이 있고 그리고 이제 종부세 합산 배제 양도세 중과 배제 이런 여러 가지 혜택들이 있는데 이 혜택을 전부 다 받으시는 게 좋겠지만 이게 만만치가 않다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나씩 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.479,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "여러 가지 혜택들이 있는데 이 혜택을 전부 다 받으면 좋겠지만 이건 만만치가 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18543",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.927,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "8프로 12프로가 4프로 6프로로 반 정도는 깎아주겠다 완화를 해주겠다라고 발표는 났는데 아직 통과가 안 되고 있는 거지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 결국은 어 빨간 당에서는 발표를 했는데 파란 당에서 반대를 하고 있는 상황이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.081,
+                "end": 14.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠 근데 이 상태에서 예를 들어서 지금 잠실도 마찬가지로 서울의 핵심 지역들이 가격이 최소한 2 3억에서 4 5억 정도로 약간 반등한 반등을 했잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.388,
+                "end": 25.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.180,
+                "end": 27.927
+            }
+        ]
+    },
+    "summary": "8프로 12프로가 4프로 6프로로 반 정도 깎아서 완화를 해주겠다라고 발표는 났는데 아직 통과가 안 됐고 결국 빨간 당에서 발표를 했는데 파란 당에서 반대를 하고 있는 상황인데 예를 들어서 잠실도 마찬가지로 서울의 핵심 지역들 가격이 최소한 2 3억에서 4 5억 정도로 반등을 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18543_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYR_19407",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 요건 다 갖췄다고 가정할 게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 이 이때 1번 거주 주택을 양도할 때 비과세가 가능하죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.270,
+                "end": 10.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.874,
+                "end": 11.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 이 비과세 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.833,
+                "end": 13.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나서 이 중에 하나로 이제 이사 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.342,
+                "end": 16.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 요 집은 의무 임대 기간 다 채우고 그리고 나서 요 집을 또 매각하죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.194,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "요건을 다 갖췄다고 가정하면 1번 거주 주택을 양도할 때 비과세가 가능하여 비과세를 받고 나머지 중에 하나로 이사를 가서 의무 임대 기간을 다 채우고 또 매각을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

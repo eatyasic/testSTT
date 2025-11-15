@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18357",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오바하시는 분이 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나만 사면 되는데 야 이번에 다섯 개 사면 인생 역전하는 거 아니냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.869,
+                "end": 6.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다가 나중에 잔금 못 치르고 못 팔고 그런데 이제 너무 욕심내지는 마시고 그런데 특히 지금 요즘 나오는 분양가가 정말 비쌉니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.474,
+                "end": 16.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.037,
+                "end": 16.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.780,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "남성 화자가 한 번에 여러 개 사서 잔금 못 치르고 못 팔고 그러는 분이 있기 때문에 너무 욕심내지 말라고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18357_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

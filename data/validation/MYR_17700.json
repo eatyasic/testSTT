@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17700",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.213,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 유지가 될 때까지 금리를 어느 정도 유지를 하다가 이제 경제 경기 침체가 오면 그때부터 금리를 내리기 시작하는데 사실 이제 부동산 시장의 전체적인 30년 그 히스토리 역사를 보면은 금리가 하락하는 시기에 오히려 부동산이 좀 많이 안 좋았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 하락한다는 것은 어쨌든 경기 침체가 온다는 얘기고 경기 침체가 온다는 얘기는 아니죠. 좀 인과관계가 좀 바꼈는데 경기 침체가 오기 때문에 금리를 내리는 거고 금리를 내리면서 실업률도 올라가고 그러면 인제 이자를 못 내고 집들이 이제 경매로 나오기 시작하면서 네 여기서 말하는 경매는 강제경매로 나오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.808,
+                "end": 37.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 그렇게 되면서 이제 집값이 막 하락하는 그런 상황이 오는데 그런데 사실 미국 부동산 같은 경우는 금리보다도 실업률에 굉장히 연관성이 많습니다. 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.779,
+                "end": 47.213
+            }
+        ]
+    },
+    "summary": "남성은 미국 부동산의 역사를 말하면서 미국 부동산은 실업률에 영향을 받는다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19118",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.387,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "간혹 있습니다. 10건에 뭐 1건 정도는 이게 간혹 나왔",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조심 조심하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.332,
+                "end": 4.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 1년 텀을 가지고 취득하셔야 된다는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.728,
+                "end": 7.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 주의해 주시면 아주 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.828,
+                "end": 9.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "취득세와 종부세는 없습니다 그게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.738,
+                "end": 11.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.565,
+                "end": 12.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세도 이런 거 뭐 크게 의미 없는데 예전부터 이제 법이 이렇게 만들어졌다 보니까 중요하게 생각되네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.947,
+                "end": 19.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.451,
+                "end": 20.387
+            }
+        ]
+    },
+    "summary": "취득세, 종부세와 달리 양도세는 꼭 1년 텀을 두고 취득해야 비과세가 적용된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

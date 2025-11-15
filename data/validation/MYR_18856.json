@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "MYR_18856",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지방 같은 경우 그리고 서울 같은 경우는 수도권 외곽 이런 데 보면 디티, 드라이브스루라고 하잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 방식의 매장이 증가하는데 책에서도 좀 말씀해주시긴 했지만 앞으로 작가님이 보시기에 디티 방식이 늘어날 것 같으세요, 아니면 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.408,
+                "end": 21.989
+            }
+        ]
+    },
+    "summary": "남성은 드라이브스루 방식의 매장이 증가하는데에 대한 작가의 만약을 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18856_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

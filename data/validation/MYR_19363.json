@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19363",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에 독특했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 내용이 좀 독특했는데 세 분이 어떻게 좀 친하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.356,
+                "end": 5.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 많이 친해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.402,
+                "end": 6.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 알게 되셨어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.446,
+                "end": 7.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서로 뭐 호형호 지금은 호형호제 하는 사인데 일단 좀 감정 평가사와 세무사, 법무사가 이제 부동산을 다루는 데 있어서 되게 업무상 결련성이 상당히 강하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.526,
+                "end": 18.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서로 간의 이제 니즈가 있기 때문에 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.730,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "감정 평가사, 세무사, 법무사는 부동산을 다루는 데 있어서 서로 간에 니즈가 있어서 업무상 결련성이 강해서 친해지기 쉽다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19363_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

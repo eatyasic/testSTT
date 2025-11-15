@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_17424",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 같은 사람은 소급 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그런데 제가 좀 염려하는 건 이런 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.198,
+                "end": 5.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 되겠지라고 너무 막연하게 생각을 해가지고 요 날짜 이후에 그냥 그냥 매수하신 분들 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.335,
+                "end": 13.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환급되겠지라고 생각하고 그런데 이건 좀 약간 너무 어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.230,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "한 남성이 본인은 소급이 되지 않는다고 말하며 그리고 당연히 소급되겠지 라는 막연한 생각에 그 날짜 이후에 그냥 매수하시는 분들은 조금 염려된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

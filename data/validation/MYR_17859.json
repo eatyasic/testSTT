@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17859",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.927,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바둑 수보다 더 힘든 것 같습니다 사실.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 그 제가 다음에 여쭤볼 거였는데 여기 책에 쓰여있는 필초깡인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.258,
+                "end": 10.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필초깡",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.530,
+                "end": 11.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 보니까 들어보니까 그래서 그중에서 특히 원장님께서는 필, 초 다음에 마지막에 깡을 해야 된다 이렇게 말씀하셨는데 이게 처음 들으시는 분들 계신 설명을 해 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.484,
+                "end": 23.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깡이라는 게 이중적이야 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.071,
+                "end": 27.927
+            }
+        ]
+    },
+    "summary": "책에 필, 초 다음에 마지막에 깡을 해야 된다고 써져 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17859_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

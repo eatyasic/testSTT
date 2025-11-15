@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17718",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.65,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재산세가 특별한 게 없으면은 업무용으로 나와버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "업무용으로 나오면은 종부세도 그냥 빠져 버려요. 왜 빠지냐 하면 현행 종부세법은 재산세를 따른다라고 돼있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.017,
+                "end": 10.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 업무용 재산세가 나오면 그냥 종부세가 업무용으로 가서 토지 공식 가격이 80억 초가 될 때까지는 특별한 문제가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.492,
+                "end": 17.650
+            }
+        ]
+    },
+    "summary": "특별한 사항이 없으면 재산세는 업무용으로 나오고 현행 종부세법은 재산세를 따른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17718_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

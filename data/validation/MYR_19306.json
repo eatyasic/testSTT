@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19306",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.521,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "즉 임직원 관련 비용인 상여 복후비 퇴직급여 계정과목으로 비용 처리할 수 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 소액이라도 급여를 반드시 잡아두는 게 좋구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.563,
+                "end": 8.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 조금 더 센스가 있는 그 세무사 사무실은 어떻게 주냐면은 처음에 법인 설립할 때부터 정관에다 퇴직급여를 최대한 많이 잡아 두게 해 둬요 정관에다가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.558,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "급여를 잡지 않으면 복후비 퇴직급여를 비용 처리 할 수 없기 때문에 소액이라도 급여를 잡아 두어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

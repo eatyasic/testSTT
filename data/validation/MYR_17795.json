@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17795",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.054,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이렇게 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기 이제 또 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.992,
+                "end": 3.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 가지 더 받고 하나 더 추가한다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.454,
+                "end": 5.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐냐 하면 현행 전세 대출 제도에서 혼인 신고를 하면 미혼일 때보다 불리하게 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.723,
+                "end": 10.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐 하면 이 연 소득 기준이 그대로 가버리니까 자 부부 합산 연봉 7천인데 이거를 1억으로 상향하자 아 이게 왜 그러냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.697,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "현행 전세 대출 제도에서 혼인 신고를 하면 미혼일 때보다 불리하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

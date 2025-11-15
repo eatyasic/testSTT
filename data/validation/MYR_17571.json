@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17571",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.978,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 지역의 내에서 입지와 그 가치를 같이 본다는 말은 무슨 말이냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.285,
+                "end": 5.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 아까 지방은 과연 될까요 이런 얘기 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.681,
+                "end": 9.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울은 누구나 좋은 거 아는 데 누구나 못 사니까 지역을 넓혀야 되는데 지방에 과연 될까요 할 때 그 가치를 판단 할 눈이 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.923,
+                "end": 19.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.074,
+                "end": 19.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 대구 수성구 같은 경우도 그 친구가 지금 대장 아파트가 14억 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.552,
+                "end": 24.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.367,
+                "end": 24.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "14억이면 서울에서 살 수 있는 아파트가 신길 래미안",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.788,
+                "end": 28.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.235,
+                "end": 28.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 또 살 수 있는 게 그 동대문구에 래미안 크래시티 이 친구도 시세가 정확하게 비슷해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.582,
+                "end": 34.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거 고때도 17억이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.636,
+                "end": 36.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.734,
+                "end": 37.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 가치를 이해 해야 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.216,
+                "end": 39.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 14억 있으면 이걸 사는 게 맞을까 저걸 사는 게 맞을까",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.210,
+                "end": 44.978
+            }
+        ]
+    },
+    "summary": "흐름만 보고 입지를 선택 하기엔 어렵다고 하며 서울에선 살기 어려우니 지방의 입지가 괜찮은지 고민 하는 사람들이 늘고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17571_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

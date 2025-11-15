@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18913",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 건물이 없는 상황인데 저는 그래도 우리는 이 건물을 어떻게 하면 소유하게 되는지, 그리고 건물을 소유한 이들이 어떻게 스타벅스를 유치를 했는지,그리고 그 유치를 한 이후에는 스타벅스와 어떻게 협상을 했는지, 나아가서 이거를 자식들에게 어떻게 물려줬는지 이걸 한 번 단계 단계을 밟아보자는 거였거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 21.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.081,
+                "end": 21.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 우리가 지금 당장 자본이 없는 분, 자본이 있다면 이 책은 바로 활용할 수 있는 활용서가 되겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.522,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "화자1은 자신은 건물주가 아니지만 스타벅스를 어떻게 유치했는지부터 자식들에게 어떻게 물려줬는지를 단계, 단계 밟아보자는 것이였다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18913_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

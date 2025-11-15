@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18096",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 관점으로 접근하시면 좀 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이제 뭐 저도 마찬가지지만 저 돈 얼마 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.811,
+                "end": 5.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제 사면 될까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.292,
+                "end": 6.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 사실 편하지",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.154,
+                "end": 7.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "편하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.047,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "편하긴 한데 이제 그런 마인드를 있냐 없냐 그리고 이제 어떤 뭐 흥부님 포함해서 다른 강의하시는 분들도 약간 힌트는 주시겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.878,
+                "end": 16.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 사업성이 좋은 데는 여기가 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.204,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "두 남성이 접근하는 관점에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

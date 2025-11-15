@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19424",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세무 대리를 끼고 한 게 있고 세무 대리를 안 끼고 한 게 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 정말 이 안 끼고 하신 분들은 어떤 왜 이렇게 강심장인지는 잘 모르겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.543,
+                "end": 10.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 세무사 세무 대리를 끼고 한 경우는 그래도 혹시 모르니까 뭐 이런 게 있는데 괜찮겠냐 라고 한번 좀 해 가지고 하 하시면 좀 좋을 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.887,
+                "end": 19.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 이제 잘못된 경우에는 이제 수정 신고라는 게 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.259,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "세무 대리를 끼고 할 수 있고 끼지 않고 할 수 있으며 끼고 하는 경우엔 만약 잘못된 경우에 수정 신고를 할 수 있으니 세무 대리에게 물어보고 진행하는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17498",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "30세 미만이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 결혼도 안 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.409,
+                "end": 3.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 꾸준한 소득도 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.564,
+                "end": 5.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 세대 분리가 되겠습니까? 안 되겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.609,
+                "end": 7.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세대 구성 자체가 안되는데 무슨 세대 분리가 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.546,
+                "end": 10.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 강의할 때 마다 항상 많이 말씀드리는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.091,
+                "end": 12.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 알아야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.897,
+                "end": 14.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 이 내용 보면서 어 이런 게 있었어 처음 들으신다면은 지금 영상 제가 볼 때 두 번 세 번 정도는 들어야 돼요 진짜로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.493,
+                "end": 20.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못 알아서 1세대 주택 비과세가 깨질 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.078,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "남성이 결혼을 안하고 꾸준한 소득이 없는 30세 미만의 자녀의 경우 세대 분리의 경우에 해당이 되지 않는다며 1세대 주택 비과세가 깨질 수 있으니 잘 알아야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

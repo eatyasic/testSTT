@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17436",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.555,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "9000이 됐어요. 9000이",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1억이 아니라 9000",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.175,
+                "end": 2.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 시세보다 10프로 낮게 낙찰이 되면 요즘 그런 게 많으니까 그 은행은 뭐 1순위니까 6000 다 건져 가고 이자 빼고 원금만 계산할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.369,
+                "end": 9.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2순위의 제네스 박 2000 빌려줬는데 낙찰 9000이니까 은행 빼 가고도 여유가 3000 남으니까 2000 받아 가요. 그럼 저는 뭐야",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.676,
+                "end": 16.549
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 엔피엘의 수익 구조를 설명하는데 1억 하는 집이 경매에 넘어갔고 10퍼센트 낮게 낙찰이 되니 집값은 9000만 원이 되었고 1순위 은행이 대출받아 간 6000만 원 가져가고 2순위인 흰색 상의를 입은 남성이 빌려준 2000만 원 가져가고 3순위인 검은색 상의를 입은 남성은 가져갈 돈이 없다는 것을 예로 들어 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

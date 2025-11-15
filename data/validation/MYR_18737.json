@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18737",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.801,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비슷한 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 1번 주택 22년 5월이고 2번 주택 23년 2월이기 때문에 1년 이내잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.173,
+                "end": 6.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 1년 후에 취득을 해야 되는데 1년 이내 취득이기 때문에 이거는 비과세가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.486,
+                "end": 11.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일시적 2주택 비과세가",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.066,
+                "end": 12.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.036,
+                "end": 12.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 비과세를 받으려면 예를 들어서 내가 1번 주택을 비과세를 받으려면은 2번을 팔고 세금 내고 그리고 1번 주택에 대해서 2년 이상 보유해 가지고 비과세를 받아야 되는데 둘 다 보유하면서 비과세 받을 수 받으려면 어떻게 되냐 이거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.920,
+                "end": 27.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 1번 주택을 비과세를 받고 싶다 그러면 1번 주택을 비과세 받을 때 2번을 주택에서 빼 버려야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.237,
+                "end": 33.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어떻게 해야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.294,
+                "end": 34.801
+            }
+        ]
+    },
+    "summary": "일시적 2주택을 보유하면서 비과세 혜택을 받으려면 1번 주택을 비과세 받을 때 2번 주택을 주택에서 빼 버려야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18737_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

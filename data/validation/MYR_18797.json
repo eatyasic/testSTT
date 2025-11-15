@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18797",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.992,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 시장 분위기는 정반대라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울에서는 당장 매도가 가능한 데가 13곳으로 파악되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.638,
+                "end": 6.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 말씀 보여드린 것처럼 청량리역 한양 수자인 그라시엘이 현재 4개.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.457,
+                "end": 11.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 7월 곧바로 입주하는 롯데 캐슬 청량리. 1,400개가 넘는 대단지임에도 불구하고 분양권이 하나도 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.419,
+                "end": 19.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 거의 안 하겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.157,
+                "end": 21.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 지금 팔면 최소 60퍼센트인데 에 어떻게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.510,
+                "end": 25.992
+            }
+        ]
+    },
+    "summary": "시장 분위기는 정 반대고 서울에서는 당장 매도가 가능한 곳이 13곳으로 파악된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18797_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

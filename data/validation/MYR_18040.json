@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18040",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과연 뭐 대체적으로 두 가지 중 아 당연히 이렇게 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 뭐 그거 뭐 괜찮아 이런 식으로 나오는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.000,
+                "end": 6.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모호하게 나온다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.786,
+                "end": 8.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모호하게 나오는 여러분들 어떻게 질문을 해야 되냐면 사장님 그 땡땡 1 구역 조합장님 이번 한 200억 횡령해 가지고 문제가 커진다는데 혹시 들으신 얘기 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.431,
+                "end": 20.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 질문하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.457,
+                "end": 21.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런 일이 없더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.295,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "화자가 질문하는 방법에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

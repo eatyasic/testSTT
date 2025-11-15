@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17945",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 그게 되게끔 하는 거는 도저히 제가 이건 아니겠다는 생각이 들어서 정말 뭐라도 지푸라기라도 잡고 싶은 그런 생각에 이거 저거 찾다가 눈에 딱 들어왔던 게 이제 공인중개사 공부 시험 시험 원서 접수 마감 며칠 전 이게 그때 눈에 딱 들어왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그걸 계기로 공인중개사 시험을 보게 됐는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.920,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "지푸라기라도 잡고 싶은 그런 심정으로 이거 저거 찾다가 눈에 들어왔던 것이 공인중개사 시험 원서 접수 기간이었고 그걸 계기로 공인중개사 시험을 보게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17945_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

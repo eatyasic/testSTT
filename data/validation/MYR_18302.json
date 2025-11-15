@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18302",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.719,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법에 법에 나와 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법원은 물건 명세서를 작성하여야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.228,
+                "end": 5.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 작성하는 내용 중에서는 낙찰자가 인수해야될 부분 그런 거를 다 적어놔야 된다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.188,
+                "end": 12.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 거를 적어놨지 않은 상태에서 이 집이 팔렸다하면은 그 집은 불호가 되고 또 나중에 되면 매각 취소가 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.336,
+                "end": 19.719
+            }
+        ]
+    },
+    "summary": "법에 법원이 물건 명세서를 작성해야 함을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

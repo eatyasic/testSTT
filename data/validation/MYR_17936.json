@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17936",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.834,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 그럼에도 불구하고 아버지가 제 앞에서는 이제 저의 진로 문제로 그렇게 하셨어도 제 걱정을 뒤에서는 굉장히 많이 하고 있다는 얘기를 제가 계속 들었어요 이제 어머니하고 누나들한테",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.476,
+                "end": 12.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그리고 저도 이제 자신이 좀 있었죠 제가 뭐 성공을 해서 금의환향까지는 아니더라도 열심히 해서 딴딴하게 자리를 좀 잡고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.100,
+                "end": 20.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 집에 다시 돌아가면 분명히 아버지하고 화해하고 다시 화목하게 어 이런 기회가 있을 것이다라는 생각으로 정말 열심히 했던 거 같아요 일도 정말 열심히 했었고 어 그랬는데 이제 중간에 조금",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.710,
+                "end": 34.834
+            }
+        ]
+    },
+    "summary": "아버지가 뒤에서는 걱정을 많이 하셨고 떳떳하게 돌아가기 위해 일을 열심히했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17936_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18612",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.824,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 물론 이제 뭐 개인적인 또 생각은 다를 실 수가 있지만 이제 일반적으로 거래된 가격을 봤을 때에 그렇다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둔천주공은 거의 59 정도 정도밖에 안되는 그런 가격이잖아요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.982,
+                "end": 11.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 나머지도 좀 비슷하다는 건데 어 분양가 상한제 적용 주택이지만 에 인근 지역 주택 매매가격에 100퍼센트 이상으로 실거주 의무가 부여되지는 않았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.715,
+                "end": 22.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 내용들이 쭉 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.773,
+                "end": 24.824
+            }
+        ]
+    },
+    "summary": "분양가 상한제 적용 주택이지만 인근 지역 주택 매매가격에 100퍼센트 이상으로 실거주 의무가 부여되지는 않았따는 내용들이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

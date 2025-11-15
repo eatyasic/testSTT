@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17901",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.35,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구독자분들에게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.924,
+                "end": 1.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한 말씀해 주시고 마무리하시죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.390,
+                "end": 3.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 저는 오늘 굉장히 즐거운 시간이었거든요 뭐 근데 보시는 분들은 또 어떻게 보셨을지는 잘 모르겠어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.220,
+                "end": 9.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로 더 어 보람되고 더 좋은 활동 하기 위해서 열심히 노력할 테니까 혹시 아직 저를 모르시는 분이 계시다면 어 제 채널에도 한 번 놀러 와 주시고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.280,
+                "end": 18.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 세금 정말 어렵잖아요 저도 우리 @이름1님 채널통해서 정말 많은 공부 하고 있거든요 여러분들도 어 꾸준히 구독하시면서 좋은 정보 알찬 정보들 많이 얻어가셨으면 좋겠습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.916,
+                "end": 31.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 영광이었습니다 아 불러주셔서 정말 영광이었고 감사했습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.016,
+                "end": 35.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시간 내주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.240,
+                "end": 36.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 즐거웠어요 감사합니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.300,
+                "end": 37.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.250,
+                "end": 37.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 고맙습니다 네 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.790,
+                "end": 44.344
+            }
+        ]
+    },
+    "summary": "오늘 굉장히 좋은 시간이었고 시청자들이 계속 구독하면서 많은 정보 얻어가기를 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

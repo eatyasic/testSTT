@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18108",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재개발 사업, 사업, 가로 주택 정비 사업, 소규모 재건축 사업 이런 것들을 다 합해서 정비 사업이라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.163,
+                "end": 8.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.378,
+                "end": 8.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업이라는 말이 뒤에 붙거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.836,
+                "end": 10.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 재개발 재건축은 주거 환경을 개선하는 사업이다 보니 당연히 사업 리스크라는 게 존재합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.796,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "화자가 재개발 재건축은 사업 리스크라는 게 존재한다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18108_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18767",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등록 안 한 경우 또는 400만 원 등록한 경우.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 수입 금액이 2,000만 원 초과했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.039,
+                "end": 7.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통상 40퍼센트의 정도의 경비율을 인정받는데 수입 금액이 2,400까지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.467,
+                "end": 11.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 어 42.3퍼센트인가. 그래서 이제 요정도 어쨌든 통상 40퍼센트 정도의 경비를 인정받아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.775,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "수입금액이 2,000만 원 초과하면 통상 40퍼센트의 정도의 경비율을 인정받게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

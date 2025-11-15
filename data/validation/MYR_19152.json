@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19152",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종합과세라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 생각해 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.307,
+                "end": 2.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 합산 과세처럼 종합과세가 돼버리면 플러스가 되기 때문에 이 값은 어떻게 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.577,
+                "end": 7.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.719,
+                "end": 8.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커지면 어떻게 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.667,
+                "end": 10.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과표가 커지겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.041,
+                "end": 12.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과표가 커지면 어떻게 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.501,
+                "end": 13.899
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세율이 커지겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.909,
+                "end": 15.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 내야 되는 세금 텍스가 커진다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.064,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "종합과세가 되면 과표가 커지고 세율이 커지고 내야 되는 세금이 커진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19152_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

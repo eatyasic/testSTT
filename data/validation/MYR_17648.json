@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17648",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그런 오피스 빌딩 말고 이제 그냥 일반적인 그 리테일 샵 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼬마 빌딩 같은 거 뭐 그런 것들은 사실 이제 앵커 임차인이라 그래서 그니까 뭐 그 쇼 쇼핑 센터다 그러면 거기서 뭐 거의 대부분의 면적을 멘팅을 하고 있는 뭐 미국계 은행이라던지 아니면 뭐 스타벅스 스타벅스도 사실 그렇게 추천 드리지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.433,
+                "end": 20.961
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스타벅스들은 미국에 있는 스타벅스들은 네고시에이션을 너무 빡시게 해서 별로 추천은 안 드리지만 은행",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.971,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 꼬마 빌딩 같은 것들은 앵커 임차인이라 불리는 미국계 은행들이 있고 미국 스타벅스는 네고시에이션을 너무 해서 추천은 드리지 않는다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

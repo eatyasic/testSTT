@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19570",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "면접에서 계속 떨어지는 분들을 많이 봤어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 심지어 이 친구는 그렇게까지 예쁜건 아닌데 승무원이 될 때도 있고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.406,
+                "end": 7.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 기준이 뭐냐 그런 기준이 뭐냐면 그 아까 제가 말씀드렸던 이 이미지의 기준은 진짜 승무원 같은 단아함 깔끔함",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.048,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "예뻐도 면접에서 계속 떨어지는 분이 있고 그렇게까지 예쁘지 않아도 승무원이 되는 사람도 있다며 합격의 기준은 승무원 같은 단아함과 깔끔함이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19570_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

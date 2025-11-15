@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17675",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.196,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 왜 왜 이렇게 이런 걸 해줘요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 미국에서는 죽음과 함께 세금이 사라진다라는 말이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.778,
+                "end": 6.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 죽음하고 세금은 피할 수 없다 그랬는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.014,
+                "end": 8.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 한국하고 좀 다릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.237,
+                "end": 9.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 자기가 본인이 이연시켰던 세금은 사라지고 이제 자녀는 그럼 그만큼 또 혜택을 받을 수가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.868,
+                "end": 17.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그걸 받으면 자녀 입장에서 증여세 내야 될 거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.060,
+                "end": 20.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 미국은 또 증여세가 300억까지 면제니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.952,
+                "end": 23.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "300억까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.984,
+                "end": 24.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "300억까지 면",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.695,
+                "end": 25.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30억도 아니고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.488,
+                "end": 26.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 300억 지금 현재 오 오늘 기준으로 하여튼 300억까지는 면제입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.400,
+                "end": 30.196
+            }
+        ]
+    },
+    "summary": "남성은 미국은 증여세가 300억까지 면제라 본인이 이연시켰던 세금은 사라지고 자녀가 혜택을 받을 수 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

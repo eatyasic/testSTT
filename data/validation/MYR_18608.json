@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18608",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.358,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 중구 12건 정부가 이제 분양권 전매 제한을 완화하면서 이제 거래가 늘어난 것으로 분석이 되는데 특히 이게 중요하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21년 2월 이전에 분양한 단지의 경우는 실거주 의무도 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.403,
+                "end": 14.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그니까 이제 전매 제한을 하면서 일부 실거주까지 해라 이렇게 묶은 경우도 있는데 21년 2월 전에 분양된 곳에는 실거주 의무도 없다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.767,
+                "end": 25.358
+            }
+        ]
+    },
+    "summary": "정부가 분양권 전매 제한을 완화하며 거래가 늘어난 것으로 분석이 되는데 21년 2월 이전 분양한 단지는 실거주 의무가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

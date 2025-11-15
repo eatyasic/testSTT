@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_18716",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.29,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세금이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 내용을 내가 모르면은 돈이 그냥 날라가 버려요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.637,
+                "end": 3.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손해는 안 봐야 될 것 아니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.260,
+                "end": 4.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 생각보다 눈 먼 돈이 많아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.513,
+                "end": 6.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필요한 절세 전략 딱 하나만 하시더라도 꽤 많이 세금을 줄일 수 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.369,
+                "end": 10.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 단위가 몇백만 원 몇천만 원이 왔다 갔다 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.266,
+                "end": 12.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스스로 지켜야 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.399,
+                "end": 13.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스스로 내가 잘 알고 있어야 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.466,
+                "end": 15.239
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평생 모은 거잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.249,
+                "end": 16.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 2016년부터 강의를 했었거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.335,
+                "end": 18.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 쉽게 잘 써 있어 가지고 고맙대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.193,
+                "end": 20.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 내도 낼 세금을 내가 줄였다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.730,
+                "end": 22.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 아주 난리가 아니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.827,
+                "end": 24.290
+            }
+        ]
+    },
+    "summary": "내가 필요한 절세 전략 딱 하나만 알고 있어도 꽤 많은 세금을 줄일 수가 있으니까 평생 모은 돈을 손해 보지 않게 나 스스로 지킬 수 있도록 세금에 대해서 잘 알고 있어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

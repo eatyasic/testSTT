@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18037",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 조합장님이 어떤 분이신지를 되게 중요하게 생각하거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면 그 분이 지금 이끌고 가야 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.187,
+                "end": 6.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이끌고 가야 되는데 그런데 서울의 대부분",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.016,
+                "end": 8.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.322,
+                "end": 9.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조합장 그니까 대부분은 아니지만 실제",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.069,
+                "end": 12.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.344,
+                "end": 12.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 된 조합장님이 많지 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.787,
+                "end": 15.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 보면 주식 투자로 치면 그 시이오가 어떤 사람이냐 보는 거랑 비슷하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.197,
+                "end": 19.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그렇게 좀 이렇게 썩 괜찮은 분이 많지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.340,
+                "end": 23.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 조합장 평판 조사를 저는 항상 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.188,
+                "end": 25.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임장 가서",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.766,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "화자가 조합장의 평판이 중요하다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18037_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

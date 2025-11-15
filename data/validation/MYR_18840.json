@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18840",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.942,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이제 하와이를 선택한 이유가 수요와 공급적으로 쫌 말씀을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 하와이는 일단 어 가격을 결정하는 부동산이든, 재화든, 서비스든 가격을 결정하는 가장 중요한 게 수요와 공급이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.638,
+                "end": 13.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 하와이는 그 입지적인 부동산에서 제일 중요한 건 입지잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.281,
+                "end": 18.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.433,
+                "end": 18.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 입지가",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.469,
+                "end": 19.942
+            }
+        ]
+    },
+    "summary": "여성은 부동산이든, 재화든, 서비스든 가격을 결정하는 가장 중요한 것이 수요와 공급이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

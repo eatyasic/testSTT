@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17538",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이번에는 이제 심리수업 말 그대로 수업 시리즈란 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 박사님께서 하시고 싶은 핵심 메시지가 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.757,
+                "end": 6.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그걸 좀 말씀 좀 해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.594,
+                "end": 7.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 짧게 제가 말씀을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.003,
+                "end": 10.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아파트는 굉장히 공동 주택 가운데에서 굉장히 진화 된 형태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.819,
+                "end": 17.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가장 고 지능화 된 주택이라고 보시면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.141,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "진행자가 박사님께서 쓰신 심리수업이란 책의 핵심 메시지가 뭔지 묻자 박사는 아파트는 공동 주택 가운데에서 가장 고 지능화 된 형태의 주택이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17538_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

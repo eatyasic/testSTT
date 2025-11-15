@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18931",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 절세 관련해서 인플루언서로 활동을 하고 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 아 뭐 부끄럽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.675,
+                "end": 5.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 출판사에서 써줬으니까 그냥 제가 보여주기만 하고 넘기겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.668,
+                "end": 9.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 인제 제가 이 책에서 인제 조금 강조드렸던 건 이런 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.166,
+                "end": 14.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 세금이라는 게 우리가 인제 공부하는 관점에서 접근하면 정말 끝이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.327,
+                "end": 19.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 이게 방대하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.570,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "세금은 공부하는 관점으로 접근을 하면 방대하고 끝이 없다는 걸 책에서 강조한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18931_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18175",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 대부분은 그냥 중개사분의 말을 믿죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 제일 위험한 거 같애.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.941,
+                "end": 4.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.084,
+                "end": 4.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 이제 중개사분들이 뭐 실력이 없다는 게 아니고 거기서 이제 혹시 실수라도 한 두 가지 나오면 그 실수가 내 거가 돼버리니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.421,
+                "end": 11.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.160,
+                "end": 11.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 조심해야 되요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.806,
+                "end": 12.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 특히 여러분들 그냥 빌라 하나 사는 거는 대부분의 중개사분들이 잘 걸러 내시는데 음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.860,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "중개사분들의 말을 그대로 믿는 것은 위험한 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18175_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

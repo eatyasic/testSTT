@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18851",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.694,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일본인들은 정말로 하와이 사람이 어마어마해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인구도 40퍼센트 이상이 일본계고 워낙 예전부터 많이 이민을 갔기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.861,
+                "end": 10.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갑자기 그런 생각이 들었어요, 모노토 기호사키.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.112,
+                "end": 12.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 첫 투자가 하와이에 카드론 받아가지고 정말 100퍼센트 자기 대출로 그 하와이에 집을 산 분이고 하와이 너무 사랑하는 분이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.911,
+                "end": 22.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 정말 수천채를 가진 다주택잔데",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.895,
+                "end": 26.694
+            }
+        ]
+    },
+    "summary": "여성은 일본인들은 하와이 사람이 어마어마하며 인구도 40퍼센트 이상이 일본계라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18851_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

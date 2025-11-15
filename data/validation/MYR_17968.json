@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17968",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 얘가 이제 천만 원이 나오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 나는 1억 5000 받았는데 천만 원 빼니까 1억 4000 되잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.463,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 음 계산 맞지 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.115,
+                "end": 12.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 남자가 본인 부모한테 이렇게 세금 내고 그리고 여기서 인제 여력이 되면은 상대방 부모 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.656,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "증여세가 천만 원이 나오게 되고 그럼 나는 1억 5000만 원을 받고 천 만원은 세금으로 내면 1억 4000만 원을 받게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17968_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

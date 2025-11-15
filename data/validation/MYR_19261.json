@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19261",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.494,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인세 신고가 3월 1일부터 시작되는데 이제 보통 대부분은 12월까지 즉 1월부터 12월까지 결산 법인이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 그다음 해 이제 3개월 후에 3월달에 신고를 하 하기 때문에 어 법인세 신고가 3월 1일부터 시작한다고 여기 딱 그냥 아예 이 세무사님이 말씀해 버린 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.042,
+                "end": 15.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세 신고 납부 절차, 절감 방법 그리고 세액 감면, 세액 공제 활용한 절세 전략 알아보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.253,
+                "end": 22.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그에 앞서서 첫 번째 법인세란 도대체 뭐냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.292,
+                "end": 27.494
+            }
+        ]
+    },
+    "summary": "법인세 절세 전략을 알아보기 전에 법인세란 도대체 뭐냐라고 시작을 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

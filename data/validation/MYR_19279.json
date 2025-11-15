@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19279",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시험에도 잘 나오고 아무튼 그런 게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이월 결손금 소득공제 차감에서 법인세 과표가 되고 법인세 계산한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.127,
+                "end": 7.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 뭔지 모르겠는데 굉장히 복잡한 과정을 거치고 난 다음에 과표가 나오고 과표 나오면 이제 세금 다 구한 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.663,
+                "end": 15.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 여기에 세금만 적용 시키면 끝나거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.163,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "한 남자가 복잡한 과정을 거쳐서 과표가 나오고 여기에 세금만 적용 시키면 끝난다고 설명을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19279_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

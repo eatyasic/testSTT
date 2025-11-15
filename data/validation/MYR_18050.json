@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18050",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북아현 쪽이 좀 덜 올라오고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "느낌이",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.731,
+                "end": 3.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 느낌이 좀 덜 올라 오고 있어서 북아현 같은 경우 북아현 33구역 같은 경우는 3주 전에 에 5억 8천 실투 뚜껑 말고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.544,
+                "end": 14.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5억 8천 실투로 들어갈 수 있는 게 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.011,
+                "end": 16.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3주 전에",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.791,
+                "end": 17.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북아현 3구역",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.781,
+                "end": 19.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.066,
+                "end": 19.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그 다음에 이제 그렇게 탑5 빼놓고 이제 저는 서부권은 수색 증산이라는 가지오를 좋게 보고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.575,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "화자가 북아현에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18740",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.6,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1번을 비과세를 받아야 돼 근데 2번이 안 팔려 아니면 2번을 계속 보유하고 싶어 그러면 일단 등록을 해요 요건 갖춰서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 1번 비과세를 받아 그리고 나서 2번에 대해서 5퍼센트만 올리고 이제 평화롭게 삽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.695,
+                "end": 12.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 사람이 지금 등록하면 이번에 10년 임대해야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.053,
+                "end": 15.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깜빡할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.569,
+                "end": 17.584
+            }
+        ]
+    },
+    "summary": "1번 주택을 비과세를 받아야 하고 2번 주택을 계속 보유하고 싶으면 요건을 갖춰서 임대 등록을 하고 1번 주택을 비과세를 받고 2번 주택에 대해서는 임대료 5퍼센트만 올린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

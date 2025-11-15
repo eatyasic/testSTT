@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17920",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.472,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 점심을 11시 40분에 보통 먹는다고 딱 어 칠게요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 한 지금 시계를 보니까 11시 20분이 딱 됐어요 20분밖에 없잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.910,
+                "end": 7.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.700,
+                "end": 8.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 일을 잘 못하는 중개사들은 아 20분 밖에 안 남았네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.090,
+                "end": 11.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 하기가 애매한 거예요 시간이 애매하니까 그냥 뭐 잠깐 딴 거 해요",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.410,
+                "end": 16.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.650,
+                "end": 17.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딴 거 하고 그냥 나가서 담배 한 대 피고 들어오고 그다음 10분 남으면 왔다 갔다 하다가 괜히 뭐 인터넷 창 한번 열어보고 이러다가 이제 밥 먹으러 가요",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.060,
+                "end": 26.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 일을 잘하는 중개사들은요 딱 시계 보고 어 20분 남았네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.150,
+                "end": 29.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 바로 나가서 근처에 광고용 사진을 두 개 찍어옵니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.570,
+                "end": 33.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광고용 사진?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.843,
+                "end": 35.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 공인중개사들은 이제 광고를 해야지 그 광고를 보고 손님들이 문의 전화가 오면 거기부터 업무가 시작되잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.040,
+                "end": 40.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 나가서 20분이면요 주변에 있는 물건들 중에서 괜찮은 거 두 개 골라서 광고용 사진을 가서 촬영해 올 수 있는 시간이에요 두 개를 촬영해 올 수 있는 시간이에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.850,
+                "end": 49.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 하거나 어제저녁에 어 촬영해 놓은 게 있다라고 하면 그거 오늘 두 개, 세 개 광고 작업을 합니다 그 20분을",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.180,
+                "end": 55.455
+            }
+        ]
+    },
+    "summary": "일을 잘하는 중개사들은 20분의 자투리 시간도 광고용 사진을 찍어와서 광고 작업을 하고 못하는 중개사들은 그냥 시간을 보낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17920_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

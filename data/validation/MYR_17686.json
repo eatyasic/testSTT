@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17686",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.742,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 최근에 뭐 최근은 아니더라도 뭐 과거 한 최근 한 10년 정도 이렇게 쭉 보면은 이제 굉장히 옛날에 한국에서 미국으로 이민 가셨던 그 이민 거의 뭐 1세대 분들이 가장 많이 실수하시는 게 이제 한국의 어떤 문화를 가지고 미국에 넘어가셔서 소송을 많이 당하신 적이 있으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 21.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 예를 들면 이런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.342,
+                "end": 22.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 뭐 한국 드라마 같은데 보면은 뭐 옥탑방 사는 청년한테 월세 안 내면 어떻게 하세요? 막 두드리면서 어 청년 월세",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.424,
+                "end": 30.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 이렇게 밀리냐고 지금 몇 달째냐고 도대체",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.268,
+                "end": 32.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장 내라고 막 이런 식으로 막 막 이렇게 겁박하고 그러잖아요 소리도 지르고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.839,
+                "end": 36.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 미국 애들은 이제 그런 게 절대 불가합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.501,
+                "end": 39.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 하시면은 큰일 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.200,
+                "end": 40.635
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 큰일 나요? 잡혀가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.645,
+                "end": 42.742
+            }
+        ]
+    },
+    "summary": "남성은 과거 한국에서 미국으로 건너갔던 이민 1세대들이 미국에서 겪었던 소송을 예를 들어서 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17686_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

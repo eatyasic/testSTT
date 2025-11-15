@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17616",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.391,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회복을 했단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "14억에 실거래 찍고 매물도 14억에 나와있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.031,
+                "end": 4.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.796,
+                "end": 5.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 어느 정도냐면 강동구에 대상이 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.533,
+                "end": 9.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그라시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.695,
+                "end": 11.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "19억이 고점이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.138,
+                "end": 13.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 19억.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.105,
+                "end": 14.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "걔가 원래 좀 더 비싼 아파트거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.381,
+                "end": 16.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "14억 찍고 16억이 됐단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.120,
+                "end": 17.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거랑 현재랑 별 차이가 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.905,
+                "end": 19.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.733,
+                "end": 20.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 신길을 가면 레미안이 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.191,
+                "end": 22.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.797,
+                "end": 23.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대장.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.319,
+                "end": 24.391
+            }
+        ]
+    },
+    "summary": "한 남성이 강동구의 그라시오는 14억을 찍고 16억이 됐고 신길을 가면 대장인 레미안이 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17616_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

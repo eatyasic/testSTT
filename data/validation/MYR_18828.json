@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18828",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.152,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주택자들에게 이제 규제가 점, 점, 점, 점 강화가 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 2017년부터 처음에 미국을 본 건 아니고 해외 부동산에 절세 기회가 있다는 것을 알게 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.332,
+                "end": 10.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 베트남이라던지 이렇게 다른 나라들을 보다가 20019년에 미국에 관심을 갖게 된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.773,
+                "end": 17.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.361,
+                "end": 18.152
+            }
+        ]
+    },
+    "summary": "여성은 2017년부터 처음에 해외 부동산에 절세 기회가 있다는 것을 알게 되었고 베트남 같은 다른 나라들을 보다가 2019년에 미국에 관심을 갖게 되었다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18828_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

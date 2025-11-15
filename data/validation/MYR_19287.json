@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYR_19287",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2개가 약간 다르다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 가지만 말씀드리자면 가장 큰 차이가 뭐냐면 개인 소득세는 대부분 열거주의에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.106,
+                "end": 6.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 그런 건 아닌데 그래서 법에 나와있는 거를 중심으로 세금을 부과 하구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.964,
+                "end": 11.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세 같은 경우에는 포괄주의에요 포괄주의.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.765,
+                "end": 14.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 말이냐면 말 그대로 포괄해 버린다는 거 거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.842,
+                "end": 18.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법에 없어도 이 법인의 순자산을 증가 시켰다 그러면 세금 과세 돼 버려요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.203,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "소득세는 열거주의라 법을 근거로 세금이 부과되지만 법인세는 포괄주의어서 법에 없어도 법인 순자산 증가 시 세금이 과세 된다고 한 남자가 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18064",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 뒤 여기가 호텔",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.985,
+                "end": 2.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그다음에 앞에가 오피스텔 뒤에가 아파트",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.743,
+                "end": 5.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 여기",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.442,
+                "end": 5.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 손이 안 보이시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.912,
+                "end": 6.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아파트먼트 여기 용상공원 그 이제 더 파크 사이드 몰 여기 있네",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.804,
+                "end": 11.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.776,
+                "end": 12.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 스페이스 있고 유엔 프라자 있고 여기 있고 야 아까부터 파크 사이드 스위트 요거",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.148,
+                "end": 18.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 오피스텔",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.707,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "두 남성이 더 파크 사이트에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18064_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

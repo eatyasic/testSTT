@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18578",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.793,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 괜히 엄한 데에다가 이 사람들한테 어 혹시라도 금전적인 피해를 입었거나 그러신 분들이 없으시기를 바라는 마음에서 이 긴급하게 유튜브 라이브를 켰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 작년 6월 9일이었는데 그때 제 콘텐츠 도용된 거 변호사 써가지고 지금 소송한 거 결판이 안 났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.035,
+                "end": 26.793
+            }
+        ]
+    },
+    "summary": "작년 6월 9일에 콘텐츠 도용된 거 변호사 써서 소송한 것도 결판이 나질 않았고 금전적인 피해를 입으신 분들이 없길 바라는 마음에 유튜브 라이브를 켰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18578_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

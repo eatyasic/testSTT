@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18559",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.597,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국은 집 주택을 여러 채를 살 수가 없는 상황이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.250,
+                "end": 4.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 제일 좋은 거 1개밖에 못 사는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.757,
+                "end": 7.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠 그 상태에서 내가 좀 더 뭔가 다른 걸 괜찮은 걸 또 사고 싶다라고 하면 그때 약간 뭐 이거는 하 이 불법인데 얘기하면 안 되지만 예전에 그때 하신 분들은 결국은 다른 사람 명의로",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.163,
+                "end": 18.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 한 분들이 좀 몇 분 계시거든요 그죠 그런 식으로 제일 좋은 거 한 개 한 개 정도씩밖에 결국은 못 사지 않나 이렇게 될 거 같습니다. 그러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.946,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "결국은 주택을 여러 채를 살 수가 없는 상황인데 제일 좋은 거 한 개밖에 못 사는 것이고 내가 좀 더 뭔가 다른 걸 사고 싶다라고 하면 이건 불법인데 예전에 하신 분들은 다른 사람 명의로 이렇게 한 분들이 몇 분 계신데 그런 식으로 좋은 거 한 개 한 개 정도씩밖에 결국은 못 사게 될 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

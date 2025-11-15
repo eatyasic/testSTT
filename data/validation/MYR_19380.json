@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19380",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비즈 왔 비즈니스 워치 어 그 텍스 워치랑 같이 세금 관련된 그런 내용들 많이 하고 있는 곳이구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비즈 워치 보면은 @이름1 기자님께서 작성을 해 주셨네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.719,
+                "end": 11.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 받은 임대 사업자 들여다 본다 23년 2월 11일 자로 이렇게 작성해 주셨어요 한번 좀 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.884,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "비즈니스 워치와 텍스 워치는 세금 관련하여 많은 기사를 내고 23년 2월 11에 비과세 받은 임대 사업자 들여다 본다라는 제목으로 @이름1 기자가 기사를 작성했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

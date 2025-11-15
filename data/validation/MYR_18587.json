@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18587",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.76,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1 대 1멘토링 과정 한 번에 한 명만 아까 무슨 400명 200명 놓고 하는 거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주제는 제가 이렇게 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.975,
+                "end": 8.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 매수 매도 전 체크사항 임대주택 등록 주택임대 소득 법인 무자본 수익화 직장 다니며 투자 수익화 효과적인 시간관리 단 세금 신고 대행 비과세 판단 여부 혹은 정확한 세금계산 이거는 세무사 상담 방문 권한다고 제가 밑줄 쫙 그어놨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.559,
+                "end": 24.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굵은 글씨로",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.622,
+                "end": 26.760
+            }
+        ]
+    },
+    "summary": "주제는 양도세 매수 매도 전 체크사항, 임대주택 등록, 주택임대 소득 법인 무자본 수익화, 직장 다니며 투자 수익화, 효과적인 시간관리 등을 주제로 하지만 세금 신고 대행 비과세 판단 여부 정확한 세금계산은 세무사 상담을 권한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18587_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

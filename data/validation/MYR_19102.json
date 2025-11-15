@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_19102",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예. 저도 물론 저렇게 돼야 된다고 생각을 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "약간 지켜봐야 되는데 일단 6프로로 낮아질 수 있다는 점에 대해서 희망을 약간 가져봐도 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.617,
+                "end": 9.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.344,
+                "end": 9.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "취득세 아직 개정 안 됐다는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.979,
+                "end": 11.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예. 그걸 꼭 여러분들이 구분 하셔야 됩니다 앞에 2개랑.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.701,
+                "end": 14.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.185,
+                "end": 14.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그다음이 종부세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.963,
+                "end": 16.101
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이 종부세 올해 많이 완화됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.111,
+                "end": 18.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 보시다시피",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.939,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 취득세가 아직 개정이 되지 않았지만 6퍼센트로 낮아질 수 있다는 점에서 희망을 가져봐도 좋을 것 같다는 의견을 밝힌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

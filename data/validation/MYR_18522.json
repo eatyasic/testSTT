@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18522",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.574,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 전세 가격은 지금 한 2억 초반 2억 중반 정도 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.652,
+                "end": 4.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 내 투자금이 2억 정도는 들어가야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.985,
+                "end": 8.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 내가 더 2억 정도 있다 나는 근데 딴 데 은행에 맡길 바에야 그냥 이 분양권에 이 정도 떨어졌기 때문에 나중에 오를 거라고 생각을 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.691,
+                "end": 15.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2억 정도 넣고 또 거기다가 이제 취득세까지 넣으면 무조건 10프로 내 12프로는 내야 되지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.373,
+                "end": 20.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 뭐 다주택이 아니라고 했을 때 아니면은 이제 조금 해볼 만하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.207,
+                "end": 23.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸 그래서 그 정도 돈 가지고 뭐 그나마 저 외곽 말고 그나마 중심지에 그 정도 가격의 분양권을 살 수 있다라고 하면 저는 나쁘지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.627,
+                "end": 31.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거는 실거주자가 사야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.448,
+                "end": 33.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.595,
+                "end": 34.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그러면은 딱 취득세 6억 이하니까 1프로밖에 안 내고 그리고 이제 대구 중심지에 새 아파트를 언제 사보겠어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.215,
+                "end": 41.574
+            }
+        ]
+    },
+    "summary": "전세 가격이 2억 초반에서 2억 중반 정도할 때 투자금은 2억 정도 들어가야 되는데 은행에 맡길 바에야 이 분양권에 이 정도 떨어졌기 때문에 나중에 오를 거라고 생각하고 거기다가 취득세까지 넣으면 무조건 12프로는 내야 돼서 그 정도 돈 가지고 그나마 중심지에 그 가격의 분양권을 살 수 있다라고 하면 나쁘지 않다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18522_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

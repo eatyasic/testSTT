@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19160",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.028,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 여러분들이 이게 가장 기본 중에 기본인데 어떻게 하는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 법인으로 하면 돈을 많이 번대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.049,
+                "end": 7.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택을 법인으로 사자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.591,
+                "end": 11.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 나중에 이제 지옥을 맛볼 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.479,
+                "end": 14.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 공부를 좀 하시면서 접근을 하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.397,
+                "end": 18.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 무조건 다 만들고 막 그러면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.824,
+                "end": 20.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 개인 사업자는 종합소득세 법인 사업자는 법인세를 내요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.458,
+                "end": 25.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 한 줄이",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.485,
+                "end": 27.027
+            }
+        ]
+    },
+    "summary": "개인 사업자는 종합소득세 법인 사업자는 법인세를 낸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19160_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

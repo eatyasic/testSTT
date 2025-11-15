@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18783",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.21,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국외 1주택 월세에 대해서도 임대 소득세 발생하고 여기저기서 신고 들어가야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.604,
+                "end": 8.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 평생 수강권 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.128,
+                "end": 10.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 하얀아리님 질문 좀 보면은 직장인 소득 공제를 받을 때 인적 공제받아서 임대 소득세 계산 시 추가 200만 원. 못 받죠. 네. 못 받죠. 네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.651,
+                "end": 19.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 여기서는 꼭 이런 거보다는 아까 보여드렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.005,
+                "end": 24.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 추가적으로 기본 공제 400만 원, 200만 원 받으려면은 다른 종합 소득되는 금액이 2,000만 원 넘으면 안 되요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.784,
+                "end": 30.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 직장인은 당연히 2,000만 원 넘겠죠. 연봉이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.980,
+                "end": 34.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그렇기 때문에 어차피 못 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.126,
+                "end": 36.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 그리고 그 해당 주택 구입이 주담대 이자 같은 경우에는 사업에 온전히 썼다. 그러면은 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.696,
+                "end": 44.210
+            }
+        ]
+    },
+    "summary": "국외 1주택 월세도 임대 소득세 발생하고 신고해야 하며 직장인은 연봉이 있기 때문에 공제를 받을 수 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

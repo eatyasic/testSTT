@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18314",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.299,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 선당후곰 무슨 말이죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 당첨되고 전매를 하고 고민은 나중에 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.646,
+                "end": 13.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 투자에 있어서 아주 뭐 많이들 쓰시는 그런 용어인데 다만 분양권 취득하실 때 좀 몇 가지 조심하셔야 되는 두 가지가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.037,
+                "end": 23.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 것들인지 오늘 제가 좀 설명을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.901,
+                "end": 27.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 분양권이 뭡니까 여러분?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.451,
+                "end": 30.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택을 취득할 수 있는 권리죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.019,
+                "end": 33.299
+            }
+        ]
+    },
+    "summary": "남성 화자가 선당후곰, 먼저 당첨되고 전매를 하고 고민은 나중에 한다라는 뜻을 설명하고 분양권 취득할 때 조심해야 할 두 가지를 설명하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

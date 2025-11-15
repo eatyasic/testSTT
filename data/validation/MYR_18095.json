@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18095",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단순히 뭐 이렇게 조금 싸게 사서 비싸게 파는 것보다도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.068
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.078,
+                "end": 3.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 지분을 사서 그 회사랑 같이 가는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.478,
+                "end": 5.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요 맞아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.517,
+                "end": 6.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 정비 사업 구역도 내가 조합원이 되는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.000,
+                "end": 9.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.927,
+                "end": 10.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 주주가 되는 거랑 비슷하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.441,
+                "end": 12.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 사업을 내가 책임진다는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.577,
+                "end": 14.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그 시이오인 조합장의 누군지도 좀 알아야 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.367,
+                "end": 17.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.237,
+                "end": 18.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조합원들이 어떤 성향인지도 좀 알아야 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.165,
+                "end": 20.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.785,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "두 남성이 정비 사업 구역은 내가 조합원이 되는 것이고 주주가 되는 것과 비슷하다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18095_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

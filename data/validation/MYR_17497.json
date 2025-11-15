@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17497",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.534,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배우자는 세대 분리가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 아무리 따로 살고 주민등록 분리한다 하더라도 이혼하는 거 밖에 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.104,
+                "end": 5.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이혼하고 따로 살아야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.412,
+                "end": 6.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 거 하지 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.608,
+                "end": 7.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 비과세가 뭐가 중요하다고 배우자와 한평생 행복하고 건강해야지 더 중요한 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.728,
+                "end": 13.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러고 자녀 같은 경우 조심해야 되는데 나이가 만 30 이상인 경우 그러 결혼했다가 이혼이나 사별한 경우 한 번 배우자가 있었다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.493,
+                "end": 21.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 30세 미만이지만 꾸준한 소득이 있는 경우 이게 이제 올해 얼마냐면 월 83만 원 정도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.644,
+                "end": 27.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기준 중위소득의 40퍼센트 이상이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.411,
+                "end": 29.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그 경우에는 별도 세대로 본다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.827,
+                "end": 31.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그면 우리 아이가",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.008,
+                "end": 34.534
+            }
+        ]
+    },
+    "summary": "남성이 배우자는 따로 살아도 세대 분리가 안되고 이혼하는 방법 밖에 없는데 그렇게는 하지 말라고 당부하고 자녀의 경우에는 만 30 이상이고 꾸준한 소득이 있는 경우 별도 세대로 본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

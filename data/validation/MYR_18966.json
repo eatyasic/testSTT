@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18966",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.986,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조금이나마 도움이 되면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 개정 내용 업데이트뿐만 아니라 처음에 지금 하고 있는 제 이벤트가 조금 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.874,
+                "end": 9.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 인제 이 영상이 인제 시간이 지나면 여러분들이 좀 참석을 할 수도 있고 못 할 수도 있는데 지금 초반에 여러분들이 할 수 있는 건 이겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.038,
+                "end": 17.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초판 한정",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.866,
+                "end": 19.986
+            }
+        ]
+    },
+    "summary": "개정 내용 업데이트뿐만 아니라 초판 한정 이벤트가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18966_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

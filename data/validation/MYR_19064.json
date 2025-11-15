@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19064",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 헷갈리는 거 정리하는 김에 제가 이렇게 말씀드렸습니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 국세 시가랑 지방세 시가 인정액 거의 같다 이렇게 보시면 되세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.222,
+                "end": 9.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.802,
+                "end": 10.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 파란 거 이거는 이제 그 감정 평가액은 이거 어디서 쓰나요 감정 평가액?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.158,
+                "end": 16.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은행 은행에서 많이 씁니다 은행에서 대출 받을 때.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.100,
+                "end": 19.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.230,
+                "end": 19.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이거 약간 다른 성격인데 이것도",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.493,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "감정 평가액은 은행에서 대출을 받을 때 많이 쓴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19064_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

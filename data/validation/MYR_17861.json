@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17861",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.291,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 1등 못하면 나는 큰일 나는 거야 나는 내 존재감이 좀 없어져 이런 건 내가 발견하는 사람이기 때문에 반드시 1등을 해야 하는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그렇게 해서 1등을 한 적이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.741,
+                "end": 12.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책에도 나오죠 사례에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.830,
+                "end": 14.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그걸 이제 잘 얘기를 안 했던 게 폭이 3미터밖에 안되고 길이가 270미터가 되니까 그래봤자 214평이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.367,
+                "end": 25.291
+            }
+        ]
+    },
+    "summary": "남성이 본인은 발견하는 사람이고 존재감이 있어야 하기 때문에 반드시 1등을 해야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

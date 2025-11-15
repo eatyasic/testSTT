@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYR_18349",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.659,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 계속 나가보면은 이제 제가 드리고 싶은 질문이 챕터3에 보면 여러 가지 투자 방법에 대해서 쓰셨어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 뭐 세부적인 건 여러분들이 나중에 보시면 되는데 이제 책에 없는 내용을 저는 여쭤보고 싶기 때문에 청약, 분양권, 경매 여러 가지 다 적어놨단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.676,
+                "end": 24.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.797,
+                "end": 24.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 중에서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.956,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "남성 화자가 작가에게 책에 없는 내용을 여쭤보고 싶다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

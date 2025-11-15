@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17947",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어차피 저는 그만 뒀는데 그만 둔 거를 이제 아버지도 다 알고 계시고 아버지가 그거를 알고 계신다는 거를 이미 저도 알았고 뭐 숨길 게 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 병실에 이제 아버지 옆에서 병간호하면서 그냥 계속 공부를 하고 가끔 어머니나 이제 누나들이 와서 교대를 해주면 다시 집에 가서 다시 공부를 하고 그때 정말",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.306,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "현재 제 상황을 아버지와 저 모두 알고 있어서 숨길 게 없기 때문에 아버지 옆에서 병간호하면서 공부하고 어머니나 누나들이 와서 교대해 주면 집에 가서 다시 공부했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17947_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

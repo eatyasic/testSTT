@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYR_17461",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.936,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 이제 1주택 아니면 2주택 이렇게 말씀하셨는데 좀 이게 이거 포지션을 나눠서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무주택 없어요. 무주택?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.991,
+                "end": 12.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무주택이죠. 무주택 그래서 무주택인데 내가 내 집 마련하고 싶은 사람, 1주택인데 막 갈아타기 하고 싶은 사람, 아니면 2주택인 사람 이렇게 좀 세 분류로 좀 나눠서 간단하게 좀 뭐 조언 좀 해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.112,
+                "end": 23.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무주택자분들은 그동안에는 분양이 답이었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.997,
+                "end": 26.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 분양가가 너무 올라가지고 지금 기다리다가 집을 못 사겠다. 이렇게 약간 당황하시는 분들이 생각보다 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.978,
+                "end": 34.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 내년에 더 오를 것 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.637,
+                "end": 36.936
+            }
+        ]
+    },
+    "summary": "검은색 티셔츠를 입은 남성이 내 집 마련하고 싶은 무주택자, 갈아타기 하고 싶은 1주택자, 2주택자 이렇게 세 분류로 나눠서 조언을 부탁했고 검정색 자켓을 입은 남성이 무주택자는 그동안 분양이 답이었는데 최근 분양가가 너무 올라서 당황하시는 분들이 많다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17461_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

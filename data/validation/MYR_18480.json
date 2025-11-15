@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18480",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.991,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 생각에는 무주택자 같은 경우에 이거를 이렇게 떨어졌으면 우리는 답을 한 번 본 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "패를 한 번 깠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.474,
+                "end": 8.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 얘가 어디까지 올라갈 수 있는 펀더멘털을 갖고 있는 거라는 거를 그래서 많이 올랐다가 아무 이유 없이 그냥 푹 떨어졌다면 지금 인덕원도 많이 올랐다가 많이 떨어졌는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.931,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "우리는 얘가 어디까지 올라갈 수 있는 펀더멘털을 갖고 있는지 답을 한 번 봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18480_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

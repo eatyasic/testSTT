@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19098",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보세요 이게 개정이 조금 취득세",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 저는 이게 좀 약간 왔다 갔다 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.414,
+                "end": 7.453
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐하면은 전혀 그 어떤 이야기가 안 나와서 아 좀 힘들겠다 게다가 야당에서도 반대를 했었잖아요 대놓고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.463,
+                "end": 17.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.163,
+                "end": 17.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근에 이제 뭐 여당 그 당내 경선도 끝나고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.942,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성은 법 개정에 대해서 반대가 있었고 어떤 이야기도 없었기 때문에 개정이 될지 잘 모르겠다는 생각을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

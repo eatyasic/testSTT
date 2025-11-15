@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18784",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.128,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 종부세 주택별 구분하는 거는 세무서에서 해 주는 게 아니고 이거는 본인이 직접 신고 납부해야 되는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 오늘 제가 말씀드렸잖아요. 굉장히 어려운 내용이라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.606,
+                "end": 9.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 혼자 하시면은 좀 틀릴 가능성이 높습니다. 저도 못하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.848,
+                "end": 14.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 이거는 좀 세무사님들 도움을 받아서 수수료 좀 내시고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.533,
+                "end": 19.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 뭐 예를 들어서 내가 수수료 낸 거보다 절세되는 금액이 더 크다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.720,
+                "end": 23.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그럼 훨씬 당연히 무조건 해야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.502,
+                "end": 26.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이렇게 하시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.085,
+                "end": 28.128
+            }
+        ]
+    },
+    "summary": "주택별로 종부세 구분하는 거는 본인이 직접 신고 납부해야 하는데 어렵기 때문에 수수료 내고 세무사의 도움을 받는 것이 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

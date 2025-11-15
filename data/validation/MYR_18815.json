@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18815",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.286,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 아까 분양가가 얼마였어요? 9억 7,000이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 절반 한 5억 정도까지는 어 떨어지고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.104,
+                "end": 6.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 상황 봐서 더 떨어질 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.584,
+                "end": 9.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 아무도 모르니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.070,
+                "end": 10.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그런데 이제 금리가 좀 얼추 잡히고 좀 내려가기 시작한다 그러면은 임차인들이 그냥 전세를 좀 선호하기 때문에 그쪽으로 좀 갈 수도 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.358,
+                "end": 18.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소진이 될 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.675,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "금리가 안정화되고 좀 내려가기 시작하면 임차인들이 전세를 선호하기 때문에 그쪽으로 갈 수도 있겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18815_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

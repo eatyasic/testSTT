@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18234",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 내가 만약에 임대사업자다 그러면 RTI가 적용되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이자비용 대비 임대소득 이거를 1.25에서 1.5배였는데 그냥 1배속을 해버리는 거죠 그러니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.142,
+                "end": 10.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대소득이 이자비용 낼 정도만 되면은 일단은 내가 풀어주겠다라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.183,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "임대사업자에게 적용되는 사항에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18234_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

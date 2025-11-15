@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17903",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 약간의 매너리즘 뭐 그런 것도 조금 없지 않아 솔직히 있었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지치셨구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.440,
+                "end": 4.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 좀 지친 것도 있었는데 그래도 그만큼 또 보람도 차고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.250,
+                "end": 7.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.650,
+                "end": 8.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20년 정도면은 제가 어느 정도 안정된 수준에 올라갔을 거 아니에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.353,
+                "end": 12.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.898,
+                "end": 13.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 강의를 하면서 이제 외부강의를 좀 나가거나 또 오프라인 강의 온라인 강의 뭐 이런 거도 하면서 뭘 느꼈냐하면 이게 굉장히 작은 건데 이거를 몰라서",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.290,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "20년 동안 일을 하면서 약간의 매너리즘도 오기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

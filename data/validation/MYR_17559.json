@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17559",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.979,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구할 때까지 기다리는 거죠 우리는 결국은 대출 내 가지고 이자 내면서 버티는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.315,
+                "end": 5.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경매로 안 넘어가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.931,
+                "end": 6.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.748,
+                "end": 7.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 어떻게 보면 어 계약 청구권 행사 했던 세입자 입장에서 보면은 나 나가겠다 그러는데 돈을 안내주면은 3개월 안에 돈 안 내주면 경매로 넘어가잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.284,
+                "end": 19.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.278,
+                "end": 19.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 이른바 코너로 몰리고 벼랑 끝으로 몰리는 것을 막아 주는 경우에 전세 자금 반환대출이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.589,
+                "end": 28.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째로는 지금요 아파트 전세는 약간 전세 사기라든지 빌라 사기 이런 것 때문에 반사기로 돌리고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.047,
+                "end": 35.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아파트 몰린다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.922,
+                "end": 37.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 지금 다세대 다 가고 누가 들어와요 전부 다 월세로 들어가려 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.094,
+                "end": 41.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그 시장으로 보면 지금 구조적 불안에 놓여 있다고 보는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.087,
+                "end": 45.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.438,
+                "end": 45.979
+            }
+        ]
+    },
+    "summary": "전문가는 세입자를 보호 하기 위해 대책이 나왔다며 전세를 못 구한 경우 어떻게 되는 지 설명 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17820",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뜻밖에 내몰림을 당하는 거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기서 반드시 이사 비용을 좀 염두에 둬야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.959,
+                "end": 6.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.462,
+                "end": 7.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 그때 돈 먹고 돈 놓고 돈 먹기 장사라고 해서 그런 걸 여유를 안 두고 하면 꼭 싸움이 나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.261,
+                "end": 13.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 300이든 500이든 줄 생각을 하고 이사를 충분히 갈 수 있을 만큼 저거 주고 가면은 그런 일이 안 생겨요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.841,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "강제 명도할 때 이사 비용을 줘야 싸움이 나지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17820_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

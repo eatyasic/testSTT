@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18763",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다만 월세로 임대하는 부분에 대해서는 주택 임대 소득 수입 금액이 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2,000만 원 초과 여부에 따라서 분리 과세 또는 종합 과세로 신고해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.390,
+                "end": 7.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간주 임대료는 3억 나오고 60퍼센트 나오는데 야 이제 요 정도 되면 약간 좀 짜증 나죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.970,
+                "end": 12.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그 공부를 하신 분들은 이제 이걸 들으면은 어 그렇지, 그렇지, 그렇지 될 수가 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.760,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "월세로 임대하는 부분은 주택 임대 소득 수입 금액이 되고 2,000만 원 초과 시 분리 과세 또는 종합 과세로 신고해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18763_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

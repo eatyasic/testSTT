@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18950",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시점에서 법인으로 신규로 주택을 취득한다 그랬을 때는 아쉽지만 안타깝지만 수익률이 별로 좋지가 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 거기서 인제 멈출 거냐 그게 아니라 다른 주택의 다른 부동산 상업용 부동산 그래서 여섯째 마당에 이렇게 넣어 놨죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.100,
+                "end": 15.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 이렇게 또 말씀을 드리면은 아니 지금 금리가 높은데 수익률이 안 오르는데 무슨 상업용 부동산 자산 지금 상투 잡으라 아 상투 잡으라는 거냐 그런 건 아니고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.883,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "법인으로 신규 주택을 취득했을 때 수익률이 좋지 않은데 이럴 때 다른 상업용 부동산이 방법이 될 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18950_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

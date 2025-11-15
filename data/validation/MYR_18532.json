@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18532",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 분양 가격도 지금 9억 대 정도 육박하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 그러면 신축 아파트가 9억 대 정도에 분양을 하면 광주 대장 원래 대장인 봉선동도 전 나쁠 괜찮지 않을까라고 생각이 좀 들고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.291,
+                "end": 13.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지방 지금은 취득세 중과가 풀어주지 않 풀어지지 않는 상태라면 서울에 괜찮은 지역 경기도에 괜찮은 지역 아니면 결국은 광역시 대장급",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.603,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "취득세 중과가 풀어지지 않는 상태에서 신축 아파트가 9억 대 정도에 분양을 한다면 광주의 원래 대장인 봉선동도 괜찮지 않을까라고 생각을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18532_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18094",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세대 수 곱하기 분양가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.467,
+                "end": 2.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 총합이 더 큰대로 그냥 가면 된다는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.865,
+                "end": 4.857
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.867,
+                "end": 5.326
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 그 외에 좀 몇 가지 더 보는데 하여튼 그 두 가지가 되게 중요한 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.336,
+                "end": 9.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음부터 끝까지 계속 말씀해 주시는 게 결국에는 정비 사업이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.820,
+                "end": 14.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 사업 쪽인 만 마인드로 좀 접근을 하면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.114,
+                "end": 17.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.979,
+                "end": 18.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞 그게 굉장히 저는 인상적이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.604,
+                "end": 20.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 뭐 삼성전자 주식을 사는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.968,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "두 남성이 총합이 더 큰대로 그냥 가면 된다라는 질문과 답변을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

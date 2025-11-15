@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19127",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1년 2년 3년 뭐 이때 우리는 이제 이때 집값이 1216 대책 이때가 엄청 올랐지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집값 내린다고 이제 1년으로 했다가 아 이게 살짝 내려갈 것 같으니까 2년 그래서 현 정부 들어가지고 이제 다시 3년으로 기한이 이렇게 내려왔잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.789,
+                "end": 15.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.825,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "1212 대책 때는 집값이 엄청 올랐다가 현 정부 들어서 다시 3년으로 내려왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19127_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

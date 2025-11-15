@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17594",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.341,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 한 단계에서 목표는 또 2단계가 있을 거 아녜요. 누구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 계속 그 자리에 머물러 있다는 느낌을 항상 받거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.005,
+                "end": 7.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.640,
+                "end": 8.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬을 때 이 단계를 한 단계를 뛰어 넘으려면 어떻게 해야 될까 나도 아등바등 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.338,
+                "end": 14.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 잘 안되네 내가 그러거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.835,
+                "end": 16.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 아마 입장은 똑같을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.826,
+                "end": 18.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1에서 2로 가나 2에서 3으로 가는 입장이나 비슷해 이제 결국은 뭔가 내가 잘 하고 좋아 하고 할 수 있는 한도 내에서만 다람쥐 챗바퀴 돌 듯이 뭔가를 하고 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.245,
+                "end": 30.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직장인 분들은 회사 열심히 다닐 거고 개인 사업 하는 분들은 일 하다 보면 딴 거 못 할 거고 이제 그랬을텐데 이거를 돌파 하려면 어떻게 해야될까 저는 맨날 고민하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.876,
+                "end": 41.341
+            }
+        ]
+    },
+    "summary": "전문가도 힘들어 한다고 매번 어떻게 하면 잘 할 수 있을지 늘 고민한다고 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17594_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19000",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 밑에 자녀들 그리고 본인 둘 해 가지고 전부 다 그냥 지역가입자 세대별로 부과한다는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.423,
+                "end": 6.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이거 어떻게 줄이는 지는 뒤에 나오죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.091,
+                "end": 8.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 좀 기다려 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.651,
+                "end": 10.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피부양자 아까 말씀드렸던 대로 직장가입자가 후원이나 협찬에 의해서 살아가는 캐릭터라고 생각하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.743,
+                "end": 20.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.576,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "지역가입자 보험료를 줄이는 방법은 뒤에 나올 예정이며 피부양자는 직장가입자의 후원에 의해 살아가는 캐릭터라고 생각하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

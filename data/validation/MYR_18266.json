@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18266",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취득하는 시점에 취득세율이 결정이 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 나중에 이 분양권이 완공이 되는데 그때 A와 B를 요 사이에 처분을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.972,
+                "end": 18.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처분을 한다하더라도 이미 이 시점에 결정이 났기 때문에 완공될 때는 만약에 분양권이",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.143,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "분양권을 취득하면서 기존에 가지고 있던 주택을 처분하는 과정에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

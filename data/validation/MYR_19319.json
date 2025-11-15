@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19319",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.121,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 내용은 아시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3주택자 최고세율을 절반으로 인하시키는 거 아 그러니까 12퍼센트 인 경우는 6퍼센트 8퍼센트는 4퍼센트로 내리는 거 그리고 이제 날짜는 언제입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.074,
+                "end": 11.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2022년 12월 21일 이후에 잔금 한 거에 대해서는 소급해서 적용 하겠다라고 했는데 지금 그 부분에 있어서 진행이 안되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.499,
+                "end": 22.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면 여러분들 아시는 거처럼 이 세율 같은 경우에는 법에 이렇게 명시가 되어 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.131,
+                "end": 28.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법이 있고 그 밑에 시행령이 그 밑에 시행규칙이 있는데 이 법을 이렇게 바꿔야 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.364,
+                "end": 34.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 법을 바꾸려면 어떻게 해야 되냐면 이 법을 개정하고 입법하는 거는 국회인 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.619,
+                "end": 40.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라 이제 대부분의 민주주의 국가가 그렇지만 우리나라 같은 경우도 3권 분립이 되어 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.595,
+                "end": 45.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입법부 행정부 사법부 이런 식으로 되어 있는데 현대 국가에서는 아무래도 행정부의 역할이 좀 커요 말 그대로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.351,
+                "end": 55.121
+            }
+        ]
+    },
+    "summary": "3주택자 최고 세율 인하는 법을 개정해야 하는 부분이고 국회에서 법을 입법 개정 해 주어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19319_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

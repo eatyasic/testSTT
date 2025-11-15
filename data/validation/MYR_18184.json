@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18184",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.295,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 잘사는 @이름1 이라고 합니다. 반갑습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.753
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 반갑습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.763,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 반갑습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.719,
+                "end": 3.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런데 그 닉네임이 왜 잘 사는 @이름1예요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.660,
+                "end": 7.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 잘 사는 게 웰빙 웰 리빙이에요? 잘 매수한다 그거예요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.428,
+                "end": 12.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이게 잘 사는 이라는 단어를 보면은 정말 많은 의미들이 함축이 되어있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.481,
+                "end": 18.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.741,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "남성이 닉네임에 대해서 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYR_17705",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.817,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보면은 이렇게 파생 상품들을 엄청 팔아 놓은 거 제낀 건데 그 당시에는 뭐 이 사람의 신용도도 안보고 뭐 진짜 예 그 다음부터 다 그냥 대출 그냥 무조건.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "105프로 대출, 110프로 대출 막 이렇게 해주니까 사람들이 그 돈이 남잖아요. 그럼 그걸로 또 집을 사고 이런 식으로 했던건데 사실 요즘 이제 미국 은행을 보면은 이 론을 굉장히 잘 안내줍니다 사실.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.796,
+                "end": 23.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 철저하게 봐요. 신용도도 보고 뭐 한국인이다 외국인이다 그러면 외국에 갖고 있는 자산도 좀 보는 경우들이 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.071,
+                "end": 30.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 미국 같은 경우 그 구매하려는 집의 뭐 타이틀도 잘 살펴보고 하여튼 그런 것들이 모두 다 클리어가 돼야지만 론이 나와요. 그래서 굉장히 뭐 금리가 조금 올랐다고 해도 사람 미국에서는 아직까지 그 버틸 수 있는 그런 체력은 있다. 저는 그렇게 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.316,
+                "end": 47.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다행이네요 그래도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.872,
+                "end": 48.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 그나마 다행입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.573,
+                "end": 49.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 49.564,
+                "end": 50.817
+            }
+        ]
+    },
+    "summary": "화자1은 미국이 예전과는 달리 현재는 대출을 받기가 까다로운 상황이며 금리가 올랐다고 해도 미국은 아직 버틸만 하다고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "metadata": {
+        "filename": "MYR_17610",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 96.496,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어 굉장히 좀 겸손하게 말씀을 해주셨는데 자 자 그런데 어 우리가 이제 오늘 이렇게 어렵게 오셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.769,
+                "end": 9.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.499,
+                "end": 10.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 오셨는데 사실 좀 이게 민감한 질문일 수도 있는데 안 물어볼 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.040,
+                "end": 15.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.694,
+                "end": 16.415
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무래도 이제 부동산 이야기를 좀 물어보고 싶은데 자 요즘 좀 부동산 시장 어떻게 보세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.425,
+                "end": 22.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 뭐 먹방 최근에 계속 대세였으니까 먹는 걸로 조금 비유하면 햄버거 좋아하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.914,
+                "end": 30.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 좋아하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.978,
+                "end": 32.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "햄버거를 이렇게 손을 쫙 눌렀단 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.031,
+                "end": 34.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 한 1년 넘게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.763,
+                "end": 36.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.223,
+                "end": 37.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금리라는 이 압박이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.071,
+                "end": 38.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.582,
+                "end": 39.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 지금도 금리가 높긴 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.440,
+                "end": 41.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 그 압력이 약간 힘이 빠진 느낌?",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.439,
+                "end": 44.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬을 때 이 햄버거는 어떻게 되고 있느냐라는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.825,
+                "end": 48.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 햄버거 안에 뭐 패티 야채 뭐 여러 가지가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.411,
+                "end": 51.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 우리가 이제 여러 부동산 중에서 아파트 제일 아직 많잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.679,
+                "end": 55.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 중 국한시켜서 이야기 해보면 사실 그 압박을 느꼈을 때 그 변화가 매매가 전세가 월세가인데 사실 아파트는 월세가 보다는 매매 전세 두 개잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.480,
+                "end": 66.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 두 개가 이제 힘이 빠졌을 때 기본적으로는 제자리를 와야 될 거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 66.135,
+                "end": 72.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 72.232,
+                "end": 73.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 73.248,
+                "end": 73.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빡 눌렀다가 이렇게 힘을 슥 빼면은 근데 이게 지금 이제 힘을 뺀 상태기 때문에 전국이 동시에 매매가가 다 올라간다거나 그러지 않는 상황이라는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 73.528,
+                "end": 83.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬을 때 어떤 지역은 매매가만 사부작 올라가고 지금 현재 어떤 지역은 매매는 계속 압박인데 전세만 올라가고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 83.947,
+                "end": 93.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 지역은 둘 다 가만히 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 93.206,
+                "end": 96.496
+            }
+        ]
+    },
+    "summary": "한 남성이 부동산 시장에 대해 묻자 다른 남성이 부동산 중 아파트로 국한시켜서 얘기하면 금리 압박이 빠졌을 때 매매와 전세가 제자리를 와야 하지만 그러지 않는 상황이라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

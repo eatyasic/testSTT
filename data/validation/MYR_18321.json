@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYR_18321",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 67.779,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세대 구성 능력을 갖출 수 있는 사람이 세대 분리를 하면은 피할 수는 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 뭐 자녀가 아직 어리다거나 아니면 자녀가 없다거나 그런 경우라면은 세대 분리 자체가 안되기 때문에 그냥 취득세 중과를 맞아야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.654,
+                "end": 12.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가장 좋은 방법은 어짜피 내가 1번, 2번 주택을 매각을 한다면 그 전에 1번, 2번 주택을 매각하시는 게 가장 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.989,
+                "end": 21.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나서 분양권을 취득을 해야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.329,
+                "end": 23.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 아니라면 방금 말씀드린 세대 분리를 해서 자녀 등에게 증여해서 세대 분리를 하셔야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.445,
+                "end": 29.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일단 무조건 사고 나서 나중에 고민하자 이러면은 안 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.350,
+                "end": 33.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.926,
+                "end": 34.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 취득세를 알아봤으니까 이제 비과세, 양도세 부분을 좀 살펴봐야 되는데 내가 가지고 있는 주택이 A 주택입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.867,
+                "end": 43.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나서 분양권을 취득을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.318,
+                "end": 45.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 이제 이미 23년이기 때문에 21년 1월 1일 이후에 취득하는 분양권을 중심으로 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.404,
+                "end": 52.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그 경우에 A 주택을 내가 비과세를 받고 싶다 그러면은 A 주택과 B 분양권의 취득 시점이 1년이라는 텀이 있어야 되고 B 분양권을 취득을 하고 하고 나서 3년 이내에 A를 매도해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.552,
+                "end": 65.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 제가 이걸 갖고 왔냐면 가끔가다가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.066,
+                "end": 67.767
+            }
+        ]
+    },
+    "summary": "남성 화자가 세대 분리를 하면 피할 수 있지만 가장 좋은 방법은 분양권을 취득하기 이전에 1번, 2번 주택을 매각하는 거라고 설명하며 비과세, 양도세 부분의 설명 예시로 넘어가고 내가 A 주택을 가지고 있는 상태에서 B 분양권을 취득할 때 A 주택 비과세를 받고 싶으면 주택과 분양권의 취득 시점이 1년의 텀이 있어야 하고 분양권을 취득하고 나서 3년 이내에 A를 매도해야 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18321_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

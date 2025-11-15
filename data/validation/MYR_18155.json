@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18155",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 어떤 분이 좀 질문을 아예 딱 했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.504,
+                "end": 3.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권리 산정 기준일에 대해서.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.639,
+                "end": 4.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 권리 산정 기준일.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.832,
+                "end": 6.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 이게 뭐 기준이 그때 그때마다 다르니까 어렵다 좀 어떻게 해야 겠니 네 그거 물어보시는데 아니 뭐 그거 포함해서 뭐 한번 좀 말씀 좀 해 주시죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.466,
+                "end": 14.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 조심 이런 거 좀 조심해라 저처럼 이제.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.975,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "권리 산정 기준일에 대해서 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18155_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

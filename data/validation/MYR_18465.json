@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18465",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 거기는 지금 2022년도 가격으로 실거래가 멈춰 있기 때문에 거기는 아직 맞을 매가 남아 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.380,
+                "end": 10.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 혹시 여러분들 실거주하고 계시거나 뭐 이렇게 좀 투자용으로 갖고 계신 분들은 한번",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.246,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "거기는 지금 2022년도 가격으로 실거래가 멈춰 있기 때문에 거기는 아직 맞을 매가 남아 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

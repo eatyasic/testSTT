@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18472",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.082,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 가격으로 회복될 수 있는 가능성이 한 번도 3억 4천이 안 된 아파트보다는 높다라고 보고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 이제 약간 사람 심리가 불안하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.243,
+                "end": 9.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.588,
+                "end": 10.313
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 더 떨어질 수도 있을 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.323,
+                "end": 12.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 집이",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.573,
+                "end": 16.082
+            }
+        ]
+    },
+    "summary": "사람 심리는 집이 더 떨어질 수도 있어서 불안하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18472_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

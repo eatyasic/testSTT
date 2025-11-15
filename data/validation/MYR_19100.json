@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_19100",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 개정이 만약에 됐는데 좀 늦어져서 정기 국회 그러니까 이번에 뭐 임시 국회가 아니라 정시 국회에 가서 좀 아주 뒤늦게 가서 올해 하반기에 만약에 개정이 된다고 했을 때 이렇게 하느냐에 따라서 달라지겠지만 저 소급되는 저 날짜에 대해서 설마 변화는 없겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 법이 정기 국회에 가서 아주 뒤늦게 개정이 된다고 했을 때 소급되는 날짜가 변화가 있을지 궁금하다는 생각을 밝힌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19100_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

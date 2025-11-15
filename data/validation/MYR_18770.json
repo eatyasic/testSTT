@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_18770",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.311,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 책에 있는 거를 이제 좀 가져왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 이제 넷째 마당입니다. 넷째 마당.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.549,
+                "end": 5.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전, 전체 여덟째 마당이 있는데 이 중에 넷째 마당을 보면은 또 다른 보유세, 주택 임대 소득세인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.207,
+                "end": 11.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 이 주택 임대 소득세는 사업 소득이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.134,
+                "end": 13.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업 소득인데 저는 매년 내야 되기 때문에 아 이게 뭐 제3의 보유세 아니냐 이렇게 한 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.790,
+                "end": 19.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법적으로는 보유세로 하면 틀립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.806,
+                "end": 22.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 뭐 그게 뭐가 중요하겠어요. 그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.163,
+                "end": 24.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 우리가 이제 자세한 걸로 제가 좀 다 읽을 순 없고 이거는 이제 제가 보여드리고 싶은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.457,
+                "end": 30.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 말씀드린 것처럼 우리가 이제 임대 사업이라고 한다면 일반 임대가 있고 주택 임대가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.950,
+                "end": 37.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 일반 임대는 우리가 흔히 말하는 상가, 건물주 이런 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.555,
+                "end": 42.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여긴 전부 다 등록이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.760,
+                "end": 45.311
+            }
+        ]
+    },
+    "summary": "주택 임대 소득세는 사업 소득에 속하고 일반 임대와 주택 임대가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

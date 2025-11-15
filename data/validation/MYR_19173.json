@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19173",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.6,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년 이상 보유했을 때 양도세 세율하고도 똑같죠 6에서 45퍼센트인데 과표 8800만 원 이하 구간이 약간 바뀌었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기가 이제 1200이었는데 1400 그리고 그래서 그리고 이제 1400에서 오천 원래 사천육백이었는데 5천 그래가지고 구간이 약간 약간 늘어났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.499,
+                "end": 20.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 6 15 24 세율은 똑같은데 조금 더 1200이 아니라 1400 4600이 아니라 5천 이렇게 늘어났기 때문에 실제 양도세 계산해보면 그리고 종합소득세 계산해보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.669,
+                "end": 32.599
+            }
+        ]
+    },
+    "summary": "양도세 세율이 2년 이상 보유했을 때 약간씩 늘어났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19173_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

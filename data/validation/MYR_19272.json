@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19272",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법인세는 법인 형태로 사업을 영위할 때 대표적인 게 주식회사죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 합명, 합자, 유한 그러면 유한 책임 회사인가 저 때는 4개였거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.023,
+                "end": 9.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금은 하나 더 있어서 5개인가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.966,
+                "end": 11.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 이제 보통은 주식회사로 많이 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.947,
+                "end": 14.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 개인 소규모 같은 경우는 유한 회사로 하는 것도 방법이 될 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.669,
+                "end": 18.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 유한 회사는 이렇게 공시할 의무가 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.872,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "보통은 법인을 할 때 주식회사로 많이 하지만 개인 소규모 같은 경우는 유한 회사로 하는 것도 방법이 될 수 있다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

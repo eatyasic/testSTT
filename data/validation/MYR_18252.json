@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18252",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 가로주택 소규모 재개발 재건축같은 그런 정비사업인데 노후 주택 도시 재건축 재개발 등을 통해서 주택 공급이 원활하게 이루어질 수 있도록 하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 뭐 재초환법 개정안으로 조속 입법을 하고 이 또 재맸는게 나왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.727,
+                "end": 15.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정비사업 어 시행 운영에 대해서 신탁사 특례를 허용해서 정비사업 소요기간을 기존 조합방식 대비 2에서 3년 이상 단축 유도하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.660,
+                "end": 25.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이제 보통의 기존의 조합방식으로라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.543,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "정비사업에 대해서 설명을 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

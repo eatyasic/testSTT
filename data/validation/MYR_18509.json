@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18509",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 종부세 합산배제 같은 경우에는 지금 등록하면 10년 의무 임대 가져가야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간에 5퍼센트만 올릴 수가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.508,
+                "end": 7.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재계약할 때마다 게다가 부기등기 보증 보험 각종 어 공적 응상을 다 지켜야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.368,
+                "end": 13.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 마지막 양도세 중과배제가 있는데 종부세 합산배제 내용하고 거의 똑같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.346,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "종부세 합산배제 같은 경우 지금 등록하면 10년 의무 임대 가져가야 하는데 중간에 5퍼센트만 올릴 수 있고 재계약할 때마다 부기등기 보증 보험 각종 응상을 다 지켜야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

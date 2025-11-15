@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19307",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.263,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 대표이사 급여는 최저임금 수준으로라도 최저라도 월 200 정도 되겠죠 비용 처리하도록 하는 게 유리하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 소규모 법인 1인 법인이 최근 5년 이내에 설립된 법인이라면 청년 창업 중소기업 세액감면 아 제가 청년이 아니라서 이걸 신청 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.856,
+                "end": 18.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 한 거 아닙니까 청년 만 39세인데 진짜 그거 넘어 가지고 나도 청년 좀 해주지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.745,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "소규모 법인 1인 법인은 만 39세 이하 청년인 경우에는 세액 감면을 받을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

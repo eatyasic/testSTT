@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19356",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.299,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 이제 돈이 없었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 항상 수험생들은 돈이 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.280,
+                "end": 3.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 돈이 없는데 이제 친한 친구가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.687,
+                "end": 7.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "친한 친구한테 나 공부하고 싶다 하니까 그러면 나 살고 있는 집 내놓고 너랑 내가 같이 살 집 알아볼게 이래서 너 공부해라 이렇게 지원을 해 줬거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.319,
+                "end": 18.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "친구가요 부모님도 아닌데 완전 그런 친구는 진짜 없는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.017,
+                "end": 24.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그때 술을 진탕 마시고 아침에 일어나니까 어 @이름1 나 집 내놨어 이러더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.770,
+                "end": 33.299
+            }
+        ]
+    },
+    "summary": "한 남자가 공부 하려고 할 때 친구가 도와줬던 에피소드를 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17867",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 사람의 또는 그 상황의 장점들을 좀 뽑아낼 수 있는 연습을 좀 계속해 보시는 게 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기는 뒤로 물러서고 상대방을 돋보이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.214,
+                "end": 7.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 상대들을 돋보이게 해서 양쪽 분들이 서로가 서로를 마음에 들게끔 그렇게 해줘야지 되는 건데 예를 들면 간단하게 예를 하나 들면 이런 게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.289,
+                "end": 15.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대차에서 간단하게 예를 들면 우리가 중개를 하다 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.979,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "사람의 장점들을 뽑아낼 수 있는 연습하고 상대방을 돋보이게 해서 양쪽 이 서로가 마음에 들게끔 해줘야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

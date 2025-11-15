@@ -1,0 +1,277 @@
+{
+    "metadata": {
+        "filename": "MYR_18041",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.508,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "없더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.654,
+                "end": 1.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "없더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.266,
+                "end": 1.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없더 그러면 부사님이 어때요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.546,
+                "end": 3.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄청 황당하겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.342,
+                "end": 4.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔지 알겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.947,
+                "end": 5.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.342,
+                "end": 5.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔지 알겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.744,
+                "end": 6.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 것 같았어 내가 그 사람이야 이러면 평판이 그렇다는 거 아니라고 그럴 분이 절대 아니라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.643,
+                "end": 13.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정확해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.127,
+                "end": 13.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거야 그거 그거",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.782,
+                "end": 14.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔지 알겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.776,
+                "end": 15.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 여러분들이 그냥 절대 지어내도 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.436,
+                "end": 18.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 부사님이 아니 그런 말도 안 되는 거 어디서 들으셨어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.086,
+                "end": 21.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 그냥 머리 긁적이면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.199,
+                "end": 22.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제가 죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.523,
+                "end": 23.504
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.514,
+                "end": 24.039
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘못 알았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.049,
+                "end": 25.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 또 괜히 발 없는 말이 천리 간다고 어쨌든 너무 남용하신 마시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.154,
+                "end": 30.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.866,
+                "end": 31.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그 반응을 보라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.260,
+                "end": 33.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반응을 보라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.071,
+                "end": 34.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "200억 횡령이 중요한 게 아니고 반응을 보면 알 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.087,
+                "end": 37.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 뭔가 계속 어 뭔지 알 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.849,
+                "end": 40.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 식으로 해서 이제 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.464,
+                "end": 41.508
+            }
+        ]
+    },
+    "summary": "화자가 부사님의 반응을 주시하라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

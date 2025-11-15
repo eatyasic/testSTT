@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18874",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.32,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이런 식으로 그 매장 단위로 접근을 해보면 가장 비싼 매장은 인천 남동구에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그니까 아까 본 거는 평당으로 본거고 지금은 이제 매장으로 봤는데 매장 단위로 봤을 땐 인천 남동구가 제일 비싸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.424,
+                "end": 14.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼 얼 얼마죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.359,
+                "end": 15.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매장 당 한 3억 6100만 원 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.643,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "화자1은 매장 단위로 접근을 해보면 가장 비싼 매장은 인천 남동구이고 매장 당 3억 6100만 원 정도 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

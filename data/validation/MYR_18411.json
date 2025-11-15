@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18411",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하나 치고 그러면은 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "송파 하나 넣어주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.456,
+                "end": 5.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 송파요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.596,
+                "end": 6.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 강남을 넣어가지고 송파 시옷",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.896,
+                "end": 11.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "니면 마포 아니면",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.136,
+                "end": 13.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 송파",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.430,
+                "end": 15.276
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 추가",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.286,
+                "end": 17.069
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.079,
+                "end": 17.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 잠실을 넣어야지 강남이랑 비슷한데 송파를 넣었더니 조금 떨어졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.799,
+                "end": 23.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 은평구를 좀 하나 넣습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.048,
+                "end": 25.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 되면은 우리가 급지가 있다라고 얘기를 했을 때 어떤 무지개떡처럼 무지개",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.698,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "급지 찾기에 송파와 은평구 강남을 넣었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18411_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

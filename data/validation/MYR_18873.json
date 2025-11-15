@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18873",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.501,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 설명이 되어 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 근데 이건 책을 좀 자세히 참고해보시면 좋을 것 같고, 이를 바탕으로 해서 임대인이 얼마를, 그리고 보증금 얼마를 받아서 월세를 얼마를 받냐가 중요한 포인트잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.368,
+                "end": 12.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "산출해봤더니 전국 평균 보증금이 2억 6400만 원이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.204,
+                "end": 15.999
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2억 6400만 원, 평균적인 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.009,
+                "end": 18.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 쫌 지역 별로 편차가 크긴 한데 자세한 내용은 책을 보면 나오거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.784,
+                "end": 22.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표적으로 제곱미터당 가장 비싼 지역은 예상하셨겠지만 서울 서초구",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.843,
+                "end": 28.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울에서도 서초구",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.030,
+                "end": 29.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제곱미터당 하면 121만 원이고 평당 400만 원 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.268,
+                "end": 34.501
+            }
+        ]
+    },
+    "summary": "화자1은 임대인이 보증금 얼마를 받아서 월세를 얼마 받느냐가 중요한 포인트고 산출한 결과 평균 보증금이 2억 6400만 원이라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18873_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

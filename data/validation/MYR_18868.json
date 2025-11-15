@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18868",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 61.028,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이 우리가 주변에 스타벅스가 있어서 가는 게 아니라 가려고 있는 데를 만드는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.598
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 제가 이런 질문을 했냐면 저도 이제 자주는 아닌데 일주일에 한 번씩은 드라이브 하면서 바람 쐬고 싶을 때가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.608,
+                "end": 15.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.186,
+                "end": 15.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 목적 없이 가면 재미가 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.661,
+                "end": 18.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 뭐 갈 때 마다 뭐 제가 무슨 뭐 비싼 음식을 사 먹을 수도 없고, 매번 밥 먹으러 갈 수도 없고 근데 그냥 가서 커피 한 잔 하고 싶은 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.129,
+                "end": 27.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요, 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.567,
+                "end": 28.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 옆에 뭐 아무것도 없으면 어때요 그냥.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.399,
+                "end": 30.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면 오히려 아무것도 없고 차라리 주차만 저는 잘되면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.581,
+                "end": 34.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주차만 잘되면 되고 좀 가끔 한적하고 산이나 강, 아니면 바다 이런 게 보이면 저는 될 것 같은데 그런 게 좀 더 늘어나지 않을까 좀 그런 생각이 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.282,
+                "end": 45.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 뭐 예를 들면은 디티는 아닌데, 가장 최근에 생긴 되게 핫 플레이스죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.673,
+                "end": 50.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 북한산 점 같은 경우에도 디티 형식은 아니지만 결국에는 데스티네이션 매장으로서 고객들을 유치하는 그런",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.551,
+                "end": 61.028
+            }
+        ]
+    },
+    "summary": "화자2는 자신이 일주일에 한 번씩은 드라이브 하면서 바람쐬고 싶을 때그냥 커피 한 잔 하고 싶은 건데 주변에 아무것도 없어도 되고 주차만 잘되면 된다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

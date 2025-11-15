@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17597",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "압도적인 시간",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "압도적인 시간",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.956,
+                "end": 2.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찔끔찔끔의 시간이 아니라 그래서 저도 항상 그렇지만 시간 투입 많이 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.101,
+                "end": 7.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그때 그저께인가 휴일 뭐 광복절이었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.699,
+                "end": 12.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 때 제가 오후 점심 먹고 1시에 출발 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.459,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "다른 방향을 가겠다고 했을 때 무턱대고 일단 앞만 본다면 그 궤도를 벗어 날 수 없으니 방향 설정이 중요하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17597_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

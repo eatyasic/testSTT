@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18929",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 수도권 상승장이 있었고 그 상승장에서 인제 여러분들이 양도차액을 가져 와야 되는데 내가 그래서 가져 와야 되는 경우도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 가족 등에게 증여를 해 가지고 그걸 물려줄 수도 있고 그렇단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.182,
+                "end": 12.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금은 어떤 새로운 걸 투자해 가지고 새로운 어떤 수익을 내는 것도 중요하지만 그거보다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.537,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "상승장에서 내가 양도차액을 가지고 오거나 가족에게 증여를 하는 경우가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

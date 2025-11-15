@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19475",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "종전 주택에서 거주하시는 분들이 그 종전 주택을 양도하고 이사오는 게 사실은 조금 일반적이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.439,
+                "end": 8.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 3년으로 취지상으로도 3년으로 미루는 게 맞지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.315,
+                "end": 12.585
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 근데 좀 찜찜한 게 이런 거예요 여기 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.595,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "종전 주택에을 양도 하고 이사오는 게 일반적이라 취지상으로도 3년으로 미루는 게 맞는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19475_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

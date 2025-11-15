@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18900",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쫍아도 사고의 틀을 확장하면 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 뭐 멘트 하나 여기다 뭐 쓰셔야되는 거 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.762,
+                "end": 5.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 방금 너무 좋은 데 이거?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.204,
+                "end": 7.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 쓰면 제가 씁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.028,
+                "end": 8.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "농담이구요 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.921,
+                "end": 10.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 뭐 따른 사례로 접근을 해보면 상대가 당장 없지만 가진 돈이 쪼금, 쪼금이다 하면 또 비슷한 애들끼리 모이는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.863,
+                "end": 20.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.421,
+                "end": 20.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 뭐 예컨대 예전에 취재를 하다 보면 강남이나 서울에 일케",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.828,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "화자1은 좁아도 사고의 틀을 확장하면 좋다는 멘트가 너무 좋아 안 쓰면 자신이 쓴다고 말하며 농담이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

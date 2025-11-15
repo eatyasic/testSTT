@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18645",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜냐하면 이제 원래 이렇게 줄이기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 현행 다주택자에 대한 매매 취득세 중과가 이제 매매 부분만 보시게 되면 2주택자부터 이제 8프로고 그다음 3주택 12프로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.319,
+                "end": 10.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음 비조정대상지역은 3주택은 8프로 그다음에 4주택부터 12프로 그다음에 매매 취득세 중과 완화는 어떻게 하기로 했냐면 2주택자까지는 이제 다주택자의 프레임을 씌우지 말자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.333,
+                "end": 20.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거니까 그래서 여기까지는 일반 세율로 적용을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.076,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "2주택자부터 8프로 3주택자 12프로 비조정대상지역은 3주택 8프로 4주택 12프로 매매 취득세 중과 완화는 2주택자까지는 다주택자의 프레임을 씌우지 말자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18645_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

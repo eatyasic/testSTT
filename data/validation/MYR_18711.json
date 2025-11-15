@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18711",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.441,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 집 마련을 분당에 할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 분당은 서울이랑 마찬가지인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.459,
+                "end": 4.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 진입할 수 있을 때 무조건 자리를 잡고 이제 지켜보는 게 좋은 지역이 분당이라서 내집 마련에 정말 오랫동안 거주를 할 거다라고 하고 지금 자금이 있다라고 하면 저는 내집 마련으로는 분당을 먼 저가는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.064,
+                "end": 17.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 이제 자금이 있다라고 가정했",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.435,
+                "end": 20.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 가정 했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.155,
+                "end": 21.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 근데 이게 만만치가 않은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.020,
+                "end": 23.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 만약에 나는 분당에 너무 가고 싶어 그런 사람도 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.060,
+                "end": 27.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.797,
+                "end": 28.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 뭐 내 집 마련을 하든 투자를 하든 무조건 분당의 하나 깃발 꽂고 싶어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.432,
+                "end": 34.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 사람이 있다라고 하면 집 분당에 5억대 6억대로도 접근할 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.348,
+                "end": 39.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그 차액이?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.941,
+                "end": 41.441
+            }
+        ]
+    },
+    "summary": "내가 진입할 수 있을 때 무조건 자리를 잡고 이제 지켜보는 게 좋은 지역이 분당이라서 내집 마련에 정말 오랫동안 거주를 할 거다라고 하고 지금 자금이 있다라고 하면 내집 마련으로는 자금이 있다라고 가정 했을 때 분당을 선택한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18711_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19369",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.024,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 어 제가 이제 제 입장에서는 다른 두 분의 시각을 제가 읽어 봤잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 대부분 차치하고 이제 감정 평가사님, 세무사님 부분 다 읽어 봤는데 확실히 두 분이 저 하고는 또 이제 다른 시각을 가지고 계세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.132,
+                "end": 15.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저는 가장 인상 깊었던 부분이 그 @이름1 감 감정 평가사님께서 쓰신 부분이 상당히 흥미로웠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.233,
+                "end": 21.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 어떤 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.857,
+                "end": 23.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.190,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "책의 공동 저자 중 1명인 화자1이 @이름1 감정 평가사가 쓴 부분이 흥미로웠다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19369_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

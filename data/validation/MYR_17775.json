@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17775",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 마지 마지막엔 3년 안에 처분하고 전입 요건은 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 3년 됐어요 안됐어요 안됐잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.917,
+                "end": 7.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "24년 2월이니까 아직 한참 남았잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.218,
+                "end": 9.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 전입할 필요 없이 비과세가 가능하고 그러면 마지막 이것만 체크하면 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.722,
+                "end": 14.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이에서 거주했냐 안 했냐 2년 거주.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.925,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "24년 2월까지 전입할 필요 없이 비과세가 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17775_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

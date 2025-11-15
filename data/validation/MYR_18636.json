@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18636",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그 중의 하나가 사람들의 행동을 결정하는 데 있어서 큰 그것 중에 하나가 뭐냐면 바로 세금이 될 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 누구나 자기 호주머니에서 세금 많이 나가는 거 좋아하는 사람 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.977,
+                "end": 14.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.937,
+                "end": 15.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 말씀을 제가 드리고 싶어서 가져왔고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.658,
+                "end": 18.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 지금 여기 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.597,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "사람들의 행동을 결정하는 데 있어 큰 것 중 하나가 세금일 수 있고 누구나 자기 호주머니에서 세금 많이 나가는 거 좋아하는 사람이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18636_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

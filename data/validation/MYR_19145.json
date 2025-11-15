@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19145",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.688,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인 사업자를 할 거냐 법인 사업자를 할 거냐 그것이 문제로다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사느냐 죽느냐 그게 문제다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.303,
+                "end": 11.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그게 아니고 햄릿의 말처럼 그게 아니라 개인 사업자로 할 거냐 법인 사업자를 할 거냐 이것이 문제라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.240,
+                "end": 18.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜 그러냐면 자 예를 들어서 여러분들이 A라는 사업 아이템이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.754,
+                "end": 23.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 사업 아이템을 통해서 물건을 혹은 서비스를 열심히 팔고 매출을 늘으키고 있는데 아마 처음 시작하시기에는 개인 사업자가 훨씬 편하실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.244,
+                "end": 33.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 사업자 등록증 하나 내고 어 개인 사업자의 이름과 내 이름이 똑같기 때문에 결국 동일시돼가지고 통장 관리도 훨씬 편하고 그래서 이제 곧바로 창업을 할 수가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.007,
+                "end": 45.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 처음에는 쉽게 일단 스타트하기가 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.944,
+                "end": 50.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 매출이 점점 늘어나잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.365,
+                "end": 52.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 개인은 특히 뭐가 문제냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.274,
+                "end": 55.688
+            }
+        ]
+    },
+    "summary": "개인 사업자의 장점은 개인 사업자의 이름과 내 이름이 똑같기 때문에 통장 관리도 편하고 곧바로 창업을 할 수가 있다는 점이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

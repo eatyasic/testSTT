@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18610",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국토부 실거래가 공개 시스템에 따르면은 한 달 동안 약 11건이 거래됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전용 84기준으로 10억 3500에서 11억 6600 자 이걸 딱 보고 어떤 느낌이 들어야 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.781,
+                "end": 11.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전용 84니까 우리가 흔히 말하는 평형으로는 얼마라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.727,
+                "end": 16.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30평 뭐 32평 34평 그거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.886,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "전용 84를 평형으로 하면 30평 32평 34평이고 국토부 실거래가 공개 시스템에 따르면 한 달 동안 10억 3500에서 11억 6600으로 11건이 거래됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

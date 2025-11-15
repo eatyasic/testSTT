@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17670",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.632,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투자를 또 다양하게 하고 계시지만 또 눈을 좀 돌려서 좀 세계적으로 좀 뻗어나가시는 @이름1 채널도 세계적으로 뻗어나가시고 채널 구독자분들도 뻗어나가실 수 있는 그런 시간이 되었으면 좋겠구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지오플랜도 많이 관심 가져 주시고 앞으로 자주 불러주시면 또 좋은 얘기 하러 많이 나오겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.604,
+                "end": 19.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.452,
+                "end": 20.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.221,
+                "end": 21.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 오늘 소중한 말씀해 주신 지오플랜 대표님께 다시 한번 감사 말씀드리구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.517,
+                "end": 26.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 여러분들 공부 열심히 하시고 좋은 기회에 또 뵈면 좋겠습니다. 오늘 대표님 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.538,
+                "end": 31.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.294,
+                "end": 32.632
+            }
+        ]
+    },
+    "summary": "한 남성이 채널이나 구독자 모두 세계적으로 뻗어나가길 바란다고 말하고 다른 남성은 오늘 감사했다고 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17670_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

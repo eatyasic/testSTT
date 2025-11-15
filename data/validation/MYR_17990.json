@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17990",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 자연 과학이 아니니까 1 더하기 1 딱 하면은 2가 나오고 에이치투 하고 오가 하면은 에이치투오 물이 나오고 이런 게 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자연 과학이 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.562,
+                "end": 8.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사회 과학이기 때문에 이거를 결정하시는 어떤 정책 입안자 입장에서는 아무래도 정치적인 거를 고려할 수 밖에 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.640,
+                "end": 16.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러면은 부 만약에 부담이 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.847,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "이게 자연 과학이 아니라 사회 과학이기 때문에 정책 입안자 입장에서는 정치적인 거를 고려할 수 밖에 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17990_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

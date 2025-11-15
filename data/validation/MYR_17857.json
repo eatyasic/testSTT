@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17857",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.307,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데요 증축의 범위가 써있지 않은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래? 그래서 이제 건축사 찾아간 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.072,
+                "end": 7.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬더니 증축은 기술만 있으면 옆으로 얼마든지 확대 시킬 수 있고 할 수 있다는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.197,
+                "end": 12.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 제한이 없었네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.787,
+                "end": 14.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 없어요 그게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.197,
+                "end": 15.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다 녹음을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.516,
+                "end": 16.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제한이 없네요 제한이 없습니다 다 녹음까지 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.929,
+                "end": 20.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 결국 거기서 제가 43억인가 입찰을 해서 바로 100억을 105억을 받았거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.908,
+                "end": 28.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 진짜 사람이 어떤 호기심을 갖기 시작해서 파고들면 주인이 20년을 그걸 갖고 있었어 땅을 주인도 몰랐던 거를 우리가 찾아내서 105억을 만들었던 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.188,
+                "end": 41.307
+            }
+        ]
+    },
+    "summary": "건축사를 찾아가 옆으로 증축할 수 있는 것을 확인하고 입찰을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17709",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔 시장 회복이 더딘 가운데 미분양 물량을 소진하기 위해서 정보를 왜곡하는 불완전 판매가 적지 않다. 불완전 판매는 뭐냐면 보통 이제 금융 상품에서도 많이 있는데 소위 말해서 제대로 설명 안 하고 팔았다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 것만 부각해가지고 이게 나중에 굉장히 좀 문제가 될 수가 있어요. 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.177,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "화자는 금융 상품 판매 과정에서도 많이 발생하는 불완전 판매에 대하여 이야기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

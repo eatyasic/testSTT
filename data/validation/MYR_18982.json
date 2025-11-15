@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18982",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.154,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기에서 지역가입자의 피부양자는 없는 개념이니까 이 부분은 좀 알고 지내셔야 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그러니까 가끔가다 헷갈리는 분이 계시더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.909,
+                "end": 9.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역가입자의 피부양자가 있으니까 건보료 안 내는 피부양자 되는 거 아니냐 맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.500,
+                "end": 15.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇지만 그거 아니라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.690,
+                "end": 17.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.700,
+                "end": 18.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피부양자는 저기 그림에 잘 나와 있는 것처럼",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.209,
+                "end": 21.154
+            }
+        ]
+    },
+    "summary": "지역가입자의 피부양자는 헷갈리는 사람들도 많지만 없는 개념이니 이점을 숙지해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18982_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

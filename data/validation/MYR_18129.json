@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18129",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음날 발표해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 뉴타운 지정됐으니까 재개발할 거야 그러다 보니까 그 거기에 있는 주민들이랑 사전 교감이 전혀 없는 상태에서 발표를 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.028,
+                "end": 10.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 네 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.164,
+                "end": 11.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 막 반대하고 싸우고 어 내 땅 왜 빼서 가냐 그래서 여러분들 잘 보시면 1. 2. 3차 뉴타운 중에 지금 20년이 지금 지난 지금까지 아파트가 된 곳이 많지가 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.287,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "화자가 1. 2. 3차 뉴타운에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

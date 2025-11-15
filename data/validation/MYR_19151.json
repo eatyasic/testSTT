@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19151",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.161,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인 소득세의 줄임말이라고 했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이자 배당 사업 근로 연금 기타 이런 게 있고 양도 퇴직 이렇게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.169,
+                "end": 15.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 이거를 따로 했냐면 양도소득세하고 퇴직소득세는 약간 좀 분류해가지고 따로 과세하기 때문에 분류 과세라고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.348,
+                "end": 23.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 여섯 가지를 다 더해버리는 거를",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.698,
+                "end": 28.161
+            }
+        ]
+    },
+    "summary": "양도 소득세와 퇴직 소득세는 따로 과세하기 때문에 분류 과세라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

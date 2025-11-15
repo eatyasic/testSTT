@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17603",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.981,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희 많은 이야기 나눴는데 어 또 기회 되면 모실 수 있도록 하고요. 마지막으로 마무리",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 창과 방패라고 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.969,
+                "end": 8.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.571,
+                "end": 9.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 버는 것도 중요한데 사실 절세도 중요하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.421,
+                "end": 12.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.917,
+                "end": 13.288
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절세의 신 @계정1 저를 또 초대해 주셔서 너무 감사하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.298,
+                "end": 18.394
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 오늘 또 뭐 이런저런 이야기 많이 하긴 했는데 저도 그냥 뭐 1년에 1개 타이트하면 분기에 1개 그 정도만 새로운 거 하나 해보자 그 정도 목표만 세우거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.404,
+                "end": 30.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영상 보시는 분들도 너무 그렇게 깊은 고민 하지 말고 지금 할 수 있는 걸 하나씩 하나씩 해 나가시는 시간 가지면 어떨까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.330,
+                "end": 39.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.242,
+                "end": 39.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 초대해 주셔서 너무 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.888,
+                "end": 41.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 고맙습니다 @계정2님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.311,
+                "end": 47.981
+            }
+        ]
+    },
+    "summary": "전문가와 진행자가 마무리 짓는 인사를 하며 전문가는 영상 시청자에게 너무 깊은 고민 하지 마시고 현재 할 수 있는 걸 하나씩 하기를 조언 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

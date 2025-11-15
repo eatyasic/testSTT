@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19149",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공인중개사나 세무사 시험 보신 분들 아실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 법인 사업자는 이런 거 구분하지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.465,
+                "end": 5.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이자가 됐든 배당이 됐든 근로가 됐든 사업이 됐든 다 필요 없고 그냥 모두 다 법인세로 때려넣어버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.904,
+                "end": 12.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 조금 어려운 말로 이 개인 종합소득세를 열거주의라고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.363,
+                "end": 17.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법에서 딱 정해져 있는 걸로 구분해가지고 탁탁탁 하는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.962,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "법인 사업자는 구분 없이 열거주의로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19149_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

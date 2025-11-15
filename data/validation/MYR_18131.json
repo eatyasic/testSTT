@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_18131",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그랬는데 이제 그때는 @이름1 서울 시장이 정치 초보 시절이었죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그렇게 막 주민들이 싸우고 갈등이 일어나서 사업이 잘 진척이 안 되는 거를 이제 보다 보니까 이번에 완전히 바뀐 게 바텀업이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.660,
+                "end": 14.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 아무리 노후되더라도 네 주민들이 원하지 않으면 안 해줘요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.936,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "주민들이 싸우고 원하지 않으면 아무리 노후되더라도 안 해준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18667",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.596,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "9000만 원이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 또 계산해줘야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.708,
+                "end": 2.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공시 가격이 9000만 원이면 9000 나누기 0 점 69면은 대략 시세 1 점 3억입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.101,
+                "end": 9.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 공시가격이 2억 4000이니까 2억 4000 나누기 0 점 69 하면은 이게 이제 3억 4000 정도 어 그런데 이제 아까 43 44 45 그 남은 거는 공시가격 기준이였죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.266,
+                "end": 23.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으 그래서 공시가격 기준으로 3억까지가 4억 아 43 프로니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.762,
+                "end": 29.596
+            }
+        ]
+    },
+    "summary": "공시 가격이 9000만 원이면 9000 나누기 0 점 69면은 대략 시세 1 점 3억이고 공시가격이 2억 4000이니까 2억 4000 나누기 0 점 69 하면은 이게 이제 3억 4000 정도이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18667_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

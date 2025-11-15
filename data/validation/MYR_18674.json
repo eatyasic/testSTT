@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18674",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.339,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부류가 부류가 되겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해는 집값 하락으로 공시가격이 가격이 역대 최대인 18 퍼센트가 떨어져서 실제 납세자들이 체감하는 재산제 감소 효과는 더 클 전망이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.520,
+                "end": 11.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 행안부는 올해 1주택자가 평균 7만 2000원의 재산세 감면 혜택 볼 것으로 예상했고 평균 7만 2000원 또 계획대로 공정시장가액비율이 낮아지면 납세자의 재산세 부담은 전년 대비 8 점 9에서 47 프로 줄어들 것으로 봤는데 다시 말씀드리지만 이 공정시장 어 가액비율은 정부가 시행령 개정으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.181,
+                "end": 33.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곧 바로 할 수가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.034,
+                "end": 36.336
+            }
+        ]
+    },
+    "summary": "공정시장가액비율이 낮아지면 납세자의 재산세 부담은 전년 대비 8 점 9에서 47 프로 줄어들 것으로 봤는데 다시 이 공정시장 어 가액비율은 정부가 시행령 개정으로 곧 바로 할 수가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18674_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

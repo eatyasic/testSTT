@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17669",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.118,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희가 하여튼 @이름1 채널 구독자 여러분들 부동산에 이미 관심도 많이 갖고 계시고 특히 절세 쪽에 또 관심 많으시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 미국 부동산도 어떻게 보면은 큰 흐름에서는 절세의 한 방법이라고도 볼 수 있거든요. 그래서 한국에",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.109,
+                "end": 18.118
+            }
+        ]
+    },
+    "summary": "남성은 구독자들이 부동산과 절세에 관심이 많은데 미국 부동산도 어떻게 보면 절세의 한 방법이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17669_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYR_19383",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.663,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 이제 2018년 구일삼 대책이라고 하죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때부터 주택 임대 사업자에 대해서 혜택이 어 줄어들기 시작을 했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.061,
+                "end": 15.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 좀 상대적으로 음 좀 이쪽은 혜택이 좀 어느 정도 있었는데 이쪽은 혜택이 그렇게 많이 좀 없다 어 지금 이런 내용이거든요 이해되시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.773,
+                "end": 30.663
+            }
+        ]
+    },
+    "summary": "2018년 9월 13일부터 주택 임대 사업자에 대해 혜택이 줄기 시작을 해서 9월 13일 기준으로 받은 혜택이 차이가 난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19383_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

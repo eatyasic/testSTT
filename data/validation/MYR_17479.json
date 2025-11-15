@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17479",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거치는 과정이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.133,
+                "end": 1.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기정 기성세대들도 다 그렇게 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.640,
+                "end": 4.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 어떻게 보면은 어 내가 그냥 어 젊음의 과정에서 하나의 그걸 싸게 또 경험한 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.200,
+                "end": 13.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 그래서 충분히 저는 어 그게 아마 면역 주사가",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.648,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "남성은 젊은 이들이 모두 거치는 과정이고 기성 세대들도 다 그렇게 했고 충분히 면역 주사가 되었을 거라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17479_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

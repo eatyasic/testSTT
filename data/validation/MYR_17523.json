@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17523",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.396,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방향을 트는 어떻게 보면은 어 포인트가 될 수 있다고 이렇게 볼 수 있는데 실제로 제가 서울 아파트 실거래가가 작년 12월이라고 그랬잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 서울 아파트 어 외지인 비율 그니까 서울에 안 사는 다른 사람 경기 인천 뭐 이런 지방 분들이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.375,
+                "end": 20.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 역대 가장 높았을 때가 36프로에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.166,
+                "end": 22.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "36프로",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.900,
+                "end": 24.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역대 평균이 얼마나 2006년부터 나오는데요 18점 7프로입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.049,
+                "end": 29.396
+            }
+        ]
+    },
+    "summary": "박사는 작년 12월 아파트 실거래가가 가장 높았을 때 36프로로 외지인 비율도 이때 가장 높았다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17523_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

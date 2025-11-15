@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17731",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.318,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취사시설있고 화장실 있고 다 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 쾌적하고 좋다 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.958,
+                "end": 4.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 여기서 맹세컨대 단 하루도 자본적이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.750,
+                "end": 8.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 혹시 우리 임대인한테 피해를 주면 안 되기 때문에 어 전기, 수도 뭐 그런 것 전부 다 업무용으로 다 바꿔버렸어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.531,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "화자는 여기서 하루도 자본적이 없고 임대인에게 피해를 주지 않기 위해서 전기, 수도 등을 모두 업무용으로 변경했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17731_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

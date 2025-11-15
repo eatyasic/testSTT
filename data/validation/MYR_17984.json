@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17984",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이제 여러분들 많이 질문하는 게 뭐냐면 저 다주택이라서 중과 맞는 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.663,
+                "end": 5.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정 대상 지역이라서 중과 받는 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.767,
+                "end": 8.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 그럴 그럴 수 있는데 다주택 아니면 또 피할 수 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.115,
+                "end": 10.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 오히려 더 조심해야 되는 게 뭐냐면 2년 미만 단기 양도세율 그걸 오히려 더 조심해야 된다 에 저는 그 말씀을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.958,
+                "end": 19.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 어 분양권 같은 경우에는 2년 넘어도 중과예요 중과.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.370,
+                "end": 23.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "60프로 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.937,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "다주택이거나 조정 대상 지역이라서 중과 대상일지 조심하는 것 보다 2년 미만 단기 양도세율을 더 조심해야 하고 분양권의 경우에는 2년이 지나도 60퍼센트 중과 되기 때문에 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

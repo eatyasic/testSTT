@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18416",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.141,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 것도 어느 정도만 공부하면은 다 할 수 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아 내가 현재 좋은 어 아파트를 살 건지 아니면 앞으로 미래 가치가 그것도 가설을 세우는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.440,
+                "end": 12.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장단점이 다 있을 텐데 얘의 장점과 얘의 장점이 있고 단점이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.584,
+                "end": 18.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 내가 어떤 이유가 있어서 이렇게 비교를 해서 선택을 했다면 어 저 아파트가 좀 더 올라도 너무 배 아파하지 말자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.960,
+                "end": 29.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국은 우리가 이제 행복하려고 투자를 하는 거니까 저는 제 생각을 이제 썼는데 이런 책을 쓰신 분이 또 있는지는 모르겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.572,
+                "end": 41.141
+            }
+        ]
+    },
+    "summary": "장단점이 있으니 비교를 해서 선택을 했다면 너무 배 아파하지 말자.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

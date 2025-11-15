@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17605",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.07,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 촬영 해서 좀 쪼개서 올리다 보니까 컨텐츠 뭐 4개 5개 올리면은 매일매일 올라 가기도 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 유튜브 초창기 했을 때 1일 1영상 했었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.181,
+                "end": 9.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.461,
+                "end": 9.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 지금 뭐 그거 보다 더 많이 올리시는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.682,
+                "end": 11.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이제 쪼끔 쉬엄쉬엄 올리려고 좀 노력 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.964,
+                "end": 14.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그 외에 좀 다른 뭐 근황이라든지",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.622,
+                "end": 16.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.634,
+                "end": 17.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 사실 저희 채널은 처음 오셨다고 하셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.320,
+                "end": 19.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.901,
+                "end": 20.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 이런 제가 개인적으로 렘군님을 알고는 있지만 또 이제 오랜만에 보신 분들도 계실거기 때문에 그 외에 다른 근황이라든지 요즘 관심사 이런 것 좀 말씀 해주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.590,
+                "end": 29.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 조금 생활이 좀 심플 해서 그냥 투자 활동 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.102,
+                "end": 32.108
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.118,
+                "end": 32.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 투자 하다가 좋은 게 보이면 야 이거 또 알려 줘야 되겠다 뭐 교육 활동 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.601,
+                "end": 36.522
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.532,
+                "end": 37.070
+            }
+        ]
+    },
+    "summary": "진행자가 전문가에게 요즘 유튜브 활동이 활발하다고 이야기 하며 다른 근황은 없는지 물어 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

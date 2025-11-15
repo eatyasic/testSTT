@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18385",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.879,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얼마나 많은 공부를 하셨을까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는요 부린이들이 주로 질문을 많이 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.460,
+                "end": 7.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래가지고 말도 안 되는 것도 몰라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.266,
+                "end": 10.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그분들이 실수하지 않고 좀 첫발을 들였으면 하는 마음으로 이책을 썼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.815,
+                "end": 17.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분명히 도움되시는 분이 있을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.989,
+                "end": 20.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어 정말 말씀하시는 것처럼 부린이분들이 봤을 때 좀 이렇게 잘 차려진 뷔페처럼 된 책이니까 한번 참고해 보시면 좋을 것 같고 앞으로도 채널에 올라간 영상도 기대가 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.654,
+                "end": 35.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.146,
+                "end": 37.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 오늘 귀한 시간 내주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.540,
+                "end": 41.167
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 뵙도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.177,
+                "end": 42.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.580,
+                "end": 43.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.941,
+                "end": 45.879
+            }
+        ]
+    },
+    "summary": "여성 화자가 부린이 들이 주로 질문을 많이 하는데 그분들이 실수하지 않고 첫발을 들였으면 하는 마음으로 책을 썼다고 말하고 남성 화자는 잘 차려진 뷔페 같은 책이니까 참고해 보면 좋을 것 같다고 말하며 마무리 인사를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

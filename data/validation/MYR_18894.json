@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18894",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.441,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 또 다 찾으셨네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 이제 특히 이 책에서 또 저는 좋았던 게 뭐냐면 연령 별로 약간 좀 스타벅스를 유치하기 위한 전략도 이제 쫌 구분을 해주셨더라구요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.496,
+                "end": 10.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 이제 뭐 나이가 그렇다 보니까 예 어떻게 우리 중장년층, 40대 이상 이 분들이 아 내가 쫌 이 책도 쫌 참고해 가지고 스타벅스를 한 번 유치해보고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.973,
+                "end": 23.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이러신 분들은 쫌 어떤 전략이 필요할까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.897,
+                "end": 25.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 좀 한 번 핵심만 좀 말씀해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.715,
+                "end": 28.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 제가 뭐 조언을 드리기 보다는 실제로 매장를 어떻게 성공을 유치를 했는지 사례를 또 한 번 살펴보는 것도 참고가 될 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.574,
+                "end": 36.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 지금 당장 자본력이 뒷받침 된다면 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.422,
+                "end": 40.441
+            }
+        ]
+    },
+    "summary": "화자1은 화자2에게 중장년층, 40대 이상의 분들이 스타벅스를 유치하는데 어떤 전략이 필요한지 핵심을 말해달라고 하자 화자2는 자신이 조언을 하기보다는 실제로 매장을 유치한 사례를 살펴보는 것이 참고가 될 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18894_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

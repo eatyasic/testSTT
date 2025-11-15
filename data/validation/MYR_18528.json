@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18528",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.151,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 서울에 강남은 투자가 워낙 많이 들어가고 들어가다 보니까 패스를 하고 뭐 동작구든 사당이든 아니면 송파 약간 약간 외곽 쪽으로 이렇게 보시는 분들도 좀 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 강동구 쪽이나 용산도 좀 보고 있는데 용산은 이제 과이 그 아직 규제 지역에 묶여 있다 보니까 그래서 약간 규제 지역에 약간 비켜가는 어 강동구나 동작구 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.923,
+                "end": 21.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 아니면 성동구도 전 나쁘지 않다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.345,
+                "end": 23.408
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.418,
+                "end": 24.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 특히 이제 경기 남부 라인",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.564,
+                "end": 26.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸. 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.155,
+                "end": 26.954
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광교 판교 분당 뭐 이런 데",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.964,
+                "end": 28.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과천이 일단 제일 좋고 근데 과천은 아 투자금을 제가 한 24평 같은 경우도 아무리 따져 봐도 5억 미만으로는 솔직히 좀 어려워 보이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.706,
+                "end": 36.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 6억 7억 8억 정도 있어야 될 거 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.510,
+                "end": 39.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 그리고 이제 아 약간 인센티브 더 붙여서 그 돈이면 차 몰 때도 야 그 돈이면 좀 더",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.196,
+                "end": 45.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다. 그래서 제가 그때 그 분하고 얘기를 하다가 야 그러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.940,
+                "end": 51.151
+            }
+        ]
+    },
+    "summary": "동작구나 사당 송파 등 외곽 쪽으로 보시는 분도 있고 규제 지역에서 약간 비켜가는 강동구 동작구나 성동구도 나쁘지 않고 특히 경기 남부 라인인 공교 판교 분당 그중에서도 과천이 일단 제일 좋은데 과천은 투자금이 24평 같은 경우에 아무리 따져 봐도 5억 미만으로는 어려워서 6억에서 8억 정도 있어야 될 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18528_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

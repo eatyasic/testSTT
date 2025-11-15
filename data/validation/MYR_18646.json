@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18646",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음 3주택부터 이제 나머지 부분에 대해서는 반절씩 좀 줄여가지고 좀 세율 좀 낮춰주자라고 했고 증여 부분도 마찬가집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12프로 너무 높았죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.158,
+                "end": 10.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 이제 증여 취득세 부분에 나머지 뭐 농어촌특별세나 이런 거까지 추가되면 사실 더 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.270,
+                "end": 16.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 12.4프로 아니면 국민주택규모 초과가 되면 13.4프로로 아주 고율의 세금이 나오기 때문에 사실 부담은 더 커지시는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.508,
+                "end": 25.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이건 6프로로 좀 줄여주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.810,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "증여 취득세 부분에서 나머지 농어촌특별세 같은 게 추가되면 더 높아지는데 왜냐하면 12.4프로 아니면 국민주택 초과가 되면 13.4프로로 고율의 세금이 나와 부담이 더 커진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18646_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

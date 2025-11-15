@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18166",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.99,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재개발 구역 내에서 발생될 수 있는 리스크를 쫙 정리를 하죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.863,
+                "end": 3.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 딱 비교를 해보고 어떤 일정 기준이 되면 투자를 하자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.206,
+                "end": 7.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 이야기하니까 어떤 생각이 드냐면 제가 이제 앞에 막 모니터 크게 두 개 있고 스피커 있고 제 IT 이게 되게 중요하거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.906,
+                "end": 16.341
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "IT 기기 살 때 스펙 다 정리해 가지고 점수화 해가지고 그래 이거야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.351,
+                "end": 21.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 식이라고 보시면 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.363,
+                "end": 22.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "약간 그런 식으로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.700,
+                "end": 23.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.325,
+                "end": 23.990
+            }
+        ]
+    },
+    "summary": "재개발 구역 내에서 발생될 수 있는 리스크를 정리를 한 후에 비교를 해서 기준이 되면 투자를 하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

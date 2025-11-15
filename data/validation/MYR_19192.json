@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19192",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배당 가능하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인은 그런 거 없고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.809,
+                "end": 3.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업자 통장 인출 함부로 빼면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.411,
+                "end": 6.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인은 내 돈이니까 내가 알아서 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.361,
+                "end": 8.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의사결정에서는 의사 협의가 필요한데 1인 법인이면 간단하게 회의록 하나 작성하면 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.505,
+                "end": 13.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇게 하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.317,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "법인은 사업자 통장 인출 함부로 빼면 안 되고 1인 법인이면 간단하게 회의록 작성하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19192_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYR_19385",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.404,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해 9월 달이잖아 9월 달.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 올해 9월 달이 되기 전에 어 좀 뭔가 할 수 있는 거를 좀 해보도록 하겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.992,
+                "end": 11.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5년이 지나 버리면은 이제 부과 제척 기간이라고 해 가지고 과세 당국이 세금을 이렇게 매길 수 있는 기간이 그냥 넘어가 버리는 어 그런 일이 좀 생길 수가 있어요 여기 나오죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.227,
+                "end": 22.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세 부과 제척 기간 어 이렇게 나오는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.742,
+                "end": 26.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 국세청 입장에서는 과세 당국 입장에서는 요 국세 부과 제척 기간 5년이 끝나기 전에 조사에 착수할 수 있는 명분을 갖춘 셈이다 그래서 우리 예전에",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.645,
+                "end": 37.404
+            }
+        ]
+    },
+    "summary": "5년이 되기 전에 과세 당국은 국세 부과 제척 기간 내에 조사를 시작할 명분을 얻게 되고 5년이 지나면 과세 당국이 세금을 이렇게 매길 수 있는 기간이 넘어가 버린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

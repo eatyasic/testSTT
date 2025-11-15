@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19009",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.153,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 예를 들어서 뭐 임대소득이 발생을 하든 아니면 재산세 과표가 9억을 넘든 해 가지고 피부양자가 박탈이 됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 아빠까지 끌고 나오는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.988,
+                "end": 8.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.396,
+                "end": 9.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이거 이건 좀 너무한 거 아니에요? 이거",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.369,
+                "end": 11.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 결국에는 이 부양의무가 인제 자식이 아니라 인제 소득이 있는 사람한테 이제 가야 된다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.193,
+                "end": 17.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배우자가 해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.139,
+                "end": 18.479
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇습니다. 아",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.489,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "자식이 부모를 피부양자로 모시고 있는데 부모 중 한 사람이라도 소득요건이나 재산요건을 충족하지 못하면 부모님 모두 자격이 박탈된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

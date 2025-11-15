@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18379",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.602,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떨어졌을 때의 그 고통 그다음에 안 샀는데 올랐을 때의 그 고통 샀는데 가격이 그대로 인거는 고통이 별로 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상대적으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.253,
+                "end": 9.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 그러면 내가 두 개 중에서 뭐가 더 고통스러운 가 한번 생각을 해보는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.813,
+                "end": 16.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 덜 고통스러운 거를 선택을 하셔라라는 이야기를 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.131,
+                "end": 22.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 항상 두려운 마음이 있었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.665,
+                "end": 25.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 사람이 우리가 이제 40이 넘고 50이 넘고 제가 어렸을 때는 제 이 나이되면 뭔가 현명하게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.494,
+                "end": 35.602
+            }
+        ]
+    },
+    "summary": "여성 화자가 떨어졌을 때의 고통, 안 샀는데 올랐을 때의 그 고통 중에 뭐가 더 고통스러운가 생각을 해보고 덜 고통스러운 것을 고르라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

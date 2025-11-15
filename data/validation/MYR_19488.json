@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19488",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 것처럼 금융상품도 그 뭐 상장 소액주주도 과세하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.662,
+                "end": 6.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "채권매매책도 과세하겠다 이런 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.145,
+                "end": 9.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그 내용이 이제 여기 있는데 개정 이유가 이렇게 나와 있네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.464,
+                "end": 13.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.041,
+                "end": 13.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퇴직 소득세 부담을 덜어주기 위해서 공제 금액 확대하",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.853,
+                "end": 16.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 요거 아니고 아니구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.550,
+                "end": 17.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 거기가 아니라요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.755,
+                "end": 18.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 예 그 국내외 금융시장",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.634,
+                "end": 20.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요건과 그쵸 소액투자자 보호 등을 고려하여",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.529,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "금융상품도 상장 소액주주도 과세하고 채권매매책도 과세하겠다는 거라며 개정안은 퇴직 소득세 부담을 덜어주기 위한 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

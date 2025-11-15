@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19527",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.568,
+        "format": "MP4",
+        "date": "2022-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소녀는 저 분홍색이 더 마음에 드나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀야 위험해 나와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.576,
+                "end": 21.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나오라고 진짜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.605,
+                "end": 35.568
+            }
+        ]
+    },
+    "summary": "소녀는 분홍색 건조볼이 더 마음에 든다며 건조기에 소녀가 들어가려고 하니 위험하다며 나오라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19527_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19341",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.825,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과잉금지의 원칙이라는 게 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 세법 해석 적용에 있어서는 누군가는 이것도 괜찮다고 보는 사람도 있겠지만 아닌 사람도 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.380,
+                "end": 8.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 거기에 대해서 충분하게 사회적 합의라든지 고민을 했냐는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.714,
+                "end": 11.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 저 같은 파트장이라면 돌려 보냈을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.418,
+                "end": 14.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 박대리 너무 고민의 흔적이 없는 거 아니야 이렇게 저는 말 했을 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.787,
+                "end": 18.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 그냥 이렇게 되는 거죠 그냥 근데 모르겠어요 그러니까 제가 알고 싶은 거는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.820,
+                "end": 25.825
+            }
+        ]
+    },
+    "summary": "한 남자가 세법에 있어서 다양한 생각을 가지기 때문에 충분하게 사회적 합의가 되어야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

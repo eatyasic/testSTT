@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17515",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.948,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무려 9년 랠리를 보는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2013년 1월부터 어 수도권 아파트가 오르기 시작 했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.320,
+                "end": 6.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 2022년 9월까지 올랐단 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.710,
+                "end": 9.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역대 아마 최장기일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.139,
+                "end": 11.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안에 2017년이 됐을 때 2018년 이제 다 올랐다 그래서 더 올라가도 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.011,
+                "end": 15.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 막상 현장에서 보면은 이게 과연 평균 위로 돌아설지 돌아설 시점인지 이거는 판단하기가 조금 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.943,
+                "end": 26.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 제가 어 우리가 인간 지표로서 분기점을 볼 수 있는 게 어 제가 찾아낸 게 하나 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.107,
+                "end": 34.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어떤 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.071,
+                "end": 34.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영웅이 탄생하면은 어 그 시장은 버블이라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.783,
+                "end": 38.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영웅이 탄생하면 버블일 가능성이 높다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.714,
+                "end": 41.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 영웅은 누구죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.707,
+                "end": 43.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 저는 어 주로 주식이나 부동산 스타들을 말하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.838,
+                "end": 48.948
+            }
+        ]
+    },
+    "summary": "박사는 우리나라 부동산이 9년 동안 랠리를 했고 앞으로 평균 위로 올라설지 판단하기는 어렵지만 인간 지표로 찾아낸 것이 주식이나 부동산 영웅이 탄생하면 그 때가 바로 버블이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

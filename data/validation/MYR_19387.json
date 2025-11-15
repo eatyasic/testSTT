@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19387",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.627,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일선 세무서에서는 이미 조사관들이 임대 사업자들의 에 비과세 감면 전수 조사에 착수했다는 소식도 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 임대 사업자들의 비과세 감면 전수 조사에 착수했다 그러면은 임대 사업자의 저 비과세 감면이 도대체 뭡니까? 이거 알아야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.189,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "일선 세무서에는 이미 조사관들이 임대 사업자들의 비과세 감면 전수 조사에 착수했고 화자가 임대 사업자의 비과세 감면에 대해 설명해 주려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19387_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

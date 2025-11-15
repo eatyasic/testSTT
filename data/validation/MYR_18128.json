@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18128",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.735,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 나서 이제 2003년 어 이명박 서울 시장 때 2차 뉴타운이 발표가 나죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 이제 한남 그다음에 뭐 노량진 그다음에 아현 우리 마래프 있고 막 그다음에 경희궁 자이 있고 그런 동이문 막 그다음에 그런 데가 막 이제 발표가 나고 그다음에 2005년부터 2007년까지는 이명박 서울 시장이랑 오세훈 전 서울 전 때 그때 이제 3차 뉴타운 뭐 흑석, 북아현, 거여마천, 장이, 상계 이런 데가 막 3차 뉴타운 발표가 막 났었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.924,
+                "end": 27.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그때랑 지금이랑 가장 다른 게 뭐냐 하면 그때는 탑다운이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.129,
+                "end": 31.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찍어 누르는 거야",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.529,
+                "end": 32.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.415,
+                "end": 32.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시에서 막 회의한 다음에 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.925,
+                "end": 35.735
+            }
+        ]
+    },
+    "summary": "화자가 뉴타운2차와 3차에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

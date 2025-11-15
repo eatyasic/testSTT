@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17530",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.639,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 부동산 행복은 빈도다 이렇게 하는 거고 그래서 실제로 여러 논문들이 많은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 월세 임대 사업자 하고 전세 임대 사업자는 근본적으로 가격이 떨어지더라도 이제는 겪는 고통이 다릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.508,
+                "end": 16.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.159,
+                "end": 16.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.853,
+                "end": 18.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가령 내가 한 달에 월세를 100만 원 받는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.233,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "박사는 부동산은 행복의 빈도라고 하는 여러 논문들이 많은데 월세 사업자 하고 전세 사업자는 근본적으로 겪는 고통을 다르다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

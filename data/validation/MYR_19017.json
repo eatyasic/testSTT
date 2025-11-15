@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19017",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 인제 여기에서 제 개인적으로 가장 부러운 캐릭터는 3번과 8번이 아닐까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.261
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3번하고 8번",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.271,
+                "end": 6.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 한번 읽어보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.464,
+                "end": 7.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.609,
+                "end": 7.956
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 3번 창업 후 사업이 번창해서 1인 사업가가 직원을 신규로 채용해서 혹은 직원에게 4대 보험을 가입시켜 줬다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.966,
+                "end": 16.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.927,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "1인 사업가가 창업 후 사업이 번창해 직원을 신규로 채용하며 4대 보험을 가입시켜 준 사례가 가장 부럽다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

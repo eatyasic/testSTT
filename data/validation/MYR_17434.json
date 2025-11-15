@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_17434",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 시세가 1억이니까 뭐 아무리 시세보다 떨어진다 하더라도 6000만 원 60프로 정도 가까이는 뭐 폭락이 안 되니까 은행은 뭐 다 건질 수 있겠고 그런데 이제 문제는 2순위로 빌려주는 사람 예를 들어서 이제 그분이 제네스 박한테 그 뭐 그래 뭐 집값의 뭐 6000은 뭐 빌렸지만 여유가 있으니까 2000 빌려줄게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 엔피엘의 수익 구조를 예를 들어 설명하고 있는데 시세가 1억인 집을 6000만원 은행 대출로 집을 산 소유주가 문제가 생기면 집값이 아무리 떨어져도 60퍼센트 이상 떨어지는 경우는 없으니 은행은 문제가 없겠고 집 소유주가 흰색 상의를 입은 남성에게 돈을 2000만 원 빌리게 되는 상황에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_19010",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.669,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 때문에 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 이거 원래 있었습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.823,
+                "end": 2.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 원래 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.041,
+                "end": 3.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 강화가 되다 강화가 기존에 3400에서 2000으로 다운되다 보니까 인제 많은 사람들이 여기에 포함이 돼서",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.256,
+                "end": 11.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3400 전에는 7200이었잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.940,
+                "end": 13.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.579,
+                "end": 14.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 점점 이게 강화가 돼 가지고 최근에 뭐 이쪽 복지부에서는 20만 명 정도가 어 피부양자에서 뭐 지역가입자로 전환될 거라고 예상이 됐는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.331,
+                "end": 24.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 보니까 한 35만 명 가까이 된다라고 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.868,
+                "end": 28.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 그런 거 보면 항상 예측이 틀리더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.701,
+                "end": 30.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "틀린 게 20만에서 뭐 10만이 아니라 항상 더 많어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.517,
+                "end": 34.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.150,
+                "end": 35.207
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 짜증나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.217,
+                "end": 36.669
+            }
+        ]
+    },
+    "summary": "복지부에서는 기준이 강화되면서 피부양자에서 지역가입자로 전환되는 인원을 20만 명으로 예상했는데 실제로는 35만 명 가까이 전환됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

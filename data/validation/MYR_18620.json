@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18620",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "66프로 3년 이상 66프로 등기 칠 때까지 66이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 주택은 그렇지 않죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.090,
+                "end": 8.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택은 1년 미만이면 70 1년에서 2년 60 그리고 2년 넘으면 기본세율 6에서 45가 나오는데 분양권은 여전히 1년 미만 70 그리고 1년 넘어도 60 등기 띨 때까지 60이 돼 보란 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.950,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "3년 이상이어도 66프로인데 주택은 1년 미만이면 70 2년 60 2년 이상일 경우 기본세율 65가 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18620_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

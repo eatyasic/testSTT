@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18455",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많이 친숙하고 실생활에 관련된 게 아파트잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 거 하시기에 좀 좋고 특히 아파트 사이트 호갱노노 네이버 부동산 그런 것도 막 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.034,
+                "end": 10.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 많이 쓰시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.764,
+                "end": 12.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.681,
+                "end": 13.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거 도구가",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.391,
+                "end": 14.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.912,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "책에 친숙하고 실생활 관련된 내용이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

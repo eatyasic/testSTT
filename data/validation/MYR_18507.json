@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18507",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.282,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 우리 지방 같은 경우에도 대구 부산 이런데 기준 시가 3억 넘는 거 많이 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 내가 이걸 좀 오래 가지고 있으려고 종부세 합산배제 즉 종부세 혜택을 받으려고 등록하는 순간 어떻게 되는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.100,
+                "end": 12.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혜택을 못 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.390,
+                "end": 13.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 진짜 조심해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.763,
+                "end": 16.282
+            }
+        ]
+    },
+    "summary": "지방 같은 경우 대구 부산 이런 곳은 기준 시가가 3억이 넘는 게 많이 있는데 이걸 오래 가지고 있기 위해서 종부세 혜택을 받으려고 등록하는 순간 혜택을 못 받기 때문에 조심해야 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

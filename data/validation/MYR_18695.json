@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18695",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.049,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 규제가 재건축 규제가 하나하나 풀리고 있어 가지고 그런 것들을 적용해 보면서 공부하기도 참 좋은 도시여 가지고 제가 1기 신도시를 메인으로 해서 이렇게 지역 분석 책을 쓰게 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 일단 그래도 뭐 공부하고 또 투자하고는 잘할 수 있으니까 여러분들 이제 최종 의사 결정하실 때는 어 이제 잘 알아보시고 결정 하시면 좋을 것 같은데 특히 1기 신도시 같은 경우에 굉장히 좀 좋은 것들이 많이 있으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.161,
+                "end": 26.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.884,
+                "end": 27.244
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공부도 좀 해보시고 아무 거주하고 계신 분들도 꽤 많으실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.254,
+                "end": 30.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그럼 훨씬 더 잘하실 거라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.680,
+                "end": 34.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 좀 전에도 말씀주셨고 책에도 나오기는 하는데 이게 이제 재건축이냐 리모델링이냐 이게 좀 결과에 따라 좀 많이 어떤 거냐에 따라서 달라질 수 있다고 좀 생각이 드는데 개인적으로 어떤 게 좀 좋다고 생각하세요 재건축하고 리모델링?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.159,
+                "end": 49.049
+            }
+        ]
+    },
+    "summary": "재건축 규제가 하나하나 풀리고 있어 가지고 그런 것들을 적용해 보면서 공부하기도 참 좋은 도시여 가지고 1기 신도시를 메인으로 해서 이렇게 지역 분석 책을 쓰게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18695_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

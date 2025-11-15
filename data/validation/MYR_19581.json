@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYR_19581",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반도 발의도 못하시는 분들이 많고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "면접 준비는 진짜 철저하게 많이 많이 하셔야 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.659,
+                "end": 6.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 그 무대에서 진짜 내가 뛰어 놀아야지 아 얘는 진짜 준비가 됐구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.190,
+                "end": 12.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘 뭔가 뭔가 눈에 띈다 이러면서 뽑히는 거거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.087,
+                "end": 16.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 별다른 거 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.320,
+                "end": 18.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.326,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "면접 준비를 철저하게 해서 면접장에서 눈에 뛸 정도로 뛰어 놀아야지 눈에 띄어서 뽑힌다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19581_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

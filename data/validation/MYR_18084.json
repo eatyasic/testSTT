@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18084",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.686,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 잘 모르면 안 건드리는 게 낫죠?9",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 건드리는 게 나아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.611,
+                "end": 2.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 왜 빌라가 6억인데 주거용 근생은 3억이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.527,
+                "end": 6.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싸니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.211,
+                "end": 6.894
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싸니까 그리고 똑같이 생겼거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.904,
+                "end": 9.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.117,
+                "end": 9.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분도 이렇게 빌라 진대 가보면 왜 1층은 어 사무소 근생 이런 걸로 해놓고 실제 거기다 가스레인 갖다 놓고 해 버리거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.606,
+                "end": 18.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠 응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.188,
+                "end": 19.686
+            }
+        ]
+    },
+    "summary": "두 남성이 주거용 근생에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18084_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

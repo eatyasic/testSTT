@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18854",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.717,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 원래 가을, 겨울 좋아했던 사람이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 요즘에는 가을, 겨울 겨울이 싫어요, 추우면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.337,
+                "end": 6.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.077,
+                "end": 6.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 돌아가신 이건희 회장님 같은 경우는 겨울이 되면 항상 하와이에 가 있으셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.846,
+                "end": 12.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 저게 무슨 짓인가 했는데 어 이해가 돼요 이제.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.602,
+                "end": 16.717
+            }
+        ]
+    },
+    "summary": "남성은 자신이 원래 가을, 겨울을 좋아했던 사람인데 요즘에는 추워서 겨울이 싫다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18854_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

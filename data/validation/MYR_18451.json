@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18451",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 고생을 많이 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 처음에 시작을 할 때 우리 이제 놀이동산 가면은 전체를 보고 내가 이걸 타고 싶어 그러면 그걸 향해서 가잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.577,
+                "end": 13.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것처럼 전체의 어떤 판을 보고 내가 나는 청약이 좀 유리하겠구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.154,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "놀이동산 가면은 전체를 보고 내가 이걸 타고 싶어 하는 것처럼 전체의 어떤 판을 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

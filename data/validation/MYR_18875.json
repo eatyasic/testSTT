@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18875",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.361,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이제 왜 이유가 뭐에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 이렇게 비싸요, 인천 남동구가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.893,
+                "end": 3.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 이거는 절대적으로 봤을 때는 서울 땅 값이 비싼데 상대적으로 봤을 때는 인천 쪽이 매장 크기가 쪼금 더 크기 때문이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.570,
+                "end": 13.048
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔지 알겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.058,
+                "end": 15.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 이제 평 당 가격은 당연히 서울이 좀 비싼데 인천도 경기도니까 비싼 편에 있으면서 면적까지 넓어버리니까 그냥 절대 금액 자체는 3억 6100으로 단위 매장으로는 제일 크다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.201,
+                "end": 27.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.720,
+                "end": 28.361
+            }
+        ]
+    },
+    "summary": "화자2는 절대적으로 봤을 때는 서울 땅 값이 비싼데 상대적으로 봤을 때는 인천 쪽이 매장 크기가 조금 더 크기 때문에 인천 남동구가 비싼 것이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18875_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

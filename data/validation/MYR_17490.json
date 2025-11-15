@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17490",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 이제 해외 지사로 뭐 근무를 나가는데 보통 뭐 삼성 전자 무슨 법인이다 그러면은 대부분 다 이제 몇 퍼센트 지원을 하기 때문에 거주자 들어가기는 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 가끔 가다가 놓칠 수 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.845,
+                "end": 12.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 이제 해외에 너무 장기간 체류하고 있다거나 그런 경우에 조심 하셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.080,
+                "end": 17.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 두 번째가 뭐냐 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.463,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "남성이 해외에 지사로 나가는 경우 회사에서 몇 퍼센트 지원을 하기 때문에 거주자로 들어 가지만 놓칠 수 있어 조심해야 되고 또 해외에 너무 장기간 체류하는 경우도 조심해야 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

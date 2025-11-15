@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18281",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 2020년 7.10 부동산 대책 대책 때 만들어 졌고 관련 법이 이제 8월 12일날 개정이 됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 당시 문재인 정부는 분양권이 주택 수에서 빠져서 투기적 수요가 몰리고 있다고 판단했다 그래서 주택은 아닌데 주택 수에 집어 넣어버린 거예요 분양권을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.229,
+                "end": 15.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여전히 분양권은 주택은 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.672,
+                "end": 17.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그렇지만 주택 수에 들어갔고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.951,
+                "end": 20.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세는 2020년 8월 12일 양도세는 21년 1월 1일 또 이마저도 두 개가 또 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.377,
+                "end": 26.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 너무 힘들다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.320,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "부동산 법이 개정 된 것에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18281_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

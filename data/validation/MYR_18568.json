@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYR_18568",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.876,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 나는 싫은데 지금 왜냐면 주택 임대 사업자가 너무 지금 복잡하게 돼 있고 의무가 너무 많아요 세제 혜택이 없고 그래서 그래서 거기까지 좀 같이 보시면은 좋을 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다. 어쨌든",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.269,
+                "end": 13.656
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 제가 봤을 때는 지금 이런 정책이라든지 뭐 전세 사기 프라스 지금 서울 집값 오르는 거 다 하면 취득세 중과가 뭐 제 입장에서는 좀 빨리 풀었으면 좋겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.666,
+                "end": 26.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현실적으로 하반기도 전 쉽지 않아 보인다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.641,
+                "end": 29.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 아 또 이제 그런 의견도 있다 네 한번 좀 지켜보시고 이제 나중에 나오면은 어 저희 한번 체크해보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.003,
+                "end": 42.876
+            }
+        ]
+    },
+    "summary": "화자는 주택 임대 사업자가 복잡하게 돼 있고 의무가 너무 많고 세제 혜택이 없어서 거기까지 같이 보면 좋을 것 같고 지금 전세 사기나 서울 집값 오르는 것 다 하면 취득세 중과를 빨리 풀었으면 좋겠지만 현실적으로 하반기도 쉽지 않아 보인다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18568_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18568_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

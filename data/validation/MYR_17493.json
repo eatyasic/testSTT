@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17493",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와이프하고 살고 있는데 장모님을 모시고 살고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 남편 이름으로 주택이 하나 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.007,
+                "end": 5.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 장모님 이름으로 주택이 하나 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.675,
+                "end": 8.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생계를 같이 하고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.011,
+                "end": 9.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 밥을 먹고 생활비를 같이 쓴다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.667,
+                "end": 11.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.001,
+                "end": 12.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같은 1세대죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.829,
+                "end": 13.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 1세대 몇 주택이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.873,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "남성이 1세대 1주택의 예를 들며 장모님과 남편이 각각 1주택을 가지고 있으며 함께 살고 있는 경우 어떻게 되는지 설명하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17493_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

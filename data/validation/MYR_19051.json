@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19051",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.16,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이 밑에 이 조사청의 의견을 한번 보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.679,
+                "end": 4.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.030,
+                "end": 4.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조사청의 입건 세무 조사는 자기들이 주장하는 겁니다. 국세청 주장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.333,
+                "end": 7.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 그 감정 평가 그 보도 자료 이거 가지고 한 거 아니다 그것과 별개로 그냥 여기 보세요 재개발 예정 지역에서 유사 매매 사례 가격이 선정이 어려운 이게 거래가 안 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.979,
+                "end": 22.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.574,
+                "end": 23.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 어려운 단독이나 다가구 다세대 빌라 등을",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.233,
+                "end": 27.160
+            }
+        ]
+    },
+    "summary": "국세청은 감정 평가는 보도 자료와 별개로 재개발 예정 지역에서 유사 매매 사례 가격 선정이 어려운 단독이나 다가구 다세대 빌라 등을 조사한 것이라고 주장한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19051_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

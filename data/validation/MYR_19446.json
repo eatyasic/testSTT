@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19446",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 @계정1님이 말씀 해주신 게 요게 완성되고 만약에 3년 이내에 완성이 돼 버렸어요 근데 실 이거 거주를 못 한대요 양도할 때는 주택과 주택이잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.937,
+                "end": 11.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이 규정을 쓸 수 있습니까라고 물어보시는 분이 굉장히 많으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.403,
+                "end": 15.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.144,
+                "end": 15.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이건 근데 정확한 얘기가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.716,
+                "end": 17.999
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 정확한 얘기",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.009,
+                "end": 18.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정확한 얘기는 없는데 저는 개인적으로 당연히",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.884,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "3년 이내에 완성이 돼 버렸지만 실 거주를 못하는데 양도 할 때 주택과 주택이라 해당 규정을 쓸 수 있는지 물어보는 사람이 굉장히 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

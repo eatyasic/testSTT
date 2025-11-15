@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYR_19576",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 내가 외모가 조금 내가 생각했을 때 부족한 것 같고 다른 사람이 더 예쁜 것 같다 그래도 상관 없다고 조금 말씀을 드리고 싶어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 또 제가 하는 이런 말씀들을 좀 오해하셔서 들으셔가지고 어 안 예쁜데 승무원 될 수 있다고 이렇게 생각하시지 말고 제가 말씀드린 기준이 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.552,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "외모가 다른 사람보다 덜 예뻐도 상관이 없지만 이런 부분에 대해 안 예뻐도 승무원이 될 수 있다고 오해 하지는 말았으면 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

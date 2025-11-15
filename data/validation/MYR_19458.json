@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19458",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.264,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희는 사실 이걸 그러면 뭐를 적용해야 됩니까라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "답이 안 나오는 거죠.저희는 사실 이걸 그러면 뭐를 적용해야 됩니까라고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.942,
+                "end": 4.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "답이 안 나오는 거죠 그럼 납세자분들한테는 그렇게 얘기해요 일단은 뭐 경정청구를 하든지 나중에 그래서 경정청구가 거부되면은 심판 청구로 가서 이기든지 아니면 처음부터 가 가지고 심판 청구로 가서 이기시든지 하는데 웬만하면 경정청구가 낫겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.752,
+                "end": 21.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 지금이 그림대로만 되면 아무 문제가 없는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.037,
+                "end": 24.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 그림대로면 너무 완벽하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.245,
+                "end": 25.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그림대로만 되면 아무 문제가 없는데 예를 들어서 뭐 A가 있는 게 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.926,
+                "end": 31.264
+            }
+        ]
+    },
+    "summary": "납세자한테는 경정청구를 하거나 거부되면 심판 청구를 얘기하지만 웬만하면 경정청구가 낫다며 그림대로면 너무 완벽하고 아무 문제가 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19458_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

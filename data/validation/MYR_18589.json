@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18589",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.964,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 또 부동산 분야 1위 되지 않았습니까 여러분들이 도와주셔가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월 2900원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.574,
+                "end": 6.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠팡 월회비보고 제가 똑같이 했는데 쿠팡이 올렸더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.076,
+                "end": 10.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이녀석들이 아이씨 따라 올릴 수가 없잖아요 제가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.414,
+                "end": 14.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런거 하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.260,
+                "end": 18.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저의 카페 오시면 또 환영한다는 말씀 이렇게 드리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.216,
+                "end": 21.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.511,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "여러분들이 도와주셔서 부동산 분야 1위 되었고 쿠팡 월회비보고 똑같이 2900원으로 해놨는데 쿠팡이 올렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18589_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

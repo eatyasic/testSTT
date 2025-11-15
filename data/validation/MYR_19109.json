@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19109",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.121,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 좀 전에 설명드렸듯이 1주택자는 11억에서 12억 원으로 공제가 올라갔고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.035,
+                "end": 5.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1주택 아니신 분들은 6억 원에서 9억 원으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.622,
+                "end": 8.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.509,
+                "end": 9.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많이 올라갔기 때문에 작년에 이제 내시던 분들이 올해 아예 종부세가 안 내실 수 있는 분들도 많이 나오실",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.174,
+                "end": 15.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 분들 많이 계실 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.609,
+                "end": 17.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.187,
+                "end": 17.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 이제 개정이 완료 됐습니다 이건.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.571,
+                "end": 19.637
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.647,
+                "end": 19.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확실하게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.967,
+                "end": 21.121
+            }
+        ]
+    },
+    "summary": "종부세 세율이 많이 완화됐기 때문에 예전에 내던 사람들도 올해에는 안 낼 수도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

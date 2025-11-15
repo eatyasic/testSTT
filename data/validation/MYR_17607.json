@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17607",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.165,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갚아야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.990,
+                "end": 1.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그러기 때문에 약간 좀 이도저도 못하고 그러신 분들이 좀 많이 계실 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.430,
+                "end": 5.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런 근황을 제가 감안해서 좀 즐거운 이야기들 많이 해 드려야 되겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.592,
+                "end": 9.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즐겁고 약간 희망적인 이야기 그렇지만 제가 요즘에 강의할 때 제가 최근에 강조하는 게 뭐냐면 지나친 낙관주의는 금지해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.832,
+                "end": 17.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.671,
+                "end": 19.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 인제 현실을 좀 직시해야 된다 네 좀 그런 얘기들을 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.052,
+                "end": 23.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 저는 이제 오랫동안 @이름1 님 옆에서 봐 왔는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.601,
+                "end": 26.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.827,
+                "end": 27.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 여기 우리 시청자 분들도 마찬가지겠지만 @이름1 님 하면 떠오르는 이미지가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.229,
+                "end": 32.165
+            }
+        ]
+    },
+    "summary": "갚아야 되는 문제로 이도저도 못하는 상황일 거라고 전했더니 그런 근황을 감안해서 즐거운 이야기를 하고자 한다고 하자 상대는 강의에서 강조하는 게 있다면서 지나친 낙관주의를 금지하고 현실을 직시해야 한다는 것이라고 언급하며 @이름1 님을 오랫동안 함께 보아온 결과 떠오르는 이미지가 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

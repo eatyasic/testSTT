@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17788",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.795,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "증여세 면제를 좀 해서 시너지 효과를 내자 그리고 여기에 대해서 한 가지 더 뭐가 있냐면 전세 자금 대출 제도도 손을 좀 보자 아 이거는 저는 개인적으로 맞다고 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 제가 예전에 한번 설명드렸던 것 같은데 혼인신고를 하면은 소득 부부 소득이 합산돼 버리니까 소득이 당연히 늘어날 늘어날 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.700,
+                "end": 19.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘에 맞벌이 대부분 다 하니까 그런데 혼자 있을 때보다 기준이 더 깐깐해져 가지고 대출이 안 나오는",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.136,
+                "end": 26.793
+            }
+        ]
+    },
+    "summary": "정부가 증여세 면제와 전세 자금 대출 제도를 손보겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17788_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYR_18151",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갈아탈 현실적으로 갈아타기를 실행할 때 제일 좋은 게 저는 재개발이라고 봐요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 아파트에서 1 아파트를 팔고 상급제 아파트를 내가 더 돈을 모아서 대출을 일으켜서 갈아타고 갈아타고 갈아타고 이게 이론적으로는 맞는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.896,
+                "end": 16.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쉽지 않아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.898,
+                "end": 17.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.920,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "1 아파트를 팔고 상급제 아파트를 내가 돈을 더 모아서 대출을 일으켜서 갈아타고 갈아타는 이론이 맞는데 쉽지 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18821",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 정도입니다. 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 어 이게 이제 단순히 호가가 높은 걸 보고 이야 저거 소유자들이 아직도 뭐 배가 불렀구나 뭐 뭐 위험한지 모르는구나 이렇게 생각하시면 안 되고 물론 그런 일부 소유자도 있겠지만 너무 세금이 많이 나오는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.685,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "남성 화자는 호가가 높은 걸 보고 아직 위험한지 모른다고 생각해서는 안 된다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

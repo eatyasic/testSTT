@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19496",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.473,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요렇게 이제 과세대상이 다 들어오고 그 다음에 손익도 섞어 가지고 짬뽕해 가지고 이제 순 이제 손익 남은 거 그러니까 순수하게 내 이마에 포켓 된 소득만 가지고 과세하겠다 기존에는 아니었는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요런 것들로 이렇게 설명할 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.580,
+                "end": 16.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 쉽게 말하면 그냥 상품 별로 일단 큰 틀에서는 플러스 마이너스가 되든 그냥 다 더한다고 일단 큰 틀에서 보면 되나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.460,
+                "end": 25.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.379,
+                "end": 25.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그러면 예를 들어서 이렇게 생각할 수도 있는 거 아니에요 예를 들어서 뭐 5개를 내가 투자를 했는데 2개에 대해서 플러스다 그런데 3개가 마이너스다 그래서 합쳐봤더니 거의 뭐 비슷하게 됐다 그러면 세금 내는 거 없는 거 아닌가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.829,
+                "end": 40.473
+            }
+        ]
+    },
+    "summary": "손익 남은 거로만 과세한다며 상품 별로 큰 틀에서는 플러스 마이너스가 되든 그냥 다 더한다고 생각하면 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

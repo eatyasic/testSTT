@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18963",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 가장 쉽게 접근하실 수 있는 거는 지금 보고 있는 유튜브 영상이 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.273,
+                "end": 6.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 인제 말로 하는 것도 그 글로 쓰는 것도 물론 중요하긴 한데 말로 이렇게 한 번 설명해 주면 훨씬 더 여러분들이 쉬울 거란 말이에요. 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.622,
+                "end": 14.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 여러분들이 또 텍스트가 또 편하신 분들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.544,
+                "end": 16.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러면은 네이버 카페 오셔 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.959,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "글보다는 말로 한 번 설명하는 게 이해하기 쉬우므로 유튜브 영상으로 쉽게 접근할 수 있도록 할 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18963_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

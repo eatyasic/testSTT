@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17460",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "설정한 근저당은 개인들이 살 수 있기 때문에 이제 그런 걸 개인들이 살 수 있는 엔피엘 강의 그다음에 또 제가 대부업을 또 짧지만 굵게 또 운영을 하면서 제가 또 쌓아 온 또 노하우가 또 이게 굉장히 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 노하우를 또 알려드리는 대부업 스터디 그리고 이제 저 제가 경매가 기본이니까 경매 스터디 그래서 경매 엔피엘 대부업이 3개로 이제 나눠가지고 강의를 하고 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.460,
+                "end": 22.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 저희 본문 더 보기 하고 고정 댓글을 참고하시면 될 것 같고요.\n일단 저희 엔피엘 기본에 대해서 좀 알아 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.862,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 엔피엘 강의 그리고 대부업 스터디 그리고 경매 스터디해서 이렇게 3개의 강의를 진행하고 있다고 하고 흰색 상의를 입은 남성은 본문 더 보기와 고정 댓글을 참고 하시면 될 것 같다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17460_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

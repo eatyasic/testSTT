@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18209",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.965,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차를 타고 이제 호평동에 다시 집에를 가는데 예 옆에 그때 당시에 신축 대단지 아파트가 딱 나온 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.980,
+                "end": 7.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그냥 문득 여기는 지금 가격이 얼마일까 그런데 그때만 하더라도 우리는 지금 9평 그래서 전용 면적 84가 대세지만 뭐 그때 투자해 보신 분들은 아실 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.479,
+                "end": 20.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때는 전용 면적 59가 대세였어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.279,
+                "end": 22.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 20평대.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.087,
+                "end": 23.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 20평대를 가장 선호했었고 가장 인기가 많고 비쌌을 때거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.059,
+                "end": 27.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 대단지 아파트에 들어가서 24평 아파트 시세를 딱 물어보니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.013,
+                "end": 31.965
+            }
+        ]
+    },
+    "summary": "그 시기엔 전용 면적 59가 대세였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18209_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17440",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확인 조사가 필수죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.326
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러면 그 그러면 그 부동산 실세 조사 같은 거는 좀 어떤 식으로 하세요. 대표님은",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.336,
+                "end": 6.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 맨투맨으로 직접 현장에 가서 당연히 부동산 도는 건 기본이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.698,
+                "end": 12.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 현장을 뭐 한번 가면 되는 게 아니라 몇 번씩 가서 확인하고 예를 들어 상가 같은 경우다 그러면 평일 오전 오후 가고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.929,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 부동산 실세 조사는 어떻게 하냐고 질문했고 검은색 상의를 입은 남성은 직접 현장에 가서 당연히 부동산 방문하는 것은 기본이며 현장을 한번이 아닌 몇 번식 가서 확인하고 예를 들어 상가면 평일 오전 오후 간다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

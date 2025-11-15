@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19045",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2020년 7월에 했는데 21년 4월에서 7월까지 조사한다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가격이 포함이 안 된다 36퍼센트 해야 겠다라는 거죠 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.883,
+                "end": 10.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 고지서를 언제 보냈느냐 21년 10월 25일에 자기들이 감정 평가 해 가지고 고지를 해 버립니다 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.514,
+                "end": 18.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1년 정도 더 지나서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.582,
+                "end": 20.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고지를 해 버리죠 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.134,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "21년 4월에서 7월까지 조사한다는 고지서 21년 10월 25일에 감정 평가를 해서 보냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19045_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

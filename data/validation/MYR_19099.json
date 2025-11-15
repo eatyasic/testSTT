@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19099",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.416,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 뭔가 이제 여당 쪽하고 이야기를 하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그렇죠. 이게 여야가 협의 돼야 되기 때문에 조금 지켜봐야 되는데 만약에 된다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.695,
+                "end": 7.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.468,
+                "end": 8.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년 12월 21일 이후에 취득한 분들은 취득세 환급을 신청하셔서 받아가실 수 있을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.015,
+                "end": 14.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "궁금한 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.937,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "법 개정은 여야가 협의해야 하지만 만약에 된다면 작년 12월 21일 이후에 취득한 사람들은 취득세 환급을 받을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

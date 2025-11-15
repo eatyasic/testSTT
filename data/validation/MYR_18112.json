@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_18112",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 얘는 당연히 새거 여야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.672,
+                "end": 1.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 지어지니까 그러면 연식 차이가 날 거란 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.997,
+                "end": 5.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 저는 그 물가 상승률로 보증을 좀 해 주거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.213,
+                "end": 8.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고 연식 마진",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.319,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.679,
+                "end": 10.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 세대수도 다를 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.149,
+                "end": 11.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.827,
+                "end": 12.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 뭐 요 옆에 있는 거 500세대인데 우리 건 3000 5000세대다 그러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.349,
+                "end": 16.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다르지",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.496,
+                "end": 16.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그 세대수에 대한 보증도 들어가 줘야 될 거고 입지도 다를 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.829,
+                "end": 20.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.682,
+                "end": 20.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 뭐 옆에 있는 아파트는 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.986,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "화자가 물가 상승률과 세대수에 대한 차이 보증에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18112_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

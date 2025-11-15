@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18469",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 아파트를 예시를 들자면은 이 아파트가 어떻게 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 제가 이러면 지금 실거래가 2억 7천이니까 여기서 더 빠지지 않을 겁니다라고 얘기하지만 5억에 산 사람은 떨어진다라는 거고 지금 3억 4천에 전세 살고 있는 사람 2천에 100만 원에 월세 살고 있는 사람",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.114,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "이 아파트가 어떻게 될까라고 하면 사람마다 케이스가 다 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

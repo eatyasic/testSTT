@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17693",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모르고 있으면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.085,
+                "end": 1.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 좀 조심해야 된다라고 했는데 아 제가 이제 이쯤에서 약간 좀 이제 직구를 1번 들어가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.633,
+                "end": 7.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 우리 한국 부동산도 거의 한 작년 이맘때쯤부터 22년 하반기부터 이제 금리가 급격히 오르면서 물론 그 전부터 거래 안 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.803,
+                "end": 19.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 굉장히 심리가 위축되고 실제적인 가격도 많이 떨어지고 어 그리고 인제 그 원인 중의 하나가",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.424,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "남성은 한국 부동산 얘기를 하면서 다른 남성에게 직구를 던지는 질문을 하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18922",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 책 제목은 여기 보시는 것처럼 부동산 절세 무작정 따라하기 도서출판 길벗에서 이렇게 냈구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 아시는 것처럼 이 무작정 따라하기 줄여서 인제 무따기 시리즈라고 하는데 저도 이 시리즈는 어렸을 때부터 어 봤었던 그런 책이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.535,
+                "end": 16.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그때 제가 봤었던 문구가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.816,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "부동산 절세 무작정 따라하기는 길벗에서 출판됐으며 무작정 따라하기는 무따기 시리즈라고도 불린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

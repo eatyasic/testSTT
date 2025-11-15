@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_19326",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.859,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 행안부 요즘에 많이 들어봤죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘에 어떤 장관이 뭐 탄핵 소추 되고 막 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.766,
+                "end": 4.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 정치 분위기가 지금 안 좋은 거예요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.544,
+                "end": 8.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 우리가 지방세는 그러는데 그 다음에 종부세하고 양도세는 어떠냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.764,
+                "end": 16.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 국세라고 해요 국세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.141,
+                "end": 17.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말 그대로 중앙 정부에 대해서 이제 운영하는 그런 세금을 걷어 들이는 건데 이 때 주무부서는 기획재정부입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.312,
+                "end": 24.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기획재정부 밑에 이제 국세청이 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.896,
+                "end": 27.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해 가지고 이제 이런 식으로 되고 있기 때문에 여러분들이 만약에 내가 취득세에 대해서 궁금하다 그러면 세무서 찾아 가면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.798,
+                "end": 34.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쪽 주무부서가 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.667,
+                "end": 36.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 물건적 관할 지자체 시청이나 구청 가셔야 돼요 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.162,
+                "end": 40.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 양도세나 종부세 국세에 대해서 궁금하다 그러면 세무서에다 문의를 하셔야 되는 거고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.370,
+                "end": 45.845
+            }
+        ]
+    },
+    "summary": "종부세나 양도세는 국세이며 주무부서는 기획재정부이고 그 아래 국세청이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19326_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYR_19538",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소녀야 이리 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀야 이리 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.172,
+                "end": 2.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀야 이리 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.003,
+                "end": 5.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소녀야 우주야 하하하 소녀야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.943,
+                "end": 10.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 못말려 진짜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.037,
+                "end": 14.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우주야 빨리 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.402,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "소녀랑 우주가 물에 들어가는 걸 주인이 이리오라며 부르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19538_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 15,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

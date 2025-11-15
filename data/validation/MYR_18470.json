@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18470",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.318,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 1억 7천에 전세 들어가는 사람 같은 아파트라도 그 사람마다 다 다른 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 지금 자기가 들어가 있는 무주택자인데 들어가 있는 전세금보다 매매가가 더 내려왔다면 어 충분히 그걸 매수해도 되는 어떤",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.753,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "같은 아파트라도 사람마다 다 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18470_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

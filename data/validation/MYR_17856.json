@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17856",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속 읽어 나가다 보니까 아까 그 직원이 집요하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음 날 찾아온 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.584,
+                "end": 7.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원장님 이런 말이 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.329,
+                "end": 8.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐냐 그랬더니 건축물이 작은데도 증축할 수 있는데요 증축.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.702,
+                "end": 13.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 또 막 와 좋아했다가 야 증축하면 뭐 하냐 10평짜리에 20층 올리면 뭐하니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.747,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "직원이 작은 건물도 증축할 수 있다는 것을 확인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17856_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

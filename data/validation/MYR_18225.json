@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_18225",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.034,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "작년 60이었죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 이제 60에서 100까지 레인지가 딱 정해져 있거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.208,
+                "end": 4.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그럼 정부가 정하는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.043,
+                "end": 5.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 작년 60을 했었는데 올해 80으로 올라가는 것 아니냐 이런 말들이 많이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.704,
+                "end": 11.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그랬는데 저는 개인적으로 80으로 올릴 것 같다라고 생각을 했었거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.166,
+                "end": 15.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐 하면 다른 곳에서도 많이 풀었고 정부 입장에서는 80으로 딱 중간을 가지고 있어야지 지금 뭔가 상황에 따라서 좀 낮추거나 올리거나 좀 이게 에 운용에 폭을 할 수가 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.316,
+                "end": 26.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 60 퍼센트 유지했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.170,
+                "end": 28.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 제가 이제 블로그 글을 다 작성을 하고 쭉 올렸는데 하나 빠뜨린 게 있더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.473,
+                "end": 34.034
+            }
+        ]
+    },
+    "summary": "정부가 작년과 동일하게 60퍼센트 유지했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18225_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

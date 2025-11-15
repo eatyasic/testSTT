@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18915",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.949,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 방법을 통해서라도 돈이 어떻게 흘러가고, 그 돈이 다시 어떻게 돌아오고 이 흐름을 쫓으면서 한 번 힌트를 얻어보자는 게 저희 책의 이 취지구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참고로 저는 커피를 못 마셔요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.096,
+                "end": 10.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.360,
+                "end": 11.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 원래 좋아했는데 건강상 이유땜에 커피를 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.529,
+                "end": 15.949
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 쓴 책의 취지에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

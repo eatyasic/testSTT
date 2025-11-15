@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17724",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.06,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 100페이지 가지고 설명할 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸로 오피스텔은 그냥 과세체계 끝낸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.581,
+                "end": 4.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리가 오피스텔을 처음에 산다 취득 단계. 그럼 그냥 얘는 취득세 4.6프로입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.166,
+                "end": 9.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중과가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.847,
+                "end": 11.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 여러분들 좀 많이 현혹시 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.225,
+                "end": 15.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 대신 조심해야 되는 건 법인은 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.671,
+                "end": 18.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인 본점 소재지가 대도시 안에 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.281,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "처음 오피스텔을 매매하면 중과 없이 취득세 4.6퍼센트이며 이 부분에 보통 현혹되고 법인의 경우는 조심해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17724_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

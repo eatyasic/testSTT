@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17944",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.164,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아버지하고 다시 화해를 할 수 있다고 믿고 있었는데 열심히 그거 때문에 하고 있었는데 아버지는 왜 갑자기 나한테 이렇게 시간을 안주시나 이런 상황에서 음 그런 거에 대한 원망도 좀 있었고 그랬는데 하루 이틀 지나다 보니까 이제 그런 모습으로 아버지를 보내드리기가 싫은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무나 쓸모없는 아무것도 할 줄 모르는 이런 정말 어디 내놔도 부끄러운 부끄러운 아들 이런 모습으로 아버지를 보내드리고 아버지한테 마지막 제 아들의 기억이",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.418,
+                "end": 29.162
+            }
+        ]
+    },
+    "summary": "나는 아버지와 다시 화해를 할 수 있다고 믿고 열심히 하고 있었는데 아버지께서 이런 상황에서 편찮으신 것에 대한 원망이 있었으나 하루, 이틀 지나다 보니 쓸모 없고 부끄러운 아들의 모습으로 아버지를 보내기는 싫었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

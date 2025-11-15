@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18193",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하신 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 처음에는 제가 사실 첫 투자는 일산 아파트 갭투자였고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.752,
+                "end": 6.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 갭투자 네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.355,
+                "end": 6.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 아마 아 이천 잘 기억도 안 나는데 지금으로부터 한 한 20년 전일 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.340,
+                "end": 13.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.792,
+                "end": 14.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그때는 무슨 투자라는 개념보다는 이제 저희 부모님이 일산에 거주하시거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.400,
+                "end": 18.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.620,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "첫 투자는 일산 아파트 갭투자였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

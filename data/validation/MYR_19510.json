@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_19510",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그거 말고도 이제 종합적으로 봤을 때 금융상품 역시 좀 미리 증여하는 게 좋은지 아니면 뭐 그 외에 다른 좀 좋은 방법이 있는지 좀 전략이 있다면 알려주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 일단은요 그 미리 증여라는 개념보다는 항상 증여라는 게 그렇지 않습니까 저평가된 것",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.158,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "금융상품 역시 미리 증여하는 게 좋은지 다른 좋은 방법이 있는지에 대한 전략을 질문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

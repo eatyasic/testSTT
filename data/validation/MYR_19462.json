@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19462",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 대체주택을 비과세를 해주려면 이 A주택이 완공이 된 다음에 여기서 직접 거주해야 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.273,
+                "end": 6.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 요 대체주택을 그 이 A주택이 완공되기 전이나 완공된 후 원칙이 2년인데 요건 개정안으로 3년으로 바뀌었다 이내에 대체주택을 양도하셔야 되는 거고 이 A주택이 완공되고 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.801,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "대체주택을 비과세를 해주려면 완공 된 이전이나 이후 원칙적으로 2년이지만 3년으로 바뀌었고 이내에 대체주택을 양도 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19462_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

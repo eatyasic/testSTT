@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18099",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 뭐 그걸 해서 뭔가 제가 뭐 수익을 내거나 그런 생각은 없고 우리 수강생분들 대상으로 좀 뭐 하고 같이 공부하면 어떨까 그런 생각이 좀 드는 데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아휴 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.797,
+                "end": 9.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기회 마련해주시면",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.515,
+                "end": 10.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 좀 인상적이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.444,
+                "end": 11.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.848,
+                "end": 12.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 저희 마지막으로 저희 채널을 시청하고 계시는 좀 분들에게 출연 소감 그리고 응원 말씀 좀 부탁드리고 용 만 멘트",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.339,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "화자가 수강분들 대상으로 같이 공부하면 어떨까 그런 생각이 든다라라고 이야기한 후 출연 소감과 응원을 부탁하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

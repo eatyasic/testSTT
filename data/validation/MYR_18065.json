@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18065",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 이게 평당 9500?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9500, 9500",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.685,
+                "end": 3.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 9000이 넘었다는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.485,
+                "end": 4.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9000 확실히 넘었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.611,
+                "end": 5.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.708,
+                "end": 6.325
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 뒤에 아파트가 평당 1억 2000",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.335,
+                "end": 8.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.707,
+                "end": 9.382
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 바로 한남 뉴타운의 가치의 기준이 될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.392,
+                "end": 12.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.970,
+                "end": 13.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.918,
+                "end": 14.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 이걸 기준으로 했을 때 이제 어떤",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.346,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "두 남성이 한남 뉴타운 가치의 기준에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

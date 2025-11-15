@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_17482",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.508,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래 그러다가 이제 실수하는 경우가 좀 있으신 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째는 뭐냐면은 세대 분리에 대한 개념이 조금 오해하시는 게 있는 거 아닌가 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.241,
+                "end": 9.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 세대 분리라는 거는 뒤에서도 말씀 드리겠지만 주민등록표 세대 분리를 하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.789,
+                "end": 15.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 떨어져 살아야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.239,
+                "end": 16.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 여러분들이 대부분 열 분 중에 여덟 아홉 분들은 야 그 실제 같이 사는지 안 사는지 어떻게 아니라고 말씀하시는데 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.824,
+                "end": 26.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 그걸 알 수 있는 방법은 거의 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.410,
+                "end": 29.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그런데 꼭 이거를 알아야 된다라고 마음을 먹잖아요 이 과제 당국이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.175,
+                "end": 34.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 어디까지 뒤지냐면은 장난 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.988,
+                "end": 38.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 좀 말씀을 드리도록 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.419,
+                "end": 41.508
+            }
+        ]
+    },
+    "summary": "남성이 세대 분리는 주민등록표 상에 세대 분리를 하고 실제로도 떨어져 살아야 되고 실제 같이 사는지 어떻게 알 수 있냐고 하는 분들도 많은데 만약 과제 당국이 알아야 된다고 마음을 먹으면 장난이 아니라고 조언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17482_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

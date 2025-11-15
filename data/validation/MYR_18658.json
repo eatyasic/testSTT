@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18658",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.827,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 어찌 됐든 선 주택자 이상이신 분들은 아직까지는 중과세율에 대해서 가끔 인제 저에게 고정적으로 자문을 맡기시는 분은 이거 계산을 해보면 또 획기적으로 줄질 않는 분도 가끔 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 물론 이 계산을 진짜 돌려보셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.276,
+                "end": 14.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 그래서 그래서 본인의 종합부동산세 계산 자체가 그 홈택스에 가면 간단하게 할 수 있기 때문에 요즘 시스템이 잘돼있어서 간단한 것들은 한 번씩 좀 해 보셨으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.106,
+                "end": 24.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라고 좀 제가 꼭 말씀을 드리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.714,
+                "end": 27.827
+            }
+        ]
+    },
+    "summary": "선 주택자 이상이신 분들은 아직까지는 중과세율에 대해 고정적으로 자문을 맡기시는 분은 계산을 해보면 획기적으로 줄지 않는 분도 가끔 있고 홈택스에 가면 간단하게 계산을 할 수 있기 때문에 한 번씩 해봤으면 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18658_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

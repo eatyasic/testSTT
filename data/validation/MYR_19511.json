@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19511",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.024,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저평가된 거를 낮을 때 가격이 낮을 때 옮기는 게 증여세 측면에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.741,
+                "end": 5.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 당연히 메리트가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.243,
+                "end": 7.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.031,
+                "end": 7.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해외주식만 예를 들어보면요 그 해외주식이 그 배우자간의 증여에서 양도한다 이게 2년 전에 엄청나게 많이 왜 여쭤 여쭤보셨죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.697,
+                "end": 16.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 이게 그만큼 났으니까 작년에 이거 안 물어 보셨거든요 작년에는 오히려 메인이 증여에요 왜",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.755,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "가격이 낮은 저평가된 거를 옮기는 게 증여세 측면에서는 당연히 메리트가 있다며 2년 전에는 해외주식이 배우자간의 증여에서 양도 하는을 것을 많이 물어봤었고 작년에는 오히려 메인이 증여였다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

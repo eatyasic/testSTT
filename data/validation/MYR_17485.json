@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_17485",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 70.57,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 이유는 어 인제 세무사님이 말씀하시는 걸로는 빈번한 세법 개정과 유권 해석 변경으로 너무 어려워졌기 때문인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세무 전문가인 세무사님들조차도 이거를 어 좀 잘못 실수하는 경우가 있으니 이건 좀 너무 한 거 아니냐 아 라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.660,
+                "end": 15.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 저도 굉장히 동 동의를 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.115,
+                "end": 17.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 뭐 세무사는 아니지만 저는 그냥 일반 평범한 일반 개인이에요 여러분들하고 똑같은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.425,
+                "end": 21.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 어쩌겠나 세법의 무지와 무관심으로 인해서 억울하게 세금 폭탄을 맞고 눈물짓지 않으려면은 공부하는 수 밖에 없다 저는 이 말이 가장 정말 와 닿는 말이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.354,
+                "end": 31.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들에게 꼭 해주고 싶은 말이어서 가져 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.211,
+                "end": 33.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 우리 사람이 살아가는데 있어서 정말 중요한 것 중에 하나가 어 신체 상에 건강 우리 일단 몸이 건강해야 되잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.543,
+                "end": 43.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 두 번째가 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.521,
+                "end": 45.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재산권 그리고 이제 이런 것들을 밑 바탕으로 해 가지고 더 이제 약간 고상한 어떤 행복이라던지 형이상학적인 그런 가치로 이제 가야 되는 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.302,
+                "end": 55.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이 재산권이라는 거는 굉장히 중요한 우리의 권리인데 이거를 내가 잘못 인지하고 있거나 오해하고 있으면은 그걸 잘 지키지 못 한다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.608,
+                "end": 67.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러기 때문에 어떻게 해야 된다 공부 해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.423,
+                "end": 70.570
+            }
+        ]
+    },
+    "summary": "남성은 빈번한 세법 개정과 유권 해석 변경으로 세무사조차도 실수하는 경우가 있다고 말하며 무지와 무관심으로 세금 폭탄을 맞지 않으려면 우리도 공부를 해야 한다고 조언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

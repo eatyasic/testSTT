@@ -1,0 +1,241 @@
+{
+    "metadata": {
+        "filename": "MYR_17558",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 74.374,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 위험하죠 이거는요 제가 보면은 이거는 어 성인병 같은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.621
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성인병",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.631,
+                "end": 5.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 고혈압이나 당뇨 잘 관리하면 그거 넘어 가는 거고 위기 때 이게 터져버리는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.370,
+                "end": 12.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "작년에 위기 때 터진거잖아요. 가계 부채 이거 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.081,
+                "end": 15.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장을 있는 그대로 바라 보는 게 무엇 보다 중요한 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.682,
+                "end": 18.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 어 이 폭락 폭등 이런 걸 가장 싫어합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.697,
+                "end": 22.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "있는 그대로 바라 볼 수 있는 균형추가 저는 중요 하다고 바라 보는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.899,
+                "end": 29.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에도 또 역전세난이 약간 어 잦아 드는 거는 특히 아파트 시장으로 보면 2가지 더 팩트가 더 있는데 지금 전세 보증금 반환 자금 대출을 해주잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.351,
+                "end": 39.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.912,
+                "end": 40.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 원래 DSR 60이 아니라 DTI 60이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.529,
+                "end": 43.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.427,
+                "end": 44.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 어떻게 되냐면은 이게 전세 대출을 나가는 걸 보니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.351,
+                "end": 47.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 은행에서 어 대출을 해줄 때 세입자가 없다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.698,
+                "end": 52.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 세입자가 없다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.873,
+                "end": 54.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 없다고 보니까 전입 세대 열람을 해서 공란으로 나와야 빌려 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.102,
+                "end": 60.354
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 60.364,
+                "end": 60.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이 돈을 누구한테 주냐면은 집주인한테 돈을 안 줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 60.988,
+                "end": 63.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차익 만큼 신청 한만큼 이거 세입자한테 쏴줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.398,
+                "end": 67.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.090,
+                "end": 67.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 세입자를 보호 하기 위하여 대책이 나왔다 보면 되는데 문제는 전세를 못 구할 때는 어떻게 되느냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.812,
+                "end": 73.118
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 73.128,
+                "end": 74.374
+            }
+        ]
+    },
+    "summary": "전문가는 가계 부채 때문에 시장을 그대로 바라 보는 것이 중요 하며 역전세난이 잦아 드는 이유를 설명 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

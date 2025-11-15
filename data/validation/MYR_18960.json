@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18960",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.286,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넣었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구성 나름 뭐 탄탄하지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.590,
+                "end": 4.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 이 책인데 예 지금 이제 실물은 아마 인제 이 영상을 이제 보실 때쯤 되면 이제 서점에 다 깔려 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.245,
+                "end": 12.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 인제 양은 한 300 한 50페이지 정도 그리고 인제 점점 가다가 에 좀 늘어나지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.467,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "여러분들이 이 영상을 보는 시점에는 서점에서 이 책을 볼 수 있으며 양은 350페이지 정도지만 더 늘어날 것으로 예상한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18960_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

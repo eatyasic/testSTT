@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18332",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.428,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 현재는 1년 미만 70퍼센트 그리고 1년 이상 2년 미만 60퍼센트 주택하고 조합원 입주권도 마찬가지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 간혹가다가 댓글이 달리고 있어요 유튜브 채널에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.958,
+                "end": 14.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 같은 경우에는 2년 이상 보유하면 기본 세율 즉 6에서 40으로 알고 있다 그렇게 문의를 주신 분이 계시는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.582,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "남성 화자가 현재는 1년 미만 70퍼센트 그리고 1년 이상 2년 미만은 60퍼센트인데 간혹가다가 유튜브 댓글에 분양권 같은 경우에는 2년 이상 보유하면 기본 세율로 알고 있다 그렇게 문의하신다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18332_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

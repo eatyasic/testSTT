@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "filename": "MYR_19190",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 53.386,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돈을 줬으니까 그래서 거기에 대해서 인정 이자 같은 거 나오고 그런 이제 막 그런 여러 가지 이제 회계 처리들이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.047
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 송금 불산이 나오고 대표자 상여 나오고 할 수 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.057,
+                "end": 10.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세무사 사무실에 맡기면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.576,
+                "end": 12.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 제가 이 기사를 가져온 이유 중에 하나가 이겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.379,
+                "end": 15.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 정리가 잘 돼 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.797,
+                "end": 17.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 뭐 세법개론 책에 보면 다 있긴 한 거긴 한데 굉장히 정리가 잘 돼 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.504,
+                "end": 22.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 설립 절차를 보면 법인 같은 경우에는 설립 등기를 해야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.586,
+                "end": 26.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인 같은 경우에는 사업자 등록만 하면 그냥 끝난다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.643,
+                "end": 30.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이게 제일 중요하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.113,
+                "end": 31.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세로 과세가 되고 개인은 종합소득세 소득세로 과세가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.702,
+                "end": 36.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아까 우리 말씀드렸던 굉장히 길게 설명했던 게 이겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.694,
+                "end": 40.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인은 소득세 법인은 법인세 그래서 과세 체계가 완전히 다르다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.762,
+                "end": 46.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 세율은 9에서 24 6에서 45 그리고 이게 이제 또 굉장히 중요해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.656,
+                "end": 51.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 기사 내용에는 없는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.449,
+                "end": 53.386
+            }
+        ]
+    },
+    "summary": "법인은 법인세로 과세가 되고 개인은 종합소득세로 과세가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

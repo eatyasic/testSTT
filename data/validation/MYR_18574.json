@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18574",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말씀 들이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그거 때문에 했는데 무슨 466명이나 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.402,
+                "end": 5.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 환장하겠네 진짜 에 개인상담도 228명이나 있고 에 저 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.744,
+                "end": 16.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 분명히 말씀드립니다 그래서 제 블로그 어 그리고 카페",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.229,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "채널에 친구가 466명 개인상담에 228명이나 있어서 환장한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

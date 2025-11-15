@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18729",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 깨져 버려서 조심해야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 6개월 이상 공실이 발생 경우에도 임대 기간을 채우지 못한 것으로 간주될 수 있기 때문에 특히 장기간에 공실이 되는 경우에는 좀 조심하셔야 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.293,
+                "end": 10.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 이에 대해서는 좀 이슈가 있을 수 있기 때문에 가급적이면 공실을 3개월 이내로 전 하면 좋을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.757,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "6개월 이상 공실이 발생할 경우에도 임대 기간을 채우지 못한 것으로 간주할 수 있기 때문에 특히 장기간 공실이 되는 경우에는 조심해야 하고 가급적이면 공실은 3개월 이내로 하면 좋을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18729_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

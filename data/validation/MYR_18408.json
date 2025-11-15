@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18408",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.817,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김포에서 장기역 그 인근에 아파트가 되게 많은데 여기에서 조금 더 가까운도 있고 조금 멀지만 브랜드랑 단지가 큰 게 있는데 과거에는 브랜드가 큰 게 더 많이 올랐었단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 지금 같은 가격이라면 과거에 많이 올랐다가 지금 가격이 같아진 데가 있으니까 그러면은 옛날에 많이 올랐던 데는 실거래가 높은 게 찍혀 있을 거 잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.792,
+                "end": 26.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 얘가 더 높을 가능성이 많지 않나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.514,
+                "end": 29.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.371,
+                "end": 30.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 동의",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.235,
+                "end": 31.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 한번 동의하는 게 먼저 그렇게 올라본 녀석들이 또 올라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.555,
+                "end": 35.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이유가 있잖아요 거기까지 올랐을 때는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.634,
+                "end": 38.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 실거래가 한 번 거기를 간 거랑 한 번도 안 간 거는 좀 차이가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.343,
+                "end": 44.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 그 아실에 여러 가지 비교 기능 때문에 자신 있게",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.373,
+                "end": 50.817
+            }
+        ]
+    },
+    "summary": "아실에 여러 가지 비교 기능이 있기 때문에 자신있게 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18408_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

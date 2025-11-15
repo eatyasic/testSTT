@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18119",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 그 3채가 그 요즘에 오세훈 서울 시장이 신속 통합 계획이라고 해서 음 그게 극초기 재개발 투자한 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.086,
+                "end": 7.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신속 통합 계획 후보지로 딱 확정이 돼 버리면 그다음에 구역 정비 구역 지정을 빨리 해주겠다 뭐 그게 이제 신통인데 제가 작년에 3군데를 투자를 했었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.611,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "화자가 신속 통합 계획에서 극초기 재개발 투에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

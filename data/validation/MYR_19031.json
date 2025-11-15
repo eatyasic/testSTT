@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19031",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 국세청이 이거 감정 평가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.577,
+                "end": 4.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기들 스스로 할 수는 없고 예산 확보해서 외부 감정사들한테 의뢰해 가지고 법인들한테 의뢰해서 이게 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.321,
+                "end": 12.328
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.338,
+                "end": 13.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 예산 45억 예산 한번 보실까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.030,
+                "end": 15.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 45억?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.747,
+                "end": 16.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20년에 19억에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.498,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "국세청이 감정 평가를 할 때 스스로 할 수는 없기 때문에 올해 45억 예산을 확보해서 외부 감정사들에게 의뢰를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19031_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

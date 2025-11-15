@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18253",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.367,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 기본계획 안전재단 지역 구역 지정 추진위원회 조합해가지고 사업시행인가 이 이 이 엄청 오래 걸리거든요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이 여기서 엄청나게 갈등이 생기고 네 요 부분을 신탁사 특례를 통해가지고 좀 줄여보겠다하는 건데 아 요거는 이제 좀 더 구체적인 좀 내용이 좀 나와보고 어 어떤식으로 되는지 좀 들여다봐야 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.729,
+                "end": 21.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 관련된 법도 좀 봐야 되고 하니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.289,
+                "end": 23.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어쨌든 정비사업 중에서 사업이 좀 잘 진행되기로 한 그런 구역들이 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.946,
+                "end": 32.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 곳들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.673,
+                "end": 34.367
+            }
+        ]
+    },
+    "summary": "사업 시행이 되는 과정에 대해서 특례를 주는 것을 설명해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18253_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

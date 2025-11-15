@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18069",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 지금 제일 좋은데 청량리라고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 청량리요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.902,
+                "end": 2.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청량리는 뭐 지금 쥐티엑스 비시가 동시에 들어 오는 역이 그 서울역, 삼성역, 청량리역이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.974,
+                "end": 12.267
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.277,
+                "end": 12.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 철도 노선 뿐만 아니라 여러분들 에스카이 65가서 보셨는지 모르겠는데 거기 에스카이 수자인 그다음에 효성 헤밀턴 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.675,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "두 남성이 청량리에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

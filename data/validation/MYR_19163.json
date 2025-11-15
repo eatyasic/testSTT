@@ -1,0 +1,236 @@
+{
+    "metadata": {
+        "filename": "MYR_19163",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 106.272,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘못하면 아무튼 여기 이 한 줄이 굉장히 중요한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인사업자가 내는 법인세 신고 기한은 결산 법인별로 다 있는데 아 좀 말이 어렵죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.973,
+                "end": 9.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결산이라는 거는 말 그대로 이제 장부 이제 마감한 날 이거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.222,
+                "end": 11.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통은 12월에 결산해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.002,
+                "end": 13.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 뭐 이거는 우리가 상식적으로 여러분들 생각하시면 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.958,
+                "end": 16.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 다니는 회사 1월달에 열심히 일하고 12월 되면 결산하고 이제 그다음에 또 시무식하고 종무식하고 그런 거 하지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.390,
+                "end": 24.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 12월달 결산을 한다 그러면은 3개월 후인 3월 31일 이때까지 이제 해당 법인세 신고를 정산해가지고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.491,
+                "end": 32.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 지금 딱 3월이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.446,
+                "end": 33.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 세무사 3월 지금 엄청 바빠요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.580,
+                "end": 35.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이거 중소기업은 이제 일반적인 기업들은 이제 결산하느라고 아 저는 남들과 같이 가는 게 싫기 때문에 3월 결산으로 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.837,
+                "end": 43.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 3개월 후인 6월 30일까지 하시면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.167,
+                "end": 45.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6월 9월은 9월 12월 이렇게 각각 뒤로 이렇게 늘어나는데 어 남들하고 이런 거는 같이 묻어가는 게 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.777,
+                "end": 52.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굳이 약간 내가 용가리 통뼈라고 내가 3월 결산 6월 결산해가지고 6월 말일 9월 말일 이렇게 하잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.740,
+                "end": 58.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 세무사 사무실에서 이제 세무사 사무실은 3월 법인세 끝나고 특히 이제 5월 종합소득세 이게 이제 죽음이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.841,
+                "end": 65.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 6월달에 또 이제 뭐 부가세도 해야 되고 막 엄청 이게 막 바쁘단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.355,
+                "end": 70.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래가지고 이제 하반기 때 이제 좀 쉬려고 하고 있는데 저 6월 결산법이니까 제 거 9월달까지 해주세요 그러면은 아 매출도 얼마 안 되는 것 같고 기장료도 안 되는데 그러면 저 안 할래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.552,
+                "end": 79.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 이럴 수도 있어 만약에 아니 예를 들자면 그러면 이제 이상한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 79.720,
+                "end": 83.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 일선 관할 세무서도 마찬가지 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 83.465,
+                "end": 87.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 3월 5월달 막 이렇게 법인 개인 다 들어와가지고 다 끝내고 있는데 나중에 통 오면 아 심심한데 얘 거나 좀 볼까 그러다가 정부 막 뒤지면 어떡할라고 그래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 87.016,
+                "end": 95.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 그냥 무난하게 우리는 12월 결산 법인 하면 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 95.634,
+                "end": 99.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 법인 설립하실 때 언제까지 결산할 거냐 그러면 이제 12월 결산 법인이라고 얘기하시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 99.168,
+                "end": 106.272
+            }
+        ]
+    },
+    "summary": "결산 법인은 무난하게 12월에 묻어가는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19163_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

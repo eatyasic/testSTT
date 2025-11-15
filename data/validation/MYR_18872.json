@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18872",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.602,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선이 아닌가 싶구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방으로 내려갈수록 쫌 커지는 경향이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.101,
+                "end": 3.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨위에 있는 전북을 보면 평균이 400제곱미터에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.450,
+                "end": 6.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "100,100평이 넘네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.503,
+                "end": 8.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 100 한 30평, 40평?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.338,
+                "end": 9.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체 평균보다 대략적으로 한 70제곱미터가 더 큰, 80제곱미터가 더, 강원 같은 경우에도",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.794,
+                "end": 18.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쫌 크고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.448,
+                "end": 19.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 부분을 봤을 때 제 책에도 상세하게 나오지만 이게 지역 별로 매장 크기가 다른 것과, 이유와 그리고 거기에 따른 임대료가 약간씩은 다른",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.474,
+                "end": 31.598
+            }
+        ]
+    },
+    "summary": "화자1은 지방으로 내려갈 수록 매장 크기가 커지는 경향이 있다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18872_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

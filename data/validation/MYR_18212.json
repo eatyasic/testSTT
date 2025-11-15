@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18212",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정비 사업지가 아 노후 조청 주거지가 주거 환경이 개선되기 전에 여기에 아파트가 이미 들어와 있다면 이 아파트의 가치는 어느 정도가 될지를 그때부터 이제 연구도 하고 데이터를 좀 뽑기 시작했고 그러다 보니까 어떤 로직이 나왔어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.299,
+                "end": 15.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 딱 계산을 해보니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.300,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "이 아파트의 가치는 어느 정도가 될지를 그때부터 연구하고 데이터를 뽑기 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19437",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.382,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "승계 조합원 입주권을 취득해야 돼요 근데 이게 원래 1년 이상 규정이 없었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 22년 2월 14일 그러니까 15일에 시행령이 개정됐거든요 그래서 2월 14일 이전 취득한 조합원 입주권은 1년 이상 취득 조건이 없는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.474,
+                "end": 15.382
+            }
+        ]
+    },
+    "summary": "22년 2월 14일 이후 15일에 시행령이 개정돼서 2월 14일 이전 취득한 조합원 입주권은 1년 이상 취득 조건이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

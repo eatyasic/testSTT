@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17703",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.072,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭐 이제 효율적이냐 효율적이지 효율적이지 않다 이거를 기업 입장에서도 판단을 할 거고 그런 결과들이 이제 조금 나오면서 앞으로 오피스 빌딩 같은 경우도 좀 변화가 있지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그 코로나의 가장 큰 덕을 본 회사 중에 하나인 줌 있잖아요 줌.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.672,
+                "end": 16.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 줌.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.235,
+                "end": 16.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 거기도 다 오피스가 그 그 뭐지 비대면 하다 없애고 출근해라 약간 아이러니했었죠 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.690,
+                "end": 27.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "줌이? 줌이 출근한다고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.018,
+                "end": 29.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 어 가장 저도 개인적으로 염려하는 게 금리를 내리려면 한번 충격이 와야 되는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.596,
+                "end": 36.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.987,
+                "end": 39.072
+            }
+        ]
+    },
+    "summary": "화자2는 코로나 사태의 가장 큰 덕을 본 회사 줌에 대해 이야기하며 본인이 염려되는 점을 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17703_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

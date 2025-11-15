@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17745",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.388,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공유를 드릴게요. 저희 카페에도 좀 올라와있으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "A주택을 18년 8월달에 취득을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.204,
+                "end": 6.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 23년 4월까지 실거주해서 매도함. 저는 이 말이 제일 무서워요. 왜냐하면 이미 매도를 해버렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.828,
+                "end": 14.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그냥 잘 되면 상관이 없는데 혹시라도 문제 있다고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.270,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "화자는 18년 8월달에 A주택을 취득하고 23년 4월까지 실거주 후 매도를 했다는 시청자의 사연을 공유한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17745_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

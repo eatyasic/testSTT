@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17841",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.203,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 좀 붙들고 있으면 1년만 좀 다시 올라갈 텐데 그때 딱 팔려고 하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 좀 깡이 필요하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.641,
+                "end": 6.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때는 배짱이 좀 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.939,
+                "end": 9.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 너무 이제 잘하시고 많이 아시기 때문에 다는 말씀 못 드리겠지만 저처럼 이제 땅에 대해서 아무것도 모른다 잘 모른다 그런 사람이 딱 처음에 시작하면 뭐부터 하면 제일 좋을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.315,
+                "end": 21.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 사람들은 혼자서 죽어도 못하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.273,
+                "end": 23.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 잘 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.475,
+                "end": 24.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 카페나 그런 학원이나 하여튼 그런 단체가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.549,
+                "end": 27.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 가면 나보다 다 고수예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.851,
+                "end": 30.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 사람들하고 한 1년 같이 어울려야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.285,
+                "end": 33.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어울려야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.236,
+                "end": 33.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 벌써 다 들어와요 산 경험들 얘기가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.957,
+                "end": 37.203
+            }
+        ]
+    },
+    "summary": "땅에 대해서 잘 모르는 사람들이 제일 먼저 시작해야 할 것은 단체 사람들과 1년을 함께 어울리면서 경험을 듣는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17841_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

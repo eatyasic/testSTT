@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19443",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.484,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.328
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.338,
+                "end": 1.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이거 안 돼요 이제 22년 2월 15일 이후에 취득하는 경우에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.081,
+                "end": 5.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년 이상이 지나야 되고요 그리고 요것도 가끔씩 물어보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.495,
+                "end": 8.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무조건 말씀드리려고 그랬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.981,
+                "end": 10.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래요 요게 3년 경과가 돼야 되는데 이게 만약에 승계 조합원 입주권을 취득하고 3년 이내면 어떻게 될까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.312,
+                "end": 17.484
+            }
+        ]
+    },
+    "summary": "3년 경과가 되어야 하는데 만약에 승계 조합원 입주권을 취득하고 3년 이내면 어떻게 될지 가끔씩 물어본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19443_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

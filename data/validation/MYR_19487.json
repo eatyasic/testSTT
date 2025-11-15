@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19487",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 왜요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전부 다 과세 대상에 들어옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.692,
+                "end": 2.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 쉽게 말해서 그냥 다 그냥 전면 과세하겠다는 거네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.435,
+                "end": 5.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다 전면 과세입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.288,
+                "end": 6.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 주택임대소득 2천만 원 이하 비과세인데 다 하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.708,
+                "end": 10.002
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 뭐 이렇게 말하니까 확 와닿네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.012,
+                "end": 11.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와닿으시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.943,
+                "end": 12.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.320,
+                "end": 12.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 2000만 원 미만이면 비과세였다가 이제 그걸 이제 다 이미 더 노출이 됐잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.992,
+                "end": 17.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.828,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "소액 주주도 과세 대상에 들어오며 주택임대소득 2천만 원 이하 비과세라도 전면 과세라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17560",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.586,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 월세로 들어가려 그러잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 집주인은 전세를 받아야 기존 세입자를 내보낼텐데 월세로만 들어올라니까 완전히 지금 코너로 몰린거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.370,
+                "end": 9.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이 아파트는 그나마 예측이 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.560,
+                "end": 12.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 깡통 전세가 될 지 안 될지 어느 정도 윤곽이 드러나죠 그리고 전세 가격이 많이 빠졌잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.855,
+                "end": 18.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.325,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "전문가는 전세 가격이 많이 빠졌지만 세입자들은 월세로 들어 오려고 하니까 집주인은 코너로 몰렸다고 하며 아파트는 그나마 예측이 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYR_18786",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.559,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "(배경 음악) 전매 제한 규제는 풀렸지만 시장에서는 분양권을 보기 힘듭니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물론 조금 더 시간이 지나면은 바뀔 수가 있는데 현재로서는 아직 얼마 되지도 않았고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.368,
+                "end": 17.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 몇 가지 좀 이유가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.989,
+                "end": 20.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지 이유가 있을 텐데 어 저희는 그래도 채널 재네시스박에서는 부동산 세금 관련해 가지고 어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.072,
+                "end": 26.559
+            }
+        ]
+    },
+    "summary": "전매 제한 규제는 풀렸지만 몇 가지 이유로 시장에서 분양권을 보기 힘들다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18786_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

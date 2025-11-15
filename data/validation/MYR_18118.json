@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_18118",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.328,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 극초기 쪽으로 들어가야 되는 거죠.9",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기는 좀 기약이 없다고 봐야 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.716,
+                "end": 3.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 뭐 있을 수도 없을 수 있다고 봐야 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.488,
+                "end": 5.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 선택하면은 저는 나쁘지 않다라고 보죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.491,
+                "end": 9.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그럼 뭐 예를 들어서 뭐 예측은 못하지만 아까 장애가 2억 중반인데 여기서만 10년 본다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.533,
+                "end": 16.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 본다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.036,
+                "end": 16.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예를 들어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.802,
+                "end": 17.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 참고로 제가 작년에",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.427,
+                "end": 19.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.212,
+                "end": 19.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울의 극초기 재개발 투자를 3채를 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.718,
+                "end": 22.502
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.512,
+                "end": 22.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 3채 평균 갭이 5000이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.834,
+                "end": 25.408
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갭이 5000",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.418,
+                "end": 26.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 갭이 5000",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.285,
+                "end": 27.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.279,
+                "end": 27.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 근데",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.694,
+                "end": 28.328
+            }
+        ]
+    },
+    "summary": "두 남성이 극초기 투자에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

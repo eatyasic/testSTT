@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18884",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 이제 어떻게 될지 모르지만 그런 생각을 미리 해보는 거는 돈 들어가는 것도 아니고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그럼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.319,
+                "end": 4.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 전 좋다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.848,
+                "end": 6.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 잠깐 생각해보면 저는 약간 공격적이라서 그런지는 모르겠지만 저는 정률을 한 번 왜냐면 저는 약간 생각이 이래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.595,
+                "end": 14.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임차인이 힘들면 같이 고통을 분담하는 그러고 잘되면 같이 잘된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.106,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 공격적이라 그런 지는 모르겠지만 정률을 생각하고 있다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18884_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

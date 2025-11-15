@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_19183",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.471,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 제네시스 박이고 제가 운영하는 법인 더 스마트 컴퍼니는 또 그 더 스마트 컴퍼니에 별다른 인격체가 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 얘 이름으로 통장을 해가지고 얘를 그냥 내가 대신 관리하는 것뿐이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.490,
+                "end": 13.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 이 더 스마트 컴퍼니로 돈이 100만 원 200만 원 들어오면 얘 거예요 얘 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.264,
+                "end": 17.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 거가 아니라 어 그러면 여기 있는 돈을 내가 이렇게 딱 가져간다 그럼 무슨 말이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.423,
+                "end": 22.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허락을 받고 가져가야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.181,
+                "end": 23.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 허락을 받아야 된다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.615,
+                "end": 24.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "급여로 좀 빼갈게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.865,
+                "end": 26.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 세금 신고해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.380,
+                "end": 27.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "급여라고 배당으로 좀 빼갈게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.918,
+                "end": 30.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 배당 신고해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.409,
+                "end": 31.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그때 세금이 한 번 더 붙는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.427,
+                "end": 33.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 빼가 내가 대표니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.298,
+                "end": 36.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그게 횡령 배임이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.182,
+                "end": 38.471
+            }
+        ]
+    },
+    "summary": "법인 통장에서 돈을 빼갈 때 내 거라고 그냥 빼가면 배임 횡령이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19183_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17433",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.29,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대출을 받았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 나서 이제 여유가 좀 있잖아요. 왜냐하면 시세가 1억이니까 뭐 이 소유주 입장에서 4000의 여유가 있다고 생각할 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.797,
+                "end": 6.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 후순위로다가 돈을 빌리는데 이제 은행권에서 빌리기 어렵고 보통 이제 뭐 제1금융권 말고 제2금융권이나 아니면 이제 저희 같은 대부 업체 또는 지인들한테 돈을 빌리겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.775,
+                "end": 18.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 은행도 물론 뭐 은행은 뭐 1순위니까 나중에 이게 문제가 되면 경매가 들어가면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.458,
+                "end": 24.290
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 엔피엘의 수익 구조를 예를 들어 설명하고 있다. 시세가 1억인 집을 소유주가 6000만 원을 은행에 대출받아서 구매 했고 본인은 4000만 원의 여유가 있다고 생각을 하며 그럼 후순위로 돈을 빌리는데 그 곳이 제2금융권이나 대부업체 또는 지인들일 것이라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17433_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

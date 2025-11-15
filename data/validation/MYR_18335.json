@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18335",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 두 번째는 주택 임대 사업자입니다 주임사.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인적으로도 저는 개인적으로 아주 좀 기다리고 있는 그런 제도인데 주임사 관련해서 원래는 1분기 때 아파트 신규 등록을 허용을 하고 2분기 때 인센티브를 복원한다고 했는데 역시 마찬가지로 이것도 관련법을 개정을 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.543,
+                "end": 21.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 아시는 것처럼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.246,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "남성 화자가 두 번째는 주택 임대 사업자로 개인적으로 기다리고 있는 제도인데 원래는 1분기 때 아파트 신규 등록을 허용하고 2분기 때 인센티브를 복원한다고 했는데 이것도 관련법을 개정해야 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18335_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19049",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.494,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제외 한다고 명시하지 않았다 그래서 국세청이 감정 평가한 가격대로 고지한 게 잘못이 없다 이렇게 판결이 났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 생각하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.847,
+                "end": 12.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 앞으로 앞으로 똑같은 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.405,
+                "end": 14.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예를 들어서 어떤 종목에 대해서 하더라도 아까 나오기 전에 공 그 하기 전에 그 자료를 등으로 하나 넣으면은 설령 심판원에 간다 하더라도 똑같은 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.303,
+                "end": 25.093
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에이라는 항목에 대해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.103,
+                "end": 26.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.518,
+                "end": 27.494
+            }
+        ]
+    },
+    "summary": "어떤 종목에 대해서 등으로 라는 말을 넣으면 심판원에 가더라도 국세청이 평가하여 고지한 가격에는 잘못이 없다고 판결이 날 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

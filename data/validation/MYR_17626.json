@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17626",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.252,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이제 나머지 좀 구축 이런 것들도 이미 이제 바닥을 다지고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제는 어려운 시기는 좀 지났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.321,
+                "end": 6.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 상가 같은 경우는 아파트는 반등하는데 상가는 이게 금리가 여전히 높다 보니까 뭐 이렇게 뭐 마이너스네? 이런 분들이 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.323,
+                "end": 15.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상가 수익률 3프로인데 뭐 금리가 확 올라갔으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.530,
+                "end": 18.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 분들 갖고 있는 물건들을 급매가 나오거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.612,
+                "end": 21.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러면 가격 절충이 많이 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.889,
+                "end": 24.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 좋은 입지는 원래 안 나와야 되는데 나오더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.316,
+                "end": 27.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 물건들만 그냥 계속 찾는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.563,
+                "end": 30.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 여기는 입지도 완벽하고 그 상권 내에서 제일 좋은 자리인데 병원이 들어가 있네? 물건 나왔네? 가격 흥정이 5천만 원 깎아주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.806,
+                "end": 39.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예스 계속 나네? 그러면 진행해 보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.304,
+                "end": 42.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대출 없이 수익률 7프로 8프로 9프로 오케이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.841,
+                "end": 46.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 대출 없이 나쁘지 않은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.099,
+                "end": 48.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대출 진행하게 되면 이게 12프로 이상 올라오거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.549,
+                "end": 52.252
+            }
+        ]
+    },
+    "summary": "한 남성이 금리가 올라가서 좋은 입지의 상가들이 급매가 나오고 가격 흥정도 계속 나서 대출 없이 수익률이 나쁘지 않게 나온다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17626_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

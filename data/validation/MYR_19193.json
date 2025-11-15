@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19193",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 내용이 여기 밑에 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그래서 아까 이제 법인 돈을 함부로 이렇게 빼가버리면 가지급급 인정이자라고 해가지고 비용 처리가 안 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.617,
+                "end": 12.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법인세 자체가 늘어나고 송금 불산입이라고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.441,
+                "end": 17.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "송금 비용 불산입",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.692,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "법인 돈을 함부로 이렇게 빼가버리면 가지급급 인정이자라고 해서 법인세 자체가 늘어난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

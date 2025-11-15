@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18351",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.286,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경매는 어 싸게 살 수 있는 방법이고 불황에도 수익낼 수 있는 건 이거밖에 없다고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 경매가 가장 좋다고 생각을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.890,
+                "end": 10.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.963,
+                "end": 11.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권은 이 인플레이션 때문에 분양가가 좀 높아질거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.244,
+                "end": 17.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원자재 가격 상승이나 유가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.815,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "여성 화자가 경매는 싸게 살 수 있는 방법이고 불황에도 수익낼 수 있는 건 이거밖에 없다고 생각해서 경매가 가장 좋다고 생각하고 분양권은 인플레이션 때문에 분양가가 높아질 거라고 예상한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

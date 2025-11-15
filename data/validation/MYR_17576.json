@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17576",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.667,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한번 더 들어 가는거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 거기에 이제 투자금과 수익률이 달라지니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.967,
+                "end": 3.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 지금 신길 래미안 전세가가 있을 거고 뭐 할 거 아니예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.199,
+                "end": 8.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구가 높을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.760,
+                "end": 9.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울이 높을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.958,
+                "end": 10.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대구",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.914,
+                "end": 11.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 거기 지금 공급이 많은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.647,
+                "end": 14.502
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공급이 많으니까 그냥 차라리 전세 살려고 아닌가",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.512,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "전문가는 유튜버에게 전세가가 대구가 높은지 서울이 높은지 물어보며 흥미를 이끌어 내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

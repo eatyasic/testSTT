@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18477",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.459,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 달에 150만 원을 내는데 이자는 50만 원 원금 이자는 100만 원 원금은 50만 원 이렇게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 150이 나가니까 굉장히 큰 부담으로 느낄 수 있지만 만약에 내가 월세 100만 원을 낸다고 했을 때는 현금 유출이 원리금이 더 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.568,
+                "end": 19.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 내가 월세하고 이자를 비교를 했을 때 이게 비슷하거나 이자가 더 낮다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.181,
+                "end": 26.459
+            }
+        ]
+    },
+    "summary": "이자는 100만 원 원금은 50만 원이면 150이 나가니까 굉장히 큰 부담으로 느낄 수 있지만 만약에 내가 월세 100만 원을 낸다고 했을 때는 현금 유출이 원리금이 더 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

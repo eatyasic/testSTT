@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18669",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 여전히 동일한 45 퍼센트 적용 되는 6억 초과분은 어떻게 되는 거냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억 초과분 같은 경우에도 재산세가 뭐 87만 원에서 101만 원 107만 원인데 이 역시 2020년 대비해도 30 프로 2022년 대비해도 뭐 30 프로 32 프로 47 프로 다 떨어지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.387,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "6억 초과분 같은 경우에도 재산세가 87만 원에서 101만 원 107만 원인데 이 역시 2020년 대비해도 30 프로 2022년 대비해도 30 프로 32 프로 47 프로 다 떨어지는 거다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18669_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

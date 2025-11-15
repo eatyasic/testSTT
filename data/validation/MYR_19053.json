@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19053",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 거 아니다라고 또 새로운 주장을 펼쳤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 어쩔 수 없었다 우리는 뭐 이렇게 해야 되지 않냐 근데 이건 좀 다퉈 볼만 하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.660,
+                "end": 8.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다퉈야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.983,
+                "end": 9.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 그래서 이제 그런데 이제 국세청 결과적으로는 상가나 이런 거를 증여하실 때는",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.602,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 국세청은 어쩔 수 없었다고 주장을 펼쳤지만 다퉈 볼만 하다고 의견을 제시한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

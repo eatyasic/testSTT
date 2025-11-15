@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "filename": "MYR_17815",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 74.941,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 경매를 워낙 많이 하셨으니까 굉장히 많은 에피소드들을 겪으셨을 텐데 사실 경매 공부할 때 가장 좀 사람들이 겁을 먹는다고 해야 되나? 무서운 것 중에 하나가 유치권이란 말이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 18.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 유치권 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.662,
+                "end": 19.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유치권을 그래도 뭐 타파할 수 있는 방법이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.397,
+                "end": 22.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비법을 좀 알려주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.786,
+                "end": 24.004
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 제 최근에 제가 유치권 하나 찍은 게 있는데 근데 좀 다행스러운 일은 우리나라에 깡패는 별로 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.014,
+                "end": 33.610
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유치권을 깡패가 많이 한다 이렇게 얘기를 하는데 전 실제 무서운 깡패를 본 적은 없고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.620,
+                "end": 41.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한번 상대가 한 50명이 나왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.241,
+                "end": 44.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "깡패가 재밌는 게 꼭 숫자를 많이 데리고 댕겨요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.541,
+                "end": 49.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그럴까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.104,
+                "end": 50.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겁이 많아서 그런가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.420,
+                "end": 51.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 내가 보기엔 오히려 그런 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.180,
+                "end": 53.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 우리가 그때 투자를 한 게 한 50년 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.660,
+                "end": 57.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파주에다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.240,
+                "end": 58.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비슷하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.140,
+                "end": 59.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 여자 반 남자 반 100명이 나왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.714,
+                "end": 62.014
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쪽 깡패는 50명이 나오고 싸움 나니까 신고가 들어왔어 벌써 경찰에 야 근데 그 비 오는 날 판사님이 나오시고 막 그랬는데 세 분이 나오셨는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.024,
+                "end": 74.941
+            }
+        ]
+    },
+    "summary": "남성이 유치권을 타파할 수 있는 방법에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17815_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

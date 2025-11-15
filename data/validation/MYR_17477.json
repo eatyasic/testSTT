@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17477",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 제가 이런 얘기를 하는데 안드레 코스톨라니가 말했어요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 제가 번역한 어 바꾼 건데 보통 2 플러스 2가 4잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.500,
+                "end": 10.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 하지 말고 마이너스 1 플러스 5를 4예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.817,
+                "end": 13.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 이건 무슨 의미죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.897,
+                "end": 15.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 안 좋더라도 나중에 결국은 어 이게 에 어떻게 보면 이 고비를 넘기면은 나중에 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.099,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "남성이 보통 2 플러스 2는 4라고 생각하는데 그렇게 하지 말고 마이너스 1 플러스 5를 4라고 생각하면 나중에 안 좋은 일이 있어도 이 고비를 잘 넘길 수 있다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

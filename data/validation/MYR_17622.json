@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "filename": "MYR_17622",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.799,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 세 가지를 좀 구분해가지고 이런 거 좀 고려하면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 거 좀 약간 조언 좀 해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.862,
+                "end": 5.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 과거에는 사실 뭐 상승장 때는 그 세 부류가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.768,
+                "end": 12.611
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 똑같은 선택을 하는 게 답이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.621,
+                "end": 15.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.085,
+                "end": 15.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그냥 뭐 2015년도다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.707,
+                "end": 17.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 무주택자면 지금 사면 되고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.000,
+                "end": 19.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.907,
+                "end": 20.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다주택자다 그러면 또 사면 되고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.456,
+                "end": 21.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.665,
+                "end": 22.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "갈아타기 하실 수 있는 분은 하면 되고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.173,
+                "end": 23.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.976,
+                "end": 24.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 지금은 그 답이 다 다르다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.483,
+                "end": 27.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요게 포인트인 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.086,
+                "end": 28.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.537,
+                "end": 29.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 이제 심플하게 다주택자부터 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.156,
+                "end": 32.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.059,
+                "end": 32.799
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 조언을 해달라고 부탁했고 다른 남성은 과거 상승장 때는 다 똑같은 선택을 하는 게 답이었지만 지금은 그 답이 다 다른 것이 포인트라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

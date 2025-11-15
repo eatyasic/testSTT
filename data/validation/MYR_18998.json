@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18998",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.117,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 직장가입자는 보험료 산정기준이 가입자별로 부과를 되는데 지역가입자는 세대별로 부과된다라는 게 기억 아니 부과한다는 것을 기억하셔야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세대 별로",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.699,
+                "end": 14.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "합산 합산이 된다라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.197,
+                "end": 15.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.674,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "직장가입자는 가입자별로 보험료를 산정하는데 지역가입자는 세대별로 합산해서 부과된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17840",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.06,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그냥 무조건 땅을 하시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "땅을 해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.980,
+                "end": 3.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 속지만 않고 살면 부자가 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.158,
+                "end": 6.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "속으면 안 되지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.483,
+                "end": 8.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "땅 땅을 하시면서 그동안 불경기를 느껴본 겪어본 적이 없다는 그 말 너무 인상적인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.170,
+                "end": 14.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 몰라서 그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.449,
+                "end": 16.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자꾸만 떨어진다 싶으면 심지어 내가 팔라 그래 그거 안 팔리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.440,
+                "end": 21.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 싸게도 팔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.840,
+                "end": 23.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 가난한 이게 저 마음이야 가난한 마음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.311,
+                "end": 27.060
+            }
+        ]
+    },
+    "summary": "무조건 땅을 하고 속지만 않고 살면 부자가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

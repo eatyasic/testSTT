@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19371",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.215,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "간단하게 말해서 추상적이란 거죠 좀 추상적이긴 한데 어 내가 막상 부동산을 접할 때 아 감평사님이 이런 시각을 가지고 있으니까 나도 이런 시각을 한 번 또 나도 가져봐야 겠다라는 생각이 들더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 어 뭐 챕터 부분에서 어 지역과 시장을 보자 이 파트가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.530,
+                "end": 18.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이 부분은 꼭 읽어 보셨으면 좋겠는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.354,
+                "end": 20.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역과 시장을 보자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.739,
+                "end": 21.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 지역과 시장을 보자라는 파트인데 이런 부동산의 가격이 형성되는 그런 과정이 좀 상세하게 나와있는데 어떤 요소들이 가격에 반영되는지 저도 뭐 어 미처 나도 몰랐던 부분인데 아 이런 부분이 가격에도 반영이 어 결정될 수 있었겠 어 있었겠구나라는 어 그런 생각을 하면서 이제 책을 읽었던 느낌",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.826,
+                "end": 41.207
+            }
+        ]
+    },
+    "summary": "화자1은 책에서 지역과 시장을 보자라는 챕터를 읽기를 추천하고 이유는 부동산의 가격이 형성되는 과정에 대해 상세히 나와 있기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19371_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

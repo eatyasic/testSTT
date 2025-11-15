@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17900",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.657,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이제 뭐 계속해서 공부를 할려고 하는데 우리 @이름1님께서도 어 유튜브 채널을 중심으로 해 가지고 많이 이렇게 도움을 주실 거 같고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.410,
+                "end": 10.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 이렇게 시간 되실 때 한 번씩 또 나와 주십시오",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.430,
+                "end": 12.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 불러주시면 언제든 뭐 즐겁게 즐겁게 놀러 오겠습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.930,
+                "end": 16.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 또 오피스도 그렇게 멀지 않으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.720,
+                "end": 18.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 가깝더라고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.680,
+                "end": 19.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그러니까요 네 그래서 으 마지막으로 저희 우리 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.540,
+                "end": 24.657
+            }
+        ]
+    },
+    "summary": "오피스도 멀지 않으니 시간 될 때 놀러 오라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

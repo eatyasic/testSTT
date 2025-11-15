@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19215",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 누가 아냐 소장님만 아세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 소장님한테 진짜 내가 관심이 있을 때 임장을 자주 다니시고 정말 내 집 마련하고 싶은 구역이 있을 때 자주 가시거나 하면 진짜 눈먼 매물이라는 표현도 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.354,
+                "end": 13.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 요런 게 또 가능한 게 뭐냐면 원주민들은요 @이름1님 사실 그 돈만 받아도 이익이 워낙에 많이 예전부터 갖고 계신 분은 아우 사업도 지지부진하고 지금 부동산도 내리고 나는 이것만 받아도 벌써 예전에 산 금액에 비하면 너무 많이 오른 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.583,
+                "end": 29.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.622,
+                "end": 30.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 매물이 그 가격에 나오는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.319,
+                "end": 32.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.508,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "여자는 내 집 마련하고 싶은 구역이 있을 때 임장을 자주 가다 보면 눈먼 매물도 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19215_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

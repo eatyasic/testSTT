@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18496",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 세 가지에 대해서 제가 설명드릴 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 하지 마시라는 거 그리고 왜 하면 안 되는지 이유 그리고 세 번째 과연 정부 제도 개편이 되면 그때 하면 되는지 그때 뭘 체크하면 되는지 이 세 가지에 대해서 제가 설명드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.265,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "임대주택 등록을 지금은 하지 마시라는 거 그리고 왜 하면 안 되는지 이유 그리고 세 번째 과연 정부 제도 개편이 되면 그때 하면 되는지 그때 뭘 체크하면 되는지 이 세 가지에 대해서 설명하겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

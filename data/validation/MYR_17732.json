@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17732",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.828,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 제 사업장을 여기다가 집어넣었고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이렇게 하면은 그 사람한테 문제가 안 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.708,
+                "end": 10.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 뭐 제가 지금 우리 임대인 분 걱정할 건 아니고 뭐 이제 저보다 훨씬 더 잘 하시기 때문에 아이고 제가 이제 다 말씀을 못 드려요. 근데 아주 배울 게 많이 있으신 분입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.511,
+                "end": 21.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 친하게 지내고 싶은데 어쨌든 이제 음 오피스텔 오해하지 말라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.754,
+                "end": 26.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 오피스텔의 문제가 뭐냐 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.595,
+                "end": 28.828
+            }
+        ]
+    },
+    "summary": "화자는 본인의 사업장으로 이 오피스텔을 사용하고 임대인에게 문제가 될 부분은 없다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17732_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

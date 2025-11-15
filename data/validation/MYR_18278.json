@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18278",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.373,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 재수생이다 삼수생이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 뭐 미성년자다 그러면 뭐 방법을 못 쓰는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.554,
+                "end": 8.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 아까는 1주 2주택자였고 1주택자인 박 씨도 분양권 취득하면서 고민에 빠졌다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.948,
+                "end": 16.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 1주택이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.199,
+                "end": 17.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 어 그러면 1주택인 상태에서 하나를 더 사면 일시적 2주택이 되고 새 주택 취득일로부터 3년 내에 종전 주택 처분하면 취득세는 물론 양도세도 1주택자로 비과세 혜택을 받죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.848,
+                "end": 29.362
+            }
+        ]
+    },
+    "summary": "1주택자가 분양권을 받았을 때 취득세에 대해서 설명해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

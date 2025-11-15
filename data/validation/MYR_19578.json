@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19578",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.1,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "껴도 돼요 사실 빼면 더 좋겠지만 면접관님들이 이제 다 감안을 하고 보십니다 나중에 승무원 되면 그거 뺄 수 언제 뺄 수 있나 승무원 되면 그거 뺄 것이냐 이런 것들도 많이 질문이 있고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 너무 사사로운 거 막 몇 키로 몇 키로까지 빼야 될까요 뭐 제가 키가 158인데 제가 키가 175인데 승무원 될까 이런 거에 너무 연연하지 마세요 157도 많이 봤고요 키 170 이상인 분들도 너무 봤고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.492,
+                "end": 23.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 키는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.730,
+                "end": 25.091
+            }
+        ]
+    },
+    "summary": "교정기 낀 거 전부 면접관님들이 감안하고 보기 때문에 신경쓰지 말고 키 157든 170 이상인 승무원 분들 많이 봤다며 키에 너무 연연해 하지 말라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19578_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18081",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 아파트를 못 가져가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5억 1000이야 그럼 갖고 간다는 얘기죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.275,
+                "end": 5.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이 말은 뭐냐하면 어 건립가액이 커야 된다는 얘기거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.251,
+                "end": 11.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 건립가액과 조합원 분양 신처 조합원 분양 가격이 나오려면 적어도 사업시인가라는 관계를 지나서 이런 데이터들이 나온단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.781,
+                "end": 22.276
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.286,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "화자가 건립가액에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18081_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

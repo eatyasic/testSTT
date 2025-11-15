@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18806",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이게 개정이 됐다, 안 됐다?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개정이 안 됐다. 개정이 안 됐다,",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.574,
+                "end": 5.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가끔 여기 그 나오는 걸 보니까 여기 해당 단지에 있는 단지에 있는 몇몇 분들이 개정이 됐다라고 소개하는 경우가 있다는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.797,
+                "end": 16.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못 알 수 있는데 실제 거래를 중개하시는 분이 이렇게 말씀하시면 큰일 나요. 나중에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.644,
+                "end": 20.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 책임지시려고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.255,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "남성은 실제 거래를 중개하시는 분들이 개성이 됐다고 소개하는 경우 큰일는 날 수 있다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18806_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

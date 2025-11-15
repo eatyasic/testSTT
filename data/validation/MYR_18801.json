@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18801",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.117,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 동대문구의 한 중개업소 대표는 이미 입주까지 2, 3년 기다렸는데 굳이 지금 뭐 하러 파냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "66퍼센트. 거의 절반 이상을 뜯기는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.700,
+                "end": 7.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 당장 잠금 치르기 어려운 경우 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.830,
+                "end": 11.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 그 외에 다른 사정이 있는 경우.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.179,
+                "end": 13.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그게 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.351,
+                "end": 14.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 여기서 이제 그다음에 어떻게 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.764,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "이미 입주까지 기다렸는데 지금 팔면 절반 이상을 뜯기는 데 팔 필요가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

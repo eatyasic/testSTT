@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_19133",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.231,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 대책을 발표하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.681,
+                "end": 2.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무르익어가고 있다고 이제 보는 이제 세금 전문가들도 일부 있는데 대책 한번 빨리 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.720,
+                "end": 9.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.237,
+                "end": 9.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 있었던 어떤 대책 이때는 어떤 일들이 있었는지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.966,
+                "end": 13.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.288,
+                "end": 14.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2013 이거 갑자기 영어로 안 되네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.843,
+                "end": 18.169
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영어로 안 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.179,
+                "end": 19.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 할까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.291,
+                "end": 21.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투앤티 뭐 이렇게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.666,
+                "end": 24.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.107,
+                "end": 25.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 2013년도 기사입니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.487,
+                "end": 28.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2013년 3월 5일 네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.763,
+                "end": 31.231
+            }
+        ]
+    },
+    "summary": "2013년 3월 5일에는 어떤 대책이 있었는지 보자.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19133_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

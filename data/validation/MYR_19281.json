@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19281",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 세금도 좀 많이 내고 세금을 많이 낸다는 거는 내가 그 만큼 매출도 많이 일으키고 돈도 많이 번다는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가끔 가다가 여기 2억 초과 되면 20퍼센트 세율 내니까 법인을 막 쪼개요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.505,
+                "end": 15.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 법인을 하나만 있어도 되는데 막 4개 5개 심지어 10개 만들어 이렇게 가지고 법인 하나에 주택 하나 해 가지고 막 하시는 분 계시거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.695,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "한 남자가 매출이 2억 초과하여 법인세 20퍼센트를 내야 할 경우 법인을 쪼개는 사람들이 있다고 설명 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19281_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18652",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.466,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 2번째로는 가끔 진짜 저도 법무사일 때 이제 한 분 들었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.363,
+                "end": 4.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 취득세를 이걸 미리 준비해놓으셨더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.512,
+                "end": 7.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본인이 이걸 내야 되는데 아 그래가지고 아 진짜 그걸 생각하시는 분이 진짜 있구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.135,
+                "end": 12.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그 그 정도면 양반이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.339,
+                "end": 15.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6퍼센트 생각할 받을 거 생각하고 지른 분도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.830,
+                "end": 19.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.477,
+                "end": 20.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 12퍼센트 내고 그냥 6퍼센트 돌려받으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.175,
+                "end": 23.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 분들 생각보다 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.336,
+                "end": 25.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그분들이 승부사 기질이 있으신 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.144,
+                "end": 28.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어차피 이거 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.625,
+                "end": 30.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 라고 이제 확정을 싱각 생각을 하셨던 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.146,
+                "end": 33.466
+            }
+        ]
+    },
+    "summary": "법무사일 때 한 분 들었는데 취득세를 미리 준비를 해놓으신 분도 있고 12퍼센트 내고 6퍼센트 받을 거 생각하시는 분들도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

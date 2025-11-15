@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18358",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안타깝게도 시간이 지나면 뉴노멀이 될 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어느 순간 받아들여질 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.446,
+                "end": 6.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 처음에 반포 평당 1억 나왔을 때 말도 안 된다고 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.486,
+                "end": 11.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조용히 1억 2000으로 굳어지는 것 같던데 보니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.149,
+                "end": 14.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 행꿈사 낙찰 사례 중에서 래미안 조합 유치권 경매로 낙찰된 사례가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.499,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "남성 화자가 시간이 지나면 뉴노멀이 될 거고 어느 순간 받아들여질 것이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18358_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

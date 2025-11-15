@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17587",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.2,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 2011년도 13년도 15년도 돌아가서 그때 막 전세 가격이 80프로 90프로였거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한 2 3000만 원 투자 하면 이게 뭐 1000만 원 뭐 1억씩도 올랐으니까 그거를 이길 수 있는 수익형 종목은 없었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.913,
+                "end": 17.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.579,
+                "end": 18.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 상대가 안되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.575,
+                "end": 20.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 제가 옛날에 아파트 투자 그렇게 열심히 하다가 토지만 한 사람 상가 한 사람 뭐 종목별 강사들 만나서 애기 해보면 하나같이 하는 말이 아 내가 2년 전에 그냥 갭 투자 할 걸 그런 이야기를 공통적으로 많이 했었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.563,
+                "end": 36.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.929,
+                "end": 37.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무리 그걸 잘한다 하더라도 그 단기간 내에 그렇게 팍 올라 갈거라고는 왜냐면 게약 하고 잔금 치기 전에 이미 시세가 올라가 버렸거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.491,
+                "end": 47.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그땐 그랬어",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.517,
+                "end": 48.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 과연 지금 그렇냐 라고 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.919,
+                "end": 51.184
+            }
+        ]
+    },
+    "summary": "전문가는 예전에 시세 차익이 별로 없었을 때 갭 투자 할 걸 후회 하듯이 이야기 하며 지금 이렇게 올라간 거에 대하여 놀라며 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17587_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

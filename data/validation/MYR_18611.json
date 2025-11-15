@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18611",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소위 말해서 국민 평형 국평이라고 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 가장 이렇게 좀 많이 선호하고 무난하게 생각하는 그런 타입인데 이게 10억 3500에서 11억 6600에서 거래가 됐다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.535,
+                "end": 13.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 느낌이 딱 들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.218,
+                "end": 15.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싸요 비싸요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.069,
+                "end": 16.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싸죠 싸다는 느낌이 들어야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.399,
+                "end": 19.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 거랑 비교를 했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.344,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "국민 평형으로 많이 선호하고 무난한 타입인데 10억 3500에서 11억 6600에 거래가 됐으면 다른 거랑 비교했을 때 싸다는 느낌이 들어야 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

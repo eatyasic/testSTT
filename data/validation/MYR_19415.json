@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19415",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 장기 임대 사업자 같은 경우는 4년, 8년 의무 임대 기간이 있는데 다행히 이것도 이제 어 중간에 자동 말소 자진 말소가 그게 생기면서 원래는 최소 5년 해야 되거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.337,
+                "end": 10.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그런데 요고 한 경우에도 의무 임대 준수한 걸로 보는데 좀 케이스가 좀 다 다를 수가 있기 때문에 5퍼센트, 의무 임대 기간 이런 것들 체크할 때는 꼭 정말 세무사님 어 확인하시기 바랍니다 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.125,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "장기 임대 사업자는 원래는 최소 5년 의무 임대를 했어야 했는데 중간에 자진 말소가 생기면서 4년이나 8년의 의무 임대 기간을 정하면 되지만 케이스가 다를 수 있기 때문에 5퍼센트나 의무 임대 기간을 체크할 때는 세무사를 통해 확인하기를 권장한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

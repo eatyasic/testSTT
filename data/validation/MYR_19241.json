@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19241",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 별거 아닌 것 같지만 요렇게 꼼꼼히 챙겨주실 때 그분이 이제 시작하면서 오늘이 사실 축제 같은 날이 돼야 되는데 어 굉장히 스트레스 받았었 받았던 날이지 않았냐 하면서 선생님 하시는 일이 정말 중요해요 이런 이야기를 나눴어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그분도 이제 제가 투자를 좀 한 것 같",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.173,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "그분이 꼼꼼히 챙겨주실 때 오늘이 축제 같은 날이 돼야 되는데 스트레스 받았던 날이지 않았냐고 하면서 선생님이 하시는 일이 정말 중요하다는 이야기를 나눴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

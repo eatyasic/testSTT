@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18910",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 53.82,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어느 정도 답이 나오지 않을까 싶더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알꺼 같애요, 저도 그런 얘기를 들었었고 저도 이제 실제 그 거주하고 있는 곳에서 이렇게 압구정이나 반포 이렇게 가면 동서를 왔다 갔다 하거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.493,
+                "end": 13.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 제가, 저도 처음에 이사오기 전에는 에이 뭐 거기서 거기지 생각을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.409,
+                "end": 18.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 막상 올림픽대로를 타고 차로 이동을 해보니까 생각보다 멀더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.415,
+                "end": 22.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서, 그래서 그냥 가정으로 아 내가 압구정이나 반포에 살면 이렇게 오느니 잘 안 오겠다, 근데 생각해보니까 동서가 아니라 이렇게 남북, 쉽게 말해서 아까 말씀하신 그 한강 다리 거기를 건너면 생각보다 빨라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.766,
+                "end": 38.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.200,
+                "end": 38.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.775,
+                "end": 39.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 가지고 한남대교도 있고 동호대교도 있고, 그래서 거기를 건너면은 빠른데, 그럼 뭐 지도를 여러분들이 보시면 바로 나올 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.367,
+                "end": 47.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 동네가 어딘지, 아까 말씀하신 옥수동, 금호동, 그리고 쪼끔 위쪽으로 가시면 성수동도 나오고",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.638,
+                "end": 53.820
+            }
+        ]
+    },
+    "summary": "화자2는 자신도 실제 거주하고 있는 곳에서 압구정이나 반포를 동서로 왔다 갔다 하는데 이사오기 전에는 거기서 거기라고 생각했는데 막상 올림픽대로를 타고 차로 이동해보니 생각보다 멀었다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

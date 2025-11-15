@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17486",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.245,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 지금 그래서 공부하려고 지금 이렇게 제 영상을 또 시간 내서 보시는 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.369,
+                "end": 6.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 이 세무사님이 말씀하시는 하시는 게 최소한 비과세를 받고 싶다면 꼭 기억하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.046,
+                "end": 14.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최소한 홈텍스에 서면 질의라도 하거나 아니면은 국세 상담 센터 126번 근데 연결을 잘 안 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.772,
+                "end": 21.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아침에 딱 출근하자마자 그 시간에 맞춰서 좀 연결하면 좀 그나마 좀 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.614,
+                "end": 26.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세청 홈텍스에 가면은 질문 남기기가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.133,
+                "end": 30.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 물론 100퍼센트 보장은 아니지만 그래도 그거라도 하면은 좀 괜찮다는 거고 실수를 줄일 수 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.208,
+                "end": 37.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 지금 이렇게 세무사님이 작성하신 칼럼을 좀 보거나 아니면은 좀 채널 @계정1 유튜브를 좀 보거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.419,
+                "end": 45.245
+            }
+        ]
+    },
+    "summary": "남성이 최소한 비과세 혜택을 받고 싶다면 홈텍스에 가서 질의를 하거나 국세 상담 센터를 이용하면 100퍼센트는 아니겠지만 실수를 줄일 수 있고 또는 세무사들의 칼럼을 보거나 본인의 채널을 보며 공부하면 좋다고 조언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

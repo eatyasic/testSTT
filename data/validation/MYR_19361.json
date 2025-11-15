@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19361",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전문직의 시각이라는 최근에 책을 쓰셨는데 반가운 이름도 있네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세무사 @이름1 감정평가사 @이름2 어디서 많이 들어 본 이름인데 그리고 법무사 @이름3 공저 3분에서 쓰셨는데 어떤 책인가요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.297,
+                "end": 14.699
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 제가 운 좋게 뭐 기회가 닿아서 이제 2분을 만나서 책을 집필할 수 있었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.709,
+                "end": 19.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단은 이제 세무사와 감정평가사 저 법무사가 각자의 전문직의 시각에서 부동산을 이제 바라보는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.906,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "한 남자가 책 소개를 부탁하고 법무사가 책을 집필한 취지에 대해서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

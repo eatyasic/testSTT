@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19567",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "막 걱정하시는 분들이 있을 수 있겠는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 대한항공 승무원이든 다른 항공사 승무원이든 정말 예쁜 사람만 뽑지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.430,
+                "end": 10.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제로 여러분들이 비행기를 탔을 때 본인만의 기준으로 어 이 승무원은 좀 그렇게 예쁜 것 같지 않은데 하시는 생각을 해본 적이 있을 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.732,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "본인만의 기준으로 이 승무원은 그렇게 예쁜 것 같지 않다고 생각할 만큼 무조건 항공사에서 예쁜 사람을 뽑는 건 아니라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19567_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

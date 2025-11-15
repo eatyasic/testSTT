@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18448",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "500명 넘게 수강을 했더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 제가 강의를 2018년도부터 했다는 거 그리고 @이름1말고 외부 강의도 했다는 거를 고려를 하면 한 5천 명 정도는 수강을 한 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.849,
+                "end": 12.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 이 사람들이 먼저 알아야 될 거를 공부를 하지 않고 경매를 먼저 하더라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.681,
+                "end": 21.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 부동산 이 시스템 자체가 공부를 하는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.545,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "내가 본 많은 학생들이 먼저 알아야 될 거를 공부를 하지 않고 경매를 먼저 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

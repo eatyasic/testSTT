@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17469",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.223,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부자 따라 하기는 해봐야 아마 그렇게 재테크 측면에서는 크게 도움이 안 될지는 모릅니다. 왜냐 부자들은요. 훨씬 보수적이기 때문에 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모 아니면 도식의 그런 모험적 투자는 안 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.954,
+                "end": 14.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 어떻게 보면 포트폴리오를 잘 짜시고 위기에 다 대응하는 그런",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.990,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성이 부자 따라 하기는 재테크 측면에서 크게 도움이 안 될 것이라고 한다. 이유는 부자들은 보수적이며 모 아니면 도식의 모험적 투자는 하지 않으며 포트폴리오를 잘 짠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

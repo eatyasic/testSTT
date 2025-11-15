@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17962",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 54.854,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이제 증여세 공제 한도 관련해 가지고 벌써부터 좀 비난 여론이 일부 있기 때문에 이걸 어떻게 인제 피할 건지에 대해서 완화를 어떻게 할 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그게 이제 좀 고민인 것으로 알려졌다고 인제 밝힌 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.735,
+                "end": 15.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 세법 개정안은 7월 4일이었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.792,
+                "end": 18.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하반기 경제 정책 방향 연장선상이 될 가능성이 높다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.644,
+                "end": 21.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 제가 인제 네이버 프리미엄에서 나온 분석을 써 드렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.912,
+                "end": 25.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째는 결혼 자금에 대해서 증여세 공제 한도를 확대한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.107,
+                "end": 29.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 간 5000만 원인데 이거를 1억 5000만 원 수준으로 높일 거라는 관측이 우세한데 문제는 뭐예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.122,
+                "end": 35.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현행 기준으로 혼인 시 한 명이 결혼 자금 1억 5000만 원을 증여 받으면 증여세가 970만 원 부과되는데 예 계산해보면 그렇게 나온다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.887,
+                "end": 43.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 최대 1억 5000까지 늘 늘어나면 1940만 원 이 세금을 증여세를 안 낼 수 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.534,
+                "end": 50.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 내면서 1억 5000 1억 5000까지 해 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.417,
+                "end": 54.854
+            }
+        ]
+    },
+    "summary": "결혼 자금 증여세 공제 한도를 1억 5000만 원까지 확대하면 현재 기준으로는 1억 5000만 원 증여 받으면 970만 원의 증여세가 부과되는데 공제 한도를 1억 5000만 원까지 올리면 1940만 원의 증여세를 안 낼 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17962_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

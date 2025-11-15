@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYR_17634",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.544,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 우리가 전반적인 내용하고 이제 장단점을 여기서 좀 이제 들어봤는데 자 이제 좀 어느 정도 좀 기본적인 준비가 됐다고 가정을 하고 자금도 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 이제 실제 한번 미국 부동산 접근을 해보자 그러면 이제 좀 전반적인 프로세스가 어떻게 되는지 이 책에서는 이제 파트 투에 나와 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.149,
+                "end": 23.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.821,
+                "end": 24.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 간단하게 좀 말씀해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.341,
+                "end": 25.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 한국 사람 기준으로 말씀드려야겠죠? 그렇죠? 한국분들이 이제 투자를 하신다라고 생각을 하시면 뭐 투자용이든 뭐 거주 목적으로 사시는 거든 크게 이제 두 가지가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.674,
+                "end": 35.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 해외 부동산 취득 신고가 취득 신고를 해서 나가는 방법이 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.778,
+                "end": 39.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.229,
+                "end": 39.588
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 내가 미국에다 법인을 설립하고 그 법인에다가 자본금을 송금을 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.598,
+                "end": 44.544
+            }
+        ]
+    },
+    "summary": "한 남성이 기본적인 준비가 됐다고 가정을 하고 실제 미국 부동산에 접근을 해보기 위한 프로세스가 어떻게 되는지 간단하게 말씀해 달라고 부탁했고 다른 남성이 해외 부동산 취득 신고를 해서 나가는 방법을 포함한 크게 두 가지 방법이 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17634_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17767",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.99,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2019년 12월 16일 12, 16 대책 이후 2019년 12월 17일 이후에 취득했는데 둘 다 조정이면은 종전 주택 1년 안에 처분하고 1년 안에 신규주택 전입해야 되는 게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 기억도 안 나죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.239,
+                "end": 13.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하도 오래돼 가지고 그런데 그게 22년 5월 10날 시행령 개정을 하면서 전입 요건을 없애버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.925,
+                "end": 22.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.391,
+                "end": 23.990
+            }
+        ]
+    },
+    "summary": "조정이면 종전 주택 1년 안에 처분하고 1년 안에 신규주택 전입해야 되는데 22년 5월 10일 시행령 개정을 하면서 전입 요건을 없앴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

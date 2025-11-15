@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19199",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.523,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 과세 체계에 대한 이해 그리고 이 우리나라 세법에서 가장 큰 세 가지 삼대 세법이 법인세 그리고 소득세 그리고 부가가치세 이 세 개예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법인을 하면 이 세 개가 한꺼번에 다 들어간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.978,
+                "end": 15.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 좀 굵직굵직한 내용을 다 알고 계셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.058,
+                "end": 20.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.413,
+                "end": 21.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.543,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "법인을 하면 법인세 그리고 소득세 그리고 부가가치세 이 세 개가 다 들어가기 때문에 내용을 알고 있어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

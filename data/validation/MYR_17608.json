@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17608",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 뭐 빅 데이터 특히 전망 어 그 생산자 뭐 우리 최근에 낸 책 이거 아웃풋 법칙도 정말 재미있게 봤는데 제가 오늘 역을 하나 여쭤보고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.580,
+                "end": 10.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 주변에서는 그렇게 @이름1을 보는데 @이름1 님 스스로 보시기에 어 나에 대해서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.070,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "영상에서는 최근에 쓴 책을 재밌게 봤다면서 묻고 싶은 게 있는데 주변에서는 부동산 관련이나 빅데이터, 생산자 이런 식으로 보는데 스스로 볼 때 어떤지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

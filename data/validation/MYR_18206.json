@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18206",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.635,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "파크리오 입주장 때 전세 살았는데 거기 전세금 싹 빼고 돈이 모자라니까 남양주 호평동으로 이사를 갔어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.040,
+                "end": 9.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 남양주 호평동에 그때 34평 전세 1억에 딱 들어가고 나머지 돈을 갖고 대출 이빠이.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.700,
+                "end": 16.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮아 괜찮아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.193,
+                "end": 19.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 다 받아 가지고 그 재건축 아파트를 샀는데 떨어지니까 얼마나 속상했겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.020,
+                "end": 24.826
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.836,
+                "end": 25.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "게다가 저 남양주로 이사를 갔는데 그때 당시 남양주에 있었을 때 제 직장은 충무로였거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.438,
+                "end": 32.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하루에 대중 교통 8번 타고 다녔어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.156,
+                "end": 35.635
+            }
+        ]
+    },
+    "summary": "남양주로 이사를 가고 나머지 돈 다 끌어모아서 재건축 아파트를 샀는데 떨어져서 진짜 속상했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

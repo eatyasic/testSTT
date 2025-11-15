@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19413",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.081,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 중심 잡고 보셔야 될 거 보 보는 부분이 있을 거 아닙니까? 왜냐면 어 우리 국세 공무원분들이 그 하고 있는 업무량이 굉장히 많단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어떤 걸 많이 보냐면 5퍼센트입니다 5퍼센트 5퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.268,
+                "end": 11.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 5퍼센트 룰하고 의무 임대 기간 준수했냐 안 했냐 요겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.930,
+                "end": 17.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러 가지 공적 의무 지켜야 된다 아까 말씀드렸죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.398,
+                "end": 19.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그중에서도 5퍼센트 이내로만 증액 된다는 이른바 5퍼센트 룰이 있는데 요것도 이제 조문이 좀 처음에는 희한하게 쓰여 가지고 연 5퍼센트라고 되니까 그럼 1년에 5퍼센트니까 보통 2년마다 재계약하니까 10퍼센트냐 막 그런 말들이 있었는데 그게 아니고 재계약할 때마다 그냥 5퍼센트라고 생각을 하시면 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.953,
+                "end": 36.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 요 5퍼센트 지키는 것도 2019년 2월 달에 그 세법 그 시행령 개정이 됐고 2019년 10월 달에 이제 민특법 개정이 되면서 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.790,
+                "end": 48.081
+            }
+        ]
+    },
+    "summary": "국세 공무원은 5퍼센트 룰과 의무 임대 기간 준수 여부에 대해서 중요하게 보고 2019년 2월에 개정된 시행령에서 5퍼센트 룰은 재계약할 때마다 5퍼센트 이내로만 증액하면 된다는 의미이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

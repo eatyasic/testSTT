@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17878",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.928,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 물건이 좀 많은 게 좀 유리한가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 다양한 물건을 볼 수가 있으니까 유리하죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.140,
+                "end": 4.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무래도 어 그런 거를 좀 찾는 팁 중에 하나는 꼭 100프로 맞는다는 꼭 100프로 맞는다는 건 아니지만 어 뭐 네이버라던가 네이버 부동산 뭐 직방다방 그렇죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.542,
+                "end": 15.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 내 지역에서 내가 원하는 조건으로 검색을 딱 해서 물건을 좀 많이 갖고 있는 중개 사무실을 좀 찾는 방법 그런 방법도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.350,
+                "end": 23.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 좀 참고해보시면 좋을 것 같고 그 아까 말씀하셨던 좀 등록",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.620,
+                "end": 28.928
+            }
+        ]
+    },
+    "summary": "물건을 많이 가지고 있는 중개사가 유리하고 네이버라던가 직방다방을 이용해서 내 지역의 매물을 많이 가지고 있는 부동산을 찾을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

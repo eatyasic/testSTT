@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17557",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.324,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집값이 급락이 올라 그러면은 약간 하락이 올 수 있겠지만 급락이 올라면은 이 시행사나 아니면은 건설사에서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 부도를 통한 어떻게 보면 대량 실업이 발생 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.847,
+                "end": 14.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대량 실업 으응",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.115,
+                "end": 15.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 금리가 급등해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.485,
+                "end": 16.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "급등 금리 급등",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.876,
+                "end": 18.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면요 만약에 지금 건설사 PF 문제가 터질 걸로 본다면은 지금 주식 투자 하면 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.327,
+                "end": 23.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.662,
+                "end": 24.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 경제 위기가 와야 이게 뭐 시장 특히 재고 시장 이미 다 지어진 시장에 영향을 어 주는 거라고 보시면 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.483,
+                "end": 34.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이거는 파생적으로 나타나는 거란 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.858,
+                "end": 37.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막연히 지금 다 그렇게 생각한단 말이에요. 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.676,
+                "end": 41.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 뭐 건설사 PF 문제 터지면은 이거 또 이슈 때문에 뭐 집값이 더 떨어질 날 남았다 그 다음에 뭐 가계 부채 지금 2000조이긴 하고 있죠 그거요 2013년 2014년에 그거 800조 때 부터 떠들던 얘기거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.159,
+                "end": 57.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.255,
+                "end": 58.324
+            }
+        ]
+    },
+    "summary": "부동산 주식 전문가가 급락이 오려면 대량 실업이 발생 해야 한다며 가계 부채 이야기는 예전부터 떠돌고 있었다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

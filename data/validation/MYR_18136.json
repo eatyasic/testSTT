@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18136",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.827,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가능하다면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.827
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 가능하다면 그건 팩트예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.837,
+                "end": 2.918
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걔가 아파트로 딱 완공되는 순간.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.928,
+                "end": 5.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.246,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분들이 수입의 크기는 가장 큰데 그럼 내가 그거를 뭐 10년 15년을 기다릴 거냐 아니면 중간에 매도를 하고 나올 거냐 그거는 이제 각자의 선택인데 굳이 이걸 끝까지 가져가야 된다 라는 부담감은 뭐 좀 떨쳐 버리셨으면 좋겠다라는 게 제 개인적인.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.672,
+                "end": 23.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 고정관념이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.686,
+                "end": 24.496
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 고정 관념.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.506,
+                "end": 25.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고정 관념일 수 있다. 예 그런데 여력이 되면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.500,
+                "end": 27.827
+            }
+        ]
+    },
+    "summary": "중간에 매도를 할 것인지 말 것인지는 각자의 선택인데 끝까지 가져가야 된다라는 부담감은 떨쳐 버리셨음 좋겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18136_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_19056",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.707,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 유도리라고 하나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 부분을 잘 감안하셔 가지고 신고 하시는 게 안전할 것 같다라는 말씀을",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.066,
+                "end": 5.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결론은 그러니까 이런 사례가 비슷하게 있으면 그냥 기준 시가 하지 말고 감평을 받아라",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.741,
+                "end": 12.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.829,
+                "end": 13.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 거죠 지금?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.188,
+                "end": 13.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.822,
+                "end": 14.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "받는 편이 나으실 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.938,
+                "end": 16.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 수수료 좀 내더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.727,
+                "end": 18.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 밑에 감평을 하나 받아야 해요 2개 받아서 평균 내야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.411,
+                "end": 21.239
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그 좋은 아주 예리한 질문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.249,
+                "end": 24.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 법에 나와 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.948,
+                "end": 26.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그래요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.438,
+                "end": 27.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기준 시가 10억 이하다 그러면 하나로도 신뢰성이 담보 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.055,
+                "end": 31.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 10억 넘어가는 거는 2개 2개 해서 평균 가격으로 하라고 정확히 법에 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.742,
+                "end": 39.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기준 시가 넘어가는 거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.058,
+                "end": 40.707
+            }
+        ]
+    },
+    "summary": "기준 시가가 10억 이하면 감정 평가를 1번 받고 10억이 넘어가면 2개를 받아서 평균 가격으로 신고하라고 법에 나와 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19056_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

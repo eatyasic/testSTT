@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17541",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생각이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그래서 어 나는 회사에서 표창장도 받고 잘 나가잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.813,
+                "end": 6.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 사건을 너무 내 인생하고 연결해 버리면은 자책이 올 수도 있고 굉장히 이제 어 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.278,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "박사가 회사에서는 표창장도 받고 잘 나가는데 투자 실패 사건을 인생과 연결하면 자책이 올 수도 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17541_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

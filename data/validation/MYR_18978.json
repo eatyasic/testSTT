@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_18978",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 51.718,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 건강보험료 부과 체계 관련해 가지고 @이름1 세무사님 모셨습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 세무사님 안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.054,
+                "end": 12.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.115,
+                "end": 12.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하나은행의 @이름1 세무사라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.808,
+                "end": 14.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 하나은행에서 지금 상속증여센터 PB센터죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.689,
+                "end": 19.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 흔히 알고 있는 거기에서 지금 근무를 하고 계시는데 특히 어떻게 보면 건강보험료는 세금은 아니잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.708,
+                "end": 27.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.673,
+                "end": 28.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세금은 아니지만 매달 납부를 해야 되니까 이런 걸 보고 이제 준조세라고 하잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.342,
+                "end": 34.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 이제 거기에 대해서도 세무사님들한테 질문들을 많이 하시는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.175,
+                "end": 37.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 제 세무 대리인한테 건보료 관련해서 처음에 질문 많이 했었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.150,
+                "end": 40.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.958,
+                "end": 41.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그 부분에 대해서 어 오늘 속 시원하게 여러분들 고민 중이신 거 풀어드린다고 하는데 어 제가 인제 간단하게 우리 세무사님 소개말 좀 드리고 마이크를 넘기겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.566,
+                "end": 51.718
+            }
+        ]
+    },
+    "summary": "건강보험료는 세금은 아니지만 매달 납부를 해야 하는 준조세로 많은 분들이 건강보험료 질문을 많이 하는데 오늘은 그 부분에 대해 고민을 속 시원하게 풀어드릴 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18978_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

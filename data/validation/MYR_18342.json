@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18342",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일부 지역이 지금 좀 가격이 회복해 버리니까 정부 입장에서도 갑자기 면이 안 서버리는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 야당 입장에서는 거봐라 이거 또 풀면 가격 불안해진다 이렇게 되면 할 말이 없어지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.401,
+                "end": 13.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 다 회복된 것도 아닌데 어쨌든 개인적으로 좀 안타깝게 생각하고 기다리고 있는 그런 정책 중 하나입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.723,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "남성 화자가 일부 지역이 가격이 회복하니까 정부 입장에서도 면이 안 서고 야당 입장에서 이거 또 풀면 가격 불안해진다 이렇게 되면 할 말이 없어진다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18342_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

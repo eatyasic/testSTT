@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19088",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준비했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.326,
+                "end": 1.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 한 번 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.019,
+                "end": 2.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 번 설명해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.559,
+                "end": 3.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 우리 2023년 들어서 이렇게 굉장히 많이 이게 개정이 됐는데 숫자가 벌써 6개나 되면서 어떤 게 그렇게 바뀌었는지 바뀌었는지 또 바뀌고 있는지 이게 헷갈리거든요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.868,
+                "end": 17.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.456,
+                "end": 17.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.505,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 2023년 들어서 굉장히 많이 바뀐 세법에 대해 설명해 준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19284",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.36,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 납부에 대해서는 분납도 일부 가능하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 여기서 이게 정말 중요한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.151,
+                "end": 6.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세 부담 절감 어떻게 할 거냐 자 하나 둘 셋 넷 이렇게 크게 4가지가 있는데 여기 세무사님께서 말씀해 주신 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.090,
+                "end": 17.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 이제 좀 하나 씩 한 번 좀 보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.164,
+                "end": 19.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 경비나 인건비를 허위로 기재하지 말 것 이게 제일 중요합니다 이게 제일 중요해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.931,
+                "end": 27.360
+            }
+        ]
+    },
+    "summary": "한 남자가 세 부담을 하는 방법이 4가지가 있는데 경비나 인건비를 허위로 기재하지 않는 것이 제일 중요하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19284_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

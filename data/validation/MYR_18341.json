@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18341",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "22년 12월 21일부터 소급 적용을 해주기로 했었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거 믿고 사신 분도 계시단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.320,
+                "end": 8.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 좀 약간 그렇게까지 하셔야 됐었나 하는데 지금 시간이 지나면서 사람들이 점점 또 잊어버리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.288,
+                "end": 17.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 안 좋은 게 뭐냐면은 이 정책 관련해서 안 좋은 게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.133,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "남성 화자가 22년 12월 21일부터 소급 적용을 해주기 한 말을 믿고 사신 분도 계시는데 시간이 지나면서 사람들이 또 잊어버리고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

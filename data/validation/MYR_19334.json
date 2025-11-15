@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19334",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.721,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 만약에 이게 법이 통과가 안된다 그래 버리면 어떻게 되는 거죠 그냥 끝나는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그게 이제 통과가 되려면 어떻게 되야 되냐면 이게 이제 2022년 12월 21일 이후에 이제 되야 된다 말이에요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.020,
+                "end": 15.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 그림을 여러분들이 좀 보셔야 되는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.757,
+                "end": 21.721
+            }
+        ]
+    },
+    "summary": "한 남자가 법안이 통과되려면 어떻게 되야 하는지 설명하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19334_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

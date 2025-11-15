@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18251",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.155,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해가지고 임대주택을 좀 더 공급을 하고 어 여기에 대해서 민관이 협력하겠다 그러니까 민관에 다 맡기지 못하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못하다가 사고가 나니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.719,
+                "end": 9.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 그래서 이런 것들이 좀 나오지 않았나라고 생각을 해봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.449,
+                "end": 12.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기대되는 7월 말입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.912,
+                "end": 15.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리 또 재미있는게 이런거죠 정비사업.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.368,
+                "end": 18.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 정비사업이라는 거는 뭐 이제 재개발 재건축",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.105,
+                "end": 22.155
+            }
+        ]
+    },
+    "summary": "임대주택 공급에 대해서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18251_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17521",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.464,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이게 M1 M2 비율이라고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단기 유동 자금 비율이라는 게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.386,
+                "end": 4.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분모가 M2고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.926,
+                "end": 7.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "M2는 뭐냐 하면은 간이 통화라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.574,
+                "end": 9.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현금 요구불 예금하고 일이 년 저축성 예금 이게 다 들어가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.925,
+                "end": 13.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시중에 필요한 총통화량을 M2라고 그럽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.665,
+                "end": 16.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 분자는 M1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.776,
+                "end": 18.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 현금 요구불 예금만 얘기하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.842,
+                "end": 20.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.900,
+                "end": 21.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 비율 이 비율이 높다는 것은 결국은 단기에 쓸 수 있는 자금 비율이 높다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.204,
+                "end": 26.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.935,
+                "end": 27.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집 살려고 저는 대기하고 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.254,
+                "end": 28.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.000,
+                "end": 29.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 에",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.385,
+                "end": 31.464
+            }
+        ]
+    },
+    "summary": "박사는 단기 유동 자금 비율을 뜻하는 M1과 M2에 대해 설명하며 현금 요구불 예금과 저축성 예금이 다 들어간 것이 M2이고 M1은 현금 요구불 예금이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

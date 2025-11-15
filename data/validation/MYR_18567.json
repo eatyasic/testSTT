@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18567",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.922,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 과태료 끝나고 계도 기간 끝나고 이제 과태료 딱 맥일려고 했었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그게 1년 연장해 버렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.267,
+                "end": 4.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연장이 됐죠. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.713,
+                "end": 5.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 이제 전세 그거랑 임대 사업자 말은 하긴 하시긴 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.809,
+                "end": 9.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알고 계시더라고요 2분기 때 나와야 되는데 야 이거 잘못하면 두 개 묶이겠는데 그럼 이제 전부 다 이제 임대할려면은 상가 임대처럼 싹 다 등록을 해야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.519,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "이게 계도 기간 끝나고 과태료를 딱 먹이려고 했는데 1년 연장을 해 버렸고 그러면서 임대 사업자 말은 하긴 하셨는데 이거 잘못하면 두 개가 딱 묶이겠다고 생각이 들었고 그럼 이제 전부 임대하려면 상가 임대처럼 등록을 다 해야 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18567_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

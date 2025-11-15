@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18397",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.294,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 끝까지 가게 되면 방화 거기도 평수 좀 작습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1번 갈아타면 김포 골드라인이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.984,
+                "end": 7.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 거기는 평수가 59제곱미터 이상 중심축 대단지도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.024,
+                "end": 12.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 고촌, 풍무 이렇게 그럼 내가 이거를 할 건지 말 건지 가보는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.956,
+                "end": 19.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.089,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "여성 화자가 방화도 평수가 작고 한 번 갈아타면 김포 골드라인이 있는데 평수가 59제곱미터 이상에 중심축 대단지도 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18397_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

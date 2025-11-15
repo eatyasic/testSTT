@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18557",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.458,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 그래서 일단 초기에 괜찮은 것들은 어 내가 36프로를 내더라도 몇 개 정도 살 수 있지만 그다음부터는 분양권 난타 아니면 공시가 1억 이하로 갈 수밖에 없지 않나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "틈새 상품 쪽으로써 갈 수밖에 없을 거다. 세금이 높기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.419,
+                "end": 15.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 예를 들어서 지금 제네시스 박님이 얘기했던 것처럼 확실하게 예전 박근혜 정부 때처럼 1 점 1프로 수준까지 확실하게 취득세를 낮춰 버린다라고 하면 이제는 살 건 겁나 많죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.729,
+                "end": 27.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네 네 살 거 많죠 괜찮은 것들 많이 있는데 이제 이게 다만 이제 그 아까 이제 분양권 얘기가 나와서 같이 말씀드리자면은 분양권 관련된 것도 지금 세율이 변경이 돼야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.316,
+                "end": 40.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.238,
+                "end": 40.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 지금 안 되면은 여러분들이 예상하시는 계획했던 것처럼 좀 적당히 가지고 있다가 팔겠다 이게 안 될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.984,
+                "end": 48.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 그건 좀 이 아까 말씀하신 것처럼 염려가 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.253,
+                "end": 51.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말씀을 한 걸로 이해하시면 될 거 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.282,
+                "end": 53.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반대로 우리가 좀 좋은 쪽으로 알아봤어요. 근데",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.895,
+                "end": 58.458
+            }
+        ]
+    },
+    "summary": "초기에 36프로를 내더라도 몇 개 정도는 살 수 있지만 그다음부터는 분양권 난타나 공시가 1억 이하로 갈 수밖에 없고 세금이 높기 때문에 틈새 상품 쪽으로 갈 수밖에 없는데 박근혜 정부 때처럼 1 점 1 프로 수준까지 취득세를 낮춰 버린다고 하면 살 건 많고 괜찮은 것들이 많이 있는데 분양권도 지금 세율이 변경돼야 하고 그게 안 되면 적당히 가지고 있다가 파는 게 안 될 수가 있어서 염려가 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

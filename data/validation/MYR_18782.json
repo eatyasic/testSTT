@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_18782",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.046,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최근에 나온 무작정 따라 하기 책 그리고 최근에 오픈한 클래스 유 강의.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 2개 해 가지고 제가 여러분들은 좀 필요하신 부분에 있어서 맞춰서 할 수 있도록 하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.094,
+                "end": 11.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 간단하게 좀 질문 같은 거 좀 보면은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.820,
+                "end": 15.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종부세 낸 거 경비 처리 되나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.586,
+                "end": 17.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 당연히 됩니다. 당연히 되는데 네 자가 주택은 안 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.283,
+                "end": 21.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대업이잖아요. 그러니까 임대한 주택에서 나온 재산세, 종부세는 경비 처리가 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.099,
+                "end": 27.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아까 기사에도 나왔었잖아요. 그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.099,
+                "end": 29.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 조금 더 어려운 내용인데 그렇게 해서 나온 주택 임대 소득세, 사업 소득이 마이너스가 돼 버리잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.203,
+                "end": 35.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 오히려 그 마이너스를 내가 뭐 근로 소득자다. 그러면 급여가 나오지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.113,
+                "end": 39.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 근로 소득하고 합산, 즉 종합 과세해 버리는 게 더 유리할 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.313,
+                "end": 42.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 무조건 분리 과세가 다 능사는 아니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.646,
+                "end": 46.046
+            }
+        ]
+    },
+    "summary": "임대한 주택에서 나온 재산세, 종부세는 경비 처리 가능하고 만약 근로 소득자의 임대 소득이 마이너스가 되면 근로 소득과 합산하여 종합 과세하는 것이 더 유리할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18782_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

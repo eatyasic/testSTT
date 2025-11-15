@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYR_19346",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.498,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 내가 1주택이다 근데 내가 여기서 2로 가려고 한다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 2로 가려고 하는데 요 녀석으로 간다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.743,
+                "end": 8.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 되는 거예요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.042,
+                "end": 11.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 법이 바꼈어요 안 바꼈어요 안 바꼈잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.289,
+                "end": 14.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 바뀌었으니까 8프로 나오는 거예요 아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.723,
+                "end": 19.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 8프로 내기 싫은면은 요 종전 주택을 매각을 해야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.138,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "한 남자가 1주택자가 2주택자가 되려고 할 때 세금이 8프로 나오는 것을 예시를 들어 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19346_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19418",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단위가 만 건이니까 200만 건에서 93만 건 거의 뭐 반토막도 더 줄어 버렸잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 여기서 나오는 좀 여력을 조사 업무에 집중하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.097,
+                "end": 13.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 요즘에 서민들 먹고살기 힘든데 좀 봐주시면 안됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.018,
+                "end": 16.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 아 그 참",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.992,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "주택 거래 매매 및 총 여건 수가 200만 건에서 93만 건으로 거의 반토막으로 줄었고 여기서 나오는 여력을 조사 업무에 집중 하겠다는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19418_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

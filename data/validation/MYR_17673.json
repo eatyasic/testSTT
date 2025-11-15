@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17673",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.636,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "언젠가는 내야 되는 거 아니예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 언젠가는 내야 되는 게 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.511,
+                "end": 3.502
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 미국에서는 보통 이걸 어떻게 풀고 있냐면 스텝 업 인 베이시스라 그래서 마지막 매물을 판매하지 않고 이걸 그대로 증여를 해주는 거죠 자녀한테.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.512,
+                "end": 13.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자녀한테? 그러면 어떻게 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.357,
+                "end": 14.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자녀한테 이제 증여를 하거나 상속을 하게 되면은 자녀 같은 경우 이걸 취득한 시점을 기준으로 원가가 다시 매겨지고 그리고 자녀가 그 매물을 나중에 판매를 했을 때 그 차액에 대한 양도세만 납부를 하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.850,
+                "end": 27.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정리하면 그러면 이런 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.594,
+                "end": 29.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 5억짜리가 10억이 됐다 그러면 이연 1번 시키고 다시 10억이 15억이 됐다 또 이연시키고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.731,
+                "end": 36.636
+            }
+        ]
+    },
+    "summary": "남성은 미국에서도 양도세를 언젠가는 내야 하는데 그걸 계속 이연시켜 자녀에게 증여해서 절세한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

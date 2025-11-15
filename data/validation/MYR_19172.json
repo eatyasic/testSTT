@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19172",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감면해주는 거 못 봐주겠다 그런 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 그런 히스토리가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.793,
+                "end": 5.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그냥 상대적으로 쉽게 끝났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.051,
+                "end": 7.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과표는 그냥 똑같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.640,
+                "end": 9.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 세율에서 그냥 1퍼센트 포인트씩 빠지는 걸로 그렇게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.460,
+                "end": 13.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그에 반해서 개인 종합소득세 세율을 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.895,
+                "end": 17.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.634,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "과표는 세율에서 1퍼센트씩 빠지는 걸로 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

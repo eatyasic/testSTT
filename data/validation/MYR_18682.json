@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18682",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "처음에 660만 원 취득세 내고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간에 보유세 3년 보유했을 때 180만 원 정도 내면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.880,
+                "end": 5.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간에 물론 또 오르겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.302,
+                "end": 6.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넉넉 잡아 한 300 정도 잡아 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.974,
+                "end": 9.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 660 300 그럼 거의 한 1000만 원 정도 되겠네",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.099,
+                "end": 12.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 하고 마지막에 양도세 비과세 받아버리면은 세금 한 푼도 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.598,
+                "end": 16.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요거를 제가 말씀드리고 싶어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.627,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "취득세는 660만 원 내고 보유세 300만 원 다 합치면 1000만 원 정도 내고 마지막에 양도세 비과세 받으면 세금은 한 푼도 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18682_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

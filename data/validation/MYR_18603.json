@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18603",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.124,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간이 많이 지났죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년이면 강산이 변한다고 하는데 지금 진짜 많이 변했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.466,
+                "end": 4.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청량리 앞으로 더 좋아질 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.773,
+                "end": 7.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청량리에 가면은 청량리역 롯데캐슬 이라고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.222,
+                "end": 11.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스카이 엘 65 이거 어떻게 읽어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.814,
+                "end": 14.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이거 또 읽는 방법이 있나요 혹시 뭐 엘 식스틴 파이브 뭐 이래야 되나 어 엘 육온가 어쨌든 음 이게 굉장히 좀 좋은 그런 아파트인데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.325,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "청량리는 지금 진짜 많이 변했고 더 좋아질 수 있으며 청량리역 롯데 캐슬이라고 있는데 굉장히 좋은 아파트이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

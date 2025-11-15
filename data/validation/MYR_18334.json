@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18334",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.596,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부 안을 발표하고 하반기 때 정기 국회에서 그걸 입법을 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그거를 좀 보시면 좋을 것 같고 만약에 통과가 된다하면 24년 1월 1일 이후 양도분부터 적용될 가능성이 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.705,
+                "end": 14.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 그 전에 매각하시는 분들은 반드시 2년 이상 보유했는지 보셔야 되고 안타깝지만 분양권 같은 경우에는 등기 치셔야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.030,
+                "end": 23.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 등기 치고난 상태에서 다시 2년을 갖고 있어야 되는 거죠 현재 기준으로는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.277,
+                "end": 29.596
+            }
+        ]
+    },
+    "summary": "남성 화자가 만약에 통과가 되면 2024년 1월 1일 이후 양도분부터 적용될 가능성이 높기 때문에 그 전에 매각하시는 분들은 2년 이상 보유했는지 보셔야 되고 분양권 같은 경우에는 등기를 쳐야 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18334_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

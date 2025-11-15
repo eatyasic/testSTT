@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18628",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2년 있어야되죠 다시 2년 그래서 분양권은 분양권 주택은 주택이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가끔가다가 분양권 1년 주택 1년 했으니까 둘이 합쳐서 2년 되니까 기본세율 막 이러 이러신 분들도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.771,
+                "end": 11.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼자 막 쓰는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.682,
+                "end": 13.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법을 개정하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.747,
+                "end": 15.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "절대 그러시면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.081,
+                "end": 16.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 분양권은 분양권이고 주택으로 완공되고 나서 여러분들 입장에선 잔금 치르는 날",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.409,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "분양권은 분양권이고 주택은 주택인데 가끔 분양권 1년 주택 1년으로 합 2년이어서 기본세율 하시는 분도 있는데 그러면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

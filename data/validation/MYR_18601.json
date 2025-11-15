@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18601",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청양리는 어 저한테도 굉장히 좀 약간 친숙한 그런 곳입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면은 제가 대학생 때 청량리에서 또 과외도 좀 했었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.594,
+                "end": 11.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 저는 일산 그런로 많이 갔었는데 이곳에서도 좀 소개를 받아서 과외를 좀 했었고 청량리에 있는 결혼식장에서 제가 결혼했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.492,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "일산으로 과외를 많이 갔지만 청량리에 소개를 받아 과외를 다니기도 했고 결혼을 청량리에서 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

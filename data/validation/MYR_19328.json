@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19328",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 관심 있는 이 취득세 다주택 중과 완화 시키는 거는 행안부가 주무부서인데 지금 정치적인 걸로 좀 분위기가 안 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 저는 여기서 말씀드리고 싶은 게 행안부 장관이 뭐 탄핵 소추가 맞냐 안 맞냐 이거는 정치적인 문제기 때문에 제가 1도 뭐라고 말씀드리고 싶은 내용이 없구요 관심이 없구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.615,
+                "end": 17.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 탄핵 소추하는 거랑 지방세 내는 거랑 무슨 상관 이냐는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.037,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "취득세 다주택 중과 완화 관련 주무부서는 행정안전부이며 해당 부서 장관이 탄핵 소추 되어 정치적 문제로 분위기가 안 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17765",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실 지금도 분양권은 여전히 주택이 아니라 권리입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 권리인데 주택수에 들어가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.101,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 희한한 거예요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.869,
+                "end": 7.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 헷갈리기 좋은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.263,
+                "end": 9.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 에이 주택은 19년 7월에 취득했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.247,
+                "end": 11.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나서 중간에 분양권 취득하고 요 분양권을 21년 2월달에 잔금을 치른 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.810,
+                "end": 17.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 요 분양권은 18년 8월이란 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.480,
+                "end": 20.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "18년 8월은 그니까 신경 안 써도 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.180,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "지금도 분양권은 여전히 주택이 아니라 권리이지만 주택수에 들어간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

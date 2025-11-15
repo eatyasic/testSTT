@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18993",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 현재는 2021년도 귀속소득으로 지금 보험료를 부과하고 있는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러네 거의 한 2년 정도 지나야 지나야 되는 거네요? 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.787,
+                "end": 8.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.068,
+                "end": 8.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 귀속이 다른 소득에 대해서 보험료가 산정이 되고 있으니까 이 부분은 기억하고 계시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.982,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "지금 현재는 2년 정도 지난 2021년도 귀속소득으로 보험료를 부과하고 있으므로 이 부분을 기억해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18993_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

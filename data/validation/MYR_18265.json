@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18265",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.624,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분양권을 취득을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 문제가 뭐냐면 이 분양권을 취득한 날짜가 2020년 8월 12일 이후라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.438,
+                "end": 11.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그럼 어떻게 되는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.696,
+                "end": 13.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 분양권이 취득세 중과 따질 때 주택세에 들어가 버리고 더 중요한 게 뭐냐면은 이때 취득하는 요 시점",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.451,
+                "end": 24.624
+            }
+        ]
+    },
+    "summary": "분양권을 취득했을때 주택세에 들어가는 것 등에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18265_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

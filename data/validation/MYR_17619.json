@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17619",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.627,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 시간이 지나면 저는 그것도 결국은 움직일 거라고 보는데 다만 그 격차가 너무 크거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.713
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.723,
+                "end": 8.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 14억 짜리랑 2급지는 지금 6억 밖에 안 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.323,
+                "end": 11.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 격차가 너무 크기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.956,
+                "end": 14.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.623,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "한 남성이 결국은 시간이 지나면 움직일 거라고 보지만 그 격차가 매우 크다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17619_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

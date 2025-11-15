@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYR_19397",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.321,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 있는 요건들 하고 위에 거주 주택에 대한 요건 이런 것들을 다 지키셔야 되기 때문에 아까도 말씀 드린 것처럼 세무서 세무사 사 어 사무실 가서 2명 이상 상담 받으시고 아예 그냥 맡기셔야 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맡기셔야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.067,
+                "end": 13.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러면 이제 신고 대행료까지 들어가기 때문에 금액은 좀 꽤 나올 거거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.397,
+                "end": 16.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇 백만 원 나올 거예요 근데 그게 훨씬 싸요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.755,
+                "end": 19.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그게 훨씬 싸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.433,
+                "end": 21.321
+            }
+        ]
+    },
+    "summary": "요건들과 거주 주택에 대한 요건들 모두 다 지켜야 해서 세무사 사무실가서 2명 이상의 세무사들과 상담을 하고 몇 백만 원을 주고 맡기는 게 훨씬 싸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19397_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19076",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.085,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "놓치신 분들 살짝 놓치 혹시 영상에 놓치신 분들도 있으면 그 약간 기간이 있긴 있기 때문에 약간 심의 위원회에 서류 제출하고 이렇게 하셔야 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아까 상속 증여 센터를 방문하시면 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.405,
+                "end": 12.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.063,
+                "end": 12.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 여기까지 하고 저는 마치도록 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.448,
+                "end": 16.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.412,
+                "end": 16.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 또 우리 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.835,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "감정 평가 기간을 놓쳤다면 상속 증여 센터를 방문하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19076_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

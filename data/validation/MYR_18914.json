@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18914",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 않더라도 우리가 이 내용을 참고를 하게 된다면 우리에게도 언젠가 기회가 열리지 않을까 라고 생각을 하고 이 책을 쓴건데 뭐 지금 당장 자본이 없다고 해도 포기해버리면 목표는 영영 달성할 수 없겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.853,
+                "end": 15.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어렵다면 뭐 커피 한 잔 가격으로라도 내가 스타벅스에 접근할 수 있는 방법을 저희 책에다 적어놨으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.550,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "화자1은 우리가 이 내용을 참고한다면 언젠가 기회가 열리지 않을까 라고 생각을 하고 책을 썼다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

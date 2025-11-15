@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18275",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 어떻게 해야 되냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권을 팔아야 되는데 세부담이 너무 많다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.996,
+                "end": 3.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 난 꼭 그 분양권이 신축으로 바뀌니까 그집에 살고싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.786,
+                "end": 7.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 취득세를 줄이고 싶다 그럼 어떻게 해야 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.778,
+                "end": 10.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 경우에는 먼저 팔았어야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.402,
+                "end": 13.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 경우에는 이 A와 B를 먼저 팔고 그 다음에 분양권을 사가지고 얘를 1번으로 맞췄어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.224,
+                "end": 18.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게되면 이게 1번 주택이면은 1에서 3프로 기본 세율이 들어가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.494,
+                "end": 24.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게하면 그나마 좀 괜찮을 수가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.235,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "취득세를 줄이고 싶다면 어떻게 해야했는지에 대해서 설명해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

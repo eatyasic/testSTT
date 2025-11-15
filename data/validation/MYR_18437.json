@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18437",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.851,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 우리가 지금 촬영하는 날은 6월 1일 촬영하고 있는데 서점이 아직 안 깔렸죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이게 지금 아직 어제 그 종이책이 처음 나와가지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.835,
+                "end": 9.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.499,
+                "end": 9.956
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직은 안 깔려 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.966,
+                "end": 11.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 원고를 좀 감사하게도 먼저 받아서 그 책을 먼저 읽고 질문지를",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.490,
+                "end": 17.851
+            }
+        ]
+    },
+    "summary": "우리가 지금 촬영하는 날은 6월 1일인데 책이 아직 서점에 안 깔렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

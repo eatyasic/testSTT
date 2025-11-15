@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17495",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.555,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 10퍼센트인 500명이 항상 이런 질문을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 1주택 맞죠 뭔가 찜쨈해요 그래 가지고 제가 다시 물어 보면은 꼭 주택이 있는 이런 가족들이 튀어나오더라 주민등록표에는 없는 제일 많이 등장하시는 분이 누구였냐 하면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.576,
+                "end": 16.549
+            }
+        ]
+    },
+    "summary": "남성은 본인의 수강생 중 10퍼센트가 본인이 1주택이 맞는지 뭔가 찜찜하다고 물어 보곤 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17495_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19103",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1주택자가 11억 원에서 12억 원으로 상승됐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억 원에서 9억 원으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.792,
+                "end": 6.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.948,
+                "end": 7.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본적으로 이거는 다 이미 개정돼서 알고 계시는 분이 알고 있는 사항이고 가장 큰 점이 이제 세율이 완화됐다는 점이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.513,
+                "end": 16.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 가서 한번 살펴 보시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.346,
+                "end": 17.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.972,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "1주택자의 종합 부동산세 과세 기준 금액이 6억 원에서 9억 원으로 상승했고 가장 큰 개정 사항은 세율이 완화됐다는 점이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

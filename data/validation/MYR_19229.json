@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19229",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.183,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 건 하지 마요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.529,
+                "end": 1.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 맞아요 아이 그런 건 하지 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.243,
+                "end": 2.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 괜히 사람 간에 돈거래하다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.716,
+                "end": 4.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.378,
+                "end": 4.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실수할 수 있으니까 네 자 그리고 아까 우리 부록 얘기를 좀 잠깐 하다 말았는데 음 여기 이제 제가 특정 지역이 있어서 제가 지역은 이름 말 안 할 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.903,
+                "end": 16.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.533,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "남자는 부동산 거래를 할 때 사람 간 돈거래는 하지 말라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19229_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18121",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난 이 정도 먹고 나오겠다 하는 사람도 있을 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.478,
+                "end": 3.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니다 나 이거 어차피 없는 눈 셈 치고 네 계속 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.072,
+                "end": 6.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.529,
+                "end": 6.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 할 수 있는 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.977,
+                "end": 7.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.676,
+                "end": 8.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "흥부 님은 케이스는 뒤쪽에 좀 가까운 케이스",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.059,
+                "end": 11.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 신속 통합 계획 후보지로 선정이 되면 토지 거래 구역으로 묶여 버리는 바람에",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.237,
+                "end": 15.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.271,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "두 남성이 신속 통합 계획에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

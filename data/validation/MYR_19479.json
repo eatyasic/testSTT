@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19479",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아우 좀 통일.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 뭐가 또 문제냐면은요 요런 거 있잖아요 20년에 예를 들어 이런 분이 계셨었어요 20년 12월 28일에 당첨이 됐는데 21년 1월 3일에 계약하신 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.004,
+                "end": 13.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.752,
+                "end": 14.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거는 20년 계약 분양권이냐 21년 분양권이냐에 문제로 되기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.434,
+                "end": 18.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 완전히",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.460,
+                "end": 19.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "완전 달라져요 그래서 청약당첨일로 나온 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.151,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "분양권 취득시기가 청약당첨일로 된 이유가 20년 12월 28일에 당첨이 됐지만 계약을 21년 1월 3일에 계약한다면 20년인지 21년인지에 대한 분양권으로 문제가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19479_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

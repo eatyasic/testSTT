@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17812",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이참에 상증세를 고쳐서 혼인 증여 재산 공제는 새롭게 신설된 거고 기존에 있었던 증여 대상 공제 뭐 부부가 6억, 성년 자녀 5천, 미성년자 2천 이런 게 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것도 뭐 1억 5천씩 올린다든지 부부간에 뭐 10억을 한다든지 어 제발 좀 그렇게 하면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.776,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "상증세를 고쳐서 기존에 있던 증여 대상 공제를 올려야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17812_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

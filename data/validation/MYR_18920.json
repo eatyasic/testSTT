@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYR_18920",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.672,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "작가님도 반전이 있으시군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피를 못 마신다니",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.327,
+                "end": 3.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러시구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.253,
+                "end": 5.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 그렇지만 이제 되게 감동적이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.421,
+                "end": 9.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피를 못 마시지만 커피를 내리는 방법을 알고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.452,
+                "end": 12.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 주변 좋아하는 사람들에게 커피를 내려주고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.930,
+                "end": 17.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에는 꼭 작가님 건물 안에 있는 스타벅스에서 직접 한 번 좀 내려주시는 커피를 맛 보면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.028,
+                "end": 28.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이구 덕담 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.974,
+                "end": 30.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘 귀중한 시간 내주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.077,
+                "end": 32.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.377,
+                "end": 33.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.096,
+                "end": 38.672
+            }
+        ]
+    },
+    "summary": "화자1은 화자2에게 커피를 못 마시는다는 것이 반전이 있다면서 커피를 못 마시지만 커피 내리는 방법을 알고 있고 좋아하는 주변 사람들에게 커피를 내려주고 싶다는 것이 감동적이었다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18920_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

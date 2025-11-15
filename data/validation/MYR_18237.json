@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_18237",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 72.739,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주담대 외 다른 대출은 이자만을 더하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 결론이 어떻게 되냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.354,
+                "end": 3.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 연 4퍼센트 그리고 금리 30년 만기 주택담보대출 받은 연 소득 5000만 원에 대출받은 사람이 있다면 이번 규제 완화로 대출 가능 금액이 3억 5000에서 5억 2500정도로 1억 7500이 늘어난다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.787,
+                "end": 18.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그럼 이 사람은 1억 7500 정도가 더 늘어나기 때문에 혹시 이번에 뭐 임차인이 나간다거나 아니면은 보증금을 내줘야되서 역전세를 받았다 근데 역전세를 뭐 1억 정도했다 그러면은 1억 7500만 원 그 안에 한도에 들어오니까 1억에 대해서 대출이 나오겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.284,
+                "end": 34.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이해되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.969,
+                "end": 35.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 1억 7500을 내가 받을 수 있다고 하더라도 전체를 다 받는 게 아니라 그 한도에 내에 들어오는 보증금 아까 차액이라 그랬잖아요 차액 차액 차액",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.977,
+                "end": 43.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보증금 차액에 대해서 에 그래서 보증금 차액에 대해서 내가 1억을 해주는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.817,
+                "end": 48.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그런데 만약에 저 임차인이 어 역전세나니까 나는 그냥 다른데 가버리겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.174,
+                "end": 54.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 나가버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.687,
+                "end": 55.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 보증금 전체를 내줘야 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.739,
+                "end": 57.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 보증금 전체를 내줘야 되니까 그때는 이거 5억 2500만 원을 한도로 해가지고 계산을 해보겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.524,
+                "end": 62.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 한도 내에 들어오면 대출이 나오는 것이고 안 들어오면 이 좀 이제 골치 아파지는 그게 될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.948,
+                "end": 69.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 구체적인 거는 7월 말 정도 돼봐야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 69.216,
+                "end": 72.739
+            }
+        ]
+    },
+    "summary": "역전세가 났을 때 받을 수 있는 대출에 대한 제도를 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

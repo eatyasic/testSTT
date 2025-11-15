@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18418",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경매 책을 쓴 사람이 이렇게 쓴 적은 저는 처음 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 알기로는 물론 이제 또 제가 놓쳤을 수도 있지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.863,
+                "end": 7.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.581,
+                "end": 8.267
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐하면은 경매하시는 분들은 아파트 분석을 이렇게까지 하지 않고 되게 다른 어떤 스킬을 많이 갖고 계세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.277,
+                "end": 17.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 저는 친구가 이제 입지 강사여가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.563,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "나는 경매 책을 쓴 사람이 아파트 분석을 이렇게 한 책은 처음 봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18418_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17656",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.933,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 방법이 좀 있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 미국은 진짜 한국하고 조금 다르게 한국은 이제 아파트니까 내가 여기서 할 수 있는 게 그렇게 많진 않아요 그니까 안에 이 리모델링 정도?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.135,
+                "end": 10.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 고정도 하실 수가 있는데 미국 같은 경우는 아무래도 단댁 단독주택이다 보니까 내가 여기다 뭔가 할 수 있는 여지들이 굉장히 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.486,
+                "end": 18.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 마당을 꾸민다든지 마당에다가 새롭게 증축을 한다든지 약간 거의 뭐 재개발 수준까지 가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.213,
+                "end": 24.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.826,
+                "end": 25.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.499,
+                "end": 25.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 골조만 남기고 다 뜯어 고치는 그런 게 좀 가능하다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.962,
+                "end": 30.229
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 그러면은 이 집의 가치를 훨씬 더 올릴 수가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.239,
+                "end": 33.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.426,
+                "end": 33.933
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 미국은 단독주택이기 때문에 할 수 있는 여지들이 많아서 거의 재개발 수준까지 가면 집의 가치를 훨씬 더 올릴 수 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

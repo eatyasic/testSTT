@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18876",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.498,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 책을 보면 이게 절대적으로 어디가 비싼지, 상대적으로 어디가 비싼지 이거에 대해 서로 교차해서 비교해볼 수가 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 그 빌드업하는 과정이 되게 좋았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.432,
+                "end": 10.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 역시 기자 형님 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.017,
+                "end": 12.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굉장히 꼼꼼하게 분석을 했는데 그런 과정이 궁금하신 분은 참고하시면 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.303,
+                "end": 18.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 그 다음에 이제 월세는 어떻게 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.127,
+                "end": 19.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이걸 바탕으로 우리가 얼마를 받을 수 있냐를 봐야하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.659,
+                "end": 21.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마를 받냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.969,
+                "end": 22.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월세는 이제는",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.607,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "화자1은 책을 보면 이제 절대적, 상대적으로 어디가 비싼지 서로 교차해서 비교해볼 수 있다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18876_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

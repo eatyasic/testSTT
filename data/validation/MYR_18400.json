@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18400",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.072,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상놈, 상놈 아니고 왕조 그다음에 농민, 노비 그다음에 백정 그다음에 그 밑에도 있는데 그 밑에는 그 외 잡것 뭐 이렇게 해서 나와 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이게 부동산이 계급이 있는데 아파트는 그 동네를 사는 거더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.107,
+                "end": 23.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 동네가 좋은 데를 일단 먼저 들어가는 게 우선이다라는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.835,
+                "end": 29.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 보면은 건물이 좋은 거가 먼저 눈에 들어오거든요 초보는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.306,
+                "end": 34.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 이제 썩은 거 와 이거 완전 썩었네 그러면 되게 좋잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.291,
+                "end": 39.072
+            }
+        ]
+    },
+    "summary": "여성 화자가 왕조 다음에 농민, 노비, 백정 이렇게 부동산 계급이 있는데 그래서 동네가 좋은 데를 먼저 들어가는 게 우선이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

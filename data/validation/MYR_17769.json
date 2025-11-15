@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17769",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비 분양권 취득하고 아니 비 주택 취득하고 에이 주택을 23년 7월에 매도했다잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "23년 7월에 했으니까 1월 12일을 훌쩍 넘긴 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.808,
+                "end": 11.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 종전 주택 처분 기간이 얼마예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.308,
+                "end": 12.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 3년이니까 21년 2월에서 3년이 24년 2월까지 처분하면 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.922,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "종전 주택 처분 기간이 3년이기 때문에 24년 2월까지 처분하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

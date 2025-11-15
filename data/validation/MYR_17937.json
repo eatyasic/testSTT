@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17937",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 업계에서 어떤 문제가 생겨서 제가 뭘 잘못한 건 아니고 업계에서 어떤 일이 생겨서 어 조금 이제 저도 좀 힘들었던 시기가 있었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.436,
+                "end": 8.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈이 제대로 돌지 않고 활동은 해야 되는데 돈이 안 도니까 카드는 계속 정지가 당하고 거기에 뭐 신용불량 가기 직전까지 이렇게 몰렸던 상황이 있었거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.800,
+                "end": 17.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이제 제가 대표가 아니라",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.119,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "업계에서 문제가 생겨서 신용불량 직전까지 갔던 힘들었던 상황도 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17937_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

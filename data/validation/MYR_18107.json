@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18107",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 너무나 잘 알고 계시는 시간 내가 시간을 갈아 넣어야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시간을 굉장히 오래 버텨야 되는 게 하나의 대가고 또 하나는 뭐냐면 제가 정규반 수강생분들한테 진짜 목이 아프도록 항상 강조하는 게 뭐냐 하면 여러분들 재건축, 사업",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.838,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "화자가 시간을 굉장히 오래 버텨야 되는 게 하나의 대가라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

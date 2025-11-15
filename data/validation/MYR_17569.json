@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17569",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.021,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "철저하게 내부 요인으로 움직였을텐테",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.381,
+                "end": 2.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 경우에 제일 중요한 게 뭘까 라고 본다면 수요와 공급이라고 보고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.968,
+                "end": 7.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.121,
+                "end": 7.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수요 공급에서 수요는 사실은 심리가 왔다 갔다 하니까 맞출 수는 없는데 그나마 우리가 체크할 수 있는 게 공급이니까 공급 정도는 제대로 체크 해서 들어가야 되지 않을까 그리고 공급에 있어서 이 흐름을 본다면 저는 항상 그 미분양을 정반대로 보거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.324,
+                "end": 23.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미분양",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.149,
+                "end": 23.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 미분양이 만약에 많다가 쫙 줄어드는 그런 상황 그런 상황은 대부분 바닥일 확률이 매우 높거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.682,
+                "end": 31.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.124,
+                "end": 31.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 지역들만 몇 개를 선정 하더라도 괜찮지 않을까 이런 생각을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.550,
+                "end": 36.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이제 흐름을 보고 나면 당연히 어떤 지역에 관심이 생길 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.922,
+                "end": 42.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.071,
+                "end": 42.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 예를 들어서 요즘에 사람들 대구 얘기 하는데 대구가 앞으로 흐름이 어떨까 뭐 인천이 어떨까 쪼끄만 소도시가 어떨까 뭐 서울 갈까 춘천이 어떨까 막 여러 가지 고민이 들텐데 그때 우리가 필요한게 뭐냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.520,
+                "end": 55.021
+            }
+        ]
+    },
+    "summary": "분석가가 수요와 공급이 중요한데 수요 보다는 공급을 체크 하는 게 낫고 공급에서 미분양을 잘 봐야 하고 그 이유를 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17569_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

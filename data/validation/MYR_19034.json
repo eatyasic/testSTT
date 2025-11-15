@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19034",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "21년도 국세청 내부 규정에 이 부동산 법인에 대해서도 하겠다고 슬그머니 지금 들어가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 모르신 분들이 꽤 있으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.318,
+                "end": 9.373
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 그럴 것 같아요 그럴 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.383,
+                "end": 11.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 작년 이야 하나의 뉴스 우리 세종 신문 이런 데는 나와있는데 일반 신문엔 잘 안 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.470,
+                "end": 18.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 주택에 대해서도",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.628,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "21년도 국세청 내부 규정에 부동산과 법인에 대해서도 하겠다고 들어가 있지만 일반 신문에는 잘 안 나오기 때문에 모르는 사람들이 꽤 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19034_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19457",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.477,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예규에서는 대체주택 취득이 현재 몇 주택인지 상관이 없었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.876,
+                "end": 4.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 조세심판원에서는 대체주택 취득이 현재는 1주택이다 그럼 완전히 반대로 된 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.384,
+                "end": 10.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 더 좀 깐깐하게 지금 보는 거잖아요 조세심판원이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.144,
+                "end": 14.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이게 하나는 풀리고 하나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.930,
+                "end": 16.872
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그러니 그러니깐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.882,
+                "end": 17.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 심하게 보는 거죠 그래서 예규랑 해석이랑 완전 반대에요 예규는 사업시행인가일 현재 무주택, 1주택, 일시적 2주택, 대체주택 취득일은 몇 주택인지 상관없어 조세심판원은 사업시행인가일 현재는 몇 주택인지 상관없는데 대체주택 취득일은 요거 하나 밖에 없었어야 된다라고 나오고 있으니",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.651,
+                "end": 37.470
+            }
+        ]
+    },
+    "summary": "예규랑 해석이 완전 반대로 예규는 사업시행인가일 현재 무주택, 1주택, 일시적 2주택, 대체주택 취득일은 몇 주택인지 상관이 없고 조세심판원은 사업시행인가일 현재는 몇 주택인지 상관없지만 대체주택 취득일은 하나밖에 없었어야 된다라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19457_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

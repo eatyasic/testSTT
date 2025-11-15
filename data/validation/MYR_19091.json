@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19091",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도세도 중과.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.031,
+                "end": 1.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 중에서는 이게 좋은 소식 하나 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.620,
+                "end": 5.263
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.273,
+                "end": 5.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래 올해 5월 9일까지만 유예를 한다고 했다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.623,
+                "end": 10.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.692,
+                "end": 11.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 다 필요없다 너무 이제 부동산 경기가 줄어드니까 내년까지 연장해 줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.128,
+                "end": 18.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이게 이것은 이제 조정 지역인 이",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.410,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "양도세는 23년 5월까지 중과 배제 기간이었는데 부동산 경기가 줄어드니까 내년까지 연장해 줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

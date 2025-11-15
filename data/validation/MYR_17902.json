@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17902",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 아까도 잠깐 말씀을 하셨는데 20년 하셨던 이 중개업무를 그만두시고 새로운 도전을 또 하시는 거잖아요 그게 말이 그렇게 쉽지 않거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 사실 저도 고민을 굉장히 많이 했어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.366,
+                "end": 18.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 어떻게 된 고민인지랑 그 구체적으로 이제 앞으로 하실려는 일",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.300,
+                "end": 22.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 중개업을 이제 좀 오래 해오다 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.910,
+                "end": 25.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.130,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "20년을 했던 중개사를 그만둔 이유와 앞으로 하려는 일이 무엇인지 궁금하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

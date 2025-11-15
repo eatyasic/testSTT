@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18086",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "되게 말로 표현할 수 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그건 진짜 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.876,
+                "end": 2.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 굉장히 그 뭔가 이게 좀 보람도 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.278,
+                "end": 7.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.348,
+                "end": 7.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뿌듯해는요 뭔가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.935,
+                "end": 9.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.155,
+                "end": 9.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 제일 재미있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.641,
+                "end": 11.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제일 재미 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.492,
+                "end": 13.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 사례가 좀 더 이제 앞으로도 많이 나오면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.256,
+                "end": 17.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 블로그",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.582,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "두 남성이 제일 재미있고 뿌듯하고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

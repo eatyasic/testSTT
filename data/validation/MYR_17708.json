@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17708",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.991,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빠진다라고 이제 확답을 한 확답 자 이 말이 엄청 무서운 요 요런 말 요런 말.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세법에는 100퍼센트라는 게 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.000,
+                "end": 8.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "있다면은 뭐 뭐 함부로 하면 안 된다 뭐 그런 정도가 되겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.690,
+                "end": 13.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이래서 이렇게 확답을 하시는 분들은 되게 좀 조심해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.854,
+                "end": 17.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 왜냐하면 세상 일이 그렇게 단순하진가 않거든요. 그럼 제가 왜 단순하지 않은지 보여드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.557,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "화자는 세법에는 100퍼센트라는 것이 없으며 확답을 하는 사람들을 조심해야한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17708_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

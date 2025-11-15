@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18296",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.603,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공장이나 가격이 높은 곳은 공토더라 여러명이 오더라",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러명이 온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.638,
+                "end": 5.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비록 한 사람이 오더라도 자 대리인으로 위임을 다 받아오고 마 그런 경우가 지금 현재 돼 있고 어 나름대로 보면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.586,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "공장이나 이런 곳은 사람들이 그래도 몰린다는 것을 이야기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18296_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

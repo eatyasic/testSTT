@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19420",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.139,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 뭔가 씁쓸합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세청 양도세 사무 처리 규정에 따르면 어 세무서 재산세 과장은 세무서의 업무량을 감안해서 업무량 양도세 비과세 감면을 받은 납세자에 대한 사후 관리 회수를 정할 수 이런 걸 보면 음 참 그 인생이라는 게 죄송합니다 그 저보다 더 연배가 많으신 분들 많으실 텐데 이런 거 보면 참 어 인생사 새옹지마라는 말이 떠오릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.363,
+                "end": 22.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 어 분명히 그 인생에 있어서 뭔가 운 같은 것도 좀 따르는 거도 있는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.558,
+                "end": 30.130
+            }
+        ]
+    },
+    "summary": "국세청 양도세 사무 처리 규정에 따르면 어 세무서 재산세 과장은 세무서의 업무량을 감안해서 양도세 비과세 감면을 받은 납세자에 대한 사후 관리 회수를 정할 수 있다라는 내용을 보고 화자는 인생사 새옹지마로 운 같은 것도 따르는 게 있는 거 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

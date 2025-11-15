@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18523",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.003,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 딱 해 놓고 해야지 예 근데 이제 잘 못 하기 힘들죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 다주택자는 솔직히 쉽지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.573,
+                "end": 6.908
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 그 다주택자 분들이 아까 얘기했던 최당 투자금 2억도 2억도 없고 그 취득세를 그 정도 내기가 부담스러운 분들이 있다 보니까 그런 분들이 결국",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.918,
+                "end": 17.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마이너스 프리미엄으로 가격을 막 던지는 거거든요 가격을 낮춰서 많이 던지고 있는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.997,
+                "end": 22.012
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 전국 전국적으로 지금 다주택자들이 많이 샀던 분양권들이 가격이 지금 프리미엄 가격이 많이 하락을 하고 있는 추세죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.022,
+                "end": 30.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이런 기회에 내가 돈이 있고 내가 명예가 있다라고 하면 좀 더 괜찮은 분양권을 내가",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.193,
+                "end": 37.003
+            }
+        ]
+    },
+    "summary": "다주택자 분들이 최당 투자금 2억도 없고 취득세를 내기 부담스러운 분들이 있는데 그런 분들이 결국 마이너스 프리미엄으로 가격을 낮춰서 많이 던지고 있어서 전국적으로 다주택자들이 많이 샀던 분양권들이 프리미엄 가격으로 많이 하락하고 있는 추세라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18523_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

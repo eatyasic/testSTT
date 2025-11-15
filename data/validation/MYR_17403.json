@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17403",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.902,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 기사냐면 한국 세정 신문이라는 이 세금 관련해서 전문으로 기사고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오상민 기자님이 8월 30날 에 이렇게 올려주셨네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.891,
+                "end": 12.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자 취득세 완화 지방세법 등 주요 법안 국회 통과 총력 중이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.936,
+                "end": 19.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이렇게 이제 현장에 계시니까 그런 분위기를 전달해 준 건데 어떤 내용인지 좀 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.398,
+                "end": 26.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 법제처 정기국회 입법 추진 대책 보고 211건 국회 제출하고 156건은 연내 제출 예정이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.456,
+                "end": 35.902
+            }
+        ]
+    },
+    "summary": "한 남성이 한국 세정 신문에서 오상민 기자가 8월 30일에 올린 기사를 읽고 있다. 내용은 다주택자 취득세 완화 지방세법 등 주요 법안 국회 통과 총력 중이며 법제처 정기국회 입법 추진 대책 보고 211건은 국회 제출하고 156건은 연내 제출 예정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

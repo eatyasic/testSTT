@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18378",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "없으신 분들은 또 없는 나름대로 고통스러운 시간입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 심리적으로 굉장히 불안하고 그런 시장인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.946,
+                "end": 9.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 항상 뭔가를 할 때 두려움이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.093,
+                "end": 12.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두려움이 있는데 이거를 내가 사서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.243,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "여성 화자가 심리적으로 굉장히 불안한 시장인데 우리는 항상 뭔가를 할 때 두려움이 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

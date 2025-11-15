@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18896",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.015,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 이렇게 스펙을 감당하기 어려울 때가 있거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.011
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.021,
+                "end": 2.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이럴 때 제가 쫌 눈에 띄는 사례를 찾, 찾아보면 이 작은 스펙을 가진 이들끼리 뭉친거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.691,
+                "end": 7.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가, 제가 살펴 본 사례는 경기도 안성에 있는 스타벅스 사례인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.200,
+                "end": 16.015
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 살펴 본 사례는 경기도 안성에 있는 스타벅스 사례라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

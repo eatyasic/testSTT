@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17955",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 인제 하늘에 계신 아버지께서 많이 도와주셔서 잘 하신 것 같아요 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 사실 궁금해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.981,
+                "end": 6.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약에 아버지가 정말로 하늘이 있어서 보고 계시다면 지금쯤이면 아 우리 아들이 열심히 잘 살았다고 인정을 어 해주실지 아닐지 가끔 좀 생각을 하기도 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.948,
+                "end": 18.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 충분히 분명히 그러실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.086,
+                "end": 19.953
+            }
+        ]
+    },
+    "summary": "하늘에 계신 아버지께서 도와주셔서 지금까지 잘 한 건지 아버지가 정말 하늘이 있어서 지금쯤이면 우리 아들이 잘했다고 인정을 해 주실지 아닐지 궁금하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17955_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17879",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.902,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영역 그거는 제가 첫 번째 집 할 때 써먹었던 방법",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.932,
+                "end": 4.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 왜냐면 이제 이제 아무래도 이제 실전은 없는데 경매 공부를 하다 보니까 이제 그런 것도 한번 찾아봐서 하니까 이제 거기가 딱 터줏대감이더라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.634,
+                "end": 14.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네네 확 다는 아닌데 확률적으로는 그런 분들이 좀 물건 많이 갖고 있고 조율도 좀 잘하시는 경우가 많아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.440,
+                "end": 20.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 이제 그걸 참고로 여러분들이 해보시면 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.980,
+                "end": 25.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 하다 보면 여러분들만의 노하우가 생기실 거예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.330,
+                "end": 27.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.740,
+                "end": 28.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 이제 좀 다른 이야기를 좀 해볼 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.600,
+                "end": 31.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.486,
+                "end": 32.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.083,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "터줏대감이 확률적으로 물건을 많이 갖고 있고 조율을 잘하는 경우가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

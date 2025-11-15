@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17598",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.094,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출근을 오늘 쉬는 날 아니었어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 뭐 할 것도 없고 해가지고 퇴근을 했는데 새벽 5시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.653,
+                "end": 7.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 밥도 안먹어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.495,
+                "end": 9.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밥은 먹었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.189,
+                "end": 10.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "점심 먹고 가서 저녁을 혼자 간단하게 밥 먹고 일을 하고 이게 전국에 있는 상가를 계속 검토 하는데 너무 재밌는거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.341,
+                "end": 20.969
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 기준에 부합 되는 물건이 나오니까 별표를 치기 시작 하는거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.979,
+                "end": 24.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별표 치다 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.905,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "전문가는 늘 시간 투입을 많이 한다고 하며 새벽 5시까지 일했지만 일이 재밌다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17598_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

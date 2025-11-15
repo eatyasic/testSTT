@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYR_18105",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.03,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 하시는 정규반이나 그런 게 다 이제 녹아 들어가 있겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그냥 간단하게 좀 설명을 드릴까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.213,
+                "end": 11.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간단 간단하게만 설명해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.246,
+                "end": 13.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 일단 여론도 재개발 재건축 투자할 때 제일 많이 듣는데 안전 마진이라는 표현일 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.027,
+                "end": 17.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.862,
+                "end": 18.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 기본적으로 안전하다고 생각을 전혀 안 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.289,
+                "end": 21.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 아까 안 하시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.474,
+                "end": 22.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 여러분들 그 항상 명심하셔야 될 재개발 재건축에는 안전 마진이라는 게 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.695,
+                "end": 27.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 안전 마진 없고",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.972,
+                "end": 30.030
+            }
+        ]
+    },
+    "summary": "화자가 재개발 재건축에는 안전 마진이라는 게 없다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18105_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

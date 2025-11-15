@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17889",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 53.987,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대출이 불가능할 경우 계약을 무효로 하고 계약금 반환한다",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이런 거 또는 계약일로부터 어 잔금 처리 익일까지 등기사항에 변동이 없어야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.030,
+                "end": 10.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잔금처리 다음날까지입니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.098,
+                "end": 12.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 다음날까지 네 왜 그러냐면 에 우리가 대항력이라고 부르는데 전입 신고하고 확 어 전입 신고하고 입주를 하게 되면 거기에 대한 효력이 그날이 아니라 다음날 발생해요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.200,
+                "end": 22.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이거 이거 진짜 국회 국회 올리가는데 계속 계류되고 있잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.880,
+                "end": 27.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저는 이거를 이게 정말 바꿀 수 있는거 거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.280,
+                "end": 30.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이 제도가 만들어진 게 이 제도가 만들어진 게 1989년도란 말이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.718,
+                "end": 35.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때는 인터넷이라는 게 온라인이 발달을 안 했기 때문에 제도가 그렇게 나갈 수밖에 없었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.410,
+                "end": 40.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 정말 이 IT강국에서 나의 권리를 실시간 등록하고 내가 등록한 걸 실시간 다른 사람들이 확인할 수 있고 이거는 민간 게임에서도 이미 구현하고 있는 기술인데 왜 이거를 지금까지 바꾸지 않고 있는지 저도",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.454,
+                "end": 53.987
+            }
+        ]
+    },
+    "summary": "1989년부터 실시된 대항력 효력이 발생하는 게 그다음날에 적용되는 법을 개정하는 게 국회에서 계속 계류되고 있어 빨리 개정되어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17889_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

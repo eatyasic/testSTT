@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17874",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.26,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일반분들이 중개사가 아닌 분들이 중개사를 찾을 때 만나보기도 전에 이분이 일을 잘한다 못한다 판단하는 건 사실 사실 불가능에 가까워요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불가능에 가까운데 그래도 그래도 뭐 작은 팁을 하나 드리자면 일단 지역에서 좀 오래된 중개사분이",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.058,
+                "end": 14.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.632,
+                "end": 15.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 일을 그래도 그 지역을 조금 더 잘알고 건물주분들을 물건을 좀 더 많이 알고 있",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.590,
+                "end": 20.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 제가 그분이 오래 했다는 걸 알려면 어떻게 해야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.480,
+                "end": 22.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 가지 방법이 있는데요",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.930,
+                "end": 23.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.920,
+                "end": 24.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 첫 번째는 간판이나 이런 거 보면 좀 티가 나고요 우리 맛집도",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.480,
+                "end": 28.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맛집 갈 때 약간",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.010,
+                "end": 29.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예에에 프랜차이즈 굉장히 멋있는 맛집이 있지만 노포맛집 오래된 그런 느낌이 좀 드는 그런 사무실이 있어요 또 이런 게 있고 좀 더 정확하게 보시려면 음 온라인에서 인터넷에 인터넷에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.270,
+                "end": 40.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.802,
+                "end": 41.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.400,
+                "end": 42.242
+            }
+        ]
+    },
+    "summary": "일반인이 중개사를 만나기도 전에 일을 잘한다 못한다 판단하기는 어렵고 간판이 오래된 경우 잘하는 경우가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

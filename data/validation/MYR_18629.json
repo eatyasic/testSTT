@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18629",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사용 실제 사용한 날 그중에 빠른 날로 하시면 될겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그렇게 해가지고 그때부터 2년 그러면은 기본세율 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.946,
+                "end": 7.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 그런데 내가 이 분양권 청량리 갖고 있는데 다른 주택 하나도 없고 이 청량리 하나만 갖고 있다고 합시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.224,
+                "end": 14.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 주택 하나 갖고 있는 거잖아요 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.394,
+                "end": 16.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 완공된 날",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.365,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "실제 사용한 날부터 2년 되면 기본세율이 되는 거고 갖고 있는 다른 주택 하나 없고 청량리에 하나만 갖고 있다고 가정을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18629_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

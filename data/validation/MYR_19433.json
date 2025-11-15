@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19433",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.394,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 세대원 전입은 2년인지 3년인지 좀 법을 확인해 보고 싶어요 근데 아직 시행령이 올라오지 않아 가지고요 일단 이 내용대로라면 3년 이내 전입이 맞을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.873,
+                "end": 11.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거는 뭐 정확하게 시행령이 나오면 시행령이 좀 나오면은 이 부분은 법으로 좀 확인 하실 필요가 있을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.410,
+                "end": 18.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 다음 페이지 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.228,
+                "end": 20.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네 다음 페이지 한번 보도록 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.173,
+                "end": 21.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.672,
+                "end": 22.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 이 위 내용들을 한 번 제가 설명을 좀 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.229,
+                "end": 27.394
+            }
+        ]
+    },
+    "summary": "아직 시행령이 올라오지 않았지만 내용대로라면 3년 이내 전입이 맞을 것 같다며 시행령이 나오면 법으로 확인 할 필요가 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19433_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

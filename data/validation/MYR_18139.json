@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18139",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부 작업이든 새 아파트가 된다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새 아파트가 되죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.540,
+                "end": 3.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 새 아파트가 되 되니까 저도 그냥 새 아파트 사고 싶다 진짜.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.440,
+                "end": 8.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울 서울엔 재개발 재건축 외에는.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.253,
+                "end": 11.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 아파트를 이제 살 수 있는 기회가 없잖아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.207,
+                "end": 12.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없잖아요. 누구나 다 아는 사실이잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.642,
+                "end": 13.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 앞으로 특히 서울 같은 경우에는 정말 정비 사업 시대가 오겠네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.860,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "서울에선 재개발 재건축 외에는 새 아파트를 살 수 있는 기회가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18139_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

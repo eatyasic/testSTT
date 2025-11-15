@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19014",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.63,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면은 이 보험료를 부담하는 주체 직장가입자와 지역가입자 직장가입자는 가입자별로 부과를 하는 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월급에다가는 7.09퍼센트 아 이게 약간의 오타가 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.114,
+                "end": 12.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞의 내용으로 봐주시면 되니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.410,
+                "end": 14.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이거는 작년 기준이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.416,
+                "end": 16.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월급은 월급에 대해서 7.09퍼센트로 회사와 개인이 반반 부담한다라는 거 그리고 월급 외의 다른 소득이 연간 2000만 원이 넘어가면 그 월 소득의 7.09퍼센트로 개인이 전체 부담한다라는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.330,
+                "end": 30.630
+            }
+        ]
+    },
+    "summary": "직장가입자 보험료는 가입자별로 부과가 되는데 월급의 7.09퍼센트는 개인과 회사가 반반 부담하고 월급 외의 2000만 원이 넘는 소득에 대해서는 월 소득의 7.09퍼센트를 개인이 전액 부담한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

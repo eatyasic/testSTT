@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17572",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.316,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그만큼 지방도 가치가 있는건 있다라는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.025,
+                "end": 3.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 그 밑에 있는 녀석을 찾을 때는 그걸 다 허물어 버리더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.619,
+                "end": 9.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으음",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.638,
+                "end": 10.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 무슨 말이냐면 대구에서 2급제로 가는 순간 금액이 바로 5 6억 대로 내려와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.031,
+                "end": 15.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.170,
+                "end": 16.316
+            }
+        ]
+    },
+    "summary": "지방도 가치가 있다라고 말 하는데 떨어지는 순간도 있으며 그 이유를 얘기 하려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17572_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

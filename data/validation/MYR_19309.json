@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19309",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.759,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "직원을 채용하였다면 중복적용 가능하고 여기 다 나오네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이 세무사님께서 어 짧게 짧게 썼는데 들어갈 내용이 거의 다 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.447,
+                "end": 10.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이거 가져 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.472,
+                "end": 11.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 하나만 가지고도 한 1시간 이상 충분히 강의 할 수 있는 그런 내용들이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.489,
+                "end": 15.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다 세무사님 관심 있으신 분들은 여기 한 번 연락해 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.408,
+                "end": 20.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무 관계 없어요 저 오늘 처음 봤어요 처음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.598,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "한 남자가 직원 채용에 따른 세액 공제 내용을 보고 자료 내용이 좋다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17636",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.028,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 신고서를 작성을 하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해외 부동산 취득 신고서",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.219,
+                "end": 2.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해외 부동산을 취득하겠다는 신고서 작성을 하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.472,
+                "end": 5.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.124,
+                "end": 5.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 내가 이거를 취득하는 거를 현지의 법인으로 할 수도 있고 아니면 제 개인으로도 할 수 있는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.496,
+                "end": 10.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.791,
+                "end": 11.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인으로 하실 때는 해외 부동산 취득 신고를 하시는 거고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.491,
+                "end": 14.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법인으로 하실 때는 해외 직접 투자 신고를 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.746,
+                "end": 18.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직접 투자 신고 그러면은 제 용도가 어 주거용은 아니고 투자용이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.085,
+                "end": 23.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 월세를 좀 받고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.060,
+                "end": 24.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 월세를 받고 싶은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.995,
+                "end": 28.028
+            }
+        ]
+    },
+    "summary": "한 남성이 개인으로 할 때는 해외 부동산 취득 신고를 하셔야 하고 법인으로 할 때는 해외 직접 투자 신고를 하는 거라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17636_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18626",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.992,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청량리 여기가 올해 9월인가 10월달에 입주하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 자 그러면 현재 청량리는 분양권 상태죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.901,
+                "end": 8.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 분양권은 주택이에요 주택 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.130,
+                "end": 10.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.766,
+                "end": 11.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 취득할 수 있는 권리예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.869,
+                "end": 13.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 지금 분양권 상태이기 때문에 주택이 아니기 때문에 지금 팔면은 무조건 70 아니면 60입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.381,
+                "end": 19.986
+            }
+        ]
+    },
+    "summary": "분양권은 취득할 수 있는 권리이기 때문에 주택이 아니고 지금 팔면 무조건 70 아니면 60이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18626_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

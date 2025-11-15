@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYR_18243",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.89,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토지 건물 소유자가 다르더라도 부속토지 종부세를 합산배제해서 비용 절감을 시키겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 현행 종부세 합산배제는 건물 부속토지 소유자가 동일해야 되고 이게 다르면 종부세 합산배제가 적용이 안되는데 앞으로는 이렇게 하겠다 근데 밑에 있는 말 보시겠습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.741,
+                "end": 17.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민관 협력하에 서울시 상생주택 예를 들어서 토지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.755,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "토지와 건물 소유가 명의가 다르면 종부세 배제하던 내용이 바뀌게 됨을 말해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

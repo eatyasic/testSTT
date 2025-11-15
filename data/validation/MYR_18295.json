@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18295",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.307,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1억 5000입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1억 5000밖에 안 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.066,
+                "end": 2.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피숍입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.495,
+                "end": 3.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 왜 왜 그러죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.739,
+                "end": 4.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "글쎄 감정이 1억 5000입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.859,
+                "end": 6.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 결과는 2억 7000에 낙찰받았는데 80명이 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.812,
+                "end": 11.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.487,
+                "end": 12.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보면은 안 팔리는 것은 안 팔리지만 인기있는 것은 모인다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.787,
+                "end": 17.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 모인다 요런 것도 있고 자 공장 같은 경우에는 뭐 10억 20억 하고 뭐 땅값이 뭐 뭐 고속도로가 뭐 어디고 되가지고 뭐 인터체인지가 만들어지면은 뭐 공장에 들어가는 물류 그 물류가 어 좋아지니까 땅값이 올라가게 돼 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.840,
+                "end": 34.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 보고 들어오는데 그렇게 대출이 잘 힘들고 본인이 가진 돈이 힘드니까 대부분",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.676,
+                "end": 41.307
+            }
+        ]
+    },
+    "summary": "커피숍이 있는 건물 감정가와 다른 사건 공장 낙찰가에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19213",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.406,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역세권인데 어쩌면 여기는 상가도 잘 돼있고 요것만 새 걸로 바뀌면 동네 자체가 엄청 고급진데 바로 조금만 내려가면 저 반대편의 역세권인데 그 역에 볼 게 하나도 없어 이거는 가보면 어떻게 쟤랑 얘랑 같을 수가 있고 그런데 안전 마진이 나와 이게 무슨 말이냐면 현재 더 싸다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 19.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.194,
+                "end": 19.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 입지까지 입지까지 가서 봤다 그럼 안 할 이유가 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.730,
+                "end": 25.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 만약에 그렇게 구역을 보셔 보셔도 당장 매수를 안 하더라도 마음에 들면 지켜보고 더 싼 매물이 나오나 지켜보고 또 제가 굳이 드리고 싶은 말씀 중에 이런 하락장에 좋은 것 중에 하나가 뭐냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.028,
+                "end": 39.406
+            }
+        ]
+    },
+    "summary": "임장을 가서 확인해 보면 같은 안전 마진이더라도 더 좋은 매물이 있을 수 있다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

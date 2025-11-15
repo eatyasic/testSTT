@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18663",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 곱해 주는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여기에서 다루고 있는 거는 이 바로 공정 시장 가액 비율입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.633,
+                "end": 8.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 다주택자 그리고 법인 같은 경우에는 60퍼센트거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.252,
+                "end": 14.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 만약에 1주택자다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.238,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "이 계산에서 다루고 있는 것은 공정 시장 가액 비율이고 이게 다주택자나 법인 같은 경우는 60퍼센트이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18663_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17685",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.243,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상업용 부동산은 좀 불안하고 그래서 이걸 좀 아까 말씀하신 우량자산 미국 부동산에 투자하고 싶다 그러면 처음에 계획을 한다면 어떤 걸 조 조 조심해야 돼요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.344
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 이제 미국이라는 나라가 아무래도 태평양 건너에 있고 그니까 심리적으로도 멀고 피지컬리 그니까 물리적으로도 이제 또 뭐니까 이게 진짜 가능할까 뭐 이런 생각도 하시는 분들 굉장히 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.354,
+                "end": 22.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 실제로 미국은 또 뉴스에도 자주 보시다시피 막 소송도 많이 일어나는 나라기도 하고 마약도 많이 최근에는 또 마약 이슈도 많이 발생을 했었고 그런 이렇게 좀 위험한 것들이 좀 많이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.060,
+                "end": 35.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 이제 소송 같은 것이 좀 많이 문젠데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.347,
+                "end": 38.238
+            }
+        ]
+    },
+    "summary": "한 남성이 미국 부동산에 투자할 때 조심해야 할 것이 무엇이냐고 묻자 다른 남성은 미국이 좀 위험한 나라기도 하고 특히 소송이 문제라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17685_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

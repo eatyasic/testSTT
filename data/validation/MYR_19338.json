@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_19338",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 67.333,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "썩 좋지는 않다 요 말씀을 좀 드리고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 정부 계산은 지금 부동산 거래가 안 되고 힘든 상황이기 때문에 이 취득세 중과를 좀 풀어서 얼어붙은 시장을 좀 녹인다는 그런 계획인데 야당에서는 반대를 하고 있고 개인적으로는 거래 비용이 저는 너무 과하다는 들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.206,
+                "end": 22.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 이제 주택 취득세 같은 경우에는 부동산처럼 다른 일반 부동산처럼 4퍼센트인데 2014년에 취득세 감면 돼 가지고 1에서 3퍼센트 됐단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.441,
+                "end": 30.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그때 1에서 3퍼센트 내린 것도 2014년이 왜 그렇게 됐냐면은 2008년 서브프라임 2010년 금융위기 되 가지고 하도 거래 안되고 수도권 시장이 죽을 쑤고 있으니까 조금 내려 준 거 였거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.924,
+                "end": 44.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거래를 좀 하라고 근데 그거를 한 6년 정도 유지하다가 2017 18부터 가격이 오르기 시작을 하니까 2020년 8월 달에 지방세법 개정을 해 가지고 8프로 12프로 올렸다는 거죠 8프로 12프로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.544,
+                "end": 59.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 저는 이제 말씀드리고 싶은 게 그거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.565,
+                "end": 62.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 말씀 드리고 싶은 건 뭐냐면은 자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.790,
+                "end": 67.333
+            }
+        ]
+    },
+    "summary": "정부는 부동산 거래가 힘든 상황이기 때문에 중과세를 풀려고 하지만 야당은 이를 반대하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19338_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

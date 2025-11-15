@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18685",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.657,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기 하나만 더 기억하시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.481,
+                "end": 2.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐만 하시면 됩니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.663,
+                "end": 3.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 내가 신혼부부다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.515,
+                "end": 5.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부부다 그러면은 부부 공동명의만 하시면은 끝납니다 끝나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.311,
+                "end": 9.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝나 으 왜그러냐면 부부공동명의를 하는 순간 이게 공제 금액이 엄청 커져버리기 때문에 재산 뭐 재산세 나오지 종부세는 어지간하면 안나와요 어지간하면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.106,
+                "end": 24.657
+            }
+        ]
+    },
+    "summary": "신혼 부부는 부부공동명의로 하면 재산세만 나오고 종부세는 어지간 하면 안 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18685_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

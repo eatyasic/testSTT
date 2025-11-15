@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19465",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.563,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요것도 실소유목적 1분양권을 취득한 경우인데요 요것도 마찬가지에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종전주택을 취득하고 종전주택을 취득하고 1년 이상이 지난 후 이것도 마찬가지로 2월 십 이십 2022년 2월 14일 이전 취득은 이 1년 이상 지나는 요건이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.524,
+                "end": 17.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 이 B분양권을 취득하고요 3년이 경과해야겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.298,
+                "end": 20.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼 3년이 안 됐다 그러면은 아까 위의 규정을 적용하는 거고 자 그 다음에 3년이 경과 되서 이 B주택이 완성이 됐어요 종전주택을",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.885,
+                "end": 30.563
+            }
+        ]
+    },
+    "summary": "실소유목적 1분양권을 취득한 경우도 마찬가지로 종전주택을 취득하고 1년 이상이 지난 후 B분양권을 취득하는데 3년이 경과해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17925",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.067,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 여러분 오늘은 @이름1님 모시고 많은 이야기 나눠 보도록 하겠습니다 대표님 안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 안녕하세요 아 네 불러주셔서 영광입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.362,
+                "end": 14.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아닙니다 또 이렇게 바쁘신데 시간 내주셔서 고맙습니다 저는 대표님을 알고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.941,
+                "end": 19.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.932,
+                "end": 20.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 우리 구독자 분들 중에 아시는 분도 계실 테고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.230,
+                "end": 23.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.270,
+                "end": 23.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음 보시는 분도 계실",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.650,
+                "end": 24.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많은 분들이 모르시겠죠 아마",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.420,
+                "end": 26.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 한 번 본인 소개 간단하게 좀 부탁드리겠습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.200,
+                "end": 29.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어 @이름2 채널 시청자 여러분 안녕하세요 저는",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.640,
+                "end": 34.067
+            }
+        ]
+    },
+    "summary": "@이름1를 초청해 많은 이야기를 나누려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

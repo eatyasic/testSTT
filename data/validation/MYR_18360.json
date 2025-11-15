@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18360",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 가격이 너무 비싸다 내려가야 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 후대를 위해서 아파트 가격이 사회적 비용이 증가하기 때문에 올라가면 안 된다라는 거는 어떤 자신의 소신이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.489,
+                "end": 10.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.665,
+                "end": 11.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장은 자기 소신으로 되진 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.359,
+                "end": 14.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올랐으면 좋겠다가 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.386,
+                "end": 16.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.180,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "여성 화자가 후대를 위해서 아파트 가격이 올라가면 안 된다라는 거는 자신의 소신이고 시장은 소신으로 되지 않기 때문에 올랐으면 좋겠다가 아니라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

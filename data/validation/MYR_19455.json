@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19455",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예교를 일단 말씀드릴께요 예교 해석으로 사업시행인가일 요 날 현재 무주택, 1주택 그리고 일시적 1세대 2주택이었어야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 사업시행인가일 이후에 취득했다 그러면은 그 취득이 현재예요 그래가지고 그 당시에 무주택, 1주택, 일시적 2주택 이었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.060,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "사업시행인가일 날에 무주택, 1주택, 1세대 2주택이었어야 한다며 사업시행인가일 이후에 취득했다면 그 취득이 현재다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

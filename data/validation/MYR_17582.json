@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17582",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.831,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탑 다운이 아니라 아파트나 탑 다운 방식으로 공부 하는 게 맞거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.681,
+                "end": 3.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지역 분석 하고 쫙 들어 가야 하는데 수익형은 물건 베이스로 다운 탑으로 가자",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.891,
+                "end": 8.958
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 약간 밑에서 위로",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.968,
+                "end": 11.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 우리 기준에 부합 되는 것을 쫙 찾고 이게 괜찮은지 안 괜찮은지를 그냥 분석 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.235,
+                "end": 17.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 훨씬 더 개별 물건으로 봐야 된다는 거죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.417,
+                "end": 20.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 그렇게 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.921,
+                "end": 23.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어어 완전히 다른 방식이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.159,
+                "end": 24.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 이제 빠르게 내가 대출이 먼저 가능한 지 먼저 검토 하기 전에 먼저 의뢰 해놓고 아 내가 얼마까지 대출이 몇 프로 금리로 나오는구나 사람마다 다르니까 체크 해놓고 진짜 내가 맘만 먹으면 일반 매매니까 살 수도 있겠구나 라는 느낌을 줘야 진짜 재밌게 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.393,
+                "end": 43.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.396,
+                "end": 44.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 어제 제가 봤던 것도 매매가 1억 2000밖에 안돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.179,
+                "end": 47.379
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1억 2000",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.389,
+                "end": 48.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.182,
+                "end": 48.815
+            }
+        ]
+    },
+    "summary": "전문가는 수익형으로 가려면 다른 방식인 다운 탑으로 가야 한다고 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17582_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

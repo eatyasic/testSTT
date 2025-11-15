@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19375",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직까지는 이제는 법무사님 입장에서 물론 이제 뭐 일부 의견입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 전체를 다 뭐 지역마다 다르기 때문에 그래서 그런 거를 감안하셔야 되겠지만 법무사님 지금까지 계속 업무 하셨던 거에 비하면은 아직은 잘 모르겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.799,
+                "end": 12.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그 정도까지는 아니다라는 생각",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.807,
+                "end": 14.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이제 조금 더 인제 신중할 필요도 있을 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.238,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "모든 법무사의 입장은 아니지만 법무사인 화자2의 입장에서 급매물이 빨리 소진된다라는 것까지는 아니기 때문에 신중할 필요가 있다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19375_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

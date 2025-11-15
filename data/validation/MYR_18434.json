@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYR_18434",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "채널 @이름1 오늘은 @이름2 작가님 모셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.731,
+                "end": 11.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.197,
+                "end": 12.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 잘 지내셨죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.258,
+                "end": 13.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.558,
+                "end": 14.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저희가 이제 오기 전에 이제 여기 커피숍에서 좀 많은 이야기를 좀 나눴고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.447,
+                "end": 19.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 내용 좀 덧붙여가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.746,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "우리는 여기 오기 전에 커피숍에서 많은 이야기를 나눴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

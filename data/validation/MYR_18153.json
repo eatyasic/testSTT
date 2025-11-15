@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18153",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 재개발을 조금 더 상대적으로 소액이 들어가니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.344
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상대적으로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.354,
+                "end": 2.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 상대적으로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.960,
+                "end": 3.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재건축 재개발.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.900,
+                "end": 4.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그리고 여러분들 보시면 아까 뭐 재건축은 강남 목동 여의도 그다음에 이제 마포에 가면 성산시영 광운대 역세권의 미미삼 그다음에 노원 요 정도잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.838,
+                "end": 14.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 근데 재개발은 서울의 전역에 다 깔려 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.397,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "재개발은 서울 전역에 다 깔려 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

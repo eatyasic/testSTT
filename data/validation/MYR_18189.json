@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYR_18189",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 재산을 떠나서 뭐 인생 자체를 즐기면서 편안하게 남들한테 도움을 주고 여러 가지로 그런 모든 것을 포괄하는 의미에서 잘사는을 붙여서 잘사는 흥부라고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네. 아 그 의미를 이제 알았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.922,
+                "end": 14.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.253,
+                "end": 14.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "괜찮은 의미 같고요 직전에는 좀 어떤 일 하셨어요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.860,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "인생 자체를 즐기면서 편안하게 남들한테 도움을 주고 여러 가지로 모든 것을 포괄하는 의미에서 잘사는을 붙여 흥부라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18189_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

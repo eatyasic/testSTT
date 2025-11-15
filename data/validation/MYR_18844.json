@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18844",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.726,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개발이 제한이 너무 심하고 그보다 더 중요한 게 95퍼센트가 그린벨트에요, 우리나라로 말하면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개발이 불가능한 땅.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.595,
+                "end": 7.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 어 뭐 해군이 가지고 있기도 하고 미국에서 가장 큰 해군기지거든요 하와이가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.051,
+                "end": 12.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 뭐 주정부가 가지고 있는 땅, 미국이 미국 정부가 가지고 있는 땅 이렇게 95퍼센트를 개발을 못 하기 때문에 개발이 가능한 공급이 가능한 땅 자체가 제한되어 있다는 점 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.480,
+                "end": 25.726
+            }
+        ]
+    },
+    "summary": "여성이 하와이는 우리나라로 말하면 95퍼센트가 개발이 불가능한 땅인 그린벨트라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18844_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

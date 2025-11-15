@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18675",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 정부는 이 같은 방안을 지방세법 시행령 개정을 잡아서 5월 8일 입법 예고하기로 했고 6월 중에 국무회의 통과 시켜 가지고 이렇게 공포를 하면은 되는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 특별히 이슈는 없을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.085,
+                "end": 13.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 어 제가 이제 이거를 가져온 목적은 이겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.357,
+                "end": 17.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 뭐 재산세가 줄어 드는데 뭐 나한테 어떻게 하라는 거냐 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.654,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "정부는 이 같은 방안을 지방세법 시행령 개정을 잡아서 5월 8일 입법 예고하기로 했고 6월 중에 국무회의 통과 시켜 가지고 이렇게 공포를 하면은 되는 건데 이제 이거를 가져 온 목적은 뭔지 알아봐야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

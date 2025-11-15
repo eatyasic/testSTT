@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_18739",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.751,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거주 주택 비과세 특례 자 그리고 2번 주택은 그냥 등록만 하는 게 아니라 여러 가지 요건이 있다고 그랬죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5퍼센트 뭐 8년, 10년 그리고 임대 개시 당시 기준 시가 6억이야 3억이야",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.671,
+                "end": 11.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 모든 것들을 다 갖춰서 등록했을 때 거주하고 있는 주택 1번을 팔면 얘가 2번이 빠져 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.606,
+                "end": 18.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 얘가 비과세가 가능하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.795,
+                "end": 20.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단 2년은 꼭 채운 다음에 거주한 다음에 그래서 24년 5월달에 파셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.655,
+                "end": 27.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2번에 대해서는 지금 등록하면 10년이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.545,
+                "end": 30.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 의무 임대 다 안 하더라도 1번이 주택에서 빠져 가지고 1번을 비과세 받을 수는 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.334,
+                "end": 35.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 2번을 어떻게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.286,
+                "end": 36.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남은 8년 동안 남은 기간 동안 의무 임대 기간 다 지켜야 되고 중간에 1번이라도 5퍼센트 만약에 올렸다 그러면은 주택 수 다시 카운트 돼 가지고 1번 비과세가 날아가 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.630,
+                "end": 46.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연 그동안 가산세까지 붙어 버리겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.226,
+                "end": 49.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이런 일이 있을 수 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.709,
+                "end": 51.751
+            }
+        ]
+    },
+    "summary": "2번 주택을 요건을 다 갖춰서 등록하고 1번 주택을 팔면 2번 주택이 주택 수에서 빠져서 1번 주택이 비과세가 가능한데 꼭 2년을 채운 다음에 팔아야 하고 2번 주택은 의무 임대 기간을 지켜야 하고 중간에 1번이라도 임대료를 5퍼센트 이상 올리면 주택 수가 다시 카운트 돼서 1번 주택이 비과세가 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

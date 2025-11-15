@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18976",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거듭 말씀드리지만 어 지금은 여러분들이 가지고 있는 자산을 어떻게 잘 지킬 거냐 어 이게 정말 중요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 그런 부분에 있어서는 보유 전략 매도 전략도 굉장히 중요해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.094,
+                "end": 15.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 투자 공부도 잘 하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.473,
+                "end": 17.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 꼭 팔면 오르잖아요. 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.040,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "내가 가지고 있는 자산을 어떻게 잘 지키는지가 중요하며 이런 부분에 있어서 보유 전략과 매도 전략 등 투자공부를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18976_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

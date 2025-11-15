@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18350",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.684,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 시점에서 작가님이 보시기에 좀 유용한 투자법은 관심을 가져봐라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.660,
+                "end": 6.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어떤 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.013,
+                "end": 7.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이유까지 좀 말씀해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.791,
+                "end": 8.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 지금 현재는 그 경매와 분양권이 가장 좋다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.888,
+                "end": 15.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경매와 분양권이요 이유가 뭐죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.126,
+                "end": 17.684
+            }
+        ]
+    },
+    "summary": "남성 화자가 작가에게 지금 시점에 유용한 투자법이 무엇인지 묻자 경매와 분양권이 가장 좋다고 생각한다고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18350_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

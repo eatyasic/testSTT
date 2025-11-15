@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19398",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.65,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 저는 에 아까 우리 사례에서 보여드린 것처럼 주택 임대 주택이 많다 그런 경우라면 어쩔 수 없는데 임대 주택이 만약에 한 채나 두 채 있다 그러면 차라리 저는 그 임대 주택 그냥 다 팔고 나머지 그냥 1주택 비과세 받으라고 저는 그냥 추천을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.760,
+                "end": 17.650
+            }
+        ]
+    },
+    "summary": "화자는 임대 주택이 한 채나 두 채가 있을 경우 임대 주택을 다 팔고 나머지 1주택 비과세만 받으라고 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19398_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

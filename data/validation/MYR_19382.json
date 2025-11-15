@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19382",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 임대 사업자에 대한 혜택이 많았던 2018년 9월 13일 전에는 비과세 감면을 잘못 받은 경우 올해로 국세를 부과할 수 있는 기한이 끝나는 상황이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거를 이제 좀 여러분들이 그 아셔야 되는데 어 자 이런 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.385,
+                "end": 15.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 좀 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.144,
+                "end": 19.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 보시면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.501,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "임대 사업자의 혜택이 많았던 2018년 9월 13일 전에는 비과세 감면을 잘못 받은 경우 올해로 국세를 부과할 수 있는 기한이 끝나는 상황이다라는 기사 내용을 화자가 설명해 주려 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19382_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

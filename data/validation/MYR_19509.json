@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "filename": "MYR_19509",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 103.746,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 굳이 이탈 안 하셔도 되죠 그래서 그 의제 취득가액 규정은요 근데 무조건 다 되는 건 아니고요 소액투자분들만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.600,
+                "end": 7.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.869,
+                "end": 8.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 대주주 분들은 그대로 옛날 취득가격으로 가고 네 그래서 요 부분 의제 취득가액도 조금 언급하 그러니까 말씀드려야 될 것 같고요 그 다음에 그 또 해외주식 아까 뭐 말씀 나와서 그런데 배우자증여 보통 부동산도 이월과세란 규정이 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.526,
+                "end": 27.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.772,
+                "end": 28.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 내가 증여을 받고 나서 5년 있다 팔지 말라 올해부터는 10년 이상 팔면 안 되는데 요게 이 규정이 주식에도 들어왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.151,
+                "end": 36.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.747,
+                "end": 37.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "배우 그 대신 뭐 직계손배속 배우자가 아니고 배우자의 한정에서 시간도 1년 이 규정이 들어왔었는데 금투세가 시행이 연기가 됐기 때문에 요 규정도 똑같이 연기가 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.419,
+                "end": 52.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다시 말해서 금투세가 시행되기 전에 해외주식으로 이익을 이익을 맞다 그러면 배우자한테 증여해서 최저가에 올리고 팔면 절세가 되겠죠 양도세가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.333,
+                "end": 62.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.541,
+                "end": 62.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요런 것들이 여전히 유효한 전략이다라는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.878,
+                "end": 65.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직은 해 볼 수 있다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.972,
+                "end": 67.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직은 해 볼 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 67.741,
+                "end": 68.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "25년 전까지는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.812,
+                "end": 69.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 69.927,
+                "end": 70.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아까 말씀하신 배우자 그 증여 그거는 부동산하고 똑같아요 에 그니까 내가 3억에 샀는데 5억이 됐다 곧바로 증여해 가지고 5억이 취득가를 만들어 버리잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.596,
+                "end": 81.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 81.922,
+                "end": 82.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 부동산은 10년 가지고 있어야 되는데 해외주식은 된다는 겁니다 그래서 해외주식 갖고 계신 분들은 혹시 많이 올랐다 이 정도면 그러신 분들은 이런 한번 그래도 금액이 되면 한번 상담을 받으시고 진행을 하시면 좀 어떨까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 82.200,
+                "end": 97.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그러면 금투세 시행되기 전에 좀 미리 해야 되는 것들 이렇게 좀 말씀을 좀 해주셨는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 97.315,
+                "end": 103.736
+            }
+        ]
+    },
+    "summary": "부동산의 이월과세라는 규정이 주식에도 들어왔고 금투세가 시행이 연기가 됐기 때문에 이 규정도 똑같이 연기가 됐다며 아직은 금투세 시행되기 전에 미리 해야 되는 것들을 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

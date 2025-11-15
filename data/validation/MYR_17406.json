@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17406",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.741,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법제처가 원하는 입법 추진을 위해 2023년 전국 국회에 추진 대책을 마련해서 국무회의 보고를 하고 그때 정부 추진 법안이 총 367개래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어후 어마어마한 숫자죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.204,
+                "end": 13.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 우리 우리같은 인제 법에 대해서 잘 모르시는 분들은 좀 많잖아요. 일단",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.902,
+                "end": 19.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 중 211건은 이미 국회에 제출됐고 나머지 156건은 입법 절차를 거쳐 연내에 제출할 예정인데 저도 이게 이제 뭐 정부가 발의하는 게 있고 국회 국회의원이 하시는 게 있고 어 종류가 다른데 아주 옛날에 가물가물 배웠던 기억이 나는데 솔직히 저도 정확하게는 모릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.245,
+                "end": 36.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 중요한 건 뭐냐면 관련된 법을 개정해야 되는 거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.644,
+                "end": 41.741
+            }
+        ]
+    },
+    "summary": "한 남성이 법제처가 원하는 입법 추진을 위해 2023년 전국 국회에 추진 대책을 마련해서 국무회의 보고를 하고 그때 정부 추진 법안이 267개 중 211건은 이미 국회에 제출됐고 나머지 156건은 입법 절차를 거쳐 연내에 제출할 예정이라는 기사를 읽으며 법안 개수가 어마어마하게 많다며 정부가 발의하는 법안이 있고 국회의원이 발의하는 법안이 있다며 예전에 배운 기억이 가물가물하다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

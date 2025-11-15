@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18706",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "못 움직였으니까 기회가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 그 말씀이시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.384,
+                "end": 3.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.198,
+                "end": 3.805
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 가격이 많이 떨어졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.815,
+                "end": 5.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 1기 신도시 중에 제가 매력적으로 이제 꼽는 요소들이 있는데 평촌은 최근에 1기 신도시 중에 가 가장 가격에 많이 빠진 동네가 또 평촌이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.574,
+                "end": 15.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.260,
+                "end": 15.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜그러냐면 개 걔는 부동산 하락이 시작됐을 때 또 7000세대 8000세대가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.560,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "1기 신도시 중에 제가 매력적으로 이제 꼽는 요소들이 있는데 평촌은 최근에 1기 신도시 중에 가 가장 가격에 많이 빠진 동네가 또 평촌이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18706_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

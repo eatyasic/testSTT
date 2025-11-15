@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_18728",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.174,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 몇 개 좀 더 볼까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 장기 임대 주택의 경우 세법상 요건을 갖추고 등록한 임대 주택을 장기 임대 주택이라고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.625,
+                "end": 7.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 민간 단계라 하더라도 그거는 민법에서 말하는 거고 세법에서 말하는 건 장기 임대 주택입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.090,
+                "end": 13.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 장기 임대 주택의 경우 의무 임대 기간을 충족하고 거주 주택을 팔면 주택 수가 빠져버리기 때문에 비과세가 가능한데 임대 기간을 채우기 전에 거주 주택을 팔아도 일단 비과세 혜택을 줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.730,
+                "end": 25.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이래서 좋은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.216,
+                "end": 26.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 일단 비과세 혜택을 주고 나중에 사후 관리가 들어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.749,
+                "end": 29.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 이후에 임대 기간을 채워야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.953,
+                "end": 32.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 임대 기간 못 채운다면 2개월 내 양도세 신고 납부해야 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.366,
+                "end": 35.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 말을 부드럽게 쓰셨죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.983,
+                "end": 37.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 무슨 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.799,
+                "end": 38.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 깨져 버린다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.794,
+                "end": 41.174
+            }
+        ]
+    },
+    "summary": "장기 임대 주택의 경우 의무 임대 기간을 충족하고 거주 주택을 팔면 주택 수가 빠져버리기 때문에 비과세가 가능한데 임대 기간을 채우기 전에 거주 주택을 팔아도 일단 비과세 혜택을 주는데 이후에 임대 기간을 채워야 하고 만약에 임대 기간을 못 채운다면 2개월 이내에 양도세를 신고하고 납부해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18728_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

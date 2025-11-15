@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17638",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그냥 단순하게 우리나라 원화로 한 번 해볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.849
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.859,
+                "end": 3.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 10억 짜리를 산다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.320,
+                "end": 4.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10억 짜리를 사는데 이제 뭐 이건 대출 같은 건 해봐야 아는데 뭐 신규 법인이 있잖아요 여기가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.585,
+                "end": 11.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.316,
+                "end": 11.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 거래 내역도 없고 매출 내역도 없고 근데 대출이 뭐 얼마나 나와요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.843,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "한 남성이 우리나라 원화로 예를 들어 10억 짜리를 사는데 거래 내역과 매출 내역이 없는 신규 법인은 대출이 얼마나 나오는지 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17638_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

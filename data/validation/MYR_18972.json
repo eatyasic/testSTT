@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18972",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 이제 오프라인 저자 특강 그리고 온라인 저자 특강 이런 것들이 나올 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 우리 출판사에서도 안내해주셨지만 4월 27일이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.682,
+                "end": 12.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 4월 27일날 어 저녁에 여러분들 구매인증을 하시면 무료로 어 온라인 참여하실 수 있는 링크를 제가 드릴 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.767,
+                "end": 23.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 이벤트들이 다 여기 카페와 제 블로그 이런 거에",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.639,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "앞으로 오프라인과 온라인에서도 저자 특강이 예정되어 있으며 4월 27일 구매인증을 하면 무료로 이벤트에 참여할 수 있는 링크를 드릴 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18972_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

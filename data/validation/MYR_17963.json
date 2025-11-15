@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17963",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "준다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 그리고 이제 되면은 어디까지 하냐면은 그 예비 시부모님 그리고 예비 장인 장모까지 해 가지고 이렇게 결합시킬 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.835,
+                "end": 12.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 또 말하면은 약간 좀 저같이 이미 결혼하거나 평범한 사람 입장에서는 조금 그럴 수 있는 데 한번 해보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.237,
+                "end": 20.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 이제 남자가 이렇게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.698,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "이미 결혼하거나 평범한 사람들 입장에서는 조금 그럴 수 있으나 적용 범위는 예비 시부모님, 예비 장인 장모까지 결합을 시킬 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17963_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

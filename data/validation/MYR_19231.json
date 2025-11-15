@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19231",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.427,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 내가 이제 관심 두는 이유가 예를 들어서 뭐 호재 때문에 그러는지 교통 때문에 그러는지 뭐 인구 때문에 그러는지 뭐 이유가 있을 거 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그거에 대해서 잠깐 팁을 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.185,
+                "end": 10.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.439,
+                "end": 10.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정답은 아까도 드렸는데 역시 가격",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.938,
+                "end": 13.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가격 어 역시",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.536,
+                "end": 15.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 입지 호재 뭐 다 얘기하잖아요 그 모든 게 사실은 가격에 다 들어가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.216,
+                "end": 20.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 들어가 있는데 이 가격이 지금 제가 지도에 넣은 지역은 올해 공급이 폭탄",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.737,
+                "end": 27.427
+            }
+        ]
+    },
+    "summary": "남자는 여자에게 어떤 지역에 관심을 둘 때 그 이유는 무엇인지 묻습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19231_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

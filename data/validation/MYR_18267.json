@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18267",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.419,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비고정이다 그런데 3번이다 그렇기 때문에 몇 퍼센트에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "8퍼센트가 나온다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.216,
+                "end": 7.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 여러분들 생각을 해보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.522,
+                "end": 9.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이 8퍼센트를 피하려면 어떻게 해야 되는지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.410,
+                "end": 12.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 생각하시면서 이제 영상을 들어주시면은 이제 훨씬 더 좋겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.363,
+                "end": 19.419
+            }
+        ]
+    },
+    "summary": "8퍼센트가 나오지 않기 위해서 어떻게 해야 하는가를 설명해 주려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18267_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

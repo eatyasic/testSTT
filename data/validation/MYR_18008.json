@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18008",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.02,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "증여세 공제 한도 상향 수준은 아직 결정 안되는데 1억에서 1억 5000만 원 정도가 될 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 인제 이게 이게 좀 앞의 내용을 이제 글씨로 우리가 보니까 좀 뭔가 와 닿지 않잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.498,
+                "end": 13.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 한번 좀 그림을 에 좀 그려서 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.049,
+                "end": 16.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러니까 이제 이런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.940,
+                "end": 20.020
+            }
+        ]
+    },
+    "summary": "증여세 공제 한도 상향 수준은 아직 결정되지 않았지만 1억에서 1억 5000만 원 정도가 될 것으로 예상하는데 우리가 글로 보니까 와 닿지 않아서 그림을 그려서 보도록 하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

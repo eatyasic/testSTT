@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18679",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.866,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "60만 원 정도 나오겠네",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "60만 원 정도 보유세가 60만 원 이거는 매년 6월 1일을 기준으로 하는데 내가 예들 들어서 3년 정도 가지고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.083,
+                "end": 12.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.286,
+                "end": 13.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "180만 원 나오게 돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.194,
+                "end": 19.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.490,
+                "end": 20.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 취득했을 때 660만 원 보유했을 때 180만 원 마지막으로 양도할 때 세금 얼마 나올까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.528,
+                "end": 27.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양도할 때 세금이 얼마 나오는지 알려면 제가 중요하니까 파란색으로 좀 해보죠 양도세는 크니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.298,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "한 남성이 660만 원을 보유했을 시 보유세 60만 원을 예시로 잡아 3년을 기준으로 180만 원을 양도할 때 세금이 얼마 나올지를 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18679_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

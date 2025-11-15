@@ -1,0 +1,232 @@
+{
+    "metadata": {
+        "filename": "MYR_19027",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.291,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그렇게 하면 되는 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.890,
+                "end": 1.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.861,
+                "end": 2.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사장님이 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.140,
+                "end": 2.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 내가 사장님이 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.005,
+                "end": 4.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.025,
+                "end": 4.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 가서 뭐 청소도 조금 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.411,
+                "end": 6.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.500,
+                "end": 7.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 형광등 좀 바꿀 거 바꾸고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.150,
+                "end": 9.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.747,
+                "end": 11.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 하면 되겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.106,
+                "end": 11.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 역시 @이름1님 대단하십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.943,
+                "end": 13.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요 이게 좀 뭔가 계속 고민을 해 보니까 하는 거 같은데 오늘 그 이거 정리하는 이게 너무 좋았고 저도 몰랐던 거 배워 가지고 어 너무 좋았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.008,
+                "end": 26.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 우리 세무사님 이렇게 말씀해 주셔서 다시 한번 감사드리고 다음에 또 유용한 정보",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.244,
+                "end": 33.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 불러주시면 또 유익한 정보로 또 찾아뵙도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.082,
+                "end": 36.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 저희가 이제 여러분이 혹시 더 우리 건보료 관련돼서 궁금하신 거는 댓글 남겨주시고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.729,
+                "end": 41.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.432,
+                "end": 41.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 또 제 주변에 여기 세무사님 포함해서 다른 분들도 많이 계시니까 어 이런 것도 좀 더 궁금해요 알고 싶어요 특히 이제 실무를 하고 계신 분들이니까 그런 내용도 알려주시면은 저희가 한번 모셔보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.908,
+                "end": 54.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그럼 오늘 여기서 마치겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.537,
+                "end": 55.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다 세무사님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.983,
+                "end": 58.291
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 세무사에게 몰랐던 내용을 알게 되어 감사드린다고 말하며 더 궁금하거나 알고 싶은 내용이 있다면 댓글로 알려 달라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

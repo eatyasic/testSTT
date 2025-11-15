@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19083",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실제 진행하신 분들은 거의 안 계시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.027,
+                "end": 2.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에 대한 내용도 좀 녹아져서 될 것 같고 그 전에 종로, 용산, 마포, 영등포 세무서 조사 팀장.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.697,
+                "end": 10.557
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.567,
+                "end": 11.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 세무 법인 하셨었고 그리고 은행 세무 담당, PB 뭐 여러 가지 활동을 하고 계시고 특히 그 한국 경제 @이름1 세무사의 절세 노트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.099,
+                "end": 19.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.460,
+                "end": 20.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 네이버 프리미엄에서 제네시스박의 절세 노트로 하고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.238,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 종로, 마포, 영등포 세무서 조사 팀장 등 세무사의 경력을 읊으며 대단한 듯 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

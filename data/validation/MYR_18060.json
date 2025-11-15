@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18060",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 고기 이제 상가가 들어올 건데 그 상가에는 정말 명품들만 하는 그런 상가가 들어올 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 더 파크 사이드 서울은 그 단지 이름이고 거기서 가을에 오피스텔 분양을 할 건데 그 오피스텔 이름이 더 파크 사이드 스위트예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.584,
+                "end": 16.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스위트",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.879,
+                "end": 17.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 근데 거기에 지금 일반 분양가가 평당 9500인가 9600인가해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.777,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "화자가 더 파크 사이드 스위트라는 오피스텔에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

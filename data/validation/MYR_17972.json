@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYR_17972",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혼인신고 전후 2년 간 이뤄진 결혼 자금 증여분을 증여세의 과세 대상에서 공제 하는 걸 검토한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면은 이제 뭐 지금 이제 정부 보도 자료에서 일단 딱 때렸으니까 이제 막 결혼하려는 사람들 예를 들어서 11월 달에 결혼한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.486,
+                "end": 16.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이제 11월 달에 했거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.742,
+                "end": 18.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 약간 멈칫할 수 있잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.302,
+                "end": 20.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이거 약간",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.345,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "혼인신고 전후 2년 간 이뤄진 결혼 자금 증여분을 증여세 과세 대상에서 공제 하는 걸 검토한다고 했는데 그 이유는 이제 막 결혼하려는 사람들이 약간 멈칫할 수 있기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17972_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

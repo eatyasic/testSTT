@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18757",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매출액이기 때문에 비용을 차감하기 전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 비용을 차감하기 전 금액이 2,000만 원 이하인 경우에는 분리 과세 혹은 종합 과세 중 선택하게 돼 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.132,
+                "end": 12.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 분리 과세라는 거는 다른 소득하고 합산하지 않고 그냥 분리 과세 세율 내고 그냥 끝내 버리는 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.965,
+                "end": 19.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합 과세라는 거는 다른 소득하고 합산해 가지고 할 수 있는 그런 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.745,
+                "end": 24.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그러면은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.434,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "매출액이란 비용을 차감하기 전을 말하며 2,000만 원 이하인 경우에는 다른 소득과 합산하지 않는 분리 과세 또는 다른 소득과 합산하는 종합 과세 중 선택한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18757_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

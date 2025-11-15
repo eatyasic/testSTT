@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17838",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 예를 1번 들어드리면 1억을 투자했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 돈이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.245,
+                "end": 4.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전부 다 빌려서 한 거라고 가정 은행 돈 약 평균 50년 5프로 정도 되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.486,
+                "end": 11.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이율이 5프로 따지면 2억 5000이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.116,
+                "end": 15.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2억 5000만 내면 1억짜리가 3000억이 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.338,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "예를 들어 1억에 이율이 5프로이면 2억 5000만 내면 3000억이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17838_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

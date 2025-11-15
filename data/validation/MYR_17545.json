@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17545",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.048,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 많은 분들이 이렇게 얘기를 하시더라고 아 뭐 심리가 뭐 그거 대단하냐 이 집값은 수요와 공급이 결정하는 거지 그런 말씀하시는데 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 장기적으로 보면은 어차피 주택 가격이나 부동산 가격은 공급이라든지 시장 기본 가치라든지 뭐 인구 문제 이렇게 에 결정하는 것은 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.535,
+                "end": 20.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 어 최근 들어서 심리적 영역이 훨씬 커졌다 이렇게 보시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.580,
+                "end": 26.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러느냐 부동산이 투자 상품화 돼서 그러는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.576,
+                "end": 29.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 홈에서는 심리가 중요하지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.474,
+                "end": 32.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하우스에서만 심리가 중요하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.847,
+                "end": 36.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "홈과 하우스의 차이는 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.219,
+                "end": 37.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 안 읽어 보신 분들 계셔서",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.852,
+                "end": 39.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홈은 삶의 안식처고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.128,
+                "end": 40.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하우스는 부자재를 말하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.352,
+                "end": 42.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 아파트에서 심리 영역이 굉장히 중요한데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.105,
+                "end": 45.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 어 사실상 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.488,
+                "end": 48.048
+            }
+        ]
+    },
+    "summary": "박사는 부동산에서 심리가 왜 중요 하느냐는 질문에 최근에 부동산이 상품화가 되었기 때문에 내가 사는 홈에서는 심리가 중요하지 않지만 하우스에서는 심리가 작용한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

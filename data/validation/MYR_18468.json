@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18468",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5억대 초반이었습니다 5구가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전고점 전세가 3억 4천까지 있었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.583,
+                "end": 5.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 거기 산곡역 역세권인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.744,
+                "end": 9.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가격이 이제 2억 7천에서 8천 그러니까 3억이 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.479,
+                "end": 14.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 전세가 1억 7천으로 내려가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.616,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "산곡역 역세권인데 가격이 이제 2억 7천이고 전세가 1억 7천으로 내려갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

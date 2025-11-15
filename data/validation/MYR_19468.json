@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19468",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주택이 완성된 다음에 제가 잔금을 내면 제 주택에 취득시기는 완 잔금일이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.355,
+                "end": 5.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 여기는 완성이라고 써 있었어요 그래서 이 규정이 2년이었을 때는요 한 번 전세 놓기가 조금 부담스러웠어요 사실 그것만 뭐 2년이니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.690,
+                "end": 15.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.485,
+                "end": 15.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 또 3년이 되면은 한 번 전세 하기도 아무래도 조금 낫지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.925,
+                "end": 20.637
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금 그렇지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.647,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "주택이 완성된 후 잔금을 내면 주택에 취득시기는 잔금일인데 완성이라고 써 있었으며 이 규정이 2년이었을 때는 부담스러웠지만 3년이 되면 조금 나아질것 같다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

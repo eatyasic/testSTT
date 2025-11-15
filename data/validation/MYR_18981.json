@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18981",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 건강보험에 대해서 설명을 드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건강보험에는 세 가지 캐릭터가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.269,
+                "end": 6.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우선 직장가입자 피부양자 지역가입자가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.605,
+                "end": 10.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직장 직장 가입자는 사업장에서 일하는 근로자 그리고 그 근로자가 근로자에 의해 생계를 유지하는 자를 피부양자라고 하고 그 외의 모든 사람을 지역가입자라고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.772,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "건강보험은 사업장에서 일하는 직장가입자, 그 근로자에 의해 생계를 유지하는 피부양자, 그 외의 모든 지역가입자 이렇게 세 가지로 나뉜다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18981_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

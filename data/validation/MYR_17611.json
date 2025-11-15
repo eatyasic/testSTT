@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17611",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "천차만별이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지역별로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.308,
+                "end": 2.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 앞으로 어떻게 될까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.054,
+                "end": 4.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 말하기가 지역별로 좀 다르지 않나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.133,
+                "end": 7.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역별로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.575,
+                "end": 8.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그런 생각이 좀 들고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.180,
+                "end": 9.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 그냥 그냥 가장 큰 상황에서는 분명히 이건 힘이 빠졌다라고 생각하기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.757,
+                "end": 16.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.593,
+                "end": 16.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길게 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.993,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "한 남성이 지역별로 천차만별이기 때문에 말하기가 좀 그렇고 가장 큰 상황에서는 힘이 빠졌다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

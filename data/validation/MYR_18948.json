@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18948",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인을 활용해서 하시는 방법 얼마 전에 제가 법인특강을 했더니 생각보다 여러분들이 많이 오셨더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 어 지금도 뭐 법인을 하면은 뭐 뭔가 굉장히 좋은 게 있을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.431,
+                "end": 12.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇기 때문에 오셨다고는 생각하지 않고 지금 만약에 지금 굉장히 힘든 시기이지만 뭔가 좀 새로운 방법이 없을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.585,
+                "end": 19.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공부하시기 위해서 오셨다고 생각이 들었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.006,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "얼마 전 법인특강을 할 때 많은 분들이 오셨는데 힘든 시기에 새로운 방법이 없는지 공부하러 오셨다는 생각이 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18948_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19323",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이제 1에서 3퍼센트거든요 기본 세율이 취득세가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 2013년 취득세 감면 때문에 1에서 3으로 내려간 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.903,
+                "end": 7.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 부동산 토지나 상가는 다 4퍼센트란 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.791,
+                "end": 11.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 2주택자는 2에서 4로 하고 3주택자 이상 같은 경우에는 현행 중과세를 유지해야 된다라고 이제 나온 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.073,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "2013년 취득세 감면으로 취득 기본 세율은 1에서 3퍼센트이고 토지나 상가는 4퍼센트인데 야당은 2주택자도 2에서 4퍼센트 3주택자 이상은 현행 중과세를 유지해야 한다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19323_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

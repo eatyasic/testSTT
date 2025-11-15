@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17721",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.829,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취득세, 재산세, 종부세는 피할 수 있다하더라도 양도세에서 걸리게 돼있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 갭투자에서 주거용으로 쓰는 순간 부가세 받은 거 환급받은 거 토해내야 되고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.808,
+                "end": 9.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그건 얘기 잘 안 하지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.545,
+                "end": 11.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.665,
+                "end": 14.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주거용 오피스텔로 사용했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.921,
+                "end": 16.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 다른 주택을 살 때 주택 수에 포함돼 취득세 중과 대상인데 요 거의 정확히 뭐냐면은 2020년 8월 12일 이후에 취득을 하고 업무 주거용 재산세가 나와야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.793,
+                "end": 26.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재산세까지 주거용으로 나와야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.745,
+                "end": 29.829
+            }
+        ]
+    },
+    "summary": "취득세, 재산세, 종부세는 피할 수 있더라도 양도세는 걸리게 되어 있고 갭투자에서 주거용으로 쓰는 순간 환급받은 부가세는 환수된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17721_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

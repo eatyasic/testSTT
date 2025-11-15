@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19230",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 여 A라는 지역이라고 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.732
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.742,
+                "end": 2.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 A라는 지역을 굳이 초판 한정 부록으로 했단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.069,
+                "end": 5.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.909,
+                "end": 6.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시세까지 다 넣어서 이게 그냥 봐도 이게 보통 되는 작업이 아니거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.146,
+                "end": 10.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꽤 시간이",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.546,
+                "end": 11.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시세 조사만 1달 걸렸어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.430,
+                "end": 12.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꽤 시간이 오래 걸리는 그런 조사란 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.339,
+                "end": 14.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 이 지역을 안 밝히셔도 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.622,
+                "end": 18.547
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.557,
+                "end": 19.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 지역을",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.061,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "남자는 여자가 출간한 부록을 보고 A라는 지역을 시세까지 다 넣었다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

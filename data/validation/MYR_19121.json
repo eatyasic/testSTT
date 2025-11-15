@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19121",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도세 아예 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.492,
+                "end": 2.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 아예 없다는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.280,
+                "end": 4.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 법인 세율 살짝 내렸습니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.368,
+                "end": 6.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1퍼센트 포인트씩.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.511,
+                "end": 8.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포인트씩.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.265,
+                "end": 8.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 금융 투자 소득세 깔끔하게 또 2023년부터 하려다가 여러 가지 문제점이 있어서 25년으로 늦춰졌다는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.863,
+                "end": 17.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.559,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "법인 세율도 1퍼센트 포인트씩 내리고 금융 투자 소득세는 여러 가지 문제점이 있어 25년에 개정된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

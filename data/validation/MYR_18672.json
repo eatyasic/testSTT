@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18672",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 간혹 이 몇 몇 몇 분들이 이제 질문하실 수가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그러면 종부세는 어떻게 되냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.565,
+                "end": 4.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종부세 신경 안 쓰셔도 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.030,
+                "end": 5.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 1세대 1주택 단독명의라면은 공시가가 12억까지 안는데 뭐 아직 한참 남았잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.733,
+                "end": 10.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억 7000이니까 절반 조금 넘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.373,
+                "end": 13.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 부부공동명의 5대5로 하면은 지분 5대5로 하면은 남편 9억 아내 9억이기 때문에 18억이기 때문에 더 뭐 이게 신경 안쓰셔도 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.111,
+                "end": 22.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에 있는 내용이 밑에 이렇게 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.005,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "종부세는 신경을 안 쓰셔도 되고 1세대 주택 단독명의 라면은 공시가가 12억까지 안 나와서 한참 남았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

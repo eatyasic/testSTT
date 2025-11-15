@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19483",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.296,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 네 거기 이제 주차도 잘 되있고 한다고 하시니까 하시면 좀 좋을 거 같고 뭐 이제 너무 약간 남발하시면 안 되는데 여기 그 사무실 전화번호가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저 사무실로 이렇게 좀 전화를 한번 문의하시면은 뭔가 좀 가구 여부 이런 게 좀 있을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.807,
+                "end": 17.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 미리 살짝 이렇게 좀 하시고 네 항상 상담은 자료가 굉장히 중요하기 때문에 대면 상담하시면 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.334,
+                "end": 24.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 좀 마무리 인사 한 번 해 주시죠 세무사님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.713,
+                "end": 27.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 오늘 이렇게 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.405,
+                "end": 30.296
+            }
+        ]
+    },
+    "summary": "사무실로 전화로 문의를 하면 가구 여부 이런게 있을 것 같고 상담은 자료가 굉장히 중요하므로 대면 상담하는 것이 좋을 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19483_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYR_18749",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저라면은 차라리 B를 그냥 매각한다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 B를 세대 외 구성원에게 증여한다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.211,
+                "end": 14.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 정말 이거는 드문 케이스인데 A를 정말 내가 비과세를 받아야 하는데 도저히 매각도 안 되고 증여도 할 사람도 없고 그렇잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.269,
+                "end": 21.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 차라리 B를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.307,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "B를 매각하거나 세대 외 구성원에게 증여하는 방법이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

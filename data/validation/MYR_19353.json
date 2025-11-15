@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19353",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 퇴사를 했어요 개인 사정으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.883
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.893,
+                "end": 2.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다가 우연한 계기로 법무사 시험에 응시를 했고 합격하게 되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.559,
+                "end": 7.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금은 현재는 개인 사무실 운영하면서 부동산 등기나 법인 등기나 그리고 민사소송 강제 집행 가족 관계 등록 뭐 회생 파산 전반적인 거 사건을 다 다루고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.665,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "법무사는 개인 사무실을 운영하면서 전반적인 사건을 다루고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

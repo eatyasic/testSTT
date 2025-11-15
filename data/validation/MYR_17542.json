@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17542",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.03,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "늪으로 빠질 수 있는 그런 측면이 있기 때문에 훌훌 털고 일어나라 뭐 다만 다음에 이런 일이 생겼을 때 반복하지 않도록 어 지적인 근육을 늘려라 뭐 이런 게 전반적인 어 내용의 핵심이라고 보시면 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.492
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 지금 책을 거의 다 이렇게 요약을 해주시면 어떡해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.502,
+                "end": 18.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책을 책을 지금 사서 봐야 되는데 굉장히 지금 핵심적인 내용들을 많이 잘 정리를 해주셨고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.989,
+                "end": 25.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 이제 박사님께서 그거를 다 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.842,
+                "end": 30.030
+            }
+        ]
+    },
+    "summary": "박사는 책에 투자 실패로 늪에 빠지지 말고 반복하지 않도록 지적인 근육을 늘리라는 내용을 담았다고 얘기하자 진행자는 핵심적인 책의 내용을 잘 정리해 주셨다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17542_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

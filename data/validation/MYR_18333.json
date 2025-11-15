@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_18333",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.826,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그러면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 않고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.717,
+                "end": 3.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관련된 내용은 소득세법 양도세 세율쪽 아마 104조인가 107조인가 104조일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.212,
+                "end": 9.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소득세법을 보셔야 합니다 시행령을 보시는 게 아니고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.897,
+                "end": 13.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 정부가 지금 바꿀려고 하는 게 1년 미만 45퍼센트 그리고 1년 이상 같은 경우에는 단기 양도 세율 폐지해서 즉 기본 세율인 6에서 40으로 간다는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.293,
+                "end": 25.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택과 조합원 입주권도 마찬가지로 이렇게 하려고 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.492,
+                "end": 29.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 조금 전에 말씀드린 것처럼 소득세법이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.711,
+                "end": 33.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법을 개정을 해야 되기 때문에 이거는 국회의 동의가 반드시 필요한 그런 상황이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.950,
+                "end": 41.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 야당이 현재 다수당이기 때문에 우리 입장에서는 조금 더 기다려야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.461,
+                "end": 45.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에 7월달 보통 국회 개정 세법 때 7월달에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.781,
+                "end": 51.818
+            }
+        ]
+    },
+    "summary": "남성 화자가 정부가 지금 바꾸려고 하는 게 1년 미만 45퍼센트, 1년 이상은 단기 양도 세율을 폐지해서 기본 세율로 간다는 건데 이거는 국회의 동의가 반드시 필요한 상황이고 야당이 현재 다수당이기 때문에 우리는 조금 더 기다려야 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

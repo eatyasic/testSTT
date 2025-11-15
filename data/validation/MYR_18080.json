@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18080",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 상가에 이제 건립가액이라는 게 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.955,
+                "end": 3.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 건립가액이 거기서 지어 지는 아파트에 가장 작은 평수의 조합원 분양가보다 커야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.655,
+                "end": 10.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.703,
+                "end": 11.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 예를 들어서 거기에 아파트가 지어지는데 제일 작은 평수가 예를 들어서 전용 면적 59예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.212,
+                "end": 15.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 예 조합원 분양가가 5억이야",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.758,
+                "end": 18.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.337,
+                "end": 18.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 내가 상 갖고 있는 상가의 건립가액이 4억 9000이야",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.812,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "두 남성이 건립가액에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

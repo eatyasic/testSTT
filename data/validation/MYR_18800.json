@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18800",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 1년에서 2년이면은 60퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 문제는 뭐예요. 2년 넘어도 60퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.932,
+                "end": 5.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉, 잔금 치를 때까지 60퍼센트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.671,
+                "end": 10.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기 나와 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.510,
+                "end": 12.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 분양권은 취득 후 1년 내 팔면 양도세율이 77.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.135,
+                "end": 14.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 지방 소득세 붙어 가지고 10퍼센트 또 붙으니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.003,
+                "end": 17.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 1년 이후는 66. 요 1년 이후 요 말이 무서워요 등기 칠 때까지예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.342,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "잔금 치를 때까지 60퍼센트인데 현재 분양권은 취득 후 1년 내 팔면 양도세율이 77퍼센트, 1년 이후는 66퍼센트다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

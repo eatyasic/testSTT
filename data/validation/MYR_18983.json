@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18983",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.376,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "직장가입자에 의해서 생계를 유지하는 자다. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 직장가입자와 지역가입자가 보험료를 부담하게 되는데 흔히 요즘 말로 내돈내산이라고 표현을 해야 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.159,
+                "end": 12.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직장가입자와 지역가입자는 내가 보험료를 내고 이 보험 혜택을 내가 누리는 자를 직장가입자 지역가입자라고 구분 지으면 될 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.482,
+                "end": 22.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피부양자 같은 경우에는 어 직장가입자로부터 후원이나 협찬을 받는 캐릭터라고 생각을 하시면 이해하기 쉽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.685,
+                "end": 31.667
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 그 후원이나 협찬을 받기 위해서는 일정한 자격 요건이 있는데 그 자격요건인 소득요건과 재산요건이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.677,
+                "end": 41.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 요건이 충족이 되어야만",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.065,
+                "end": 43.376
+            }
+        ]
+    },
+    "summary": "직장가입자와 지역가입자는 보험료를 내는 주체이고 피부양자는 직장가입자로부터 후원을 받는 캐릭터라고 생각하면 이해하기 쉬운데 피부양자가 이러한 협찬을 받기 위해서는 소득요건과 재산요건을 충족해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18983_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

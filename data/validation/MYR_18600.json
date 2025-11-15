@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18600",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실거래가 보고 오셨어요 그 가격엔 매물 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정상 거래가 아닌 걸로 파악하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.757,
+                "end": 5.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 동대문구에 있는 A 중개업소 대표님이 이렇게 말씀하셨다고 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.295,
+                "end": 10.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 중요한 건 뭐냐면 동대문구 전농동이라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.063,
+                "end": 14.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 어디랑 가깝습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.358,
+                "end": 16.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청량리하 청량리하고 가깝죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.286,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "서울 동대문구에 있는 A 중개업소 대표님이 실거래가 보고 오셨냐고 그 가격에는 매물이 없다고 하여 정상 거래가 아닌 걸로 파악하고 있고 이 지역은 청량리와 가깝다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

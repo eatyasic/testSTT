@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18005",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.672,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러면은 이런 내용들이 나오느냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 상증세 개편 사항은 법 개정 이듬해부터 적용이 되는데 그럼 지금 우리가 정기 국회가 9월이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.214,
+                "end": 10.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 9월 달에 정기 국회를 시작을 하고 보통 연말까지 간단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.225,
+                "end": 15.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그중에 인제 뭐 몇몇 사항들은 좀 일찍 통과를 시키고 이슈가 있는 것들은 이제 여야 간에 계속해서 첨예하게 대립을 하지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.502,
+                "end": 23.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 예를 들어서 뭐 11월, 12월에 관련된 내용이 개정이 된다고 하면 보통 시행 시기는 언제냐면 보통은 그 다음 년도 그러니까 올해로 치면은 이제 24년 1월 1일 이후가 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.345,
+                "end": 35.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "24년 1월 1일 이후에 결혼하는 경우에",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.276,
+                "end": 39.672
+            }
+        ]
+    },
+    "summary": "보통 상증세 개편 사항은 법 개정 이후 이듬해부터 적용이 되기 때문에 만약 11월, 12월에 법 개정이 된다고 하면 보통 시행 시기는 24년 1월 1일 이후가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

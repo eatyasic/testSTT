@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_17652",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.662,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 딱 찍어주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음 하 하기에는 이걸 접근해 봐라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.155,
+                "end": 4.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 과거 상승률을 좀 봤을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.909,
+                "end": 7.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.295,
+                "end": 7.999
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아무리 그래도 단독주택이 제일 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.009,
+                "end": 11.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단독주택이라고 하면 우리가 흔히 그 영화에 나오는 그런 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.873,
+                "end": 15.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.428,
+                "end": 15.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 푸른 초원 위에",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.972,
+                "end": 17.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 마당도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.200,
+                "end": 18.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마당이 있고 위에 그 집 있고 아 그게",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.141,
+                "end": 20.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지붕이 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.192,
+                "end": 20.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 어떤 면에서 유리해요 그게?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.933,
+                "end": 23.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수요가 많나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.256,
+                "end": 23.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기본적으로 미국 애들이 다 그런 집들을 좋아해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.897,
+                "end": 26.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 프라이빗하게 우리만 사는 집. 그리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.455,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 과거 상승률을 봤을 때 단독주택이 제일 좋으며 기본적으로 미국 애들이 프라이빗하게 우리만 사는 집들을 좋아한다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

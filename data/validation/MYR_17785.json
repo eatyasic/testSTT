@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYR_17785",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.502,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아주 그렇게 막 스트레스 안 받으셔도 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여러분들이 제일 원하는 게 제가 뭔지 알거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.577,
+                "end": 5.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세 제일 좋아하거든",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.373,
+                "end": 6.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세는 항상 살얼음 위를 걷는다고 생각하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.997,
+                "end": 9.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "발 하나 잘못들이면 그냥 딱 밑에 빠집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.847,
+                "end": 12.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빠지고 나서 살려주세요 하면 안되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.415,
+                "end": 14.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 이미 몸이다 젖었으니까 우리는 물 한 방울 묻히지 않고 저 건너편까지 건너가야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.754,
+                "end": 21.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠 그래서 미리 어느 길로 가야 되는지 확인하시고 가면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.400,
+                "end": 26.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 오늘도 힘내셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.082,
+                "end": 28.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도움 되셨다면 좋아요 구독 부탁 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.353,
+                "end": 30.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.401,
+                "end": 35.502
+            }
+        ]
+    },
+    "summary": "비과세에 대해서 스트레스 받지 말고 확인을 잘 하라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

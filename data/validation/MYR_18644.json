@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18644",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 매년 7월에 그다음 연도에 쓸 세제개편안이 나오는데 그때 나오지 않을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 느낌이 그렇죠 세트로 묶어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.940,
+                "end": 8.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "느낌이 그런데 근데 억울하시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.065,
+                "end": 10.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 소급 적용할 거라고 알고 계셔서 당연히 들어갔셨던 분들이 있는데 그분들이 당황할 수 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.619,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "매년 7월에 그다음 연도에 쓸 세제개편안이 나오는데 그때 나오지 않을까 하지만 소급 적용할 거라고 알고 계셔서 들어갔던 분들이 있는데 그분들은 당황할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18644_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

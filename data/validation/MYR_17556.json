@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17556",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거는 직접적인 영향을 주는 게 아니라 간접적인 영향을 주는 거고 이거는 어떻게 보면 한 다리 걸치는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.076,
+                "end": 6.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 만약에 이게 어 공급자 부실 문제가 이게 어느 정도 터질지는 그건 봐야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.805,
+                "end": 15.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.176,
+                "end": 15.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 만약에 이게 터져서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.485,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "전문가가 공급자 부실 문제는 언제 어느 정도 터질지 봐야 하며 직접적인 영향 보다는 간접적인 영향을 주는 거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17556_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

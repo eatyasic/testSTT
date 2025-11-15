@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18042",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 좀 주변 분위기 분들이 생각하는 평판",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.145,
+                "end": 3.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것들을 보면서 이제 지역 분석 임장도 좋지만 이런 분위기 파악을 좀 해라",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.731,
+                "end": 8.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.930,
+                "end": 9.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 이게 굉장히 핵심이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.445,
+                "end": 11.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아까 제네스박님이 잘 맞춰 주셨으니까 그러니까 아까 200억 그게 중요한 게 아니라 그런 식으로 부정에 딱 던지면",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.046,
+                "end": 18.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.413,
+                "end": 19.012
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딱 반응이 둘 중에 하나로 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.022,
+                "end": 20.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 그럴 리 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.494,
+                "end": 21.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응 응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.989,
+                "end": 22.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 하나는 뭐냐 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.641,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "화자가 주변 분위기와 평판을 살펴 보라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

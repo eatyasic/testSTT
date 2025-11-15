@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19546",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 50.85,
+        "format": "MP4",
+        "date": "2022-04-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이구 올라왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.112,
+                "end": 5.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 기분 좋아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.361,
+                "end": 50.850
+            }
+        ]
+    },
+    "summary": "침대 밑에 계단을 통해 올라온 기분 좋은 행성이와 소녀도 침대 위에 올라와서 주인을 반기고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19546_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

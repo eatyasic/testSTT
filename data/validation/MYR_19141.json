@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19141",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 제가 어제 전화를 하나 받았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.296,
+                "end": 2.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 전화였나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.805,
+                "end": 3.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 갖고 있는데 중간에 증여를 했다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.596,
+                "end": 6.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반을 배우자한테",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.959,
+                "end": 8.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절반을?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.334,
+                "end": 9.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 될 것 같습니까 안 될 것 같습니까? 어떻습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.189,
+                "end": 12.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 절반을 증여했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.481,
+                "end": 15.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 원래 갖고 있었던 거는 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.052,
+                "end": 18.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.657,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "나는 어제 배우자한테 절반을 증여했다는 전화를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

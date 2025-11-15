@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18990",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.426,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 워밍업을 해봤고 그다음에 소득이 어느 소득이 보험료 산정할 때 반영이 되는지 알아보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매년 5월 국세청에 신고된 전년도 소득 금액을 기초로 11월부터 다음 해 10월까지 보험료 보험료가 부과되는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.181,
+                "end": 18.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 2021년도 귀속 소득에 대해서는 2022년도 확정이 되고 그 소득을",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.459,
+                "end": 26.426
+            }
+        ]
+    },
+    "summary": "어느 연도의 소득이 보험료의 기초가 되는지 알아보자면 매년 5월 국세청에 신고된 전년도 소득 금액을 기초로 11월부터 다음 해 10월까지의 기간의 보험료가 부과된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18990_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

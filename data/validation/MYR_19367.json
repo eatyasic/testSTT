@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19367",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 다 이게 엮어질 수 밖에 없는 어 그런 구조라고 보이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 책 책도 저는 이제 미리 그 전에 샀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.866,
+                "end": 7.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 오늘 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.354,
+                "end": 8.339
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.349,
+                "end": 8.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 지금 뭐 이게 사인까지 이렇게 좀 감사하게 좀 해 주셔 가지고 너무 감사한데 어 책도 이제 세 분이 이제 색깔이 좀 약간 독특하게 묻어 나와서 어 그런 점들이 좀 재밌었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.817,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "부동산을 취득 후 감정 평가사, 세무사, 법무사가 엮일 수 밖에 없고 책의 저자인 이 세 명의 색깔이 묻어 나오는 책이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19367_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

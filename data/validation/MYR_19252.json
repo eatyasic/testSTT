@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "filename": "MYR_19252",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 84.617,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빈집이 있고 가격도 지금도 이렇고 집은 막 이십오륙 년 돼가지고 낡아빠졌고 그 생각을 했을 때 그런 사람 과연 있을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.721,
+                "end": 10.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누구요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.225,
+                "end": 11.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공부하는 사람",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.330,
+                "end": 12.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.646,
+                "end": 13.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 시장 우습게 보고 무섭게 보고 도망가지 마시고 차근차근 공부해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.169,
+                "end": 19.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 좋은 건 내가 공부할 때까지 시장이 기다려줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.568,
+                "end": 22.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장 올해 안에 뭘 사거나 하지 않으셔 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.722,
+                "end": 25.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입지 공부도 천천히 해보고 내가 사는 아파트 내가 사는 오피스텔 부동산이라도 한번 가보고 내가 사는 게 혹시 전세면 이 전세 더 싼 거 있는지도 한번 알아보고 이러면서 하나씩 하나씩 시작해 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.000,
+                "end": 39.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 말씀드리는 게 저희가 다루는 게 부동산 집이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.977,
+                "end": 44.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까도 주식 얘기 하셨지만 주식은 있다가도 없을 수 있고 없어도 살아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.838,
+                "end": 49.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 집은 필수제예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.510,
+                "end": 51.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필수제이자 이게 자산 가치가 높잖아요. 저희 자산의 대부분이 들어가 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.961,
+                "end": 56.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 하면서 책 1권도 제대로 안 보고 누구 얘기 듣고 무서워서 하고 아니면 겁 나서 안 하고 이런 결정하지 않으셨으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 56.670,
+                "end": 66.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 공부해 보고 그래도 부동산은 안 하는 게 낫겠다라고 결정을 내리시는 것도 괜찮아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 66.963,
+                "end": 72.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 일단 한번 공부해 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 72.299,
+                "end": 74.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책으로도 저희 같은 유튜버들이 올려주는 영상 보면서 한번 내가 어 내가 스스로도 판단해 보고 그런 시즌이 되면 어떨까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 74.839,
+                "end": 84.617
+            }
+        ]
+    },
+    "summary": "여자는 부동산에 대해 공부해 보고 안 하는 게 낫겠다고 결정을 내리시는 것도 괜찮다며 스스로 판단해 보라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

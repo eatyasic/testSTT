@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17662",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.524,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 가도 되는 거 아니었어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.341,
+                "end": 1.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 가도 되는데 갔다 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.405,
+                "end": 2.886
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.896,
+                "end": 3.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 지금 이렇게 한 마디 더 할라고 갔다 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.596,
+                "end": 6.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이거 또 누구하고 되게 굉장히 비교됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.416,
+                "end": 9.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스 스 누구 있어요. 스 누구",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.159,
+                "end": 10.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 한국분들이 좋아하세요. 제가 군대 갔다 왔다 그러시면",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.939,
+                "end": 14.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 되게 뭔가 좀 아니 특히 뭐 여자분들도 마찬가지겠지만 남자분들도 직접 갔다 오셨으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.064,
+                "end": 19.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.717,
+                "end": 20.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.551,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 안 가도 되는데 이렇게 한 마디 더 하려고 군대를 갔다 왔다고 얘기하자 다른 남성은 누구와 굉장히 비교 된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17662_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17519",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.442,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지표라고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.542
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바닥일 수 있는 알 수 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.552,
+                "end": 4.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝장 났다고 그랬을 때 이제 우리나라가 대 폭락이 왔다고 그랬을 때 모든 유튜버가 다 그 방향으로 이야기할 때 그 때가 바닥인 경우가 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.376,
+                "end": 14.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 아파트가 작년 크리스마스 때가 바닥이었고 전북 아파트는 올 설이 바닥 1월 달에 바닥이었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.926,
+                "end": 21.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 때 유튜브 아마 하나같이 아마 그런 얘기들을 했을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.345,
+                "end": 27.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 바닥이라고 이야기 하더라도 자기가 이 독야청정처럼 그렇게 제목을 안 달 수 가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.055,
+                "end": 34.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조회수가 안 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.708,
+                "end": 37.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 주로 유튜브에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.134,
+                "end": 42.442
+            }
+        ]
+    },
+    "summary": "박사는 우리나라에 대폭락이 왔다고 그랬을 때 모든 유투버가 그 방향으로 이야기할 때 바닥인 경우가 많았고 서울은 작년 크리스마스 때 전북 아파트는 올 설이 바닥이었다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

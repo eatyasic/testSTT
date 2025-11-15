@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17882",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.682,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 아 이거 의심해야 돼 라는 것보다는 어 절차를 좀 꼼꼼하게 진행을 하셔야 된다",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "절차",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.950,
+                "end": 5.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 절차",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.760,
+                "end": 6.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 절차",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.340,
+                "end": 7.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 너무 저렴해요 상식 이하로 너무 저렴해요 그런데 계약서를 쓸 때 보니까 집주인이 직접 나온 게 아니라 대리인이 나왔어",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.200,
+                "end": 15.682
+            }
+        ]
+    },
+    "summary": "너무 저렴하면 절차를 꼼꼼하게 진행해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17882_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

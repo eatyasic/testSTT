@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17894",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계약서대로 합시다 이 말이 제일 깔끔합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 시말서는 이게 꼭 상대방이 나빠서 그런 경우도 있지만 진짜로 기억이 왜곡이 되는 경우들도 많이 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.665,
+                "end": 8.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.830,
+                "end": 9.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘못 기억하고 있는 경우도 많이 있어요 그래서 딴소리하는 경우",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.170,
+                "end": 12.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 그래서 꼭 남겨두시고 이상한 말 나오면 계약서대로 합시다 그게 제일 깔끔해요 사람을 믿지 마십시오",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.220,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "계약서대로 하자는 말이 제일 깔끔하기 때문에 꼭 남겨나야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17894_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18336",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전혀 지금 진행이 안 되고 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 나올지 저도 궁금합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.961,
+                "end": 4.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기대 반 걱정 반이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.435,
+                "end": 6.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 현재 기준 상태로는 전혀 등록할 메리트가 보이지 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.838,
+                "end": 11.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 앞에 영상에서도 제가 설명을 드렸지만 5년 이하 단기 혹은 10년 이상 의무 임대했지만 50퍼센트 장특공 그런 것들이 좀 나와줘야 되는데 아직까지는 어떻게 될지 전혀 모른다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.979,
+                "end": 26.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저도 걱정 반 기대 반 이렇게 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.094,
+                "end": 29.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 이 부분이 조금 잘 해결이 되면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.560,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "남성 화자가 지금 진행이 안 되고 있고 기대 반 걱정 반이라며 현재 기준 상태로는 등록할 메리트가 보이지 않는다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18336_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

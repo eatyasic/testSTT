@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19171",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 제 뇌피셜입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그냥 이해를 못하고 넘어갔을 수도 있겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.342,
+                "end": 3.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 뭐 이해를 설마 못했겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.962,
+                "end": 6.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 제가 웃자고 한 소리고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.128,
+                "end": 8.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이제 그거보다는 부동산에 대한 그 그런 것도 규제도 필요하긴 한데 본인들 입장에서는 여기 대기업 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.088,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "부동산에 대한 규제가 필요하긴 하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19171_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

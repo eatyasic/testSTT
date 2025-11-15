@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17880",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.031,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최근에 이제 특히 주거용 같은 경우에 이제 전세 사기가 이슈가 있잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.070,
+                "end": 3.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이제 뭐 우리 변호사님, 법무사님 다 법률 전문가분들도 계시지만 우리 같은 일반인들 입장에서는 아무래도 훨씬 접할 수 있는 사람들이 공인중개사분들이란 말이에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.800,
+                "end": 13.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공인중개사분들도 전문가시고 그러면 그분들 입장에서 또 쓰는 뭔가 특약조건이 있을 것 같다",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.390,
+                "end": 19.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임차인 입장에서 그래서 임차인 입장에서 좀 넣으면 유리한 특약조건 아니면 뭐 요런 물건은 좀 피해라 뭐 이런게 좀 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.350,
+                "end": 28.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물건에 대해서 먼저 말씀을 좀 드리자면",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.740,
+                "end": 31.031
+            }
+        ]
+    },
+    "summary": "요즘 전세사기가 이슈인데 공인중개사가 쓰는 특약조건이나 어떤 매물을 피하면 좋을지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17880_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

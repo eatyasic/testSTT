@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17776",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.368,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보니까 에이에 대해서 에이에 대해서 에이에 대해서 에이에 대해서 4년 거주했네 거주했네 거주했으니까 요건 다 맞췄고 신규 주택 비에 대해서는 전입할 필요가 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이분이 혹시 몰라서 팔고 나서 혹시 몰라서는 팔기 전에 해야지 팔기 전에 꼼꼼히 알아봤대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.265,
+                "end": 26.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 팔고 나서 비과세 신고해두는 게 좋다 해가지고 인근의 세무사님한테 갔는데 그 세무사님이 전입해야 된다 한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.361,
+                "end": 35.368
+            }
+        ]
+    },
+    "summary": "에이 주택에서 4년 거주하여 요건을 맞췄기 때문에 신규 주택 비에 대해서는 전입할 필요가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17776_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

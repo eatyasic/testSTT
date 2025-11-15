@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYR_19409",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 식으로 순차적으로 계속해서 비과세를 받을 수가 있었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 에 그래서 제가 저는 저 방법을 쓸려고 어 제 거주 주택 빼고 나머지 전부 다 등록을 한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.525,
+                "end": 9.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그랬는데 2019년 2월 달에 시행령을 개정을 하면서 그 이후에 취득한 거에 대해서는 딱 한 번만 그 전에 취득한 거에 대해서는 어 계속 가능하지만 음 그렇게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.215,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "2019년 2월 시행령 개정을 기준으로 그 전에 취득한 거에 대해서는 순차적으로 계속해서 비과세를 받을 수 있었지만 그 이후에 취득한 거에 대해서는 딱 한 번만 받을 수 있게 바뀌었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

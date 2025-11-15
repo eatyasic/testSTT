@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19211",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.298,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속 스스로 공부를 하고 있는데 본인만의 어떤 부동산 공부하는 무슨 노하우 같은 게 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 저는 책으로 시작은 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.835,
+                "end": 9.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책으로 시작을 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.287,
+                "end": 10.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.496,
+                "end": 10.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 사실은 제일 아쉬웠던 건 저 때는 강의 들을 게 없었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.814,
+                "end": 15.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.739,
+                "end": 16.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경매 강의밖에는 없었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.233,
+                "end": 17.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시에는 경매밖에 없었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.779,
+                "end": 19.014
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경매도 저도 했었는데 경매 들으면서 이걸로 될까 왜냐하면 몇 개 물건 보니까 사고 싶지 않은 애들만 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.024,
+                "end": 27.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 가장 좋은 거는 저는 사실은 지금 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.394,
+                "end": 32.298
+            }
+        ]
+    },
+    "summary": "남자는 여자에게 본인만의 부동산 공부 노하우가 있는지 묻습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19211_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

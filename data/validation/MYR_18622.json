@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18622",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.363,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중개 거래된 내역이 거의 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 뭐 여기 한번 봐볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.632,
+                "end": 5.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힐스테이트 세운 센트럴 1 2단지 분양권 거래 11개 중에서 직거래가 무려 9건 청량리역 롯데캐슬 스카이 12개 중에서 직거래가 4 4건 동대문구 외 소재 중개업소에서 거래된 건이 5건",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.988,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "힐스테이트 세운 센트럴 1 2 단지 분양권 거래 11건 중 직거래가 9건이고 청량리역 롯데캐슬 스카이에서 12개 중 4건 동대문구 외 소재 중개업소에서 거래된 건이 5건이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

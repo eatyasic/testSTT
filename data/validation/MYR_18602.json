@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18602",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜 거기를 갔냐 음식 맛이 맛있어서 그땐 그랬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 이제 어르신들 오는데 결혼식 갔다 오고 나서 다른 건 다 필요 없다 음식이 맛있어야 된다 해가지고 갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.458,
+                "end": 13.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 좀 에 그때 제가 2008년도에 결혼했는데 지금 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.375,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "어르신들이 오는데 결혼식은 음식이 맛있어야 한다고 해서 청량리에 있는 결혼식장에서 결혼을 했고 10년이 지났으니 지금은 많이 변했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

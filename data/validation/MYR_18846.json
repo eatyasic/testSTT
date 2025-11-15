@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18846",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.131,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더 이 주에 확신을 갖게 된 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.115
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 이제 사실은 우리가 인터뷰를 하기 전에 사전 미팅을 좀 하고 본격적으로 진행을 하고 있는데 거의 지금 이 방금 부분에서 그 작가님의 그 어떤 텐션이 가장 많이 올라가는 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.125,
+                "end": 16.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 그러면서 아 정말 여기에 대해서 관심이 많으시구나 라는 게 느껴집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.906,
+                "end": 21.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아마 여러분들도 영상으로 이제 넘어선 그런 게 좀 느껴지실 거 같은데 어 그 말씀하셨던 책이랑 그런 게 다 기억이 나는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.590,
+                "end": 30.131
+            }
+        ]
+    },
+    "summary": "남성이 여성에게 인터뷰 하기 전 사전 미팅을 하고 본격적으로 진행하고 있는데 방금 부분에서 텐션이 가장 많이 올라가는 것 같다면서 여기에 관심이 많다는 것이 느껴진다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18846_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17629",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어렵다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그랬을 때 저는 그래도 좋은 건 해야 되지 않는가라고 생각해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.823,
+                "end": 8.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜냐면 아무리 안 오른 거를 지금 사서 어느 정도 마진을 먹었지만 오르고 나면 그게 끝이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.020,
+                "end": 16.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 끝이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.480,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "한 남성이 그래도 좋은 건 해야 된다고 생각하고 아무리 안 오른 것을 지금 사서 어느 정도 마진을 먹었지만 오르면 끝이라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17629_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

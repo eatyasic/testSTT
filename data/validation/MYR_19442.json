@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19442",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.184,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 없었어 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.917,
+                "end": 1.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 작년 같은 경우는 어떻게 강의 했냐면 좀 자금이 되시면 이거 주택 사시고 입주권 곧 바로 사버리라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.573,
+                "end": 8.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.285,
+                "end": 8.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그렇게 하고 나서 여기서 적당히 가지고 있다가 차액나면 팔고 그 다음에 이쪽 실거주하시면은 3년 경과되고나서 그러면 양쪽을 다 먹을 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.918,
+                "end": 18.184
+            }
+        ]
+    },
+    "summary": "작년에는 자금이 되면 주택을 사고 입주권을 곧 바로 사고 나서 적당히 가지고 있다가 차액나면 팔고 실거주를 하라는 강의를 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

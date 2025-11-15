@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18301",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.62,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법원에서 우리 경매를 배우는 분들이 좀 오해를 하고 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 오해냐 하면은 나는 저 집을 할 때 권리 분석을 내가 된다는데 여러분 그거 잘못된 이야기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.775,
+                "end": 11.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권리 분석은 낙찰자 여러분이 하는 것이 아니고 법원에서 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.639,
+                "end": 16.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법원에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.872,
+                "end": 17.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법원에서 하게 돼있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.617,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "낙찰받은 집에 대한 권리 분석은 법원에서 함을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_19280",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 72.306,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인세 신고 기한은 사업년도 종료일이 속하는 달의 말일부터 3개월 인데 보통은 12월에 끝나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러기 때문에 우리 3월 달에 많이 바쁜 거구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.243,
+                "end": 8.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 법인세 세율은 여기 보시면 22년 귀속이 2억이하 10퍼센트 2억에서 200억 20퍼센트 200억에서3000억이 22퍼센트 3천억 초과가 25였는데 여기에 대해서 원래 정부안은 3천억 초과 25 없애자 그래서 대기업들 좀 지원해 가지고 일자리가 더 많이 좀 나오게 지원해주자 라고 했는데 이걸 좀 부자 감세라고 야당이 반대를 했죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.459,
+                "end": 33.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 이게 무산이 되고 그냥 각각 구간에서 1퍼센트 포인트 씩 빠지는 걸로 이렇게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.171,
+                "end": 40.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 올해 신고하는 거는 22년 귀속이기 때문에 그냥 10에서 25 하면 되구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.244,
+                "end": 45.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내년도에 하는 거 23년 귀속은 9에서 24가 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.407,
+                "end": 49.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 현실적으로는 대부분 다 19퍼센트에요 20퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.234,
+                "end": 52.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 22퍼센트 받으려면 200억 초과 3000억 이하 구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.641,
+                "end": 56.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최고 세율 25퍼센트 받으려면 3000억이 초과 되야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 56.908,
+                "end": 59.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 제 소원 중 하나가 뭐냐면 제가 운영하는 법인의 법인세율을 제발 25퍼센트 24퍼센트 최고 세율로 한 번 내보는 게 제 소원입니다 3000억 초과 아 진짜 농담이 아니라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.614,
+                "end": 72.305
+            }
+        ]
+    },
+    "summary": "한 남자가 22년도 귀속 법인 세율의 구간 별 퍼센트를 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

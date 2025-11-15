@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17966",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.788,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 뭐 남자도 5000 그리고 이쪽에서 1000 해 가지고 6000를 받을 수 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여자도 6000을 받는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.318,
+                "end": 7.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 플러스하면은 1억 2000으로 시작을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.919,
+                "end": 11.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 사실 이것도 어떻게 보면 행복한 거 아닙니까 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.860,
+                "end": 15.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그런데 이거를 요즘에는 어떻게 하냐면은 에",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.379,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "그래서 증여세 없이 증여 받을 수 있는 금액은 남자와 여자는 각각 6000만 원을 받아서 1억 2000만 원이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17966_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17504",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.655,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보통 뭐 이게 남편이나 장모 이중에서 비싼 집 요거를 예를 들어서 남편이 갖고 있는 집이 고가 주택 장모님이 갖고 있는 게 그게 저가 주택이었을 때 얘 팔 때 얘를 뒤집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 뒤지지는 못해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.201,
+                "end": 15.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 뒤지지는 못하는데 요즘에 그런 일들이 심심치 않게 나온다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.195,
+                "end": 19.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 조심해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.867,
+                "end": 22.655
+            }
+        ]
+    },
+    "summary": "남성이 보통 남편이 고가 주택을 가지고 있고 장모가 저가 주택을 가지고 있을 경우 남편의 주택을 팔 때 장모를 뒤지기 때문에 조심해야 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYR_19396",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 의무 임대 기간 동안에 5퍼센트만 당연히 올리셔야 되구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그리고 여 여기 이제 다 등록돼 있어 가지고 의무 임대 기간 5년 이상 잘 지키셔야 되구요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.918,
+                "end": 17.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 이 요건들이 또 굉장히 많이 있어요 음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.067,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "의무 임대 기간 동안 5퍼센트만 올려야 하고 등록이 되어 있으므로 의무 임대 기간 5년 이상을 지켜야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

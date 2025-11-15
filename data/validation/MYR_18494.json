@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_18494",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장려를 하고 있는데도 좀 지식도 많이 부족하고 이렇게 용기도 부족하고 그렇게 해서 못하시는 분들도 있고 아니면은 전략적으로 내가 어떤 계획이 있어서 일부러 취득을 안 하시는 분도 있고 그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.665,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "무주택자들 중에는 지식도 많이 부족하고 용기도 부족하고 그래서 못하는 분들이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

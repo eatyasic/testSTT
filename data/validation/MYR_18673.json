@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18673",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런식으로 나온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공시가격 2억 짜리 주택을 구입했다면 올해 납부할 재산세 줄어든다 이거 다 봤었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.889,
+                "end": 7.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국 1주택자 중 93 점 3 퍼센트가 공시가격 6억 이하의 주택을 보유 중이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.454,
+                "end": 13.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우 그러면은 뭐 어 훨씬 더 혜택을 가장 많이 보는 어 그런 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.151,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "전국 1주택자 중 93 점 3 퍼센트가 공시가격 6억 이하의 주택을 보유 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

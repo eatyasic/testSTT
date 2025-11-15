@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19358",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.133,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 이제 살 가능성이 없다라는 생각으로 열심히 수험 생활을 했는데 그 덕분인지 수험 기간도 2년도 채 안 걸렸어요 그래서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엄청 짧은거죠 제가 알기로 법무사 공부량이 상당하다고 알고 있는데 거의 사시랑 비슷하다고 알고 있는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.400,
+                "end": 16.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 과목이 너무 많고 또 이제.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.372,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "한 남자가 수험 생활을 2년 정도 했다고 말하고 다른 남자가 짧은 기간에 했다며 놀라고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19358_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

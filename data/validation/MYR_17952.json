@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17952",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그때 딱 깨달았죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내가 2차에 네 공인중개사는 1차 시험을 합격하면 그 다음에 1차를 면제를 해주거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.141,
+                "end": 7.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 있었지 맞다라고 하면서 이제 2차 공부를 그 다음 해에 2차 공부를 해서 자격증을 취득하면서 그냥 무작정 강남으로 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.050,
+                "end": 16.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무작정 강남으로 와서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.659,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "공인중개사는 1차 시험을 합격하면 그 다음에 1차를 면제해 주기 때문에 그 다음 해에 2차 시험을 치고 자격증을 취득했고 자격증을 취득하면서 무작정 강남으로 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17952_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18954",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.522,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 이제 인제 마무리 부분으로 인제 가는데 일곱째 마당에서는 미리 알아두면 좋은 상속세 증여세 증여세 부분에서 조금 더 어 힘을 줘서 썼구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 적절한 부의 이전 방법 및 자금 출처에 대한 내용도 같이 작성했으니까 여기 인제 관심 많으시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.956,
+                "end": 17.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 그것도 같이 보시면 좋을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.598,
+                "end": 19.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 여덟째 마당은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.606,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "일곱째 마당은 상속세와 증여세에 관한 내용으로 적절한 부의 이전 방법 및 자금 출처에 대한 내용도 같이 작성했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

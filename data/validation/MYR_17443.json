@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17443",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 좀 말씀해 주셨는데 이건 어떤 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.182
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방금 그 제가 말씀드린 건 동일한 게 이제 등기부에는 이제 뭐 말 말 그대로 뭐 그 근저당이라든가 가압류라든가 이 사람이 뭐 빚진 채무에 대한 내역이 다 들어가 있긴 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.192,
+                "end": 14.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 빚진 채무 내역하고 만약에 그쪽에서 뭐 엔피엘을 제가 우리가 산다고 할 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.558,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 검은색 상의를 입은 남성이 등기부등본을 잘 봐야 한다고 말했다며 설명해달라고 하고 있다. 검은색 상의를 입은 남성은 등기부에 말 그대로 근저당, 가압류 등 이 사람이 빚진 채무에 대한 내역이 다 들어가 있으며 만약 우리가 엔피엘을 산다는 가정을 들어 설명하려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17443_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

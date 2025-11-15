@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19090",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.253,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2023년 올해 1월 5일부터 모든 지역이 조정 지역에서 해제되고 딱 4개 남았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.178,
+                "end": 6.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 이 조정 지역에 따른 세금 효과를 한번 보실게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.679,
+                "end": 11.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.375,
+                "end": 11.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정 지역이 되면 세금 별로 숫자에 따라서 중과를 하고 있지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.865,
+                "end": 17.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.048,
+                "end": 17.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세도 중과, 종부세도 중과",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.544,
+                "end": 20.253
+            }
+        ]
+    },
+    "summary": "조정 지역이 되면 세금 별로 숫자에 따라서 중과를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

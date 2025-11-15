@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18454",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 5장 마지막 5장에는 이제 부자들만의 원칙 해가지고 특히 좋았던 게 이제 시세 서열 이해하기 입지의 4요소 생애 주기별 투자 방법 그러니까 골고루 많이 쓰셨더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.230,
+                "end": 11.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 기본적인 부동산 투자 관련해서 좀 인문서 그리고 부동산 중에서도 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.595,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "책에 부동산 입문에 대해 골고루 쓰여 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18454_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

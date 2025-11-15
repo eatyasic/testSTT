@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "filename": "MYR_18791",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 65.131,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 이렇게 세금이 비싸기 때문에 여기에 대해서 이제 호가를 매도자가 집주인들이 높이겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜? 여기에 대해서 그냥 매수자 니들이 책임져라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.070,
+                "end": 9.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매수자 니들이 부담해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.245,
+                "end": 10.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해서 하려면 하고 말려면 말아라. 이제 그런다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.507,
+                "end": 14.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 급한 사람들은 거기에 대해서 어 부담을 하더라도 팔려고 할 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.741,
+                "end": 19.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 거기에 대해서 실수요자이신 분들은 좀 기회가 될 수도 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.255,
+                "end": 23.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 굉장히 이거를 단순하게 보시면 안 되고 복잡하게 여러 가지 요소를 잘 파악해서 보셔야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.728,
+                "end": 31.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.394,
+                "end": 32.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7일부터 주택 전매 제한 규제가 풀렸긴 했지만 정작 시장에 나온 새 아파트 매물 분양권은 별로 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.365,
+                "end": 38.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단기 거래에 물리는 세금이 상당히 높은데 거기다가 시장 침체까지 겹, 겹쳐 있고 언제 지금 금리가 떨어질지 모르잖아요. 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.908,
+                "end": 46.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 일단 기다려 보자.라는 집주인이 훨씬 많다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.311,
+                "end": 50.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 집주인 중에서 급하신 분들이 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.365,
+                "end": 53.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 분들은 일부 급매에 나올 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 53.173,
+                "end": 55.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 만약에 그런 물건을 내가 타겟팅 레이팅 레인지를 딱 정해 가지고 내가 들어가겠다 하시는 분들은 경우에 따라선 좋은 기회가 될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.700,
+                "end": 62.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 양도세에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 62.685,
+                "end": 65.131
+            }
+        ]
+    },
+    "summary": "급한 사람들은 본인이 부담하더라도 급매로 내놓을 것이기 때문에 실수요자들은 기회가 될 수도 있고 그 전에 복잡하게 여러 가지 요소를 잘 파악해서 봐야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18791_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

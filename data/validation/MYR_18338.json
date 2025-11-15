@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18338",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3주택 이상으로 전세 세를 주려면은 임대를 주려면은 뭐 임대 주택 등록을 의무화한다든지 거기까지는 가지 않겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 막 그런 약간 안 좋은 느낌들도 떠오르고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.829,
+                "end": 15.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 그냥 개인적인 생각이니까 참고만 하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.096,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "남성 화자가 3주택 이상으로 임대를 주려면 임대 주택 등록을 의무화한다든지 하는 안 좋은 느낌들도 떠오르고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18338_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

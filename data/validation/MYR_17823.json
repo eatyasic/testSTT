@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "filename": "MYR_17823",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 67.1,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넘어져도 소용없어 다리가 짧아서 그냥 일어나 그냥 뛰어 그럼 막 흩어지잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 잡지도 못하고 한 3일을 고생을 하는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.579,
+                "end": 10.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 밥 먹고 이제 가보면 또 지네 집에 와있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.432,
+                "end": 14.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잡으려고 하면 도망가고 돼지 명도 하지 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.231,
+                "end": 18.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거 진짜 힘듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.467,
+                "end": 20.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 우리 저도 나름 경매 책 여러 권을 봤는데 돼지 명도는 하면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.165,
+                "end": 26.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굉장히 재밌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.420,
+                "end": 28.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책에는 내가 못 실었을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.606,
+                "end": 30.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.440,
+                "end": 31.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 돼지가 똑똑하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.708,
+                "end": 33.626
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇기 때문에 조심해라 알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.636,
+                "end": 37.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 저도 공부 더 많이 해야 되고 특히 이제 땅 쪽은 저도 안 해봤고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.622,
+                "end": 43.682
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그랬지만 나름 그래도 제가 경매 책을 좀 봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.692,
+                "end": 47.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 아버지께서도 권하셨고 사실 저희 아버지께서 원장님 채널을 저한테 먼저 주셨단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.178,
+                "end": 54.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러시구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.000,
+                "end": 55.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 했는데 저는 이 책에서 특히 좀 좋았던 게 어떤 실패가 있어야 성공도 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.180,
+                "end": 63.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 메시지도 너무 좋았고 중간에 간간이",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.588,
+                "end": 67.100
+            }
+        ]
+    },
+    "summary": "돼지 명도는 굉장히 힘들기 때문에 하면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

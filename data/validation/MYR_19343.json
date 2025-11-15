@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19343",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.372,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그렇게 하면 안 된다고 목소리 높여서 외칩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.337
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 유튜브 하니까 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.347,
+                "end": 11.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 좀 안타까워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.603,
+                "end": 12.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세 완화는 취득세 완화 장관 탄핵은 장관 탄핵 그리고 뭐 재정 준칙은 재정 준칙 좀 분리해서 하면 좋겠는데 우리 모르겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.959,
+                "end": 25.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 나라들은 제가 뭐 지식이 짧아서 잘은 모르겠는데 저희는 너무 약간 도매급으로 하는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.474,
+                "end": 31.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다 그냥 묶어 가지고 한 방에 그냥 통과되면 다하고 통과 아니면 그냥 싹 다 안하고 너무 약간 극단적인 거 같아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.090,
+                "end": 39.372
+            }
+        ]
+    },
+    "summary": "한 남자가 법안을 제정할 때 너무 극단적으로 하는 것 같다고 개인적인 생각을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

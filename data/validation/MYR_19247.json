@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19247",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님도 마찬가지 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지인들 전화",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.200,
+                "end": 2.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 예 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.140,
+                "end": 3.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 전화로 좀 도와달라고 하면 괜찮은데 어머 그때 그거 살 때 왜 나한테 같이 사자고 안 했어 이러면 진짜 뭔지 아시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.122,
+                "end": 10.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 저 저는 사실 집도 제가 사는 집도 아까 제가 집값 안 오른다 그 산 옆에 거기서 10년 살았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.324,
+                "end": 17.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투자 이미 시작했는데도 거기 집값 안 오르는데도 계속 살은 이유는",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.147,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "여자는 투자 이미 시작했을 때 집값이 안 오르는 곳에 계속 산 이유에 대해 이야기하려고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19247_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

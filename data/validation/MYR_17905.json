@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17905",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.207,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 고민만 계속 할 고민만 계속하다가는 제가 정말로 음 더 이상은 고인 물로 그냥 끝날 것 같아서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하고 싶은 걸 못 하겠다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.771,
+                "end": 10.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그렇게 그냥 앞으로 남은 인생이 계속 갈 거 같아서 어느 날 그냥 굳건하게 딱 결심을 하고 예 직원들 다 모아놓고 네 직원들도 처음에 반대를 굉장히 많이 했었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.770,
+                "end": 22.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "집에서 사모님은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.060,
+                "end": 23.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 근데 저를 되게 응원해 줬었어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.540,
+                "end": 25.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 그 그 그게 있으면 할 수 있어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.310,
+                "end": 27.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 되게 응원을 해줬었고 사실 거기에 힘을 얻어서 제가 최종적으로 결정을 했던 거 같아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.460,
+                "end": 32.045
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.055,
+                "end": 32.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결정하고 나서 그 전날에",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.619,
+                "end": 34.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.480,
+                "end": 35.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 결정하고 나서 그다음 날에",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.200,
+                "end": 36.884
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.890,
+                "end": 37.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 되게 좀 많이 아쉽고 정말 잘한 건가",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.260,
+                "end": 41.207
+            }
+        ]
+    },
+    "summary": "결정하고 나서 직원들도 많이 반대했지만 와이프가 응원을 많이 해줘서 결정할 수 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19286",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인 사업자가 있는데 아까도 말씀드렸지만 내가 개인 사업으로 자영업을 하고 있다 그러면 이거는 소득세 법의 적용을 받는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 내가 이걸 법인으로 한다 그러면 법인세의 적용을 받는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.334,
+                "end": 13.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2개의 매트릭스가 완전 달라 버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.674,
+                "end": 15.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전혀 다른 세상이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.120,
+                "end": 16.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여기에서 필요한 거를 이쪽에 그대로 하다가는 잘못하면 큰일 난다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.796,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "한 남자가 개인 사업자와 법인 사업자의 세금 적용이 다르다고 설명 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

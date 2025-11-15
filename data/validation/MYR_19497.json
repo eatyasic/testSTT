@@ -1,0 +1,241 @@
+{
+    "metadata": {
+        "filename": "MYR_19497",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 59.359,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 그러면은 즉 기존에는 제가 잘 모르는데 플러스는 2개에 대해서는 세금을 뭐 안 냈을 가능성이 높겠네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.475,
+                "end": 8.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.037,
+                "end": 8.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 플러스 두개에 대해서 세금을 냈던 사람은 그럼 마이너스 나머지 3개를 좀 활용할 수 있는 것도 있을 수 있겠네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.560,
+                "end": 14.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 그게 장점입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.639,
+                "end": 15.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.833,
+                "end": 16.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거는 순기능이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.123,
+                "end": 16.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그나마 이제 좋게 본다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.926,
+                "end": 18.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 순기능이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.400,
+                "end": 19.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 대부분은 그 아까 말씀드린 5개 중에서 수익 난 2개에 대해서 세금을 안 낸 소액주주일 가능성이 높겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.573,
+                "end": 25.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.854,
+                "end": 26.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이제 뭔지 이해가 될 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.734,
+                "end": 28.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 거죠 뭐 뭐 소액주주에서 이게 정말 많이 나는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.158,
+                "end": 32.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.419,
+                "end": 33.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러니까 손실이 정말 많이 났죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.115,
+                "end": 34.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.565,
+                "end": 34.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반대로 상대하면 비과세 섹터에서 수익이 손실 엄청 많이 나는데 해외주식 한 2, 3년 전에 해외주식 대박 났을 때 여기서 수익이 또 엄청 많이 나죠 이게 통산이 안 되요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.987,
+                "end": 44.531
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.541,
+                "end": 45.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그런 개념입니다 그런데 이제는 그게 아니라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.307,
+                "end": 48.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 일단은 좀 큰 틀에서 취중을 좀 알겠습니다 뭐 뒤에 더 있나요 이거 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.505,
+                "end": 54.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 일단 뭐 이렇게 하시고요 그 다음에 그 제가 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.378,
+                "end": 59.359
+            }
+        ]
+    },
+    "summary": "플러스 2개에 대해서 세금을 냈던 사람은 마이너스 나머지 3개를 활용할 수 있는 것도 있는 게 장점이라며 순기능이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

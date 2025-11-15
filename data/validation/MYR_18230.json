@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18230",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가를 할하게 하기 위해서 빨리 입법시키겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 결국에는 다 법을 관련 법을 통과시켜야 되는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.432,
+                "end": 6.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 아시겠지만 지금 정기 국회 9월달에 열리는 거고 정기 국회에 한다고 해서 이제 좀 여야가 생각하는 바가 다르기 때문에 그게 한 번에 될지는 더 두고 봐야 되겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.340,
+                "end": 18.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 보도 자료 원문을 보면 이런 식으로 되어 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.135,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "무언가를 하기 위해서는 관련 법을 통과시켜야 하는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19120",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.552,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 이제 그 아주 큰 대주주 최대 주주 기업 오너 분들 이런 거 아니고서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.176,
+                "end": 5.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제는 이제 인별로 이것도 계산한다는 거 그냥 와이프 5억 있고 제가 한 9억 있어도 내 기준으로 10억이 안 넘으면 먼 후년에 상장 주식 차액 벌어도",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.544,
+                "end": 19.552
+            }
+        ]
+    },
+    "summary": "상장 주식 대주주 가족 등의 합산 범위는 아주 큰 대주주나 기업 오너가 아니면 인별로 계산하는 것으로 조정됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

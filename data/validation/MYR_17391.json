@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17391",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새벽 2시에 기상해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.118
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 여기 왜 왜 이렇게 일찍 하시는 거예요. 도대체",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.128,
+                "end": 3.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 글쎄 저는 이제 그 뭐 일찍 일어나는 뭐 습관이 들은 건 아니고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.429,
+                "end": 9.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 제가 우리 회원분들의 돈을 제가 받아서 그거를 갖고서 뭐 대출을 해주거나 엠피아이삼오거나라는 주체가 제가 제가 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.356,
+                "end": 16.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 어 우리 회원들의 그 큰돈을 움직이는 제가 주 당사자로서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.949,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 새벽 2시에 기상한다고 하니 흰색 상의를 입은 남성은 왜 그렇게 일찍 하시는 거냐고 되묻고 검은색 상의를 입은 남자는 습관이 그렇게 든 것은 아니고 본인은 회원들의 돈을 받은 주체가 되니 그 돈을 움직이는 당사자로서 이야기를 더 하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

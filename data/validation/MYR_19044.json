@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19044",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 나대지하고 꼬마 빌딩이 아니잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겸용 주택이잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.394,
+                "end": 3.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.289,
+                "end": 3.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 자기가 이제 2020년 7월 24일 날 자녀한테 증여를 한 거죠 증여를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.653,
+                "end": 9.335
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.345,
+                "end": 9.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 자기는 뭐 기준 시가로 해서 증여를 했겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.821,
+                "end": 12.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.290,
+                "end": 12.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보충적 평가 방법 이게 이제 우리가 흔히 알고 있는 기준 시가라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.992,
+                "end": 16.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.850,
+                "end": 17.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 세무서에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.522,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "겸용 주택을 2020년 7월 24일 날 자녀에게 증여를 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

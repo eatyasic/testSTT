@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17844",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이때 좀 가장 중요한 거 아 만약에 여기에 대해서 전문가가 되려면은 투자 전문가, 이론 전문가 말고 제일 중요한 게 뭐라고 생각하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 아까 말씀드렸듯이 그런 판에 뛰어 들어가야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.080,
+                "end": 12.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 역시",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.379,
+                "end": 13.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뛰어 들어가서 그 사람들 하고 같이 생활을 하면은 1년 정도 하면은 빠른 사람들은 1년 안에 벌써 뭐가 잡혀요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.405,
+                "end": 20.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 내가 나한테 뭐가 맞는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.935,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "투자 전문가가 되려면 직접 사람들과 1년 동안 생활해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17844_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

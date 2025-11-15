@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "filename": "MYR_18020",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.815,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거는 이제 실제 이걸 가지고 어 실제 사용하는 용도이기 때문에 좀 이렇게 어 사회 통념 상 이 정도는 괜찮다 하는 건데 물론 이제 이것도 뭐 예를 들어서 뭐 아주 고가의 제품이고 그러면은 좀 이슈가 될 수는 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.815
+            }
+        ]
+    },
+    "summary": "이 정도는 실제 사용하는 용도이기 때문에 사회 통념 상 이 정도는 괜찮다고 하지만 이것도 아주 고가의 제품이면 이슈가 될 수는 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

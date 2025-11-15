@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17494",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사위 1주택 장모 1주택 2주택 그럼 1세대 1주택 비과세 되겠어 안 되겠어 깨지는 거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깨지는 거지 2주택인데 여기서 많이 당해요 여기서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.653,
+                "end": 10.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "없을 것 같죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.875,
+                "end": 15.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그동안 수천 명의 수강생을 만났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.319,
+                "end": 17.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수천 명의 수강생을 만나고 그 5000명이라고 가정했을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.558,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "남성은 사위와 장모가 같이 살면서 각각 1주택이 있는 경우 비과세가 안되는데 이런 경우를 모르고 당하는 사람이 많다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

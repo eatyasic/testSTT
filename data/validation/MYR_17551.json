@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17551",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 전세는 급락이 오는데 매매는 약보합 정도 오는 경우도 많고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안에 괴담이 뭐였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.173,
+                "end": 6.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남 입주 물량이 만 5000당 하고 뭐 이런 얘기 해 가지고 뭐 저 전셋값 매매값 폭락 온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.893,
+                "end": 12.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남이 시장의 중심이니까 폭락이 올 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.250,
+                "end": 14.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 어떻게 됐어요. 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.762,
+                "end": 16.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남은 생각보다 많이 빠지지도 않았어요. 이번에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.223,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "남자가 전세 급락이 오는데 생각보다 강남의 주택 물량은 빠지지 않았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

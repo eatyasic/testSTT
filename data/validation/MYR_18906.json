@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18906",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "케이스가 제법 되더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어떻게 나온거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.951,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 예컨대 서울 압구정동 현대아파트에 사는 모 임대인은 가족들과 함께 그 모처에 건물을 가지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.430,
+                "end": 14.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에 스타벅스가 들어서 있는데 거기는 이제 가족들",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.342,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "화자1은 서울 압구정동 현대아파트에 사는 임대인의 사례를 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18906_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

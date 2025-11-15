@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18961",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 거의 한 400에서 또 왔다 갔다 하지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간에 계속 개정된 거나 이제 중간에 좀 바꾸거나 그러면은 예 그런 생각을 좀 하고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.361,
+                "end": 6.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 양은 좀 적당하고 여러분들 보시기에도 그렇게 크게 부담되지는 않을 것 같구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.995,
+                "end": 11.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 꽂아 두시고 필요할 때마다 보시면 좋을 것 같고 첫 번째로는 빨리 이거를 학습을 하셔 가지고 부동산 절세 관련된 체계를 빨리 잡으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.425,
+                "end": 21.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 이 생각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.445,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "양은 개정이 되면 늘 수 있지만 여러분들이 보시기에 부담되는 양은 아니며 빨리 이 내용을 학습해서 부동산 절세에 관한 체계를 잡는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

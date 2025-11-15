@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18233",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.058,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "약간 양날의 검이 될 수 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못하면 이게 또 일부 엄한 곳으로 좀 흘러버릴 수 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.445,
+                "end": 5.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 입장에서 그렇기 때문에 세입자 보호 조치를 전제로 한다 어 그런데 세입자 보호 조치가 아닌 대출 규제 완화는 없다 이런 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.522,
+                "end": 13.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 올해 7월 말부터 1년간 한시적으로 보증금 차액 그러니까 전체 금액도 아니라 보증금 차액에 대해서 반환 목적 대출 한해서 대출 규제를 원화하겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.489,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "세입자 보호 조치가 아닌 대출 규제 완화는 없다 이런 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18233_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

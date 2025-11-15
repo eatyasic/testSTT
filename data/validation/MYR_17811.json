@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17811",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저보다 훨씬 더 많은 고민들을 하실 거고 이런 좋은 내용으로 해 가지고 좀 건전적인 토론을 했으면 좋겠고 한 가지 더 바람이 있다면은 이참에 상증세를 좀 고치자 벌써 몇 년 됐습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금 한 20년 넘지 않았나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.609,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "남성이 20년이 넘은 상증세를 고치자고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17811_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

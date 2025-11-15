@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18512",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.76,
+        "format": "MP4",
+        "date": "2023-06-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 나중에 내가 종부세 합산배제를 바란다고 해 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종부세 합산배제 받으면 그래도 좀 괜찮겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.422,
+                "end": 5.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 입주장 때 내가 전세금을 이걸 좀 낮게 해 가지고 들어갈 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.157,
+                "end": 9.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 이게 어 가격이 좀 회복된다 그럼 하더라도 나는 5퍼센트밖에 못 돌리는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.551,
+                "end": 15.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 나서 내가 나중에 10년 지나서 판다 그러는데 조정 대상 지역이 아니라 비조정 대상 지역이다 그러면 양도세 중과배제 혜택 뭐 뭐 무의미한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.941,
+                "end": 26.760
+            }
+        ]
+    },
+    "summary": "나중에 종부세 합산배제를 받으면 괜찮겠지만 입주장 때 전세금을 낮게 해 가지고 들어갈 텐데 이게 가격이 좀 회복된다고 해도 5퍼센트밖에 못 돌리기 때문에 나중에 10년 지나서 판다해도 비조정 대상 지역이라고 하면 양도세 중과배제 혜택이 무의미한 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18512_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

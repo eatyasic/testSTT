@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19478",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.755,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계약금 지급한 날로 좀 생각을 했었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그렇게 생각하실 수도 있는게요 여기서만 청약당첨일이구요 거주요건 따질 땐 매매계약일이구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.825,
+                "end": 9.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.233,
+                "end": 9.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지방세법도 다 매매계약일이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.694,
+                "end": 11.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그럼 여기만 이거네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.510,
+                "end": 13.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.173,
+                "end": 13.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러면 우리 입장에서는 단 며칠이라도 처분 기한이 좀 짧아 주는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.845,
+                "end": 19.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 이거 보수적으로 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.442,
+                "end": 21.755
+            }
+        ]
+    },
+    "summary": "분양권 취득시기에서만 청약당첨일이고 거주요건이나 지방세법은 매매계약일이 기준이 되는데 이것은 보수적이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

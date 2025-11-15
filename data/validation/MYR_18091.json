@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18091",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.431,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 말은 일반 분양 수입이 작으면 조합원들의 부담이 커진다는 얘기예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 지금 공사비 엄청나게 오르고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.512,
+                "end": 8.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불과 몇년 전만 하더라도 평당 400만 원대가 일반적이었는데 500, 600배에서 지금 천까지 나온단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.375,
+                "end": 14.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.344,
+                "end": 14.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 그 사업비가 계속 늘어난다는 얘기거든 그러면 그 늘어나는 사업비를 일반 분양 수입으로 충당할 수 있는지 없는지를 여러분이 보셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.693,
+                "end": 24.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.093,
+                "end": 24.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 일반 분양 수입으로 충당이 안 되면 그 다 누가 책임져야 된다?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.338,
+                "end": 27.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조합원이 책임져야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.674,
+                "end": 28.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 일반 분양 수입이 늘어 나기 위해서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.701,
+                "end": 31.431
+            }
+        ]
+    },
+    "summary": "화자가 일반 분양 수입이 작으면 조합원들의 부담이 커진다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_17976",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 60.293,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이미 저희 부모님처럼 저는 저는 이미 이제 결혼을 해버린 지 십몇 년이 흘렀었고 그런 경우에는 어 좀 이게 이런 비판 여론들이 나올 수 있잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그걸 의식해서 아예 이번에 전반적인 상증세 개편으로 가야 됩니다 라고 제가 영상에서도 말했고 지난주 금요일에 있었던 시사 저널 부동산 세미나 특강에서도 제가 강조를 했었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.869,
+                "end": 22.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시사 저널 이 홈페이지에 가면 그 영상이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.300,
+                "end": 26.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤 그렇기 때문에 보시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.431,
+                "end": 28.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "편집이 안돼요 그거는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.394,
+                "end": 29.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 여기 기사에도 나왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.872,
+                "end": 31.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 경제에서도 자 근본적으로는 향후 상증세 개편이란 큰 틀에서 접근해야 하는 사안이라서 보폭을 조정하려는 기류도 읽힌다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.600,
+                "end": 38.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저는 이거는 찬성이에요 대찬성이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.837,
+                "end": 41.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이번 개정이 상증세 개편을 위한 예고편 정도가 될 수 있다는 얘기다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.105,
+                "end": 45.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이러면 저는 아주 땡큐입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.640,
+                "end": 48.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이렇게 해야지 어 다른 국민들도 동일하게 뭔가 적용이 되기 때문에 그래 그러면은 좀 이제 바꿀 때도 됐지 이렇게 하면서 음 되지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.101,
+                "end": 60.293
+            }
+        ]
+    },
+    "summary": "이미 결혼을 한 경우에는 비판 여론이 나올 수 있는데 그걸 의식해서 아예 이번에 전반적인 상증세 개편을 해야 한다고 영상에서도 말했고 지난주 금요일 시사 저널 부동산 세미나 특강에서도 강조했었는데 이 기사에도 비슷한 내용이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17976_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

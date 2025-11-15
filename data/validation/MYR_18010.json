@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18010",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.854,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "9월 달에 정기 국회가 열려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 뭐 이거 하나만 하는 거 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.281,
+                "end": 6.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 보통 이제 12월까지 여러 가지 사항에 대해서 여야가 첨예하게 대립을 하는데 쓰으 저는 개인적으로 대립이 문제가 아니라 좀 정말 진지하게 좀 토론하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.352,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "9월 달에 정기 국회가 열리면 12월까지 여러 가시 사항에 대해서 여야가 첨예하게 대립하는데 제 개인적으로는 대립이 문제가 아니라 진지하게 토론을 했으면 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

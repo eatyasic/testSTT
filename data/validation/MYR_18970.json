@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18970",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쌍 하트 넣었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 세 개 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.042,
+                "end": 2.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 혹시 어 이왕 구매하실 거 어 초반에 이렇게 같이 해 가지고 하면은 더 좋겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.433,
+                "end": 9.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 속상하게 여러분들 원하는 게 안 왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.477,
+                "end": 13.137
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 초판 한정 500부가 이미 끝났다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.147,
+                "end": 15.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러시면은 제 오프라인",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.661,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "쌍 하트가 있는 책은 총 세 권으로 이왕 구매하실 거라면 초반에 구매하는 게 더 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

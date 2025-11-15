@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19504",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.554,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 어차피 원천징수 세율이 22프로거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.821,
+                "end": 4.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "22프로 그래서 빼 버리는데 이제 3억이 넘어가 버리면 세율이 조금 올라가요 27.5프로로 그래서 그런 분들은 뭐 다시 신고하셔야 되고 합산도 예 뭐 이런 게 좀 차이가 좀 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.891,
+                "end": 15.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.462,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "원청징수 세율이 22프로 인데 3억이 넘어가면 27.5프로로 세율이 조금 올라가게 되고 다시 신고를 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

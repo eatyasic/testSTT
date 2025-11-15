@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18671",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2023-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 거의 몇 프로입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 0 점 1 퍼센트 정도 어 재산세율이 뭐 보통 0 점 1에서 0 점 4 정도니까 얼추 그냥 매가에서도 그냥 거의 비슷하게 나와버렸네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.462,
+                "end": 11.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어떤 느낌이 드십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.664,
+                "end": 14.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 1세대 1주택자 라면은 뭐 일단 재산세는 큰 문제가 없겠구나 어 생각하실 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.721,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "재산세율이 보통 0 점 1에서 0 점 4 정도니까 얼추 그매가에서도 그냥 거의 비슷하게 나오고 1세대 1주택자 라면은 재산세는 큰 문제가 없구나하고 생각하실 수가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19278",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.755,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기는 굉장히 어려운 말이 있는데 기업회계기준과는 차이가 있기 때문에 이거는 조정하는 세무 조정이 있는데 아 이거는 그냥 패스 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐냐면 처음에 이게 그 회사에서 뭔가 사고 팔고 거래를 하면 회계처리를 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.045,
+                "end": 16.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그거는 기업회계 기준 지금은 IFRS죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.992,
+                "end": 20.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "IFRS 기준으로 그냥 하는 거고 그거는 기업회계 기준인거고 우리 세법에서는 이 회사가 얼마나 돈을 많이 벌었냐 그거를 알아야 되잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.240,
+                "end": 30.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야 세금을 정확히 걷을 수 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.546,
+                "end": 31.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 2개가 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.813,
+                "end": 32.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 IFRS 기업회계 준칙 그리고 법인세 이 2개를 맞추는 조정을 해야 된다 그게 이제 세무 조정이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.599,
+                "end": 39.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "듣기만 해도 뭔가 토 나올 거 같죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.938,
+                "end": 42.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 세무사 공부 하시는 분들은 세법 개론 2개월 과정에서 법인세 1달 동안 이 것만 합니다 세무 조정 과정 1달 동안.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.227,
+                "end": 52.752
+            }
+        ]
+    },
+    "summary": "한 남자가 법인세의 기업회계 준칙과 법인세를 맞추는 조정 과정인 세무 조정에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_19278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

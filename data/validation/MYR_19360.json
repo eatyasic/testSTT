@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19360",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.303,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 친구 분 하고는 지금도 잘 당연히 잘 지내시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.604
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그 친구하고는 그 친구가 저 법무사 시험 합격 하고 나서 하고 싶은 게 있대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.614,
+                "end": 9.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가게를 하나 차리고 싶대요 어 그래 니가 나 하고 싶은 거 하게 해줬으니까 나도 너 하고 싶은 거 하게 해 줘야지 그래서 투자 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.194,
+                "end": 17.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 보통 이런 거는 남녀 관계 그런 건데 어쨌든 친구 분과의 인연도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.762,
+                "end": 25.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와이프가 질투합니다 그래서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.529,
+                "end": 26.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 잘 되시길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.808,
+                "end": 29.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 오늘 우리 법무사님을 모신 거는 이 책 소개를 좀 하기 위해서 이렇게 한 겁니다 부의 관리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.470,
+                "end": 37.303
+            }
+        ]
+    },
+    "summary": "한 남자가 친구와의 에피소드를 이야기 하며 다른 남자가 법무사를 모신 이유가 책 소개를 하기 위해서라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

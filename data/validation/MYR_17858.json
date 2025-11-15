@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17858",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 책에도 보면은 그걸 잘 포기 안 하시고 계속 파시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 파야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.153,
+                "end": 4.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 막 좀 이상하다 그러면 등본 다 떼시고 그런 좀 약간 원동력이라고 해야 하나 그런 건 좀 어디에 있다고 생각하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.921,
+                "end": 12.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때그때 달라요 이게 그래서 어떤 건 파야 되고 어떤 건 대범해야 되고 막 다 틀리니까 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.752,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "포기하지 하는 원동력이 무엇이냐는 질문에 그때그때 다르다고 대답하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17858_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

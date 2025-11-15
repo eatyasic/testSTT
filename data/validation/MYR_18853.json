@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18853",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.334,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러언 이미지들이 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 왜 한숨을 쉬었냐면은 회사를 19년도에 그만뒀는데 여행을 좀 가족들하고 가려고 했는데 그 중에 첫 번째가 괌이었는데 예약을 다 해놨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.652,
+                "end": 14.122
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 해놨는데, 아시죠 코로나",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.132,
+                "end": 16.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그쵸, 코로나가 터졌죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.256,
+                "end": 18.423
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 때 못 갔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.433,
+                "end": 19.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 이제 지금은 작가님은 그러지 않으시겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.496,
+                "end": 23.334
+            }
+        ]
+    },
+    "summary": "남성은 자신이 한숨을 쉰 이유에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18853_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

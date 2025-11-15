@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18890",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.774,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 증여를 직접하는 것 보다 더 낫다라고 판단하시는 분들도 계신 것 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.969,
+                "end": 5.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 법인으로 있을 때 대출보다 개인이 더 크니까 레버리지를 일으키키도 쉽구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.357,
+                "end": 9.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희가 확인을 좀 해보니까 매장을 가진 소유권자가 총 3225명이거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.745,
+                "end": 16.774
+            }
+        ]
+    },
+    "summary": "화자1은 확인해 보니까 매장을 가진 소유권자가 총 3225명이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18890_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

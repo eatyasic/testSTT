@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18419",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 생각을 좀 많이 했던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.438,
+                "end": 3.814
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 이게 부동산이라는 게 뭐 여러분들 아시겠지만 하나만 가지고 되는 게 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.824,
+                "end": 8.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 그런 것들을 좀 많이 좀 보시고 하시면 더 좋을 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.472,
+                "end": 12.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실패를 또 많이 해봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.955,
+                "end": 14.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 이게 오를 거라고 생각해서 샀는데 안 오르네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.578,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "나는 이게 오를 거라고 생각해서 샀는데 안 오르는 실패를 많이 해봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18419_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

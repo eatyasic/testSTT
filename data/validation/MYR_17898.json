@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17898",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.707,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 그 사회 초년생들이나 또는 신혼부부는 분들이 항상 부동산과 관련된 어떤 사기에 노출이 되는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.766,
+                "end": 7.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기에서부터 출발을 한다는 생각을 좀 갖고 있는 사람 중에 하나거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.344,
+                "end": 10.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.702,
+                "end": 11.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 주식 교육 시키고 금융에 대한 돈에 대한 공부를 시키면서 어릴 때부터 부자들이 자녀들에게 왜 부동산에 대한 어떤 올바른 지식 기초적인 지식에 대해서는 왜 전혀 생각을 안 하시는지",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.270,
+                "end": 23.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이런 부분들이 좀 의구심이 있기도 하고 그래서 어렵지 않게 어렵지 않게 쉽게 우리 자녀들 또는 학생들 또는 사회 초년생들이 정말 어렵지 않게 쉽게 부동산에 대해서 좀 올바른 기본 개념이나 올바른 기본",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.597,
+                "end": 38.705
+            }
+        ]
+    },
+    "summary": "사회 초년생들이나 신혼부부나 자녀들이 부동산에 대한 사기에 많이 노출이 되어있어 쉽게 강의를 하려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17898_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

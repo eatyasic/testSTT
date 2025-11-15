@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17511",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 55.155,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중간 과정이 생략이 되어버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본의 그런 버블 붕괴 사건은 역사적으로 아주 희귀한 사건입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.660,
+                "end": 6.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 희귀한 경우이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.905,
+                "end": 8.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 대부분의 버블은 붕괴되는 그런 사건을 겪었지만 거의 다 회복 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.380,
+                "end": 16.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본 만 오랫동안 거시 문제가 아 이렇게 휘청거릴 정도로 어려움을 겪었던 거고 근데 어 일본처럼 반드시 따라 가지는 않겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.111,
+                "end": 26.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 공통적인 건 있을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.500,
+                "end": 29.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어떤 부분일까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.306,
+                "end": 30.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인구와 가구 감소 시대에 가장 두드러진 특징은 아마 초 양극화로 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.539,
+                "end": 37.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초 양극화",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.884,
+                "end": 38.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 이런 말씀 드리는데 MZ세대들 지금은 우리나라에 MZ세대가 전체 인구에 46퍼센트 정도 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.636,
+                "end": 44.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 한 20년 아마 비슷하게까지는 아마 MZ세대가 이 세상을 주도 할 텐데 이들이 어떤 좋아하는 곳 이들이 선호하는 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.867,
+                "end": 55.155
+            }
+        ]
+    },
+    "summary": "박사는 일본의 버블 붕괴 사건은 역사적으로 희귀한 사건이었지만 다 회복했고 우리나라가 일본처럼 따라 가지는 않겠지만 공통적인 건 아마 초 양극화 일 것이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

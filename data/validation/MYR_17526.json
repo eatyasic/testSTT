@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17526",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.761,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사버리자 이런 시나리오도 충분히 가능 하다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아까도 잠깐 말씀을 해주셨지만 2040년이 되면은 이제는 인구 뿐만 아니라 세대 수 가구 수까지 줄어 든다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.569,
+                "end": 11.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 말씀을 하셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.048,
+                "end": 12.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그러면서 책에는 뭐라고 말씀을 하셨냐면 시세 차익보다 현금 흐름에 좀 집중을 해봐라",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.478,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "진행자가 2040년이 되면 인구 수 뿐만 아니라 세대 수까지 줄어든다고 말씀하셨는데 책에는 시세 차익보다 현금의 흐름에 집중을 하라고 쓴 것에 대해 박사에게 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

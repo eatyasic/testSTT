@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_17855",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.36,
+        "format": "MP4",
+        "date": "2023-08-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "웃고 말았어요 없다는데 부동산에서 다 알고 없대 건축물이 없다는데 뭘 건축물이겠나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그럴 때 참으면 안 돼 사람이 참을 때가 있고 안 참을 바로 내가 등기 떼봤어 거기 번지를 근데 건축물대장이 나오는 거야 10평짜리가 건축물 등재가 된 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.529,
+                "end": 20.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 와 좋다 했는데 그거 있으면 뭐해 또 건너 생각하니까 조그만 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.464,
+                "end": 27.360
+            }
+        ]
+    },
+    "summary": "건축물인지 확인하기 위해 등기를 떼보니 건축물대장이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17855_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

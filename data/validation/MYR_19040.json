@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19040",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평가하세요 이렇게 해 놓았죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.065,
+                "end": 2.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 21년도 10월 달에 드디어 등이 명확하게 들어 갔습니다 여기.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.454,
+                "end": 9.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비주거용 부동산 등 괄호 열고 부동산 과다 법인 보유 법인 부동산 과다 보유 법인 이 법인들은 이제 증여를 하려면",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.526,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "21년도 10월 달에 비주거용 부동산에는 부동산 과다 보유 법인이 포함된다는 것이 명확하게 드러났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

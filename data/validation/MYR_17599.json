@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17599",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.353,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 이게 새벽 5시가 돼서 집에 가긴 가야 되는데 늦게 가면 또 출근 시간이니까 차가 또 막히잖아요. 하하 역으로 퇴근시간",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7시가 넘어가 그래서 퇴근 했는데 제가 그 생각 하면서 내가 그동안 많이 하자 했던 종목을 넘어가려면 결국은 압도적인 시간이 필요 하구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.195,
+                "end": 19.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "압도적인 시간 결국에는 몰입인가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.470,
+                "end": 22.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.060,
+                "end": 22.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 피해 갈 수는 없겠다 생각이 들긴 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.808,
+                "end": 25.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 방향성을 맞춰 가는 거에 있어서 저는 뭔가 내가 이것 저것 해 본 사람들은 그래 이렇게 하면 되겠다 라는 걸 딱 서는데 처음 하는 사람들은 그 방향성을 세우기 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.709,
+                "end": 36.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 맞냐 저게 맞냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.898,
+                "end": 39.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감도 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.081,
+                "end": 39.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 뭐 투자를 하더라도 주식이 맞냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.945,
+                "end": 42.342
+            }
+        ]
+    },
+    "summary": "전문가는 이것 저것 해 본 사람들은 방향 설정을 할 수 있는데 처음 하는 사람들은 어렵다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

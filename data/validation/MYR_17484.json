@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17484",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.184,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2주택 또는 3주택 다 주택이라 하더라도 양도 소득세 비과세 혜택을 받는 사람이 있는가 하면 1주택에 해당하면서 세법을 잘못 알아서 비과세를 못 받고 눈물짓는 안타까운 경우를 많이 본다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 그 강의 들으신 분들은 아시고 제가 유튜브에서도 몇 번 사례를 소개해 드렸는데 2주택 같은 경우에는 일시적 2주택 비과세를 받을 수도 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.111,
+                "end": 20.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2주택에서 하나 날려 버리고 남은 하나 1세대 1주택 비과세 받으면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.015,
+                "end": 23.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3주택 같은 경우에도 하나 날려버리고 남은 두 개 일시적 2주택 비과세 받아도 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.674,
+                "end": 27.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 3주택 같은 경우에 하나는 거주 주택 남은 두 개는 세법 상 장기 임대 주택 만들어 가지고 거주 주택 비과세 특례를 받을 수도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.643,
+                "end": 35.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나를 하나도 내가 안 팔면서도 자 여기에 대해서는 제가 시간이 없기 때문에 요 정도만 말씀드리고 오늘은 상대적으로 2주택 3주택 보다는 상대적으로 쉬운 1주택자인 경우에도 내가 비과세를 못 받는 그런 케이스입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.350,
+                "end": 48.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그럴까",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.962,
+                "end": 51.184
+            }
+        ]
+    },
+    "summary": "남성이 1주택에 해당하면서도 세법을 잘못 알아서 비과세를 못 받는다는 기사를 보며 오늘은 1주택자인 경우에도 비과세서 못 받는 케이스에 대해 알아보기로 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

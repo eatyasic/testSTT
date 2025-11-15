@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYR_19079",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1 세무사님 모셨습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세무사님 안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.056,
+                "end": 8.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 시스님 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.943,
+                "end": 10.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오랜만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.705,
+                "end": 11.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 요즘 어떻게 잘 지내십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.692,
+                "end": 13.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저 은행의 우리 부동산 팀이랑 세무사 팀이 합쳐져 가지고 자산 관리 컨설팅 센터가 하나 생겨 가지고 저희 손님들한테",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.459,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 세무사의 안부를 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19079_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

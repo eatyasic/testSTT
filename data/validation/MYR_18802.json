@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYR_18802",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이제 양도세가 이제 무서우니까 그냥 등기를 쳐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잔금을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.878,
+                "end": 3.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 잔금 치면 어떻게 곧바로 팔면 돼요 안 돼요? 안 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.856,
+                "end": 8.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 그러면은 1년 미만 70돼 버리는 거죠. 주택이니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.209,
+                "end": 12.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우. 표정이 안 좋은데 다들. 하하. 표정이 안 좋은데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.689,
+                "end": 18.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 여러분. 어 저희가 오랜만에 만나서 그런 걸까요. 지금. 음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.408,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "양도세가 무서우니 그냥 등기를 치고 잔금을 한 후 곧바로 팔면 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18802_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18802_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

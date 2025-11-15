@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18592",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가서 상담받고 싶어 했더니 아무 연락이 없어서 신고는 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 벌써 몇 1 2년 전후로 제가 기억한단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.526,
+                "end": 6.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 지금까지 아직도 아무것도 없는지 그래서 여러분들 혹시 바쁘시겠지만 시간 되시면 한 번씩 들어가셔서 신고 좀 해주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.522,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "아무 연락이 없어서 신고는 했지만 1년에서 2년 전후로 기억을 하는데 아무런 조치가 없는지 이해가 되질 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18592_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "filename": "MYR_17801",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 64.481,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 간 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼외자까지 뭐 하고 초등학교 입학할 때까지 늦춘다는거는 좀 적당히 하자 이렇게 제가 잔소리를 한번 한 적이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.479,
+                "end": 8.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기에 대해서 야당은 안된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.445,
+                "end": 11.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차라리 출산 양육비 비과세가 해결책이 될 거다 이거는 전 이런 게 되게 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.749,
+                "end": 16.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여당이 뭐라고 하면 당연히 야당이 야당은 반대할 수 있는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.880,
+                "end": 21.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 야당이 제안한 거에 대해서 여당은 생각이 다를 수가 있는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.108,
+                "end": 24.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 이거를 서로 상대방이 뭐 무조건 싫으니까 어떤 감정적으로 막 싸우고 그러지 말고 정말 진지하게 토론을 하고 뭐가 더 좋을 거냐 한번 이렇게 치열하게 고민을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.528,
+                "end": 35.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 그러라고 이분들이 세비를 받아 가고 우리의 세금이 나가는 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.783,
+                "end": 40.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금까지 좀 보면 너무 좀 감정 싸움, 소모 싸움이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.273,
+                "end": 45.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그랬으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.649,
+                "end": 47.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 야당 의견을 좀 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.253,
+                "end": 49.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야당은 결혼 자금 증여세 공제 한도 확대를 초부자 감세라고 비판하고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.616,
+                "end": 54.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공제 혜택을 받지 못하는 청년 세대들의 상대적 상실감, 소외감을 지적한 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.201,
+                "end": 58.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 이거는 동감합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 58.281,
+                "end": 59.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 민주당 대표는 또 초부자 감세냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.429,
+                "end": 64.464
+            }
+        ]
+    },
+    "summary": "야당은 출산, 양육비 비과세가 해결책이고 결혼 자금 증여세 공제 한도 확대는 초부자 감세라고 비판하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

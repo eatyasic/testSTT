@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17829",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.196,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "골라 보기 좋을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 이해가 안 가면 유튜브도 많이 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.387,
+                "end": 4.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양자물리학 유튜브도 몇 개 들어보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.560,
+                "end": 7.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런 것도 보세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.640,
+                "end": 9.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 참 좋을 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.260,
+                "end": 12.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근에 본 것 중에서 코스모스를 너무 재밌게 봤는데 다른 세상 간 것 같더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.500,
+                "end": 18.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10년 전에 처음 봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.298,
+                "end": 19.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 두꺼워서 안 봤는데 다시 좀 봐야겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.761,
+                "end": 22.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 뒤로 가면 물리학이 나와서 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.684,
+                "end": 26.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 건 전 안 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.017,
+                "end": 27.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 150페이지 넘어가면 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.888,
+                "end": 30.196
+            }
+        ]
+    },
+    "summary": "남성이 양자물리학 유튜브와 코스모스 책을 추천하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17829_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

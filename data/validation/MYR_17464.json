@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_17464",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.951,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이거는 당첨은 안 된다고 봐야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "100 대 1이면 거의 안 봐야 돼요",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.411,
+                "end": 4.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 만약에 집이 꼭 필요한 분들은 고점 대비해서 지금 5월 통계까지밖에 없는데 어 5월 기준으로 보면 전국은 고점이 2021년 10월이잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.566,
+                "end": 16.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 83.8프로 어 그다음 서울은 81.8프로 수도권은 79.5프로 지방은 89.1 프로예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.329,
+                "end": 24.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방이 높죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.497,
+                "end": 25.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방은 도로로가 덜 빠져서 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.284,
+                "end": 27.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유동성 영향 안 받습니다. 지방은",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.140,
+                "end": 29.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 전세 시장 영향을 많이 받고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.195,
+                "end": 31.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 에 지금 수도권 기준을 보면 약 80퍼센트 수준이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.248,
+                "end": 35.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 지금 어 집을 사신다면 그래도 좀 싸게 사야 될 거 아니요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.318,
+                "end": 39.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고점 대비 한 25프로에서 한 35프로 사이 정도 떨어진 걸 사시면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.084,
+                "end": 43.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울은 지금 81.8프로 지금 많이 업데이트됐을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.014,
+                "end": 47.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아마 어 25프로 정도 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.501,
+                "end": 51.951
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성이 청약률이 100 대 1인 경우는 당첨이 거의 안 된다고 봐야 한다며 서울과 수도권 지역에 비해 지방이 청약률이 높다고 한다. 유동성 영향을 받지 않기 때문이며 전세 시장 영향을 많이 받는다고 한다. 수도권 기준으로 보면 80퍼센트 수준으로 집이 꼭 필요하신 분들은 그래도 조금 싸게 구입해야 하니 고점 대비 한 25퍼센트에서 35퍼센트 사이 정도 떨어진 걸 사면 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

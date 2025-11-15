@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18847",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.998,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 이제 책에서도 재밌었던 부분이 뭐냐면 저도 굉장히 공감을 하는데 그게 투자 부동산하고 사랑에 빠지면 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 굉장히 그렇게 좀 생각을 하고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.211,
+                "end": 10.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금은 좀 어떠신가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.266,
+                "end": 12.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 하와이랑 사랑에 빠져있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.851,
+                "end": 14.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런, 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.282,
+                "end": 15.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 사랑에 빠져있는데 사실 그럼에도 불구하고 객관적이고 주관적인 장점들을 좀 설명해드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.661,
+                "end": 22.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그 말씀드린 것처럼",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.963,
+                "end": 24.998
+            }
+        ]
+    },
+    "summary": "남성이 여성에게 하와이와 지금도 사랑에 빠져있는지 질문하였고 여성은 너무 사랑에 빠져있는데 그럼에도 불구하고 객관적이고 주관적인 장점을 설명해준다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18847_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

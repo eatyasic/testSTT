@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18398",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.931,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 또 5호선 라인으로 쭉 내려왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그랬더니 역세권은 아니지만은 @주소1이 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.112,
+                "end": 6.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 동네를 먼저 필터를 해서 찍어봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.472,
+                "end": 10.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 급지가 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.659,
+                "end": 12.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "항상 어디가 더 높았었는지 그러면은 내가 할 수 있는 것 중에 조금 더 높은 급지를 선택을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.289,
+                "end": 19.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내가 할 수 있는 게 이거구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.647,
+                "end": 22.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 조금 더 높은 걸 해야 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.260,
+                "end": 24.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭐 아시면서 촬영하려고 하시는데 그 우리가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.123,
+                "end": 31.931
+            }
+        ]
+    },
+    "summary": "여성 화자가 5호선 라인으로 쭉 내려와 보니 @주소1이 있고 그 동네를 먼저 필터를 해서 찍어보면 급지가 나오는데 내가 할 수 있는 것 중에 조금 더 높은 급지를 선택하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18398_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

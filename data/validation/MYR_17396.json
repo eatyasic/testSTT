@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17396",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘기도 하고 좀 편하게 있다가 한 9시 10시면 잠자리에 들 준비를 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9시, 10시 야",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.725,
+                "end": 5.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이가 없으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.205,
+                "end": 5.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞다 바른 생활 사나이시네 밤에 뭐 이렇게 영화나 드라마 같은 거 안 보세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.872,
+                "end": 10.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드라마는 뭐 특별히 뭐 유튜브에서 다 나오니까 유튜브 뭐 넷플릭스라든가 뭐 이런 걸 통해서 가끔 보는데 드라마도 그렇게 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.320,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 밤 9시나 10시가 되면 잘 준비를 한다고 하니 흰색 상의를 입은 남성이 밤에 영화나 드라마를 안 보냐고 물어봤고 검은색 상의를 입은 남성은 유튜브나 넷플릭스를 통해서 가끔 보는데 그렇게 드라마를 챙겨 보는 편은 아니라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18819",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 언제 될지 몰라. 모르는데 과거 보도 자료를 기준으로 하면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 정기 국회. 즉 9월이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.418,
+                "end": 6.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정기 국회 때 이걸 넣어서 통과를 시켜서 24년 1월 1일 이후 양도분부터 할 예정이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.620,
+                "end": 13.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.183,
+                "end": 14.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 여러분들이 에 거래할 때 어떻게 되겠습니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.069,
+                "end": 16.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 그 시나리오대로 된 된다면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.614,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "보도 자료를 기준으로 하면 올 9월의 정기 국회 때 통과를 시켜서 내년 1월 1일 이후 양도분부터 시행 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

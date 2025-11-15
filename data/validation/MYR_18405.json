@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18405",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 56.89,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 아파트 과거 시세도 모르고 그러면은 이 과거 흐름을 몰라도 과거 분위기를 이렇게 알 수 있게 해주는 게 아시리라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 이렇게 골라봤더니 그 수강생한테는 가양 성지아파트나 아니면 이제 재건축 아파트 몸테크 가능하면 신월시용 정도가 좀 서울 안에서 좀 제일 좋은 선택지고 저 오래된 거 싫고 평수 더 넓어야 돼요 그러면 조금 더 나가야 될 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.862,
+                "end": 28.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 개밖에 없어요 선택지가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.914,
+                "end": 30.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 골라서 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.375,
+                "end": 31.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 그 말씀 설명 주신 거는 이제 예시를 드는 거기 때문에 오해 없으시길 바라고 특히 항상 변한다는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.762,
+                "end": 42.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 돈으로 그러니까 4천만 원을 어떻게 5억 가냐 그러는데 이분이 직장에서 무이자 대출이 나온대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.358,
+                "end": 50.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 합치니까 1억 정도 되더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.335,
+                "end": 52.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 좀 다행이신 분이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.288,
+                "end": 54.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연봉이 또 많아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 54.558,
+                "end": 55.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5600이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.605,
+                "end": 56.890
+            }
+        ]
+    },
+    "summary": "이분은만 무이자 대출이 나오고 연봉이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18405_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

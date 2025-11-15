@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_18760",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.634,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 글자가 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 임대 수입 금액은 1가구가 보유하고 있는 주택 수와 임대 방법에 따라서 계산법을 달리하고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.327,
+                "end": 7.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 정확하게는 1가구 중에서 부부 합산입니다. 부부 합산.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.589,
+                "end": 11.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 월세의 경우 임대 사업자 등록된 주택을 포함해 2주택 이상부터 월세 수입을 합산해 계산하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.024,
+                "end": 16.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1주택자는 고가 주택인지 여부에 따라 신고 대상이 구분되는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.578,
+                "end": 20.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때 고가 주택은 지금 23년 5월달 신고하는거는 작년이잖아요. 그렇기 때문에 이때는 기준 시가 9억.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.744,
+                "end": 26.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 내년부터 즉 올해부터가 이제 내년에 신고하는 거잖아요. 그죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.955,
+                "end": 31.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해부터는 기준 시가 이제 12억으로 이제 올라가는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.381,
+                "end": 34.634
+            }
+        ]
+    },
+    "summary": "주택 임대 수입 금액은 1가구 중 부부 합산하여 보유 중인 주택 수와 임대 방법에 따라서 계산법을 달리하고 있으며 고가 주택인지 여부에 따라 신고 대상이 구분되고 기준 시가는 9억이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18760_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

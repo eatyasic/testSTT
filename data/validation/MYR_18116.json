@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18116",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.368,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투자를 하시려는 분들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 현재 음 아까 잠깐 사업 리스크 말씀 드렸지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.028,
+                "end": 5.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.173,
+                "end": 5.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 뭐 조합 그냥 재개발 용어는 그냥 좀 어느 정도 안다고 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.659,
+                "end": 10.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.894,
+                "end": 11.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘기할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.416,
+                "end": 12.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 보통 조합 건립 인가가 난 곳을 여러분들이 보신다라고 하면 예 지금 서울에서 가장 저렴하게 들어갈 수 있는 게 장인 뉴타운 쪽이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.017,
+                "end": 20.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.914,
+                "end": 21.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고기가 지금 실투자 금액으로 한 2억 중반 대",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.322,
+                "end": 24.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2억 중반대",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.259,
+                "end": 25.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.116,
+                "end": 25.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 들어갈 수가 있고 그다음에 뭐 급지 좋은 곳으로 가서 뭐 한남, 성수 이런 데 가면 뭐 내 투자 금액이 10억 이상이 훨씬 필요한 상태인 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.525,
+                "end": 35.368
+            }
+        ]
+    },
+    "summary": "화자가 서울에서 가장 저렴하게 들어갈 수 있는 곳과 급지 좋은 곳을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18116_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

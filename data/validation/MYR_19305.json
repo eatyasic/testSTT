@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19305",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.063,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기 나오죠 이때 지급 받지 못한 급여는 미지급 급여로 계상 했다가 아까 나오잖아요 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추후 이익이 많이 발생해서 자금여유가 있을 때 갑근세 부담 없이 받아 갈 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.137,
+                "end": 9.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.650,
+                "end": 13.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 소규모 법인 1인 법인 절세 전략 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.367,
+                "end": 16.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 관심 많은 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.426,
+                "end": 17.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소규모 법인이나 1인 법인의 경우에는 급여를 가져갈 현금이 없거나 4대보험이 부담이 되서 비용으로 처리하지 않는 경우가 많은데 급여 계정 항목이 없어버리면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.907,
+                "end": 30.063
+            }
+        ]
+    },
+    "summary": "한 남자가 소규모 법인 1인 법인의 절세 전략 자료를 읽어 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19305_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

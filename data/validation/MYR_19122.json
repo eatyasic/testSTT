@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_19122",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.488,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가상 자산도 같이 2025년으로 유예가 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 가상 자산은 뭘로 과세되나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.207,
+                "end": 6.341
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재산으로인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.351,
+                "end": 6.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양도세인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.922,
+                "end": 7.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 기타 소득으로 들어가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.776,
+                "end": 11.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 우리 주택 임대 사업자 1주택 기준도 동일하게 12로 맞췄습니다 12로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.870,
+                "end": 19.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하도 헷갈려 하시니까 낮춘 것도 있고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.193,
+                "end": 21.488
+            }
+        ]
+    },
+    "summary": "가상 자산은 기타 소득이고 주택 임대 사업자 1주택 기준도 동일하게 12로 맞췄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

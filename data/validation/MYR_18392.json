@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18392",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 세대수를 줄이면 나 홀로 이런 거 다 떨어져 나가게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.409,
+                "end": 3.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그거 3개를 싹 필터를 하면은 내가 원래 거주하던 데에서부터 보는데 우리는 이제 선택지가 무한정 있는 게 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.977,
+                "end": 15.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리의 선택지는 정해져 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.486,
+                "end": 18.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 갖고 있는 돈이 정해져 있기 때문에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.595,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "여성 화자가 3개를 필터를 하면 내가 원래 거주하던 데에서부터 보는데 갖고 있는 돈이 정해져 있기 때문에 선택지는 정해져 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18392_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19061",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이것들을 모두 아우르는 말을 지방세에서 시가 표준액이라고 부릅니다 이거를.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 저걸 다 아울러서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.605,
+                "end": 7.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아울러서 이런 것들을 다 그냥 뭐 토지는 공시 지가 이거는 이거, 이거는 이거 이렇게 부르지 않고 한 방에 이런 것들을 시가 표준액이라고 부르고 이 시가 표준액을 가지고 재산세를 부과 한다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.832,
+                "end": 22.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.518,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "공시 지가나 개별 주택 가격 등 따로 따로 부르지 않고 한 번에 시가 표준액이라고 부르며 이것을 가지고 재산세를 부과한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19061_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

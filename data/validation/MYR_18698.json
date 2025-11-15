@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18698",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 전 조금 더 유의미하게 보는 건 단계예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단계",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.317,
+                "end": 3.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네 왜냐면 너무 초입에 진입을 하면 너무 돈이 오래 묶이게 되고 뭐 치고 빠지고가 쉽게 되지 않을 수도 있기 때문에 시기상의 흐름상 재건축 같은 경우나 리모델링 같은 경우는 부동산 분위기가 확 죽으면 그야말로 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.859,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "투자는 초입에 진입을 하면 돈이 오래 묶이게 되고 치고빠지고가 쉽게 되지 않을 수도 있기 때문에 흐름상 재건축 같은 경우나 리모델링 같은 경우는 부동산 분위기가 확 죽을 수도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18698_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

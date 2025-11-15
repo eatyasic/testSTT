@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17770",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 신규 주택인 비 전입할 필요가 없는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 여러분들이 많이 헷갈리시는 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.332,
+                "end": 5.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득 당시 조정이었으면 비과세 받는 그 거주 요건 끝까지 남아 있다고 하지 않았냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.656,
+                "end": 10.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세를 받기 위한 2년 거주 요건하고 요 일시적 1주택 비과세에서 그걸 좀 더 강화한 전입 요건은 서로 다른 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.877,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "비과세를 받기 위한 2년 거주 요건과 일시적 1주택 비과세에서 좀 더 강화한 전입 요건은 서로 다른 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19065",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.318,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이쪽으로 들어간다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.932,
+                "end": 2.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 시가 쪽으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.489,
+                "end": 4.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 정리 됐습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.219,
+                "end": 6.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.091,
+                "end": 6.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 번 더 깔끔하게",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.453,
+                "end": 7.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.664,
+                "end": 8.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 기준 시가라는 게 있고 감정 평가 이거는 뭐 은행에서 감정 평가 대출할 때 라든지 우리가 또 이거 절세 포인트로 사용하는 부분 있잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.336,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "감정 평가액은 은행에서 대출을 받을 때나 절세 포인트로 사용하는 부분이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

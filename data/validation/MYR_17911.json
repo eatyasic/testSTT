@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17911",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 54.354,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 부분들 이제 어 우리가 이론에서 접하지 못했는데 실무에서는 반드시 발생하는 또는 이론에서는 이렇게 해야 돼라고 해서 그렇게 했더니 실무에서는 중개 사고가 나거나 거래 사고가 나거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이런 부분들을 좀 피할 수 있도록 제가 그런 부분들을 좀 예 많이 짚어드리고 있죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.711,
+                "end": 16.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 거를 이렇게 좀 알려주는 일종의 어떤 교육업이잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.410,
+                "end": 20.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.350,
+                "end": 20.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 거를 하면서 이제 보람을 많이 느끼신",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.830,
+                "end": 23.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 많이 보람도 느끼고요 네 그 그대로 했더니 어 좀 일이 쉬워졌다 어 그렇게 해서 오늘 계약 한 건 나왔다",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.510,
+                "end": 31.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 이제 제가 소소한 팁들을 알려드리거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.820,
+                "end": 34.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대리 계약시에 서류가 완벽하지 못하면 우리는 원칙대로만 배웠잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.097,
+                "end": 38.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.059,
+                "end": 38.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 원칙대로 또 안 하면 서류가 부족하다고 원칙대로 안 하면 사실 계약하기가 너무 힘들어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.590,
+                "end": 44.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.510,
+                "end": 44.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서류를 원칙적으로 준비해서 오는 분들은 사실 제대로 서류를 준비해서 오는 분들보다 많지 않으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.950,
+                "end": 51.335
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.340,
+                "end": 51.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 어느 선까지 우리가",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.710,
+                "end": 54.354
+            }
+        ]
+    },
+    "summary": "이론에서 접하지 못했는데 실무에서는 반드시 발생하는 사고나 소소한 팁들을 알려주는 강의를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

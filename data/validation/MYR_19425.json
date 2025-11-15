@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYR_19425",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이거라도 내가 미리 하면 가산세를 좀 줄일 수가 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 말이 그렇지 쉽지 않죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.287,
+                "end": 5.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 앞으로 신고하실 분들 계시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.984,
+                "end": 8.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이 거주 주택 비과세 특례 아까 155조 20항에 있는 거라고 했잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.741,
+                "end": 17.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이거 하지 마라고 말리고 싶어요 진짜.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.423,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "세무 대리에게 물어보고 미리 하면 가산세를 좀 줄일 수 있지만 말이 그렇게 쉽지는 않고 화자는 앞으로 신고하실 분들에게 155조 20항에 있는 비과세 특례를 하지 말라고 말리고 싶다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

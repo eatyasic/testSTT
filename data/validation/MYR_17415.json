@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17415",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "항상 이 세법이란 거는 근거가 좀 명확하게 있어야 되는데 우리가 이제 주택 가격에 따라서 이게 다르거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 이때 주택 가격은 실거래가 입니다. 실거래가",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.310,
+                "end": 14.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 6억",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.695,
+                "end": 17.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "9억에서 6억까지는 1퍼센트 뒤에 이제 1.1인데 그건 뺄게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.794,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "남성은 실거래가에 따라 세법이 다르다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

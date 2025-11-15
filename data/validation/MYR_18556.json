@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18556",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 등기 안 치고 전매를 한다고 생각하고 투자를 난타 난타 목적으로 분양권을 투자하는 분들이 지금 좀 많이 보이고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.649,
+                "end": 9.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 저는 이게 뭐 좋다 나쁘다를 떠나서 약간 우려스러운 것도 있고 괜찮은 것도 있고 생각을 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.277,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "등기 안 치고 전매를 한다고 생각하고 투자를 난타 목적으로 분양권을 투자하는 분들이 많이 보이고 있는데 이게 좋다 나쁘다를 떠나서 우려스러운 것도 있고 괜찮은 것도 있다고 생각을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18556_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

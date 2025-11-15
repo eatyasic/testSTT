@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_19125",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.369,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내려가고 있는 추세 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전문가들이 내려간다고 보시는 분들도 있고 지금 약간 하반기 와가지고 약간 일시 반등이 있지 않냐라는 분들도 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.725,
+                "end": 11.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보세요 교수님?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.109,
+                "end": 12.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 뭐 그런 거는 잘 모르고 전망하는 사람은 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.261,
+                "end": 16.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교수님 제가 퀴즈 하나 내겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.328,
+                "end": 17.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 사각형 안에 있는 이 숫자는 빨간색 숫자가 나타내는 것은 무엇일까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.952,
+                "end": 23.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 제가 진짜 심혈을 기울여서 이거 만든 표입니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.524,
+                "end": 26.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어 98년부터 있네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.834,
+                "end": 30.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 지금 보시면 2123 2123 야 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.408,
+                "end": 36.369
+            }
+        ]
+    },
+    "summary": "내려간다고 보는 전문가도 있는데 교수님은 전망하는 사람은 아니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_19445",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.57,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미친 듯이 정비사업이 잘 돼서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.599,
+                "end": 1.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 이내에 완공이 됐어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.983,
+                "end": 3.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.470,
+                "end": 3.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 3년 이내 완공이 됐어요 근데 내가 이 집에 들어가서 못 살 것 같애.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.983,
+                "end": 7.805
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.815,
+                "end": 8.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 해야 돼요 얘네가 이내",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.366,
+                "end": 10.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 3년 안에 팔아야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.221,
+                "end": 11.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 방향으로 가야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.745,
+                "end": 12.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.741,
+                "end": 13.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 저 완 완공되는 파란색 집에 들어가서 못 살 거 같으면 3년 이내 매도를 하셔야 되고 3년 이내 완공이 됐다하더라고 아 하더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.254,
+                "end": 21.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.945,
+                "end": 22.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 내가 여기를 들어가서 살 수 있다 살 수 있으면은 3년 경과 요거를 체크 하셔야 되는데 만약에 그 이전 이전 경우라면 굳이 전입 안 해도 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.339,
+                "end": 32.101
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그래서 요것도 이제 가끔씩 이게 좀 찝찝하다는 분이 계세요 왜냐면 방금",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.111,
+                "end": 37.570
+            }
+        ]
+    },
+    "summary": "완공되는 집에 들어가서 못 살것 같다면 3년 이내 매도를 해야 되고 3년 이내 완공이 됐다고 하더라도 들어가서 살 수 있으면 3년 경과 체크를 해야 되고 그 이전 경우라면 전입을 안해도 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19445_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

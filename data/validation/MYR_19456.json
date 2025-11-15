@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19456",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.202,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 최근 조세심판원에서 완전히 바뀌었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.606
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 보셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.616,
+                "end": 3.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해석은 사업시행인가일 현재 무주택이나 1주택이나 일시적 2주택이었는데 조세심판원에서는 야 사업시행인가일은 전혀 상관없어 몇 주택이든 상관없다 대신에 요 대체주택 취득이 현재 1주택이여라고 나왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.379,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "조세심판원에서 완전히 바뀌어 해석은 사업시행인가일 현재 무주택이나 1주택이나 일시적 2주택이었는데 사업시행인가일은 상관없다며 대체주택 취득이 현재 1주택이라고 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

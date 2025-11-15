@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18444",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.391,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "질문을 하는데 질문이 이제 경매도 모르지만 이렇게 부동산을 모르더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부동산 자체에 대해서?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.540,
+                "end": 9.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 자체를 몰라서 어 권리 분석에는 하자가 없는데 그래서 나 이거 들어가도 되는지 안 되는지",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.163,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "학새들이 질문을 하는데 경매도 모르지만 부동산을 모르더라.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17939",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.735,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아버지가 어 이제 암 4기 판정을 받으셨는데 3개월 남았다고 병원에서 한다",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 네가 빨리 들어와야 되겠다 이제 그래서 집으로 들어가게 됐어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.882,
+                "end": 11.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.594,
+                "end": 12.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 집에 들어가서 어 아버지는 바로 이제 항암치료를 시작하셨구요",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.140,
+                "end": 17.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.180,
+                "end": 17.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아버지하고 저하고 좀 약간 어색한 오랜만에 오랜만에 다시 그렇게 모이게 됐는데 병실에서 약간 어색한 그런 좀 동거?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.570,
+                "end": 26.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어색한 동거 어색한 생활 병간호가 이제 시작이 됐던 거죠 근데 처음에는 제가 아버지한테 그 일을 그만뒀다는 얘기를 못했어요",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.740,
+                "end": 33.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.830,
+                "end": 34.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.440,
+                "end": 35.735
+            }
+        ]
+    },
+    "summary": "아버지가 암 4기 판정을 받으셔서 집으로 돌아가게 되었고 어색한 병간호가 시작됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17939_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

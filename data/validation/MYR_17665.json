@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17665",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직까지 한국에 많이 알려지지는 않았지만 이런 거 많이 알려주는 채널들 많이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 직접 보시고 판단 잘하시면 좋을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.060,
+                "end": 7.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 꼭 지금 당장 뭐 투자를 하지 않으시더라도 대표님 말씀하신 것처럼 관심 갖고 공부해 보시면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.588,
+                "end": 15.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 저희 국내 부동산도 마찬가집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.060,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "남성들은 당장 투자하지 않더라도 해외 부동산과 국내 부동산을 공부해 보면 좋을 거 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17665_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

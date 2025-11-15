@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18938",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많은 고객들하고 상담을 하고 그러는데 또 이분이 책도 많이 내셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 가지고 교정하는 그 작업을 부탁을 했는데 표로 정리해 가지고 비포 에프터 해 가지고 이렇게 주시더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.487,
+                "end": 11.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 덕분에 우리 출판사 직원분들이 어 수정하느라고 좀 고생을 많이 하셨는데 에 거기에 대해서 이제 아까",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.779,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "교정하는 작업을 해 준 사람이 표로 정리를 잘해줘서 출판사 직원들이 수정하느라 고생을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

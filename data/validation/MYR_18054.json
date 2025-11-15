@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18054",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 예 그렇게 많이 올라가서 그쪽은 지금 이제 거의 매물이 좀 잠긴 것 같고 여러분들이 요 요렇게 해서 한 7군데, 8군데 정도 보시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 가장 저렴하게 들어갈 수 있는 게 조합성 인가 난 걸 기준으로 장인뉴타운 14, 15고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.556,
+                "end": 14.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.322,
+                "end": 15.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "15 구역이 그저께인가 매물 나온 게 실투 2억 6000인가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.031,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "화자가 매물에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

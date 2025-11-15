@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18421",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.359,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그거를 이제 개통하는 날을 기다리고 있었는데 개통해도 안 오르더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.702
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 결론이 어떻게 됐죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.712,
+                "end": 10.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결론이 팔고 올랐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.879,
+                "end": 14.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 왠지 느낌이 혹시 팔고 오르지 않았냐 왜냐하면 그게 곧바로 가시 효과가 안 나타나고 좀 늦게 나타날것 같았거든 골드라인.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.910,
+                "end": 24.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 인기 폭발이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.276,
+                "end": 26.359
+            }
+        ]
+    },
+    "summary": "골드라인이 개통해도 아파트가 안 오르더니 팔고 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

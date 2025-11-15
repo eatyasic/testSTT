@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19184",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가끔 가다가 뉴스 같은 거 보면 되게 유명한 회사인데 직원이 몇 백억 몇 천억을 횡령을 했대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 솔직히 이해가 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.140,
+                "end": 10.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그러냐면 부가세 신고를 법인 같은 경우에는 3개월마다 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.435,
+                "end": 14.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예정 신고 확정 신고 제가 이제 그건 아까 설명 안 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.515,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "유명한 회사인데 직원이 몇 백억 몇 천억을 횡령을 했다는 기사가 이해가 안 되는 이유는 법인은 부가세 신고를 3개월마다 해야 하기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

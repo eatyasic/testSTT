@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18632",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.991,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "직거래 하겠죠 직거래 어떻게 했을까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 상상에 맡기겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.904,
+                "end": 7.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 이제 그렇게 되는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.590,
+                "end": 9.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 이제 항상 이 세금이라는 게 어 너무 과하면 그 사람들의 행동을 비정상으로 만들 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.131,
+                "end": 19.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 지금 여러 가지가 많이 풀리긴 했지만 그중에 하나가 이 분양권 양도세",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.741,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "항상 세금이라는 게 과하면 그 사람들의 행동을 비정상으로 만들 수 있으며 여러 가지 많이 풀렸지만 그중 분양권과 양도세가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

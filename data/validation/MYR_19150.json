@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19150",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "각각의 칸이 다 있어 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 법인 사업자는 그런 게 아니라 전부 다 하나로 때려 박아버린다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.613,
+                "end": 6.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 어렵죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.294,
+                "end": 9.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "표정들이 안 좋아요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.668,
+                "end": 11.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 제가 조금만 이렇게 그려볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.445,
+                "end": 17.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 소득세는 뭐의 줄임말이라고 그랬어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.800,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "법인 사업자는 칸칸이 없이 전부 하나로 때려 박는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

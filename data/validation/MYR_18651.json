@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18651",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.05,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 사실은 에 이대로 됐으면 좋겠습니다 사실.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 예측 가능성이란 게 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.324,
+                "end": 5.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준비하고 있다니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.188,
+                "end": 6.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이미 8프로 내신 분들은 이제 이거 소급 적용돼서 내가 진짜 1프로 되면 이 7프로를 환급받길 기다리고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.992,
+                "end": 15.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.359,
+                "end": 17.050
+            }
+        ]
+    },
+    "summary": "예측 가능성 이라는 게 있고 이미 8프로 내신 분들은 소급 적용돼서 1프로 되면 7프로를 환급받길 기다리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

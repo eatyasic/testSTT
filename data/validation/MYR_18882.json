@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18882",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정해진 액수가 들어와야 제가 이 액수를 정확하게 운용을 할 수 있을 것 같거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 제가 만약에 매장 정률로 월세를 받았을 때 코로나19를 났다면 되게 힘들었을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.636,
+                "end": 10.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.678,
+                "end": 11.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 때 코로나19 때 스타벅스도 매출이 여지없이 매출이 곤두박질 했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.196,
+                "end": 15.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 때는 정말",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.877,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "화자1은 만약 자신이 정률로 월세를 받았을 때 코로나19를 났다면 되게 힘들었을 것 같다면서 코로나19 때는 스타벅스도 매출이 여지없이 곤두박질 했다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18882_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

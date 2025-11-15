@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18704",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.661,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이런 얘기도 있어서 금리에 대한 부담이 좀 줄어 들고 있긴 하지만 아직도 이렇게 대출이나 금리에 대해서 부담을 갖고 계신분들이 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 앞으로 경기 침체가 어떻게 될지 모르겠다라고 이제 두려워 하시는 분들이 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.114,
+                "end": 13.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 솔직히 되게 쫄보 투자예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.050,
+                "end": 15.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "되게 소심하고 안전주의 투자자라서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.128,
+                "end": 17.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안전주의로",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.248,
+                "end": 17.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 안전주의 투자를 하고 있어서 그러면 지금 막 분당이 움직여 가지고 가격이 벌써 바닥을 찍고 달에 막 5000만 원씩 올라가는 애들이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.640,
+                "end": 25.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그런 애들은 내가 관심을 갖고 지금 본다고 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.321,
+                "end": 28.661
+            }
+        ]
+    },
+    "summary": "요즘은 금리에 대한 부담이 좀 줄어 들고 있긴 하지만 아직도 이렇게 대출이나 금리에 대해서 부담을 갖고 계신분들이 많고 앞으로 경기 침체가 어떻게 될지 모르겠다라고 두려워 하시는 분들이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18704_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

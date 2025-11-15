@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18758",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.282,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 따로 떼 가지고 하는 분리 과세가 훨씬 더 유리한 거 아니냐.라고 생각할 수 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분은 그 말이 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.994,
+                "end": 5.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 종합 과세가 유리한 경우가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.544,
+                "end": 8.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째, 어차피 내가 벌어야 되는 게 별로 없어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.046,
+                "end": 11.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세율 자체가 6퍼센트 제일 낮은 구간이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.259,
+                "end": 13.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 경우에 차라리 종합 과세하는 게 나을 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.356,
+                "end": 16.282
+            }
+        ]
+    },
+    "summary": "버는 돈이 없어 세율 자체가 제일 낮을 때는 종합 과세하는 게 나을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18758_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

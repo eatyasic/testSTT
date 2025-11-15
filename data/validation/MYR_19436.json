@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19436",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.27,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 요 규정이 이제 좀 바뀌었어요 이거는 뭐냐면은요 1주택 소유자가 실소유에 목적인 1조합원 입주권을 승계 취득하고 여기에 실소유에 목적이잖아요 그래서 완공되고 들어가서 실제로 거주를 하는데 제가 살 집이 없으니까 그 종전 주택같은데서 살아야 될 거 아니에요 그래서 혜택을 주는 규정이라고 보시면 그 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 24.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 1번 종전 주택은 비과세 요건을 만족해야 함 요 종전 주택은 비과세 요건을 만족해야 되는 거구요 그리고 종전 주택을 취득한 후 1년 이상이 지난 후에 요 B",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.486,
+                "end": 37.270
+            }
+        ]
+    },
+    "summary": "실소유의 목적을 갖고 실제로 거주를 하는데 살 집이 없으니까 종전 주택같은데서 살아야 하니 혜택을 주는 규정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

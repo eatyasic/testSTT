@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18656",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.293,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "들리는 말은 없습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전혀 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.049,
+                "end": 2.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인에 대해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.072,
+                "end": 3.726
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예상은 했습니다 예상은",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.736,
+                "end": 4.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "긍정적으로 보기가 좀 힘들어서 요즘은 자산 가치가 높아져서 비주고용 부동산은 거의 법인으로 거의 100프로 가시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.898,
+                "end": 13.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그게 그게 맞고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.061,
+                "end": 14.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 오늘들은 소식은 그 칭따오 맥주로 유명한 그 배우분이 계신데 그분이 강남에 이제 건물을 사셨더라고 법인으로 사셨다 뭐 이런 얘기",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.718,
+                "end": 27.293
+            }
+        ]
+    },
+    "summary": "요즘 자산 가치가 높아져서 비주고용 부동산의 거의 100퍼센트 법인으로 가고 오늘 들은 소식으로는 칭따오 맥주로 유명한 배우분이 강남에 법인으로 건물을 샀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

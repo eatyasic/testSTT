@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18529",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 강남에 강남에 존버를 솔직히 못 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5억에서 7억 8억 정도면",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.686,
+                "end": 5.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.067,
+                "end": 5.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강남이 약간 비켜간 지역에 솔직히 대단지 아파트는 그 정도 갭으로 사기 힘듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.559,
+                "end": 11.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 결국은 또 어떤 걸 건드려야 되냐면 한 한 동 짜리나",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.650,
+                "end": 14.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.391,
+                "end": 15.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 아니면 빌라를 같은 요런 것들밖에 못 사거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.059,
+                "end": 18.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 놓고 본다면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.365,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "강남에서 5억에서 8억 정도로는 솔직히 버티기 힘들고 대단지 아파트도 그 정도로는 사기 힘들어서 한 동 짜리나 빌라 같은 것밖에 못 산다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18570",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2023-05-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제보를 받았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그분이 이제 아니 왜 상담방에다가 너 상담해준다고해서 내가 다 이렇게 그 다 해줬는데 왜 이렇게 연락이없냐 어 그래서 저희 직원한테 연락을 한거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.506,
+                "end": 14.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저희직원이 혹시 뭐 이렇게 대표님 뭐 이렇게",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.294,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "어떤 분이 상담방에 상담을 해준다 했는데 안 해줬다고 직원에게 제보를 해줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18570_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

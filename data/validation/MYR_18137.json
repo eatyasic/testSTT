@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYR_18137",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.961,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 수익률을 생각했을 때는 좀 가져가는 게 좋다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 그니까 그거를 그렇게 스트레스를 받지 마시고 오히려 재개발은 옵션이 하나 있는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.133,
+                "end": 6.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예를 들어서 아파트로 5억 주고 샀는데 8억 됐어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.000,
+                "end": 9.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.192,
+                "end": 9.603
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 난 이걸 팔아서 3억의 수익을 갖고 끝나면 되는 거잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.613,
+                "end": 12.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재개발을 5억에 사서 8억이 됐어 그럼 난 이걸 사서 3억의 수익을 낼지 아니면 그대로 갖고 가면 이거보다 더 큰 수익이 난 난다는 보장이 되어 있잖아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.469,
+                "end": 22.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔지 알겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.420,
+                "end": 23.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.300,
+                "end": 23.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나중에 이제 새 거가 되니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.920,
+                "end": 24.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새 거가 되니까 그 오히려 옵션이 하나 더 있는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.819,
+                "end": 27.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.360,
+                "end": 27.961
+            }
+        ]
+    },
+    "summary": "수익률에 대해 스트레스 받지 말고 재개발은 옵션이 하나 더 있는 거라 생각을 하자.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

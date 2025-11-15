@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17465",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.658,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떨어진 거 있으면 사셔야 되고 어 2주택자들은 갈아타기 좀 애매해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 애매하죠. 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.679,
+                "end": 6.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갈아타기는 이익 보면서 갈아타기 할 순 없어요. 손해 보면서 갈아타기 하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.339,
+                "end": 10.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜요. 내가 갈려고 하는 데는 거기는 더 좋은 데 것 잖아요. 내 거 헐값에 팔고 보통 더 좋은 걸 사는 경우가 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.119,
+                "end": 18.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 요번에 특히 이 집값이 급락이 올 때 주로 인기 재원들 빠졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.159,
+                "end": 25.658
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성이 2주택자들은 갈아타기 애매하다고 말하고 있다. 이익을 보면서 갈아타기 할 수 없다며 손해 보면서 갈아타기 해야 한다고 한다. 이유는 내가 가려고 하는 곳은 더 좋은 곳이기 때문에 내 것을 헐값에 팔고 좋은 곳을 사는 경우가 많다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

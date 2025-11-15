@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19515",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.952,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그리고 저도 이제 작년 말에 제 사무실을 개업을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 위치가 어디 있나요 여기 뭐 잠깐 나와 있기는 한데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.958,
+                "end": 6.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 3호선 안국역에 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.991,
+                "end": 8.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안국역 3호선.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.754,
+                "end": 10.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 바로 앞에 SK허브라고 그 건물이 있는데 거기서 제 사무실을 운영하고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.233,
+                "end": 15.949
+            }
+        ]
+    },
+    "summary": "이번에 3호선 안국역 SK허브 건물에 사무실을 개업을 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

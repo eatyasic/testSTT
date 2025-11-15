@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19062",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 국세에서도 양도세를 계산할 때 취득 가액을 알 수 없는 경우에는 이 가격들을 이용해서 취득 가액을 산출해 내지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 양도세에서는 이 가격들을 우리가 기준 시가라고 불러 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.894,
+                "end": 12.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기준 시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.861,
+                "end": 13.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기준 시가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.760,
+                "end": 14.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이것들은 실제 거래되는 가격은 아니고 뭐 세금을 매기거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.573,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "국세에서 양도세를 계산할 때 취득 가액을 알 수 없는 경우 공시 지가, 개별 주택 가격, 공동 주택 가격을 이용해서 취득 가액을 산출하는데 이 가격들을 기준 시가라고 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17736",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.226,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이쪽 지역이 만약에 특히 삼성동을 중심으로 여기 개발이 되면 조금 올라갈 수 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.575
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그런 용도로 해보는 거는 일부 가능할 수도 있겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.585,
+                "end": 9.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 내가 신혼부부인데 나는 당장 아이가 없고 아이가 생기더라도 당장 학교에 들어가는 게 아니니까 우리 둘이 부부는 출퇴근이 편하고 좀 쾌적한 환경에서 밑에 있는 돈을 줄여가면서 하나 하고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.154,
+                "end": 23.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 경우에도 오케이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.743,
+                "end": 26.226
+            }
+        ]
+    },
+    "summary": "화자는 아이가 없는 신혼부부나 아이가 있더라도 당장 학교에 가는 경우가 아니며 출퇴근이 편하고 돈을 절약하고 싶은 사람들에게도 좋다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17736_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

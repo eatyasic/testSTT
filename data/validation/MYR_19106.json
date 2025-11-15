@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19106",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2주택자 세율이 뭐 거의 2배 정도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 내가 1주택 가지고 있었으면 천만 원 낼 거 그냥 2주택인데 똑같이 공시 지가가 똑같이 500, 500해서 천만 원인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.124,
+                "end": 11.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.996,
+                "end": 12.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배로 내라는 거죠 그냥.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.376,
+                "end": 13.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세율이 약간 부당해서 조정 지역에 대한 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.818,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "2주택자는 1주택자 보다 세율이 2배 정도 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

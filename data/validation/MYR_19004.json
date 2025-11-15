@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19004",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 그러니까 뭐 주택임대 임대하는 거에 대해서는 뭐 좀 더 내라라는 걸로 보셔야 될 것 같고 상가 같은 일반임대는 어차피 사업자등록증을 내야 되니까 저기 원칙대로 그냥 가는 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 정리하면 되겠습니다. 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.521,
+                "end": 15.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재산 증식을 잘해서 이제는 건강보험",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.673,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "주택임대는 세금을 더 내라는 뜻이고 일반임대는 애초에 사업자등록증을 내야 하니까 원칙대로 가는 거라고 정리할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

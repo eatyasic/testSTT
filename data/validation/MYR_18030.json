@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_18030",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.177,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋을 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 증여를 하실 거면은 미리미리 하셔야 되는데 어 이건 이제 세금 절세하고는 다른 이야기인데 증여하는 게 꼭 자녀 교육에 좋은 것 만은 아닐 수는 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.864,
+                "end": 12.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 세금 이야기 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.052,
+                "end": 13.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 거기에 대해서 혹시 궁금하신 분들은 한 20년 정도 된 베스트셀러 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.360,
+                "end": 18.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이웃집 백만장자라는 책을 한번 보시면 괜찮을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.206,
+                "end": 22.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 돈 내산이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.272,
+                "end": 23.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 좀 유명한 책이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.417,
+                "end": 24.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국의 부자들을 분석한 최초의 책 중 하나입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.956,
+                "end": 29.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그것까지 좀 같이 보시면은 좀 더 부모 된 입장으로서 어 조금 더 현명하게 자녀 증여와 교육에 대해서 관심을 가질 수도 있어 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.461,
+                "end": 38.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시청해 주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.981,
+                "end": 44.177
+            }
+        ]
+    },
+    "summary": "화자가 부모 된 입장으로 현명하게 자녀 증여와 교육에 대해 미국의 부자들을 분석한 책 이웃집 백만장자라는 책을 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18030_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

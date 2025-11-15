@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17458",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세후",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세 세후 22프로?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.611,
+                "end": 1.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세전 22.5프로 네 저희가 세금이 좀 세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.891,
+                "end": 4.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부 업체이기 때문에 이자 소득세가 거의 한 27프로되거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.659,
+                "end": 8.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그러니까 세금을 띠고 회원들한테 깨끗한 돈 나가는 게 한 15.5프로 그러니까 1억 투자 하신 분이 한 1500 제일 많이 투자하신 2억 투자하신 분이 한 3050만 원 받으셨죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.945,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 세후 22퍼센트의 수익율이냐고 묻자 세후이며 본인들은 대부 업체이기 때문에 이자 소득세가 27퍼센트 된다고 한다. 그래서 세금을 떼고 회원들에게 돌아가는 돈은 15.5퍼센트 정도 되니 1억 투자하신 분은 1500만 원, 2억 투자하신 분은 3050만 원 받으셨다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17458_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

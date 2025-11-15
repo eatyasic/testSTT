@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17623",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.302,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 분들은 사면 안되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.694,
+                "end": 2.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 사기가 어렵죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.360,
+                "end": 3.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 된다기보다는 오히려 아 이걸 사면 오를 수 있는 것도 눈에 뻔히 보이지만 못 사는 게 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.649,
+                "end": 9.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수익률 같은 거 생각해 보면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.747,
+                "end": 11.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현실적으로 뭐 세금 앞에서 띠고 뭐 다 띠이니까 그래서 주택이 아니라 지금은 어쩔 수 없이 비주택 쪽으로 선택을 많이 해 가는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.385,
+                "end": 20.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 분들이 이제 한 가지 선택해야 될 게 있는데 그 와중에 어떤 선택을 이제 그니까 그냥 가만히 있는 분들은 상관이 없는데 이걸 어떻게든 돌파할려는 분들이 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.108,
+                "end": 31.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.120,
+                "end": 31.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 어려움 속에서도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.983,
+                "end": 33.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 이제 틈새 처치를 막 찾아가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.064,
+                "end": 36.302
+            }
+        ]
+    },
+    "summary": "한 남성이 이 분들은 현실적으로 세금도 떼이고 어쩔 수 없이 비주택쪽으로 많이 선택을 하며 그 어려움 속에서도 어떻게든 돌파하려는 분들이 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17623_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

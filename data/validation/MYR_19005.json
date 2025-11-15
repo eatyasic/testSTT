@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19005",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.534,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 부담이 될 수밖에 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 우리 @이름1님께서도 이제 이거를 회피할려면은 결국에는 뭐 직장가입자가 되라라는 예 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.069,
+                "end": 10.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이어서 재산요건에는 재산세 과세표준이 5억 4000 이하이거나 재산세 과표가 5억 4000부터 9억 원 이하인 경우에는 이때는 소득요건 1000만 원이 더 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.329,
+                "end": 23.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저 아까 왼쪽 2000이 이제 1000으로 내려가는 거네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.718,
+                "end": 26.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.119,
+                "end": 26.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재산이 있기 때문에 요만큼 좀 내려주는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.643,
+                "end": 29.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 만약에",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.310,
+                "end": 30.530
+            }
+        ]
+    },
+    "summary": "재산요건은 재산세 과표가 5.4억 이하거나 재산세 과표가 5.4억부터 9억 이하인 경우에는 소득요건이 1000만 원 이하여야 한다는 조건이 추가된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18160",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.504,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 그리고 조합 설립 인가에서 사업 시행과 신청을 3년 이내 하지 않으면 정비 구역을 해제하여야 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.261,
+                "end": 6.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 걸려버리면 구역이 그냥 해제 돼버리는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.563,
+                "end": 8.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없던 걸로 돼버리는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.757,
+                "end": 9.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "없던 그게 사실 재개발 투자자한테 리스크가 제일 크죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.360,
+                "end": 12.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그럼 말 그대로 사업을 진행을 안 했다 안 해서 된 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.887,
+                "end": 17.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 안 해서 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.043,
+                "end": 17.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 사업을 진행을 누가 하는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.980,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "조합 설립 인가에서 사업 시행과 신청을 3년 이내 하지 않으면 정비 구역을 해제하여야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18160_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

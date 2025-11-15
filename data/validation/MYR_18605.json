@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18605",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 이제 조금 정상적으로 거래된 거는 아닐 거다라고 이제 추측하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 당사자만 아니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.894,
+                "end": 6.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 실제 시장에 나와있는 매물은 실거래가 보다 최소 4억에서부터 5억 정도 높다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.831,
+                "end": 11.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 막상 딱 가면은요 어 보면은요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.603,
+                "end": 14.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "되게 저렴하게 거래가 된 거처럼 보인단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.737,
+                "end": 18.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 가격이면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.093,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "정상적으로 거래된 것은 아닐 거라고 추측을 하고 실제 시장에 나와있는 매물은 실거래가 보다 5억 정도 높지만 막상 보면 저렴하게 거래가 된 것처럼 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

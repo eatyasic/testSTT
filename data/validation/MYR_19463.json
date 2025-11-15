@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19463",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.65,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "완공 후 3년 이내 전 세대원이 1년 이상 그 전입 신고를 하고 실제 거주를 하셔야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.191,
+                "end": 7.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하면은 이 대체주택에 대해서 비과세를 해주는 규정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.577,
+                "end": 11.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 그리고 이제 분양권 볼게요 똑같아요 그래서 뭐 이거는 뭐 깊게 보진 않을 거구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.137,
+                "end": 16.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.937,
+                "end": 17.650
+            }
+        ]
+    },
+    "summary": "완공 후 3년 이내에 전 세대원이 1년 이상 전입 신고를 하고 실제 거주를 하면 대체주택에 대해 비과세를 해주는 규정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

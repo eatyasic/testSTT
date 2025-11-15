@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17766",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.06,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 21년 2월 그래서 에이 19년 7월 비 21년 2월 그런데 여기서 이제 조심을 해야 되는 게 뭐냐 하면 에이가 경기도고 비가 서울인데 결국에는 이 비 취득하는 21년 2월 그 당시에 둘 다 조정이었던 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘 다 조정 어 그래 가지고 기억하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.935,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "남성이 조정지역에 있는 주택에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17766_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

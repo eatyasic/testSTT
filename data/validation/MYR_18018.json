@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18018",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 어떻게 보면 적은 돈이 아니라고 할 수도 있지만 또 이게 10년이라는 긴 시간을 보면은 좀 적은 금액입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 사실은 어떻게 하냐면 보통 결혼을 할 때 에 좀 전세 자금을 좀 보태주거나 아니면 주택 매입 자금을 위해서 좀 보태주는 그런 게 좀 암암리에 좀 관행처럼 됐었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.914,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "어떻게 보면 적은 돈이 아닌 것 같지만 10년이라는 시간을 보면 적은 금액이라고 할 수 있는데 그래서 사실 결혼할 때 전세 자금이나 주택 매입 자금을 보태주는 게 관행처럼 됐었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

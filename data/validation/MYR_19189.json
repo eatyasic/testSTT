@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19189",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.198,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인 사업자는 사업자 통장에서 자유롭게 거래할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그래요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.738,
+                "end": 3.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인 사업자 이꼴 나잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.383,
+                "end": 5.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 내 통장에서 내가 쓰는데 뭐 무슨 상관이야 이게 맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.173,
+                "end": 9.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 법인 사업자가 업무와 무관하게 통장에서 돈을 출금하면 잘못하면 아까 횡령 같은 문제가 생길 수 있고 그게 아니라면은 기본적으로는 회사가 법인이 그 특수관계자 대표자에게 그냥 돈을 빌려줬다고 봐버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.426,
+                "end": 25.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 돈을 빌려주는 게 업무와 무관 있어요 상관 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.670,
+                "end": 28.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.949,
+                "end": 29.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 업무 부관 가지급금",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.501,
+                "end": 32.198
+            }
+        ]
+    },
+    "summary": "개인 사업자가 나니까 개인 사업자는 통장에서 자유롭게 거래할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19189_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

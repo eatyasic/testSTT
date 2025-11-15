@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYR_19548",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.214,
+        "format": "MP4",
+        "date": "2022-04-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지누스는 아마존 베스트 셀러 브랜드로 북미 매트리스 점유율 1위인 국내 기업이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 26.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가구인 경우 배송이 늦게 오는데 반해 압축 포장 덕분에 배송도 빠르고 설치도 간편해서 좋았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.445,
+                "end": 33.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직접 누워보니 메모리폼이 구름 같이 포근하게 몸을 받쳐주는 느낌이 있었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.179,
+                "end": 38.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행성아 오빠야 진짜 잔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.454,
+                "end": 40.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영상에 나온 지누스 매트리스에 대한 정보가 궁금하시다면 더보기 혹은 고정 댓글을 참조해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 40.801,
+                "end": 48.214
+            }
+        ]
+    },
+    "summary": "아마존 베스트 셀러 북미 점유율 1위인 지누스 매트리스는 압축 포장으로 배송도 빠르고 설치도 간편하며 메모리폼이 구름 같이 포근하다며 매트리스 정보가 궁금하신 분들은 더보기란이나 고정 댓글을 참조해 달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19548_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

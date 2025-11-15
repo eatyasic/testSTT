@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18776",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 분리 과세라면은 15.4퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "종합 과세라면은 타 소득, 합산, 개인별로 모두 다르겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.395,
+                "end": 6.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.722,
+                "end": 10.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 거기에 대해서 제가 정리를 다 해놨고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.604,
+                "end": 13.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 책에 이제 보시면은 제가 아예 사례를 하나 가져왔어요. 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.490,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "분리 과세는 15.4퍼센트이고 종합 과세는 타 소득, 합산, 개인별로 모두 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18776_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

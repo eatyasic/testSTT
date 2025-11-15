@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17798",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.831,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 세법적인 측면에서도요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자가 이렇게 있고 여자가 있는데 혼인신고를 하는 순간부터 합산하는 걸로 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.626,
+                "end": 8.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 뒤에 수업 들으신 분은 다 아시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.076,
+                "end": 10.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 엄밀히 말하면 이 양도세는 국세이기 때문에 실질 과세로 보긴 해야 하는데 실질적으로 언제 돈 구했는지 알 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.268,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "양도세는 국세이기 때문에 실질 과세로 봐야 하는데 실질적으로 언제 돈 구했는지 알 수가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18926",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오늘 시간은 책에 대한 구성 그리고 제가 준비한 몇 가지 특별한 포인트가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.469,
+                "end": 7.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 초판 한정 사인본 관련된 내용이 좀 있구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.232,
+                "end": 11.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 책이라는 게 특히 세법 관련된 책은 다 좋은데 뭐가 조금 이슈냐면 중간에 새로운 내용이 바껴버리면은 이게 좀 업데이트를 빨리빨리 해 줘야 되는데 그게 쉽지가 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.356,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "오늘은 책에 대한 구성과 특별한 포인트에 대한 내용이며 세법 관련 책들은 내용이 개정되면 업데이트가 쉽지 않다는 이슈가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18926_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

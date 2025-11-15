@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19333",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 우리는 그냥 그대로 8프로 12프로 가는거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 어떤 일들이 발생 하겠어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.009,
+                "end": 5.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과거에 여기에 대해서 이제 좀 완화 시키겠다라는 걸 보고 정부에서 보도자료까지 내고 발표했으니까 되겠지라고 생각하신 분들 중에 예를 들어서 덜컥 사버리는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.930,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "다주택자 중과세율을 완화 한다고 했다가 그대로 가게 되면 주택을 구매한 사람들이 문제가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

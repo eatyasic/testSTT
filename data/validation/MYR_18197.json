@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18197",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 7,000만 원 주고 샀다가 한 8년 만에 1억에 팔았으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "많이 묶여 있었다는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.761,
+                "end": 5.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 기회비용 측면에서는 올바른 투자가 아니었죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.400,
+                "end": 8.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 뭐 어떻게 그렇게 하고 있다가 일산 아파트가 그때 2000년 초반에 많이 올랐었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.593,
+                "end": 14.232
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.242,
+                "end": 14.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 이제 한창 상승장이었어서 근데 사실 그때 기억은 사실 전 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.998,
+                "end": 19.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 아까도 말씀드렸다시피 공부을 하고 투자한 게 아니라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.320,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "7,000만 원 주고 8년 만에 1억에 팔았으니까 기회비용 측면에서는 올바른 투자가 아니었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

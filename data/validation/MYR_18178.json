@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18178",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "땡땡구에 가서는 그래도 모르시길래.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.504,
+                "end": 4.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 서울시에 공식적으로 질의를 하셔서 답변을 받은 걸 달라 그랬어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.052,
+                "end": 8.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.488,
+                "end": 9.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 그렇게 악착같이 하셔야 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.051,
+                "end": 11.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요. 왜냐하면 이게 여러분 그 소중한 돈 아닙니까? 그 단돈 천 만원이든 일 억이든.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.104,
+                "end": 16.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.680,
+                "end": 17.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분들의 입장에서는 그게 거의 막 전재산에 가까운 돈일 수 있기 때문에 함부로 하시면 안되고 저도 세금 강의도 할 때 제가 항상 말하지만.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.380,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "소중한 돈인만큼 악착같이 알아보고 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18178_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

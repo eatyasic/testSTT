@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17796",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.05,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하지 않으면 이 금액이 거의 그대로 가거나 더 오히려 신고 혼인 신고 안 했을 때가 더 유리해져 버리니까 안된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 저는 찬성 어 누구나 다 해당받을 수 있고 자기가 대출을 받는지 안 받는지 본인이 하는 거니까 맞죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.981,
+                "end": 17.050
+            }
+        ]
+    },
+    "summary": "남성이 혼인 신고해도 불이익을 받지 않도록 개선한 대출 제도를 찬성하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

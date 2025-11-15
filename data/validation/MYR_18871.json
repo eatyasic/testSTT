@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18871",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.228,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 표를 보시면 이 전체 매장 쪽을 보시면 평균 면적이 333제곱미터가 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중간 가구로 치면 315 제곱미터 정도 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.915,
+                "end": 9.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.921,
+                "end": 10.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 전국적으로 균일한 건 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.632,
+                "end": 14.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.219,
+                "end": 14.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 지역 별로 편차가 있는데 뭐 서울 같은 경우에는 평균보다 쫌 작아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.842,
+                "end": 20.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "300제곱미터 정도?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.141,
+                "end": 21.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 뭐 아마 추측컨대 임대료가 약간 비싸기 때문에 조금 작은 매장도 허용이 되는",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.968,
+                "end": 28.228
+            }
+        ]
+    },
+    "summary": "화자1은 지역 별로 편차가 있는데 서울 같은 경우는 평균보다 조금 작은데 이건 추측컨대 임대료가 약간 비싸기 때문에 조금 작은 매장도 허용이 되는 것이라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

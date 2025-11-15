@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17444",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.416,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등기부 아까 말씀드린 대로 1순위 은행 2순위 제네스 3순위 홍티라 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 3순위 홍티 거를 내가 엔피엘로 매수하고 싶을 때 만약에 홍티라는 사람하고 얘 뭐 얘기가 진행 중인데 이 사람이 제가 제시하는 게 야 내가 3천인데 내가 30프로 할 할인해서 2천에 가져가",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.881,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 등기부등본을 자 봐야 하는 이유를 예로 들어 설명하고 있는데 3순위에 있는 3천만 원을 20퍼센트 할인해서 2천만 원에 가져가는 상황을 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

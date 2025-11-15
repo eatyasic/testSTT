@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19434",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.281,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 자 요 규정은 소득세법 시행령 156조의2 3항인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크게 설명드리자면은 1 택 소유자가 1조합원 입주권을 승계로 취득을 해요 그러면은 이 승계 조 조합원 취득일로부터 3년 이내에 비과세 요건을 만족한 그 종전 주택 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.839,
+                "end": 21.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 양도하면 비과세가 되는 규정이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.140,
+                "end": 23.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.740,
+                "end": 24.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 볼게요 자 1번 종전 주택은 비과세 요건을 만족해야 돼요 요 종전에 보유하던 주택은 당연히 비과세 요건을 만족해야 되는데 이 비과세 요건을 만족 안 하면 당연히 비과세가 안 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.093,
+                "end": 36.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 자체의 비과세 요건 뭐 예를 들어서 조정대상 지역에서 취득했을 때는 2년 이상 거주를 했든지 아니면 상생 임대주택에 해당한다든지 뭐 그런 식의 비과세 요건은 만족을 해 줘야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.605,
+                "end": 48.281
+            }
+        ]
+    },
+    "summary": "소득세법 시행령 156조의2 3항은 승계 조합원 취득일로부터 3년 이내에 비과세 요건을 민족한 주택을 양도하면 비과세가 되는 규정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYR_17539",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 85.351,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "될 텐데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 이제 에 문제는 너무 변동성이 크다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.716,
+                "end": 5.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이러다 보니까 어 어떻게 보면은 마치 롤러코스터 타는 것 같은 이 심리적 불안을 아 느낄 수 밖에 없는데 우리가 너무 이제 가격에만 좀 올인 하는 어떤 그런 사람이 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.292,
+                "end": 19.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 가격이 무너지면 바로 행복이 무너지는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.120,
+                "end": 21.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 집을 비싸게 산 분들은 집이라는 공간을 재발견해라 그래서 집 사랑꾼이 되어라 그러면 가격이 떨어지더라도 어 덜 충격을 받을 거다 이런 얘기 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.670,
+                "end": 34.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 어 지금은 유튜브를 보면은 너무 극단론과 공포론이 득세를 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.568,
+                "end": 39.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거는 단순 도식이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.394,
+                "end": 41.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 위험합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.181,
+                "end": 42.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시장이 움직이나 유기체라서 한 쪽 방향만 얘기하는 분들은 조심을 해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.447,
+                "end": 49.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런 얘기 했고 그 다음에 이제 요번에 MZ세대들이 영끌 푸어로 굉장히 고통을 받고 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.627,
+                "end": 57.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 어 그거는 뭐 너희 탓이기도 하지만 세대 탓이자 아 시대 탓이니까 너무 자신을 괴롭히지 말고 어 이제 자기 용서를 좀 해봐라",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.510,
+                "end": 69.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그렇지만 자기 연민에 빠지면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 69.344,
+                "end": 72.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기만 불쌍하다고 어떻게 보면 엄살 떠는 거니까 징징대는 거니니까 그러지 말고 인생의 수업료를 냈다고 생각해라 그리고 어 이 힐링하는 방법 중에서 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 72.491,
+                "end": 85.351
+            }
+        ]
+    },
+    "summary": "박사가 이번 책의 내용으로 집을 비싸게 산 분들에게 전하는 메시지와 유튜브를 보며 대처하는 자세 그리고 영끌을 한 MZ세대들에게 보내는 메시지등 다양한 책의 내용에 대해 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17539_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

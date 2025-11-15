@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18942",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.584,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 개정돼 있는 게 있고 앞으로 개정될 게 있어서 섞여 있기 때문에 좀 더 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 특히 첫째 마당 잘 봐주시면 좋겠고 두 번째는 갈수록 부담되는 보유세라고 적었는데 아니 이번에 공시가격 내려가지 않았냐 이 말씀을 하실 수가 있는데 장기적으로는 이게 상향되는",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.257,
+                "end": 17.584
+            }
+        ]
+    },
+    "summary": "첫째 마당은 개정된 것과 개정될 것이 혼재돼 있어서 어렵지만 잘 봐야 하고 둘째 마당은 갈수록 부담되는 보유세라고 적었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

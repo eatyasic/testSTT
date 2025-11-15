@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_17749",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.823,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3채죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그래요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.647,
+                "end": 1.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권은 주택이에요 주택이 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.924,
+                "end": 5.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택이 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.659,
+                "end": 7.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택이 아닌데 21년 1월 1일 이후 그날 포함입니다 이후라는 말은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.190,
+                "end": 12.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 포함해서 21년 1월 1일 이후 취득한 분양권은 양도세 비과세 판단할 때 주택 수 들어가 안들어가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.269,
+                "end": 18.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들어가죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.545,
+                "end": 19.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이분은 A, B, C 지금 3개인 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.696,
+                "end": 23.823
+            }
+        ]
+    },
+    "summary": "분양권은 주택이 아니지만 2021년 1월 1일 이후 취득한 분양권은 양도세 비과세 판단할 때 주택 수에 포함된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18353",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.532,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보고 허걱 좀 하지 않으셨어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 비싸고 그걸 보니까 야 @주소1이 저렇게 쌌구나 5700?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.141,
+                "end": 9.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 3기 신도시 분양가 보고 사실 3기 신도시 기다리셨던 분들 많을 텐데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.601,
+                "end": 16.516
+            }
+        ]
+    },
+    "summary": "여성 화자와 남성 화자가 3기 신도시 분양가가 비싸다는 의견을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

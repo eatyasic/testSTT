@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18373",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.892,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아는 만큼 보이는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 아파트 경우에만 생각하시는데 등기 등록된 건 다 경매로 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.632,
+                "end": 6.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "온갖 것이 다 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.788,
+                "end": 9.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 뭐 많이 경험이 있으시니까 그리고 전에 있었던 책이 또 경매 책이니까 한번 여러분들이 참고하셔서 좋을 것 같고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.476,
+                "end": 17.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 검색창에서 행꿈사 검색하셔도 되고 또 @계정1 님 채널도 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.222,
+                "end": 22.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유튜브 제 채널이 저 이제 좀.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.540,
+                "end": 25.892
+            }
+        ]
+    },
+    "summary": "여성 화자가 등기 등록된 건 다 경매로 나온다고 설명하고 남성 화자는 여성 화자의 책과 채널을 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

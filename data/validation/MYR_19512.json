@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19512",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.633,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떨어 떨어졌으니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.900,
+                "end": 1.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 예 뭐 예를 들어 테슬라가 1월 초에 제가 알기로는 한 110불 정도까지 떨어졌었는데 오늘 살짝 보니까 한 188불 되더라고요 요런 것처럼 그 뭐 한 미리 금투세 전에 미리 뭐를 빨리 증여해라가 아니고요 그 상황에 맞게 리드미컬하게 전략을 짜시는 게 중요하다 그런 말씀을 드리고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.440,
+                "end": 22.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.524,
+                "end": 23.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 가격이 뭐 그 가격이 떨어졌을 때는 좀 낮은 거 위주로 다만 이거 손절 안 하실 거다 그러실 거면 넘겨주시는 게 낫겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.041,
+                "end": 31.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.638,
+                "end": 32.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장기간으로 가셔야 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.106,
+                "end": 33.633
+            }
+        ]
+    },
+    "summary": "미리 금투세 전에 뭐를 빨리 하라는 것보다는 상황에 맞게 전략을 짜는 게 더 중요하고 가격이 떨어졌을 때 낮은 위주로 하고 손절을 안할 거라면 넘겨주는게 낫다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19512_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

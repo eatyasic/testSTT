@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17580",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.793,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 아주 그냥 공부 하는 방법에 대해서 제대로 말씀 주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.161,
+                "end": 5.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.854,
+                "end": 6.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠깐 그 말씀 해 주셨는데 그 수익형 특히 상가에 대해서 관심이 많다 그 이야기 조금 더 해주실 수 있을까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.227,
+                "end": 12.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 이제 수익형 부동산 좋아하기도 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.681,
+                "end": 15.118
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.128,
+                "end": 15.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트만 하는 분들은 또 너무 아파트만 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.681,
+                "end": 18.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "씁 약간 아무래도 그런 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.495,
+                "end": 19.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 약간 대부분 아파트 위주여가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.827,
+                "end": 23.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그다음에 수익형 부동산 넘어 갈 때는 그거를 너무 어려워 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.040,
+                "end": 26.793
+            }
+        ]
+    },
+    "summary": "진행자가 말씀 주셔서 감사하다 인사를 하며 수익형 부동산에 대해 전문가에게 더 이야기 해달라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17580_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

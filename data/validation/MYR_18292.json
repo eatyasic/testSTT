@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18292",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 주거용보다는 비주거용",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비주거용",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.419,
+                "end": 3.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상가 토지공장 뭐 이런 등등이 있고 어 또 그것이 또 어떻게 보면 주택 대출이 아니기 때문에 어 좀 대출이 좀 수월하고 그래서 그런 경우도 있고 그래서 최근에 딱 보면은 뭐 며칠 전에 수원 법원에서 팔렸던 용인시 처인구에 있는 그 땅 90명이 들어왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.252,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "비주거용인 경우에 대출이 더 수월하기 떄문에 그런 쪽이 괜찮다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

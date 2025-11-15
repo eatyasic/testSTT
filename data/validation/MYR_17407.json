@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17407",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "입법부에서 한다 국회에서 한다 어 요걸 여러분들이 아셔야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법제처는 남녀 고용 평등과 일, 가정 양립 지원에 관한 법률 아 그리고 자연재해대책법 이게 이제 지하 공간 침수 방지를 위한 것 어 그런 것들을 신속히 제출할 예정이다라는 이게 좀 중요하다 이거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.689,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "한 남성이 입법부에서 법안을 추진하는지 국회에서 법안을 추진하는지 아셔야 된다며 법제처는 남녀 고용 평등, 일과 가정 양림 지원에 관한 법률, 자연재해대책법은 지하 공간 침수 방지를 위한 것등을 신속히 제출할 예정이라고 하는 게 중요하다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

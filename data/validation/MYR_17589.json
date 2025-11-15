@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17589",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.282,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옛날에 젊었을 때 샀었고 금리가 올라 갔다 하더라도 저렴 했었고 그리고 이제 과거에 금리 낮게 했던 분들도 많고 그냥 이 또한 지나가리라 하고 가는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다급한 사람들은 최근 1 2년 동안 매입 했던 사람들 밖에 없어 사실은",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.023,
+                "end": 15.109
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.119,
+                "end": 16.282
+            }
+        ]
+    },
+    "summary": "수익형 부동산 소유자들은 특히 예전부터 갖고 있는 사람들은 지금 별로 어렵지 않고 불안 하고 다급한 사람들은 최근 매입한 사람들이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17589_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

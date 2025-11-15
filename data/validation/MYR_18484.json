@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18484",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "절호의 찬스같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자는 아직까지 주택 투자를 하기에는 취득세 중과나 그게 그렇게 좋지는 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.957,
+                "end": 10.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 다주택자는 내가 이미 이제 2주택 이상 2주택까지는 괜찮잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.281,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "다주택자는 아직까지 주택 투자를 하기에는 취득세 중과 등이 그렇게 좋지는 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

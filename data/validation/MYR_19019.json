@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19019",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 명은 근로자 또 한 명은 직원 고용해서 커피숍을 창업하는 경우 오 이거 괜찮다. 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.153,
+                "end": 8.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 창업자도 결국엔 직장가입자다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.601,
+                "end": 11.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3번하고 이제 동일한 캐릭터라고 생각하시면 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.630,
+                "end": 14.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 인제 예를 들어서 뭐 그 부부가 커피숍을 했는데 뭐 예를 들어서 아내 명의로 창업을 하고 남편은 고용을 시키는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.466,
+                "end": 23.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 부부였",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.298,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "한 명은 근로자이고 한 명은 직원을 고용해 커피숍을 창업하는 경우에도 직장가입자에 해당한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19019_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

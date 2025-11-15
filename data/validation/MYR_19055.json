@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_19055",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취하는 것이 좋다 또 흔히 이제 들리는 말로는 예전에는 이제 감정 평가를 하더라도 국세청에서 자기들이 자체적으로 감정 평가 해 가지고 그 평균 가액으로 가는 전략을 썼는데 올해 약간 말씀 들어 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.728,
+                "end": 14.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별하게 아주 낮은 가격으로 감정 평가하지 않는 이상은 국세청에서 별도로 감정 평가를 안 하는 전략을 지금 사용하고 있기 때문에 조금씩 감정 평가 기관에 따라 조금 이게 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.341,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "예전에는 국세청에서 자체적으로 감정 평가를 하고 평균 가액으로 가는 전략을 썼는데 올해는 아주 낮은 가격으로 평가하지 않는 이상 별도로 감정 평가를 안을 하는 전략을 사용하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

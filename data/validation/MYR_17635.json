@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_17635",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.696,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해외 부동 해외 부동산 취득이 아니라 해외 직접 투자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 해외에서 내가 사업을 하겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.471,
+                "end": 5.542
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.552,
+                "end": 6.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 해서 두 가지 크게 방법이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.197,
+                "end": 8.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면은 그냥 제 제가 산다고 가정을 해볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.113,
+                "end": 10.551
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 자금이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.561,
+                "end": 11.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면은 일단 아까 처음에 신고서요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.665,
+                "end": 14.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.676,
+                "end": 15.682
+            }
+        ]
+    },
+    "summary": "한 남성이 해외에서 내가 사업을 하겠다는 해외 직접 투자를 포함한 크게 두 가지 방법이 있다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17635_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

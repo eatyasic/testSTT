@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17449",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전체 받을 금액은 한 15억 한 6천을 받으면은 이제 최고 총액까지 다 찬 건데 뭐 그거를 이제 뭐 한 몇억 싸게 사 왔죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마에 사셨어요. 뭐 이미 지금 그 종료된 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.067,
+                "end": 11.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.518,
+                "end": 11.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 말씀하셔도 상관없는 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.971,
+                "end": 13.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 13억 정도?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.897,
+                "end": 14.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.810,
+                "end": 16.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 2억 5천 이득 본 거",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.088,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 경매 최고 총액이 15억 6천만 원에 진행하는 경매의 엔피엘을 사서 몇억 싸게 샀다고 하자 흰색 상의를 입은 남성이 다 끝난 경매이면 다 말씀하셔도 상관없는 거냐고 묻자 검은색 상의를 입은 남성이 2억 5천만 원 정도 이득 봤다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

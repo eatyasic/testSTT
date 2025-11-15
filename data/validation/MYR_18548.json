@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18548",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.859,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 약간 그 생각이 됩니다 왜냐면 정부 입장에서는 어 뭐랄까 보도 자료를 내버렸거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 보도 자료가 어떤 법적 근거는 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.789,
+                "end": 9.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 어 행정부 입장에서는 굉장히 좀 부담을 안고 낸 거기 때문에 여기에 대해서 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.089,
+                "end": 15.849
+            }
+        ]
+    },
+    "summary": "행정부 입장에서는 굉장히 부담을 안고 보도 자료를 내버렸는데 어떠한 법적 근거는 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18548_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18694",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.522,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소액을 갖고 계신분들도 충분히 접근할 수 있는 재건축으로 어 생각하고 접근할 수 있는 도시가 또 1기 신도시기 때문에 여러분들한테 어 노후 계획도시 특별법으로 나라가 이제 혜택을 주겠다고 하면서 좀 밀어 주는 도시가 1기 신도시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소액 투자로도 접근할 수 있기 때문에 두루두루 여러 사람이 접근할 수 있는 도시이기도 하고 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.517,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "1기 신도시는 소액을 갖고 계신분들도 충분히 접근할 수 있고 재건축으로도 생각하고 접근할 수 있는 도시이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

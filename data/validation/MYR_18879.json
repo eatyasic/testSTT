@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18879",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.391,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정액 말고 정률도 있다 그랬잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.984,
+                "end": 2.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정률은 어떻게 되죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.329,
+                "end": 3.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정률로 보면 매출의 평균 15퍼센트 받습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.240,
+                "end": 6.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정확히는 15.1퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.122,
+                "end": 8.207
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예컨대, 스타벅스가 평균 1억한다고 했을 때 임대인에게 돌아가는 월세가 1500만 원 인거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.217,
+                "end": 13.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야아 그러니까 쉽게 말해서 정률은",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.990,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "화자2는 정률로 보면 매출의 평균 15퍼센트 받고 예컨대 스타벅스가 평균 1억 한다고 했을 때 임대인에게 돌아가는 월세가 1500만 원인 것이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

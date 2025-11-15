@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18436",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.456,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부원장이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경매 강의를 하고 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.086,
+                "end": 3.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 작년에 어 무조건 수익 내는 실전 부동산 경매라는 책을 냈고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.803,
+                "end": 9.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해는 나는 오를 아파트가 좋다라는 두 번째 책을 내게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.461,
+                "end": 15.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 이게 지금 신간인데 이제 여기에 제가 이제 본문 더보기하고 고정 댓글을 달아둘 건데 이 책이 지금",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.227,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "나는 경매 강의를 하고 있고 부동산 책 두 권을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

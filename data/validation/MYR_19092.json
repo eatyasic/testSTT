@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19092",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강남 3구랑 용산구도 내년 24년까지는 팔아도 양도세 중과가 안 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.420,
+                "end": 7.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 세 가지 세금에 대해서 이제 뒤에 차례대로 자세하게 한번 살펴보는 시간을 가져보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.903,
+                "end": 14.570
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.580,
+                "end": 14.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 여기 한 3개씩 준비했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.710,
+                "end": 16.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세 3개, 종부세 3개, 양도세 3개 한번 보실게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.743,
+                "end": 21.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.747,
+                "end": 22.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취득세 관련된 내용 개정된 거 보시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.246,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 취득세, 종부세, 양도세에 대한 내용을 각 3개씩 자세하게 살펴보겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19092_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

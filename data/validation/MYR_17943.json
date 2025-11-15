@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17943",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.455,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 눈앞에 있는 세상이 지금 당장 없어지거나 내가 사라지거나 뭐 그래야 되는 느낌 정말 자괴감이 많이 느껴지고 너무 부끄럽고 어 정말 그러면서 한편으로는 화가 나고 왜 나는 잘될 수 있었는데 또 초반엔 잘 됐었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 됐었는데 내가 잘못한 것도 아니고 어떤 외부 여건 때문이었는데 나는 왜 이런 상황에 처하게 됐고 왜 나는",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.626,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "초반엔 잘 됐었지만 나 때문이 아닌 외부 여건 때문에 상황이 이렇게 되어서 자괴감이 많이 느껴지고 너무 부끄러우면서 화가 나는 느낌이 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18969",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 건 하트가 있고 어떤 건 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 널 지켜줄게 이거 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.705,
+                "end": 6.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하트 넣었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.639,
+                "end": 7.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분의 소중한 자산을 지켜준다는 의미로 넣었구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.499,
+                "end": 10.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 네 가지가 인제 종류가 있는데 그중에 500부 중에서 딱 제가 3개만 했어요. 3개만",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.768,
+                "end": 18.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3개만 제가 어떻게 했냐면은 이렇게 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.385,
+                "end": 22.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "널 아끼고 지켜줄게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.384,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "총 네 가지의 문구 종류가 있으며 500부 중의 3개만 널 아끼고 지켜줄게라고 적었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

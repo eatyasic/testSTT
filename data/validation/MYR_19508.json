@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19508",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.982,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모든 소액투자자분들이 다 그렇게 팔았다 증권시장 마비되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.658
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 완전",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.668,
+                "end": 4.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난리 납니다 그래서 그때 세법으로 이제 의제 취득가액이란 규정을 정해 놨는데 그게 뭐냐면 24년 말 종가를 취득가액으로 인정해 주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.439,
+                "end": 14.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.770,
+                "end": 15.982
+            }
+        ]
+    },
+    "summary": "모든 소액투자자가 한번에 팔면 증권시장이 마비되게 되어 세법으로 의제취득가액이라는 규정을 정하면서 연도 말 종가를 취득가액으로 인정해 준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

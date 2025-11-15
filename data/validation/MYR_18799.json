@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18799",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2023-04-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 뭐 그 외에 인제 별 다, 다른 어떤 특별한 이슈가 있으면은 내놓을 수가 있을 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이, 인제 문제는 뭐냐 하면 이걸 내놓았을 때 예를 들어서 뭐 그동안 5억 정도가 올랐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.860,
+                "end": 9.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 단순하게 예, 예를 들어 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.000,
+                "end": 12.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5억 정도가 올랐는데 현재 지금 분양권 같은 경우에는 양도세가 어떻게 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.105,
+                "end": 16.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21년 6월 이후 양도하는 경우에 대해서는 70퍼센트 1년 미만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.130,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "예를 들어 그동안 5억 정도가 올랐다고 해 보자.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

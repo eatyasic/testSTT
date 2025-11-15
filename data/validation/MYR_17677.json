@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17677",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 미국인들은 이거를 많이 활용을 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.635
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 그러면은 현실적으로 우리나라 사람이 미국에 투자를 한다고 해서 막 시민권을 얻고 그럴 수는 없잖아요 단기간에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.645,
+                "end": 9.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.627,
+                "end": 10.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 영주권 정도 많이 잘 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.224,
+                "end": 13.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 영주권자도 할 순 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.487,
+                "end": 15.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 다만 미국의 세법상 거주자가 돼야 되기 때문에 한국 입장에서 그니까 미국에서 계속 또 거주를 하셔야 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.257,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "남성은 미국인들은 이 제도를 많이 활용하는데 한국인이 활용하려면 미국의 세법상 거주자가 되어야 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17677_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

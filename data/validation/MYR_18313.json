@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_18313",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.475,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기초라도 투자를 성공한 사람이 바로 고수다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분도 늦지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.779,
+                "end": 5.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경매 공부하시면은 정말 여러분 도움이 될 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.910,
+                "end": 9.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 이론 경매보다는 실전 경매 실무 경매 실무 명도 요런 거를 좀 배우시면은 많이 도움이 될 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.320,
+                "end": 17.516
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 감사드리고요 대표님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.526,
+                "end": 19.261
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 앞으로도 자주 한 번 나와주시고 자주 또 뵐 수 있도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.271,
+                "end": 24.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 한 번 좋은 자리를 또 한 번 기획해 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.287,
+                "end": 27.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 다시 또 불러줘도 불러주면 영광으로 생각하고 또 오겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.597,
+                "end": 30.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 물론입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.518,
+                "end": 31.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 오늘 시청해 주셔서 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.702,
+                "end": 33.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저의 천자봉플러스 전상렬 대표님이셨습니다 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.500,
+                "end": 42.475
+            }
+        ]
+    },
+    "summary": "소감을 얘기하면서 다음 번에도 이런 기회가 있겠다고 인사를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

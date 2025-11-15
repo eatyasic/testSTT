@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17678",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 한국에 또 뭐 내가 자산을 갖고 있다 그러면 한국 입장에서는 또 한국 거주자라고 볼 수가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 국세청에서는 그렇기 때문에 웬만하면 미국에 예를 들어서 자산이 뭐 한 300억에서 한 400억 정도 되시는 분들은 이런 식으로 조금씩 자산을 미국으로 옮겨 놓으셨다가 뭐 영주권 취득하시고 한국의 자산 다 정리하시면 그럼 그때는 이제 이 혜택을 보실 수가 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.308,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "남성은 자산이 300억에서 400억 정도 되는 경우에 미국으로 조금씩 자산을 옮겨 놓았다가 나중에 영주권을 취득하고 한국의 자산을 정리하면 이 혜택을 볼 수 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17678_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

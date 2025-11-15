@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18145",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.003,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재개발이라는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정비 사업이다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.958,
+                "end": 1.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 왜냐하면 여러분들 지금은 한남 뉴타운 3구역 한남 뉴타운 3구역이 입지가 떨어진다 라고 생각하시는 아무도 안 계실 거고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.660,
+                "end": 9.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.680,
+                "end": 10.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 저는 이제 개인적으로 나중에 거기 그 국정 업무 지구랑 그다음에 거기 뭐죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.398,
+                "end": 16.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그 파크 공원이랑 다 하면은 거의 강남을 능가할 수 있지 않을까 라고 저는 개인적으로 생각을 하는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.860,
+                "end": 22.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.625,
+                "end": 23.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 여러분들 얼마 전까지만 하더라도 한남 유턴 3구역에 매물이 얼마였냐면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.131,
+                "end": 27.994
+            }
+        ]
+    },
+    "summary": "한남 뉴타운 3구역이 입지가 떨어진다 라고 생각하시는 분들은 안 계실 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

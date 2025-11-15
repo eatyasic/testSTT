@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19513",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.197,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요런 것들은 넘겨 주시고 그 다음에 뭐 이익이 났다 그런 것들은 뭐 부부간 증여 해가지고요 뭐 뭐 물론 부당이익 선부인 규정이 있긴 하지만 그런 걸 검토하셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 거 하셔 가지고 세금을 세이브할 것도 생각해 보시고 네 요런 거를 좀 말씀을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.487,
+                "end": 14.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네 자 그 내용들이 이렇게 이제 책에 이렇게 다 있기 때문에 한번 참고를 해 주시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.986,
+                "end": 23.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 지금 이제 그 어느덧 마지막 질문까지 왔는데 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.954,
+                "end": 31.197
+            }
+        ]
+    },
+    "summary": "이익이 났을 때 잘 검토해서 세금을 세이브할 것도 생각해보라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19513_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

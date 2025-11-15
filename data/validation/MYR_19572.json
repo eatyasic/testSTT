@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYR_19572",
+        "category": "금융/비즈니스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐 맨 앞에서 고객들을 얼굴을 마주하고 서비스하는 분들이기 때문에 이게 승무원을 하면서 찔 수는 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살이 찔 수는 있는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.647,
+                "end": 10.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "면접에서 이미 통통한 상태로 갔다는 건 조금 면접관들 입장에서는 어 준비가 좀 덜 됐다라고 생각할 수 있을 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.870,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "고객들 얼굴을 마주하는 서비스직이기 때문에 날씬해야 하며 만약 통통한 상태로 면접을 보러 갔다면 면접관 입장에서는 준비가 덜 됐다고 생각할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19572_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18995",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.948,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가입자별로 어 월급에 대해서 7.09퍼센트로 부과를 하는데 이때는 회사와 개인이 반반 부담을 해서 회사가 징수해서 납부해 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 월급 외에 다른 소득이 연간 2000만 원이 초과되면은 그 월 소득의 7.09퍼센트를 개인이 전체 부담해서 공단이 부과고지해서 납부하게 되는 구조라고 생각하시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.248,
+                "end": 26.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저거는 이제 월급 말고 다른 소득이 있을 때잖아요. 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.189,
+                "end": 29.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다. 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.366,
+                "end": 30.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없는 사람은 그냥 신경 안 써도 되는 거잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.053,
+                "end": 31.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 없는 사람은 신경을 안 쓰면 되는데 이제 저희 근로자 같은 경우에는 이 월 소득을 늘리기 위해서 노력을 많이 해야 되겠죠. 건강보험료를 부담하게 되더라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.685,
+                "end": 41.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 그런데 저기서 제일 많이 물어보는 게 그러면 저 월 소득 인제 월급 말고 다른 소득 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.130,
+                "end": 48.948
+            }
+        ]
+    },
+    "summary": "가입자별로 월급에 대한 7.09퍼센트를 회사와 개인이 반반 부담을 하고 월급 외 다른 소득이 2000만 원을 넘는 경우에는 그 소득의 7.09퍼센트를 개인이 전체 부담하는 구조이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18995_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

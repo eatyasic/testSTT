@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19119",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음 보시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한방으로 정리했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.879,
+                "end": 2.085
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.095,
+                "end": 2.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 이게 개정 예정 된 것 중에 이렇게 바뀐 것들 이게 이제 우리 깔끔하게 바뀌었죠 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.733,
+                "end": 9.543
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.553,
+                "end": 10.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대주주.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.427,
+                "end": 10.958
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.968,
+                "end": 11.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상장 주식 대주주 이건 뭐 가족 뭐 가족 전체 합쳐 가지고 10억이 되느니 마느니 따졌거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.452,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "상장 주식 대주주 가족에 대한 합산 범위 조정은 가족 전체를 합쳐서 10억이 되는지 아닌지로 결정됐었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

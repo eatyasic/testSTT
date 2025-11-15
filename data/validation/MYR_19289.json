@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYR_19289",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 차이를 좀 여러분들이 잘 아시고 해야 되는데 이 중에서 경비처리를 할 수 있는 거 중에서 경비처리 가장 중요한 차이 그리고 중요한 게 뭐냐면 바로 인건비 입니다 인건비.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 17.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표자 대표자 인건비 개인 사업자는 대표자 인건비 처리가 안 돼요 어차피.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.612,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "한 남자가 경비처리 중에서 개인 사업자와 법인 사업자의 가장 중요한 차이는 인건비라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19289_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19071",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.633,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 조금처럼 아까 그 땅 있지 않습니까 땅이?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공시가가 6억이다",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.100,
+                "end": 4.501
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.511,
+                "end": 5.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "6억이면 이제 어우 어디서 이제 다른 분들이 아 10억 아니면 상속세 신고 안 해도 되니까 그냥 가만히 계세요 이렇게 한 거죠. 그런데 이제 조금 있다가 팔려고 했더니 다른 분이 오셔서 그때 그거 감정 평가 해가지고 신고 해놨으면 세금 세이브 되는데 아 그게 무슨 말이에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.218,
+                "end": 22.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거에 대한 얘기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.571,
+                "end": 24.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 그분이 상속세가 안 나오더라도 감정을 받으셔 가지고 9억으로 감정비 얼마 안 나오지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.819,
+                "end": 32.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.083,
+                "end": 32.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "9억으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.612,
+                "end": 33.633
+            }
+        ]
+    },
+    "summary": "공시가가 6억인 경우 상속세가 안 나오더라도 9억으로 미리 감정 평가를 하면 세금을 세이브할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19071_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

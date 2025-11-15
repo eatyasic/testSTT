@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18474",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.917,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5천 세대 입주하면은 다시 한 번 몸살을 앓을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 소유자들이 그 가격에 울면서 팔고 있는 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.386,
+                "end": 7.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 만약에 그런 리스크가 없다라고 했을 때는 이 매도자들도 그 가격에는 좀 안 팔 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.230,
+                "end": 14.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 그렇죠 왜냐하면 여유가 있으니까 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.259,
+                "end": 17.917
+            }
+        ]
+    },
+    "summary": "리스크가 없다면 매도자들도 그 가격에는 안 팔 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18474_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

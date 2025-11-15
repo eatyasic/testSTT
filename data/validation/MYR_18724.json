@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18724",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "178페이지 178 페이지 관련해 가지고 여기가 이제 큐 앤 에이 어 관련된 유권해석인데 그 앞에 이제 어 제가 좀 설명돼 있는 걸 여기에 제가 해놨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.428,
+                "end": 13.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이겁니다 이거 이거 이거 이거",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.239,
+                "end": 15.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 전에 나왔던 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.966,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "178 페이지 관련해서 그 앞에 주택 임대 사업자 거주 주택 비과세 특례에 관해서 설명해 놨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18724_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

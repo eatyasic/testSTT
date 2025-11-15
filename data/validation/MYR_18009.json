@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18009",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.294,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아까도 말씀드린 것처럼 현재는 23년 지금 7월이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지금 이때 하반기 경제 정책 방향이 이제 나오지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.735,
+                "end": 12.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그 중에서 인제 이 혼인 관련된 증여 공제 금액을 늘려주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.468,
+                "end": 20.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 좀 이슈가 지금 되고 있는 거잖아요 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.065,
+                "end": 23.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여기에 대해서 이제 일정이 이제 어떻게 되냐면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.565,
+                "end": 28.294
+            }
+        ]
+    },
+    "summary": "23년 7월에 하반기 경제 정책 방향이 나왔고 그 중에서 혼인 관련된 증여 공제 금액을 늘려 주겠다는 게 지금 이슈가 되고 있는 내용이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

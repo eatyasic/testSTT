@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_17617",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.262,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 친구의 과거 고점이 얼마였냐면 17억 이였거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "17억",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.190,
+                "end": 3.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "걔가 12억 찍고 지금 13억 5천 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.685,
+                "end": 6.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.575,
+                "end": 7.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 과거랑 지금 바닥이랑 현재랑 힐세트 범어랑 거의 똑같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.109,
+                "end": 12.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있는 건 분명히 서울인데 왜 시세가 지금 똑같냐라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.799,
+                "end": 16.869
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.879,
+                "end": 17.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그만큼 대구 수성구의 대상은 맛있다라는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.547,
+                "end": 21.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.027,
+                "end": 21.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 그렇게 어려움에도 불구하고 회복이 이렇게 빠르다 크다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.324,
+                "end": 25.451
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "생각보다 빠르네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.461,
+                "end": 26.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생각보다 엄청 빠른거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.790,
+                "end": 28.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.373,
+                "end": 29.262
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 맛있는 건 서울이지만 그만큼 대구 수성구의 대상도 맛있기 때문에 시세가 똑같고 회복이 엄청 빠르다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17617_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

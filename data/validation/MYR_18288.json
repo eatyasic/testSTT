@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYR_18288",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.631,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음 영상에서 제가 설명드리도록 하겠습니다 어쨌든 분양권 선당후공 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 취득세 양도세 종전 주택 양도세 비과세까지 양쪽을 다 체크하셔야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.030,
+                "end": 12.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 이거 구분하시고 취득하시더라도 취득하시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.540,
+                "end": 17.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 일단 좋은 물건을 당첨이 돼야 돼야 되겠지만 이 영상 보시는 분들 행운이 함께하길 바라겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.943,
+                "end": 24.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 도움되셨다면 좋아요 구독 부탁드리겠습니다 고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.574,
+                "end": 31.631
+            }
+        ]
+    },
+    "summary": "주택을 취득할 때 세금에 대해서 알아보기를 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

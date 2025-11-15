@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19158",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.331,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비트코인을 내가 열심히 내가 사서 팔았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해부터 그러면 비트코인 들어가던가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.485,
+                "end": 5.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 좀 가물가물한데 비트코인 가상화폐 같은 경우가 이제 양도세 과세 대상 자산이 아니었기 때문에 양도세 과세가 되지 않았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.741,
+                "end": 13.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 앞으로 과세를 하는데 그게 이제 기타 소득으로 지금 들어갈 생각이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.328,
+                "end": 17.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 사업 소득으로 해야 된다 뭐 그런 말도 있었는데 기타 소득으로 이제 한다는 말이 있었단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.511,
+                "end": 22.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 비트코인을 내가 가상화폐를 자주 내가 사고 팔고 하더라도 개인으로 개인 이름으로 하면 기타 소득 혹은 사업소득으로 간다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.396,
+                "end": 31.331
+            }
+        ]
+    },
+    "summary": "앞으로 비트코인이 양도세 과세 대상이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

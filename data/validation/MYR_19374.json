@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19374",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맨날 뉴스 챙겨 보고 인제 커뮤니티 같은 데도 많이 들어가 보면은 다 소진된다고 급매는 다 실종됐다 이렇게 말씀하시는데 막상 저는 체감이 되잖아요 현장에서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 막 체감할 정도는 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.073,
+                "end": 12.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 계속 거래가 안 되고 있다만 느끼고 있지 이게 빨리 급매물이 소진된다? 그런 느낌 아직 제가 못 받았고 제가 진짜 체감할 정도 될려면은 더 빨리 거래가 계속 이뤄지지 이뤄져야 되지 않을까라는 생각이 드네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.396,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "최근 급매물이 빨리 소진된다라는 말이 돌고 있는데 법무사가 보기엔 빠르지 않고 체감상으로 느껴지지는 않는 정도이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19374_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

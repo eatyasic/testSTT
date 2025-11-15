@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_18891",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.0,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예, 꼼꼼하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.802,
+                "end": 0.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3225명",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.968,
+                "end": 2.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 근데 게 중에 법인이 1020명이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.083,
+                "end": 4.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비율로 치면 한 31퍼센트 정도에 해당하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.886,
+                "end": 8.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 많네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.452,
+                "end": 9.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10 에 3명이니까 3명 당 한 명 꼴이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.504,
+                "end": 12.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.625,
+                "end": 13.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 여기에는 물론 뭐 이 스타벅스와 가족 사이인 이마트나 신세계 백화점도 있긴 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.193,
+                "end": 18.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.243,
+                "end": 18.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그런 대기업을 제외하고 나서라도 1인 기업이나 혹은 가족 기업으로 이루어진 법인도 상당수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.637,
+                "end": 24.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.882,
+                "end": 25.255
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 우리가 사실 이런 개별 개별의 사례를 전부 다 접근을 할 수는 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.265,
+                "end": 30.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 저들만의 사정이 있는 거기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.399,
+                "end": 33.000
+            }
+        ]
+    },
+    "summary": "화자2는 이마트나 신세계 백화점과 같은 대기업을 제외하고 나서라도 1인 기업이나 가족 기업으로 이루어진 법인도 상당수라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18891_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

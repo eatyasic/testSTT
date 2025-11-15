@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17892",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한 가지 더 덧붙이자면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.185,
+                "end": 3.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말로 하지 마시고요 쓰세요 가끔 가다가 이제 뭐 요구를 해요 임차인이",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.370,
+                "end": 8.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.580,
+                "end": 9.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 옆에서 아이 그거 뭐 그냥 다 우리 들었고 왜냐면 또 이제 또 다시 출력해야 되잖아요",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.160,
+                "end": 14.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.650,
+                "end": 15.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.570,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "임차인이 말만 하지 말고 써야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17892_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

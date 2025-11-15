@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17466",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 강남이 들빠지고 오히려 비강남이 빠지고 대응도 이번에 안 빠졌단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대응 오히려 오른 것도 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.657,
+                "end": 6.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대응은 공급이 없었을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.132,
+                "end": 8.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 오히려 중소기업도 빠졌잖아요. 그러면 중소기업 팔 중소기업 팔아 가지고 뭐 어떻게 대응으로 가게 되면 그렇잖아요. 그럼 이런 경우 갈아타기 이 불리한 여건이 됐는데 어 좀 갈아타기를 실제로 한번 차익을 함 봐 보시고 어 여전히 지금 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.205,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "흰색 셔츠를 입은 남성이 요즘 아파트 물건이 강남은 덜 빠지고 강남이 아닌 곳은 빠졌다고 말하며 대기업 아파트들도 안 빠지고 오히려 가격이 오른 곳이 더 많다고 한다. 중소기업 아파트를 팔아서 대기업 아파트로 가게 되는 것은 불리한 여건인데 실제로 한번 차익을 보라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17466_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

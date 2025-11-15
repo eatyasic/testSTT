@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19315",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 취득세 다주택 취득세 중과를 이제 좀 완화한다는 거 내용이 이미 나온 지가 좀 됐는데 그 당시 정부 자료 발표 자료를 보면은 2월 달 올해 2월 달 임시국회에서 통과 시킨다고 했었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 되려면 그 안에 이제 관련된 법안 입법 예고도 하고 막 이제 좀 해 가지고 뭔가 분위기가 조성되야 되는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.746,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "한 남자가 다주택 취득세 중과세 완화에 대한 일련의 과정들이 진행되야 한다고 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19315_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18401",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "썩은 거 되게 좋아하시잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞에 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.620,
+                "end": 2.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 잠실 막 썩은 거 좋아하시는데 일단 일반인들은 그런 내재적인 가치를 볼 눈이 없기 때문에 그러면 신축을 보면 멀리 가게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.253,
+                "end": 13.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멀리 가게 돼고 그래서 될 수 있으면 급지가 뭐가 높은지를 먼저 알고 선택을 했으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.268,
+                "end": 19.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 동네를 먼저 아실에서 필터를 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.268,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "여성 화자가 일반인들은 내재적인 가치를 볼 눈이 없기 때문에 될 수 있으면 급지가 뭐가 높은지를 먼저 알고 선택을 했으면 좋겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

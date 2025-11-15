@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19068",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "8억 7억.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헷갈려서 설명 안 되실 때 이거 딱 이 기준점으로 10프로 80프로 60프로다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.032,
+                "end": 6.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 자 이 정도면은 이제 그 용어 정리에 대한 설명 끝난 것 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.128,
+                "end": 10.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이렇게 설명해 주시는 분은 처음인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.872,
+                "end": 13.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.012,
+                "end": 13.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.379,
+                "end": 13.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 다시 한번 그래도 이해가 안 된다 그런 분들 있어요 또.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.991,
+                "end": 17.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.869,
+                "end": 18.551
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럴 수 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.561,
+                "end": 19.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예. 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.306,
+                "end": 20.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 이 농지나 단독 주택 이런 거를 상속 할 때에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.066,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "부동산 가격이 적용되는 곳의 용어가 헷갈려서 설명이 안 될 때는 기준점을 잡고 실제 거래가 10퍼센트, 감정 평가액 80퍼센트, 기준 시가 60퍼센트라고 설명하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

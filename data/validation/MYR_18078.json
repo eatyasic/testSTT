@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18078",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.816,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도와드릴 수 있는 방법이 현실적으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.474,
+                "end": 2.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.019,
+                "end": 2.869
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없어요 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.879,
+                "end": 3.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없고 그래서 그 부분이 제일 안타깝고 그냥 여러분들한테 팁을 좀 하나 드리면 음 재개발 재개발에서 상가는 원 원칙적으로 상가를 가져가야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.493,
+                "end": 16.816
+            }
+        ]
+    },
+    "summary": "두 남성이 재개발시 상가는 원칙적으로 상가를 가져가야한다는 팁을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17791",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 남자 1억 5천 여자 1억 5천 해서 최대 3억까지 증여세를 면제 받을 수가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.333,
+                "end": 5.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 이제 여당은 결혼 페널티이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.201,
+                "end": 10.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일종의 그래서 이런 거가 있으면 안 되겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.068,
+                "end": 13.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제도를 손보겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.329,
+                "end": 14.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 전 대표적인 게 이제 대출 같은 거라는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.340,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "남자, 여자 합해서 최대 3억까지 증여세를 면제 받을 수 있는 것에 대해서 여당은 결혼 페널티라고 반대했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17791_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_19552",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.115,
+        "format": "MP4",
+        "date": "2021-11-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매일 신나게 악기를 연주했대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.411,
+                "end": 11.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 영상은 윌라의 오디오북 동화 브레멘 음악대에서 영감을 얻어 제작되었는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.182,
+                "end": 17.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동화뿐만 아니라 다양한 오디오 북들이 많이 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.897,
+                "end": 21.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 같은 경우에는 훈련이 잘못됐습니다라는 오디오 북을 설거지를 하거나 뜨개질을 할 때 들으면서 강아지 교육법에 대해 다른 관점에서도 배우고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.222,
+                "end": 30.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윌라 오디오 북에서 이벤트도 하고 있다고 하니 관심이 있으신 분들은 한 달 무료 3개월 50퍼센트 할인 쿠폰 받아가세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.853,
+                "end": 39.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윌라 어플을 깔고 회원가입 후 쿠폰 적용에 소녀 행성을 입력하시면 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.088,
+                "end": 45.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자세한 사항은 고정 댓글을 확인해주세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 45.406,
+                "end": 49.115
+            }
+        ]
+    },
+    "summary": "브레멘 음악대는 윌라 오디오 북에서 영감을 얻어 제작한 영상이고 훈련이 잘못됐습니다 라는 윌라 오디오 북을 들으면서 설거지 및 뜨개질을 하기도 하며 회원 가입 후 소녀 행성을 입력하면 현재 한 달 무료 및 3개월 50퍼센트 할인 쿠폰 받을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19552_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 15,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

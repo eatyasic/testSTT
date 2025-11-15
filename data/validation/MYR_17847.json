@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17847",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강의도 하시고 사실 그거보다는 계속 현장 나가시고 왕성한 활동을 하고 계시는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 약간 좀 이제 직접적으로는 못 여쭤보겠지만 집중하시고 분야라든지 뭐 약간 두리뭉실하게 지역이라든지 말씀해 주실 수 있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.282,
+                "end": 17.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 요새 요새는 일반적으로 실수를 안 하려면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.077,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "남성이 원장에게 현재 집중하고 있는 분야나 지역이 무엇인지 질문하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17847_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

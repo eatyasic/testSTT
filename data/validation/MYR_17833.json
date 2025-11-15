@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYR_17833",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.268,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 그때 실패했다 아니면 그때 정해지고 그런 말씀을 제가 드리고 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇기 때문에 좋게 생각하라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.701,
+                "end": 9.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 좋게 아이 그렇죠 긍정적으로 생각해 이미 성공인 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.271,
+                "end": 12.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딱 그거네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.000,
+                "end": 13.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포기하는 순간 끝이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.840,
+                "end": 15.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이걸 또 양자물리학과 연결시켜서 말씀해 주신 저희 원장님 너무 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.138,
+                "end": 21.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 바쁘신 와중에 이렇게 출연해 주셨는데 너무 감사드리고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.886,
+                "end": 25.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로 또 자주 좀 인사드릴 수 있으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.935,
+                "end": 28.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자주 만났으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.511,
+                "end": 30.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.079,
+                "end": 35.268
+            }
+        ]
+    },
+    "summary": "실패해도 긍정적으로 생각해야 성공한 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

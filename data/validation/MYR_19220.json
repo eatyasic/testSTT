@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYR_19220",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.215,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 인제 다음 또 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 아까도 말씀하셨지만 특히 지금 같은 하락장에서는 뭐 상승장도 물론입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.947,
+                "end": 7.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현장에 가야 답이 있다 어 그렇게 해서 제가 알기로는 @이름1님은 매주 화요일 임장을 가시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.619,
+                "end": 14.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.142,
+                "end": 14.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.874,
+                "end": 15.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 연상적인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.609,
+                "end": 16.936
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.946,
+                "end": 17.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 임장 궁금한 게 아마 많은 분들이 궁금해하실 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.409,
+                "end": 20.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 임장을 갈 때 어떤 기준으로 갑니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.799,
+                "end": 24.351
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.361,
+                "end": 24.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 뭐 예를 들어서 가까운 곳으로 갑니까 아니면 투자를 오래 하셨으니까 아 내가 보니까 여기 A라는 지역이 핫할 것 같아 투자 가치가 높아 이런 데로 갑니까 좀 뭔가 그런 대략적인 기준 같은 게 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.835,
+                "end": 36.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 막 시작하시는 분들을 위해서 알려줄 수 있는 팁 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.666,
+                "end": 40.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 최근에 작년 가을부터 겨우내 이 추운 겨울에",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.744,
+                "end": 44.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.579,
+                "end": 45.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울만 이틀 3일씩 막",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.070,
+                "end": 49.215
+            }
+        ]
+    },
+    "summary": "남자는 여자에게 임장을 갈 때 대략적인 기준이 있는지 묻습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

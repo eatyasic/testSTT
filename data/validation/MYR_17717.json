@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17717",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.148,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자라도 취득세 중과 안 된다 오케이 이것 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 오케이 이건 맞아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.645,
+                "end": 3.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 요렇게 취득세만 놓고 보면 주택 수에 포함되지 않는다는 것처럼 해서 설명이 가능하지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.841,
+                "end": 9.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그렇죠. 그리고 보유세도 마찬가지예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.916,
+                "end": 13.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보유세도",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.820,
+                "end": 15.148
+            }
+        ]
+    },
+    "summary": "화자는 다주택자라도 취득세 중과가 되지 않는다는 문구를 이용해서 주택 수에 포함되지 않는다는 것처럼 설명이 가능하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17717_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

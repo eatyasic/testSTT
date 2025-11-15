@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYR_19349",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비규제니까 8프루가 나옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.481
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 운이 좋게 만약에 지방세법이 개정됐다 그러면 4 6 4 반띵 되는 거죠 그쵸?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.491,
+                "end": 11.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 만약에 내가 3주택이다 근데 여기서 과감하게 하나를 더 샀다 누구처럼 저처럼 그래 버리면 얘는 묻지도 말고 따지지도 말고 12프로 나오는 거죠 그리고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.710,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "지방세법이 개정되면 취득세 세율이 내려갈 수 있고 4주택 이상이면 세율은 무조건 12퍼센트이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

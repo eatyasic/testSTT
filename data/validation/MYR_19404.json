@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19404",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.341,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주택 임대 사업자가 임대 주택 외에 본인이 거주하는 주택을 팔 때는 그렇죠 그니까 아까 5채였는데 하나, 둘, 3개, 4개는 임대 주택 등록을 했고 나머지 요거 하나에 대해서는 거주해야 돼 거주 무조건 거주예요 무조건 거주.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참고로 이 거주 기간은 전체 기간에서 통상에서 2년만 거주하시면 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.690,
+                "end": 18.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 무조건 2년을 딱 붙여 세운다 그런 거 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.976,
+                "end": 21.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 그냥 통상에서 2년이면 된다. 뭐 예를 들어서 5년 가지고 있었는데 그 중에 3년 거주 했다 띄엄띄엄 했다 상관없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.612,
+                "end": 29.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면은 요 경우에는 1세대 주택과 같은 양도세 비과세 혜택을 줬고 수십 채를 임대하고 있는 임대 사업자라고 하더라도 집을 팔 때는 양도세 비과세 혜택을 받은 거고 그리고 더 좋은 게 뭐였냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.013,
+                "end": 41.341
+            }
+        ]
+    },
+    "summary": "주택 임대 사업자가 임대 주택 외에 본인이 거주하는 주택을 팔 때는 전체 기간에서 2년만 거주하면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_19435",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.844,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 2번 종전 주택을 취득하고 1년 이상이 지난 후에 이 승계 조합원 B 조 승계 조합원 입주권을 취득해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.659,
+                "end": 8.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년 이내에 취득하면은 요 그 비과세 규정을 적용받을 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.132,
+                "end": 13.716
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.726,
+                "end": 14.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1년 이상이 지나고 승계 조합원 입주권을 취득한 후 3번 승계 종합원 입주권 취득 후에 3년 이내에 종전 주택을 양도해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.228,
+                "end": 22.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 종전 주택 비과세 요건을 만족한 종전 주택을 양도 해야 되구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.764,
+                "end": 26.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 지금 부동산 대책에 따른 중복 보유기간 단축 해당은 없다고 말씀드렸는데 이게 원래 3년, 2년, 1년이였었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.814,
+                "end": 33.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.456,
+                "end": 33.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 원래 그런게 없었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.869,
+                "end": 35.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쭉 3년이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.106,
+                "end": 36.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 규정은 요번 규제로 바뀐 게 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.823,
+                "end": 39.634
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.644,
+                "end": 40.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요번 대책은 예 요번 대책으로 바뀐 게 없고 그냥 3년인데 자 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.349,
+                "end": 44.844
+            }
+        ]
+    },
+    "summary": "1년 이후 승계 조합원 입주권을 취득하면 비과세 규정을 적용받을 수가 없고 입주권 취득 후 3년 이내에 종전 주택을 양도 해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19435_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

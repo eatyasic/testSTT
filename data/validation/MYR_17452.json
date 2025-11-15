@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17452",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.95,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공감하는 게 저도 11월 달에 만기 되는 거 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 계약 아파트 에 근데 눈물을 머금고 싸게 팔았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.227,
+                "end": 7.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.857,
+                "end": 8.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 현 현금이 저도 필요하니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.445,
+                "end": 10.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그 이런 일이 나오는 거예요. 그니까 기다리면 더 줘야 될 수도 있는데 아는데 내가 지금 필요하니까 똑같은 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.235,
+                "end": 16.950
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 검은색 상의를 입은 남성의 말에 공감한다며 본인도 11월에 만기 되는 아파트를 싸게 팔았다고 말하며 현금이 필요하다고 말했다. 그러자 검은색 상의를 입은 남성이 이런 일이 나오는 거라며 지금 현금이 필요하니까 다 똑같다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17452_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19351",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.299,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 거래절벽 심각한데 취득세 완화는 좀 무산 될 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.593,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거는 좀 한 번 좀 보구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.828,
+                "end": 7.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 뒤에 이제 어떤식으로 좀 진행이 되는지 그리고 좀 뭔가 반전이 있을 수 있지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.384,
+                "end": 13.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 되면 언제든지 제가 곧바로 새로운 소식을 알려 드릴테니까 구독하시고 알림설정 하시면 편하게 받아 보실 수가 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.308,
+                "end": 24.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 도움 되셨다면 좋아요 구독 부탁 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.245,
+                "end": 27.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘 여기서 마치겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.026,
+                "end": 28.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.279,
+                "end": 33.299
+            }
+        ]
+    },
+    "summary": "한 남자가 취득세 완화는 무산 될 것 같고 추후 어떻게 진행이 될 지 지켜 보아야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

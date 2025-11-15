@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_19301",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손실이 나면은 그 다음으로 이월 해 가지고 이거를 플러스 이익이 날 때 한번에 털 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 손실이 나더라도 이거를 좀 가져 갈 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.022,
+                "end": 10.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 요정도 아시면 될 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.131,
+                "end": 11.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 여기 나오죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.840,
+                "end": 13.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표이사의 급여는 최저 임금수준으로라도 비용 처리해서 이월 결손금을 최대한 많이 계상해 두는 게 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.060,
+                "end": 19.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 여러분들이 투자 하실 때 뭐가 문제냐면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.092,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "손실이 나면 이월 한 후 이익이 날 때 처리할 수 있고 대표이사 급여 비용 처리해서 이월 결손금을 많이 계상해 두는 것이 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+data/voice/
+venv/
+model/vosk-model-small-ko-0.22/
+
+!data/voice/.gitkeep

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19081",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 오늘 어떤 내용인지 좀 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 바로 이 자료죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.285,
+                "end": 5.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.152,
+                "end": 5.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이 자료인데 제가 저희 세무사님 그 소개만 좀 간단히 해 드리고 마이크를 넘길게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.611,
+                "end": 12.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1 세무사님 상속 증여 센터 하나은행이시 맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.668,
+                "end": 17.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하나은행입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.306,
+                "end": 18.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.017,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "30대로 보이는 남성이 상속 증여 센터 세무사와 대화를 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19081_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18866",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.505,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 상대적으로 땅 값이 좀 저렴하면서 어 디티라는 게 말 그대로 이제 차를 타고 오는 거니까 교통만 편하면 되는 거잖아요, 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.962,
+                "end": 10.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 곳에 있는 곳에 적당한 데가 부지가 있다면 디티를 유치해보는 거에 있어서도 좀 해볼만 하겠네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.713,
+                "end": 18.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차를 타고 갈 수 있는 곳이라면 우리가 디티를 고민해볼 수 있다라는 것은 그 곳이 반드시 기존에 상권이 형성되어 있는 곳이라는 의민 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.977,
+                "end": 29.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.250,
+                "end": 29.696
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇기 때문에 접근성만 확보가 된다면 기존 상권이 아니라도 디티를 얼마든지",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.706,
+                "end": 37.505
+            }
+        ]
+    },
+    "summary": "화자2는 차를 타고 갈 수 있는 곳이라면 디티를 고민해 볼 수 있다는 것은 그 곳이 반드시 기존에 상권이 형성되어 있는 곳이라는 의미는 아니기 때문에 접근성만 확보 된다면 기존 상권이 아니어도 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

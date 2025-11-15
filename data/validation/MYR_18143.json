@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYR_18143",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 서울의 9평 84를 갖고 있는 아파트 중에 최고 좋은 거라고 하면 강남에서는 반포 아크로 리버 파크가 될 거고 이제 강북에서는 성수동에 있는 트리마제를 저는 보는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.068,
+                "end": 11.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 얘네들 가격이 지금 얼마냐 하면 지금 현재 아마 네이버 치면은 한 40억 정도 나올 거란 말이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.366,
+                "end": 16.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9평 기준으로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.831,
+                "end": 17.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "9평 기준으로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.802,
+                "end": 18.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.600,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "84를 갖고 있는 아파트 중에 최고 좋은 거는 강남에선 반포 아크로 리버 파크이고 강북에서는 성수동의 트리마제로 꼽는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18143_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

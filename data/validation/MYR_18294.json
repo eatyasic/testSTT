@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18294",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마 그럴때는 이제 법정에서 그럽니다 자리 정리 때문에 이 사건을 먼저 하겠습니다 이래가지고 뭐 좀 자리 정리하는 경우 있는데 그 92명 또 최근에 뭐 어저께인가 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역삼동에",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.494,
+                "end": 11.457
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역삼동",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.467,
+                "end": 12.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 저 어디 강남역과 역삼역 중간에 보면은 그 좀 틈새시장 같이 주택가 안에 빌라가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.152,
+                "end": 19.789
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네 네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.799,
+                "end": 20.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빌라 통채로 경매가 나왔는데 그 1층이 커피숍이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.556,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "경매 사건에 있었던 이야기를 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18294_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

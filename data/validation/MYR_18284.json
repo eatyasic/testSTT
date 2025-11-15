@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18284",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.564,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 제가 몇몇분 뒤풀이하면서 이야기를 해보니까 아니에요 계속 말해주세요 들을 때마다 새로워요 막 그러시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래가지고 아 이 세법이라는 게 뭐 저도 과거에 공부했을 때 그랬지만 계속해서 말을 해야 되겠구나 밑 빠진 독에 물 붓기니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.195,
+                "end": 14.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래서 어 지금 우 팀장님 말씀하신 거 굉장히 공감을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.348,
+                "end": 19.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양권 취득자면은 자신의 상황에 맞는 세무 절세 전략을 세워야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.584,
+                "end": 23.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 늘 말씀드리지만 계약서를 그냥 쓰는 순간 99퍼센트 어 세금이 거의 결정이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.340,
+                "end": 31.564
+            }
+        ]
+    },
+    "summary": "세법에 대해서는 계속 이야기 해야겠다라는 자신의 생각과 계약서를 쓰는 순간 세금이 부과된다는 것에 대해서 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18284_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

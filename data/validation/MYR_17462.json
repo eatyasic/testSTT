@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_17462",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.223,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음 그러면 이게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기존의 아파트값이 약간 버블이거든요. 제가 보면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.525,
+                "end": 3.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 버블을 합리화 시켜 버린다니까요. 버블이 안 빠지니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.894,
+                "end": 7.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 생각보다요. 이게 쇼크가 오지 않는 한 쇼크는 올지 모르죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.046,
+                "end": 11.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중국발 부동산 위기가 터질 수도 있고 그건 아무도 모르는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.192,
+                "end": 14.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 에 만약에 그런 위기 상황이 오면은 어 집값이 뭐 다시 급락해 올지 모르겠지만 그렇지 않고서는 결국은 이 고분양가 후폭풍 때문에 집값이 오히려 들썩이나 그런 문제가 생길 수 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.271,
+                "end": 28.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 그래서 제가 분양받는 게 답은 아니다. 물론 가점이 있잖아요. 가점 한 뭐 68점 69점 70점 된다면 그러면 무조건 기다리셔야 돼요. 그렇지 않고 이 방송을 듣는 분들이 대부분이 젊은 분일 텐데 가점 잘해 봐야 뭐 12점 15점 갖고는 그거는 그러면 공공 택지 쪽에 뭐 이런 거 있잖아요. 뭐 추첨제로 조금 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.155,
+                "end": 51.217
+            }
+        ]
+    },
+    "summary": "검은색 자켓을 입은 남성이 기존의 아파트값은 약간 버블이며 이 버블이 안 빠지니 합리화 시켜 버리게 된다며 본인 생각이지만 이게 쇼크가 올 수도 있고 중국발 부동산 위기가 터질 수도 있다며 아무도 모르는 것이라고 한다. 이 고분양가 후폭풍 때문에 집값이 오히려 들썩이는 문재가 발생할 수 있으며 분양이 답이 아니라고 말을 해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17462_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

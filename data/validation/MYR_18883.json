@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18883",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.924,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월 1000 찍든 정률 임대인들도 아주 내려갔겠죠, 근데 그 때 나는 900 밖에 못 받던 정액 임대인은 아무 지장이 없었겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 이 정액과 정률이 어떤 장단점이 있는지를 한 번 따져 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.713,
+                "end": 16.099
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 그 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.109,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "화자1은 정액과 정률의 장단점을 잘 따져봐야 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18883_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

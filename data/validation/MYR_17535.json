@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_17535",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 50.316,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조금 시간을 갖고 기다리는 게 좋겠다 너무 조급해 하지 말아라 지금 이렇게 이해해도 될까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇다고 볼 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.938,
+                "end": 6.302
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그게 풀리더라도 시장에 큰 어 변화는 없을 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.312,
+                "end": 9.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이미 어 그게 아니더라도 뭐 사실상 어 규제는 상당 부분이 풀려 버렸기 때문에 가령 민감한 게 그거 아니에요 취득세 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.481,
+                "end": 20.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 민감한 게 취득세에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.601,
+                "end": 21.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지방에 세 채 이상 많이 사는 거 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.793,
+                "end": 23.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.763,
+                "end": 24.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 서울 어지간하면 뭐 어 강남하고 용산 빼고 다 합쳐서 세 채 세 채부터 그게 에 어떻게 보면 8프로 잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.375,
+                "end": 34.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 두 채 우리나라에 다주택자들이 대부분 2주택자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.248,
+                "end": 38.019
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.029,
+                "end": 38.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라 대부분 어 주택 소유자의 85프로가 1주택자이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.755,
+                "end": 43.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 집을 어 강남에 두 채 갖고 있는 분도 저는 많이 못 봤고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.041,
+                "end": 50.316
+            }
+        ]
+    },
+    "summary": "진행자가 시장의 규제가 풀리기를 시간을 가지고 조금 더 기다려야 하냐고 묻자 박사는 규제가 풀리더라도 시장에 큰 변화는 없을 거고 가장 민감한 문제가 취득세인데 지방 세 채 이상이면 많은 거고 우리나라의 대부분이 2주택자라고 답변하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17535_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

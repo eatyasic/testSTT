@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18696",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 솔직히 저는 재건축 리모델링을 가리기 보다는 어 돈되면 다 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈되면 다 관심 있는 그리고 예 재건축이나 리모델링 문제는 선택을 하기가 좀 그런 지역에 따라서 그 단지 입지에 따라서 본인의 가진 돈에 따라서 너무 달라져서 저도 만약에 투자로",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.587,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "재건축이나 리모델링 문제는 지역에 따라서 그 단지 입지에 따라서 본인의 가진 돈에 따라서 너무 달라진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18696_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

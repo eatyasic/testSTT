@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_17682",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.615,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 외계인이 봤을 때는 100퍼센트 원화자산에다 투자를 해 놓은 것처럼 보이는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 저희가 어떤 외부의 시각으로 봤을 때 그러니까 투자라는 것은 어쨌든 내 나의 위험을 위험이 왔을 때 내가 헷징할 수 있는 전략을 갖는 것이 저는 중요하다고 생각을 하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.785,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "남성은 투자라는 것은 위험이 왔을 때 분산할 수 있는 전략이 중요하다고 생각한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17682_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

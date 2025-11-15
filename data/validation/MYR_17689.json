@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17689",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 미국 부동산 같은 경우는 한국하고는 좀 다르게 이제 개인 간의 거래가 아니라 중간에 에스크로라는 회사가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에스크로가 뭐예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.090,
+                "end": 8.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 약간 어떻게 보면은 안전 거래 장치 같은 건데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.335,
+                "end": 12.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 부동산을 구매할 금액 돈 있죠. 자금을",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.128,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "미국 부동산 거래는 중간에 에스크로라는 회사가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17689_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

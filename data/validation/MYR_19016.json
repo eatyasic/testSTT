@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19016",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.253,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희가 이렇게 강의를 하고 나서 저기 은행의 PB분들한테 이런 내가 누군지에 대해서 이렇게 QNA로 한번 해봤더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 강의를 듣고 나서 이 답지를 다 맞추시더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.202,
+                "end": 11.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 네 좋네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.771,
+                "end": 13.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 들었다라는 내용인 것 같습니다. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.275,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "이 강의를 한 후 내가 누군지 은행의 PB들에게 문제를 냈더니 강의를 잘 듣고 정답을 모두 맞췄다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

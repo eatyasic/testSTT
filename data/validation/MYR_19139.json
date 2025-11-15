@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_19139",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.992,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엄청난 혜택을 주는 그 감면 대책이 이때 발표가 됐었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.279,
+                "end": 4.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 또 또 혜택이 또 있었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.530,
+                "end": 6.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.871,
+                "end": 7.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집 사고 예를 들어서 이제 집을 2억에 샀다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.432,
+                "end": 10.793
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 5년째 될 때 뭐 4억이 됐는데 2억의 차액이 생기지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.803,
+                "end": 16.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.131,
+                "end": 16.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그거 세금 안 받겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.523,
+                "end": 18.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 받겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.156,
+                "end": 18.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.802,
+                "end": 19.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5년 안에 팔면 세금이 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.116,
+                "end": 20.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.659,
+                "end": 21.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 5년이 넘어서 팔더라도 5년이 넘어간 구간에 대한",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.272,
+                "end": 25.992
+            }
+        ]
+    },
+    "summary": "집을 사고 5년 안에 팔면 세금이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19139_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

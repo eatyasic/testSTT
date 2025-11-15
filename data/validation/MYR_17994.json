@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17994",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네가 뭔데 반대하고 그러냐고 하실지 모르겠는데 그냥 제 주관이 그렇다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 무슨 말이냐면 내가 집을 10억에 샀는데 20억이 됐어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.558,
+                "end": 8.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 비과세는 가능하지만 12억 초과분에 대해서 세금이 나오지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.949,
+                "end": 15.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 여기에 대해서 내가 만약에 어 세금을 너무 많이 내버리면요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.631,
+                "end": 19.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20억 집을 내가 팔면서 다른 집으로 어디 못 가버려요 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.755,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "내가 집을 10억에 샀는데 20억이 된 경우 비과세는 되지만 12억 초과분에 대해서 세금이 나오는데 세금이 너무 많이 나오면 20억 집을 팔아도 다른 집으로 갈 수 없는 경우가 생긴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17994_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

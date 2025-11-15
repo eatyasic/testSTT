@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19169",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.391,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 10프로를 하는데 만약에 5억 이하 법인이라 하더라도 부동산 매매 임대업이 주가 되는 몇몇 특수 기업에 대해서는 5억 이하의 10퍼센트가 아니라 20퍼센트로 때려버리라고 그랬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 쉽게 말해서 그냥 부동산 법인을 가지고 투자하는 대부분의 투자자들 같은 경우에는 20퍼센트 그냥 곧바로 맞아버릴 수 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.571,
+                "end": 21.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2억 이하 10프로도 없어버리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.842,
+                "end": 24.391
+            }
+        ]
+    },
+    "summary": "부동산 법인을 가지고 투자하는 대부분의 투자자들 같은 경우에는 20퍼센트를 때려버린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

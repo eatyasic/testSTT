@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYR_19194",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.304,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인정 안 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 비용 인정 안 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.916,
+                "end": 2.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어려운 말로 송금 불산입 그런 식으로 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.446,
+                "end": 4.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 으 귀속 소득 처분이라고 하는데 그거를 대표자 상여로 해버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.382,
+                "end": 11.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 말이냐면 이게 원래 비용으로 잡아놨는데 나중에 봤더니 장부에서 보니까 세법상으로는 비용으로 잡으면 안 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.025,
+                "end": 19.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 비용을 송금 불산입 했는데 그대로 놔둬버리면 뭐가 안 맞거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.750,
+                "end": 24.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이걸 누군가를 귀속을 분명하게 해줘야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.260,
+                "end": 27.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누군가는 이익을 본 거 아니냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.500,
+                "end": 28.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애매하면 대표자 상위로 집어넣어버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.735,
+                "end": 31.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 대표자 상여로 넣어버리면 근로소득이 증가합니다 근로소득이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.723,
+                "end": 35.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근로소득이 증가해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.633,
+                "end": 36.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 늘어나버려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.838,
+                "end": 38.304
+            }
+        ]
+    },
+    "summary": "원래 비용으로 잡아놨는데 나중에 봤더니 장부에서 보니까 세법상으로는 비용으로 잡으면 안 된다는 거면 대표자 상여로 넣어버리고 근로소득이 증가한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19194_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

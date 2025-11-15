@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19075",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 안 된다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 됐으면 굳이 이런 걸 할 필요가 없지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.320,
+                "end": 4.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 되면 제가 이거 안 만드는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.244,
+                "end": 6.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.227,
+                "end": 6.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "열심히 이거 안 되니까 제가 열심히 만들어 가지고 지금 우리 영상에 소개하면서 꼭 이 절차를 밟으셔야 된다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.749,
+                "end": 14.989
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 언제까지 해야 합니까 이거?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.999,
+                "end": 16.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 상속세 신고할 때 6개월 안에 하시면 깔끔하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.006,
+                "end": 20.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기억하시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.551,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "상속세를 신고하기 전 6개월 안에 감정 평가를 하면 세금을 절약할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

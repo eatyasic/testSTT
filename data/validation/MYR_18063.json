@@ -1,0 +1,223 @@
+{
+    "metadata": {
+        "filename": "MYR_18063",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.495,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 만약에 더 파크 사이드 서울에서 34평짜리 분양가가 있었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.445,
+                "end": 4.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 제가 봤을 때는 첨단 분양가가 한 1억 5000 정도는 나왔을 거라고 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.789,
+                "end": 9.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.911,
+                "end": 10.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 거기에 34 평 아파트가 한 50억 하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.566,
+                "end": 13.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이야 지금 지금 이 이 이거군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.957,
+                "end": 16.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.354,
+                "end": 17.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 더 파크 사이드 서울",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.258,
+                "end": 18.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.338,
+                "end": 18.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@전화번호1 이리로 전화하시면 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.813,
+                "end": 21.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 벌써 시작했나보구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.681,
+                "end": 23.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.212,
+                "end": 23.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.641,
+                "end": 24.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.600,
+                "end": 25.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 여기 있네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.043,
+                "end": 25.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 여기있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.903,
+                "end": 26.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기있어 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.391,
+                "end": 27.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.185,
+                "end": 27.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거입니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.618,
+                "end": 28.495
+            }
+        ]
+    },
+    "summary": "화자가 오피스텔에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18063_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": null,
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

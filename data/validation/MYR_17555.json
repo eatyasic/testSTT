@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17555",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "위험 요인은 되겠죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위험 요인은 그니까 그렇게 보셔야 돼. 봐요. 이게 이 신규 분야 시장 공급 시장에 애로가 발생하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.032,
+                "end": 8.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.246,
+                "end": 8.785
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 이미 다 지어진 재고 시장은 다른 얘기예요. 이거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.795,
+                "end": 12.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 만약에 공급 시장이 뭐 작년에 네고 사태처럼 터지면은 어 집값에 좀 영향을 줄 수는 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.571,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "분석가가 네고 사태 때처럼 사건이 터지면 집값에 영향을 줄 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

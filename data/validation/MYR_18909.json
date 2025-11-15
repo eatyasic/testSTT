@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18909",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.89,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "들었던 그 격언 그 스타벅 아니 강남에서 멀어지면 안 된다라는 그리고 강을 건너가면 바로 강남 접근성이 확보되는 그 옥수동 지역 옥수동 지역에 이런 식으로 해서 거주하는 임대인들이 정말 사례가 여럿 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.748
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.758,
+                "end": 16.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이걸 뭐 통계로써 접근하는 건 쫌 무의미한거 같구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.497,
+                "end": 19.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.191,
+                "end": 19.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그들이 왜 옥수동을 선택했는지를 한번 저희가 곰곰이 생각해보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.441,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "화자1은 옥수동 지역에 거주하는 임대인들의 사례가 정말 여럿있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

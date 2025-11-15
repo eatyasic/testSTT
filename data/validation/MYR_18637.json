@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18637",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동대문구 전농동이라고 딱 지역이 나오고 단지까지 나와서 말씀드리는데 바로 여기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 아주 일부 뭐 한 한 두 개겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.808,
+                "end": 8.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그런데 그 부동산에서 에 아까 제가 좀 전에 말씀드렸던 분양권 양도세율이 개정됐다 라고 굉장히 자신 있게 말씀을 했다고 그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.581,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "동대문구 전농동의 부동산에서 좀 전에 말씀드렸던 양도세율이 개정됐다고 자신 있게 말씀을 하셨다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18637_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

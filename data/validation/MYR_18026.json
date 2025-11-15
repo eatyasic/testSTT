@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18026",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 뭐 정부가 의도한 바가 그거일 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 좀 더 지켜보시고 결론은 뭐라고요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.212,
+                "end": 5.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7월 말에 발표되는 세제 개편안을 주목하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.819,
+                "end": 12.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 이게 나오면 제가 가장 빨리 어 좀 해석을 해 가지고 알려드릴 테니까 구독하시고 알림 설정해 주시면은 어 도움이 되실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.136,
+                "end": 21.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 한 가지만 어 좀 더 말씀드리자면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.579,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "결론은 7월 말에 발표되는 세제 개편안을 주목하자는 것이고 이게 나오면 제가 가장 빨리 해석을 해서 알려드릴 테니 구독하시고 알림 설정 해 주시면 도움이 될 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18026_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

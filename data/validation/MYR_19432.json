@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19432",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "플러스 세대원 전입 전입하여 1년 이상 거주인데 전 늘 이런 문제가 제일 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 3년이 양도에만 걸리는 건지",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.646,
+                "end": 8.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.497,
+                "end": 8.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 플러스 세대원까지 걸리는 건지 요 부분이 조금 헷갈리는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.932,
+                "end": 13.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 현재는 이 2개가 2년이었어요 근데 요거는 3년으로 늘려 주는데 요건",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.237,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "3년이 양도에만 걸리는 건지 세대원까지 걸리는 건지 헷갈리고 이런 문제가 제일 어렵다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

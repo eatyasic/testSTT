@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18640",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.668,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우선 일시적 1세대 2주택 비과세 기간을 낭비하지 말라라고 이제 말씀을 드리는데 상담 요즘 들어오는 것 중에 이게 진짜 사실 많이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 최근에 약간 이제 거래량이 좀 풀린 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.125,
+                "end": 10.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인적의 느낌에는 사실 이제 거래량 자체가 어느 정도 풀렸다라는 뉴스도 많이 접하기는 하는데 근데 단지마다 또 이게 특성이 있고 그다음에 다른 거 같긴 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.967,
+                "end": 20.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국은 내가 일시적 1세대 2주택인데 그 종전 주택을 팔아야 되는데 그 기간을 놓쳐서 이제 3년으로 늘어났잖습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.966,
+                "end": 27.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 기간 안에도 못 팔려버리면 어떡하지라는 그거에 대한 불안감을 많이 갖고 계셔서 그 부분을",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.999,
+                "end": 35.668
+            }
+        ]
+    },
+    "summary": "비과세 기간을 낭비하지 말라고 말씀을 드리는데 최근 거래량이 풀렸다는 뉴스도 접하지만 단지마다 특성도 있고 다른 거 같고 일시적 1세대 2주택 종전 주택이라 팔아야 했지만 기간을 놓쳐 3년으로 늘어나서 기간 안에 못 팔까 불안감을 많이 갖고 계시다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

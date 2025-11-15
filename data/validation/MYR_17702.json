@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17702",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.788,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사무실 복귀해라 다 그러더라구요. 오피스 가격도 올라갈 거 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럴 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.112,
+                "end": 5.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 구글 같은 데는 뭐 주변에서 잠자라고 호텔까지 제공했다 이런 뉴스 제가 봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.131,
+                "end": 11.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거 보면은 인제 뭐 어쨌든 비대면으로 이제 근무했던 그런 시기가",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.303,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "남성들은 비대면으로 근무했던 시기가 끝나서 오피스 가격도 올라갈 수 있을 거 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

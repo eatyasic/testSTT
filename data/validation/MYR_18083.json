@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_18083",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주거용 근생",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 주거용 근세는 뭐냐 하면 공부상으로는 근생이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.705,
+                "end": 3.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근생 근데 실제 사람 살고 있는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.351,
+                "end": 5.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.173,
+                "end": 5.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 근데 주거용 근생이라고 해서 입주권을 아예 못 받진 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.536,
+                "end": 10.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.076,
+                "end": 10.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 굉장히 까다로워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.641,
+                "end": 12.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근생이니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.163,
+                "end": 13.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근생이 굉장히 많이 까다로워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.355,
+                "end": 15.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 음 못 받는 경우가 훨씬 많거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.237,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "두 남성이 주거용 근생에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

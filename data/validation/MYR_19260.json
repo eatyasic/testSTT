@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_19260",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.881,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보이지 않는 손이 도와 주지가 않았다면 저는 그게 가능했을 거라고 저는 보지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 제 개인적인 생각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.622,
+                "end": 7.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그래서 적격 증빙 수취해야 되는 거기 때문에 모든 경비는 법인 카드로 그래서 법인 카드 다 쓰는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.366,
+                "end": 12.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이월결손금 공제 결손금 소급 공제 이게 10년까지 가거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.721,
+                "end": 16.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 막 10년 동안 결손이었는데 드디어 마지막에 뭔가 매출이 빵 터져 가지고 어 세금이 이제 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.241,
+                "end": 24.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 과거에 있었던 비용을 다 당겨가지고 세금을 줄일 수도 있는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.894,
+                "end": 29.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 그렇게 했을 때 드라마틱하게 매출이 탁 늘어나면서 그 회사도 살고 세금도 줄이고 아 너무 좋죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.277,
+                "end": 35.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 앞에 마이너스 났을 때 얼마나 힘들었겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.128,
+                "end": 38.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.713,
+                "end": 39.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 소규모 법인 1인 법인 절세 전략 예 저 같은 경우 해당되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.048,
+                "end": 44.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들도 관심들이 있으실 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.502,
+                "end": 47.881
+            }
+        ]
+    },
+    "summary": "남자는 칼럼 요약을 읽어주면서 소규모 1인 법인 절세 전략이 자신이 해당되고 구독자들도 관심이 있을 것이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19260_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

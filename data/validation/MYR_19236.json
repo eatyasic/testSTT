@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19236",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 정도 집 한 50개 넘게 본 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.094
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.104,
+                "end": 2.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 정도 임장 가보셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.812,
+                "end": 5.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 내가 그렇게 월급 아껴가면서 모은 돈이 들어가는데 어떻게 임장 그렇게 안 가보고 누구 한 얘기 하나 듣고 아니면 두세 군데 가보고 살 수가 있습니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.020,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "월급 아껴가면서 모은 돈이 들어가는데 여러 군데 임장도 안 가보고 얘기만 듣고 살 수가 있냐고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

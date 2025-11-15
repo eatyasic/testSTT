@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18132",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 되게 많이 바뀐 거거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.859,
+                "end": 2.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 지금 보면 주민들이 일단 원해 그리고 서울시에서는 적극적으로 행정 지원을 해주려는 의지가 분명히 있어 이 두 개만 되면 사실 뭐 게임 끝난 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.521,
+                "end": 12.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.603,
+                "end": 13.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 그렇다고 뭐 지금 신속 통합기획 극초기 재개발에 다 성공한다는 얘기는 아니고 과거 뉴타운 시절과 비교했을 때는.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.213,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "주민들이 원하고 서울시에서도 적극적으로 행정 지원을 해주려는 의지가 있으면 게임 끝난 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18132_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

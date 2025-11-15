@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18361",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평당 1억이 가격이 가치가 있어서 올라가는 게 아니라 돈이 그만큼 가치가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.739
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "떨어지니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.749,
+                "end": 6.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 없어지기 때문에 그래 그런 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.358,
+                "end": 9.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 분양가가 올라가는 거 저 상기 신도시 제 생각보다 너무 분양가가 높아서 이거 기다리셨던 무주택자들.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.066,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "여성 화자가 평당 1억이 가치가 있어서 올라가는 게 아니라 돈의 가치가 없어지기 때문에 그런 거라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

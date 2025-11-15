@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18762",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.597,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 가구당 전용 면적이 40제곱미터 이하고 기준 시가가 2억 이하면 간주 임대료 계산해서 제외할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 보유 중인 소형 주택 3가구를 모두 전세로 임대하고 있다면 간주 임대료 대상에서 제외되고 과세 대상이 되는 월세에 대해서만 아 이게 따진다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.386,
+                "end": 19.586
+            }
+        ]
+    },
+    "summary": "전용 면적이 40제곱미터 이하고 기준 시가가 2억 이하인 소형 주택을 모두 전세로 임대하고 있다면 간주 임대료 대상에서 제외되고 과세 대상이 되는 월세에 대해서만 따진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18762_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

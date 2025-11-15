@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17394",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.361,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4시 기상",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 사무실에는 5시까지 가죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.648,
+                "end": 2.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그것도 원칙으로 사무실 5시 출근은 원칙으로 하자 그래서 월화수목금 토요일날 같은 경우도 이제 제가 쉴 때도 있지만 나가는 날이 많은데요. 토요일도 5시에 나가요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.515,
+                "end": 12.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아침에 안 추우세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.664,
+                "end": 14.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 아침에 추운 게 너무 힘든데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.256,
+                "end": 16.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글쎄 저는 그냥 주차장에서 내려 주차장에서 차를 타고 주차장에서 또 올라가니까 뭐 겨울이나 뭐 이럴 때 뭐 뭐 밖으로 그렇게 나다니지 않 나가질 않으니까 뭐 그런 면에서 뭐 견딜 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.599,
+                "end": 28.361
+            }
+        ]
+    },
+    "summary": "검은색 상의를 입은 남성이 4시 기상하여 5시까지 사무실 출근을 원칙으로 한다고 말하자 흰색 상의를 입은 남성은 아침에 춥지 않느냐며 본인은 추운 게 너무 힘들다고 하는데 검은색 상의 입은 남성은 밖으로 나가지 않고 주차장에서 주차장으로 올라가니 견딜 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17394_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

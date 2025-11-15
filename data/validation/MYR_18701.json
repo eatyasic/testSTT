@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18701",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 47.484,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "멈추고 그런 것들도 많이 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 문제는 그러니까 리모델링 재건축은 뭐 절차가 조금 리모델링 보다 많고 그걸 받은 기간이 좀 길어서 어 그렇다라고 하지만 절차랑 기간 이제 짧게 짧게 했을 때는 기간을 했을 때는 뭐 리모델링이 좀 더 짧을 수 있다라고 하지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.388,
+                "end": 15.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현실적으로는 사실 그렇지 않거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.860,
+                "end": 18.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.430,
+                "end": 18.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 재건축도 느려질려면 한정 없이 늘어지고 리모델링도 늘어나면 한정 없이 늘어지는데 어쨌든 속도가 빠른 애들이 사업성이 있고 가성비 나오고 수익이 좋기 때문에 뭐 재건축 리모델링을 꼭 그런식으로 나누진 마시고 보인이 가 가진 자금",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.812,
+                "end": 34.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 단계상 본인이 언제 치고 빠지고가 가능할지에 맞는 단계에 따라서 접근하시면 조금 더 좋지 않을까 싶어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.469,
+                "end": 42.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네 알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.173,
+                "end": 43.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 1기 신도시 뭐 이제 분당",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.006,
+                "end": 47.480
+            }
+        ]
+    },
+    "summary": "속도가 빠른 것이 사업성이 있고 가성비 나오고 수익이 좋기 때문에 재건축 리모델링을 꼭 그런식으로 나누진 마시고 보인이 가 가진 자금에 따라서 접근하시는 게 좋지 않을까 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

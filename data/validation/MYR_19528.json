@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYR_19528",
+        "category": "금융/비즈니스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 85.124,
+        "format": "MP4",
+        "date": "2022-10-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 많이 사라졌어 30분 돌렸는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 38.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 LG전자에서 제품 체험 기회를 주어 새집의 가전들을 구매하기 전에 사용해 보았어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.028,
+                "end": 52.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영상에 나온 에어로타워와 건조기는 LG 띵큐앱에 업가전 기능을 통해 조금 더 저에게 맞춰서 사용이 가능했는데요 업가전 기능은 사용 중인 제품의 기능이 계속 업그레이드가 가능한 점이 특히 좋은 것 같았어요 구매 후에도 계속해서 새로운 기능이 추가되는 LG전자의 업가전 제품들이 궁금하시다면 더보기란 혹은 고정 댓글을 확인해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 52.974,
+                "end": 74.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기존에 LG전자 제품을 구매하신 분들도 업가전으로 제품의 업그레이드가 가능한지 한번 확인하는 것도 좋을 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 74.201,
+                "end": 85.118
+            }
+        ]
+    },
+    "summary": "LG전자에서 나온 에어로타워 건조기는 띵큐앱을 통해 항상 새로운 기능의 업그레이드가 가능한 점이 좋고 30분만 건조기를 돌렸는데데 깨끗해진 옷을 볼 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19528_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

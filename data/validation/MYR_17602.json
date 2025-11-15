@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17602",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 처음 그런 어떤 성과라든지 투자라든지 그게 처음이 진짜 중요한 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기서 조금이라도 재미를 봐야 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.689,
+                "end": 7.090
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 아 이렇게 하면 되는구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.100,
+                "end": 8.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요. 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.569,
+                "end": 9.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 여러분들이 그걸 기억해 주시면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.801,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "진행자는 성과든 투자든 뭐든 처음이 중요하다고 강조하며 기억하라고 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

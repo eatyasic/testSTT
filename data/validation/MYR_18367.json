@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18367",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 경매는 법원이 허가를 해요 매각 허가 결정을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 토지 거래 허가를 받지 않고 자금 조달 계획서를 내지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.270,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.878,
+                "end": 8.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 얼마 전에 @주소1 아파트가 경매로 낙찰됐는데 생각보다 높게 낙찰돼서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.169,
+                "end": 14.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2억 정도 더 높게 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.156,
+                "end": 15.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말이 많았는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.549,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "여성 화자가 경매는 법원이 허가하기 때문에 토지 거래 허가를 받지 않고 자금 조달 계획서를 내지 않아서 얼마 전에도 @주소1 아파트가 생각보다 높게 낙찰됐다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18367_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

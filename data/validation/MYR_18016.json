@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYR_18016",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.366,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "7월 말 정도에 발표되는 세제 개편안에 이 내용을 포함해서 어떤 내용이 나올 거냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 이미 결혼했으니까 상관없잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.012,
+                "end": 8.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 저는 이미 앞으로 뭐 오랫동안 나중에 할 거니까 상관없잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.523,
+                "end": 11.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 저는 뭐 저희 부모님이 뭐 저한테 해주실 게 별로 없는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.928,
+                "end": 15.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런 것도 물론 있겠지만 그거보다는 이거 말고도 다른 굵직굵직한 내용들이 있지 않습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.108,
+                "end": 21.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년 미만 단기 양도세라든지 분양권이라든지 뭐 실거주 의무라든지 주택 임대 사업자라든지 취득세 완화라든지 여러 가지가 있기 때문에 일단 첫 번째가 여기에 대해서 좀 관심을 갖자 어 그 말입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.487,
+                "end": 33.366
+            }
+        ]
+    },
+    "summary": "7월 말 정도에 발표되는 세제 개편안에 혼인 관련 사항 말고도 다른 굵직한 내용들의 세제 개편에 대해서 관심을 가지는 게 좋습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

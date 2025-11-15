@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19179",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.96,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "연락이 와요 연락이 와.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이제 그런 것도 컨설팅도 좀 해주고 실제 이 세금도 줄여주면은 본인들도 컨설팅비도 받아서 좋고 실제 사업하시는 분도 세금을 좀 줄일 수가 있잖아요 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.961,
+                "end": 10.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 그때 고민해야 되는 게 두 가지 정도 있을 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.220,
+                "end": 13.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 법인세와 종소세 세율만 단순히 비교해 보면 전환이 유리할 수 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.543,
+                "end": 17.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 법인세가 유리할 수 있다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.025,
+                "end": 18.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해봤자 20프로니까 어지간하면 이제 19퍼센트는 다 걸려요 이게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.314,
+                "end": 23.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "200억 넘어갔으면 좋다니까 좋겠다니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.140,
+                "end": 25.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.420,
+                "end": 26.960
+            }
+        ]
+    },
+    "summary": "세무사무소에서 세금을 줄여주고 컨설팅비를 받아 가기도 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19179_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

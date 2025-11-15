@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18390",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.522,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아실에 먼저 어떻게 하냐면요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 호갱노노 이런 데서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.610,
+                "end": 7.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실거주 할 거라면은 매매가 4억 5000에서 5억 초반대를 필터를 걸고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.180,
+                "end": 13.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.870,
+                "end": 14.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 평수는 15평 이상으로 저는 주택이 평수가 15평 미만이면 조금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.376,
+                "end": 22.522
+            }
+        ]
+    },
+    "summary": "여성 화자가 호갱노노 이런 데서 매매가를 입력하고 평수는 15평 이상으로 필터를 건다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18390_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18992",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.149,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "건보 건강보험공단으로 통보를 하는 거죠? 국세청에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 거기 그걸 받고 뭐 이것저것 작업한 다음에 20 그 당해연도 11월부터 적용이 되고 그게 그 다음연도 10월까지 1년 이렇게 가는 거네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.555,
+                "end": 14.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.448,
+                "end": 16.149
+            }
+        ]
+    },
+    "summary": "국세청에서 건강보험공단에 통보를 하면 당해연도 11월부터 다음연도 10월까지 1년 적용이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18992_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

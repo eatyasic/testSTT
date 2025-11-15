@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_18238",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.372,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 저도 저는 또 이제 대출 전문가는 아니니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 뭐 대출 전문가분도 많이 계시고 또 강의도 하시는 분들 계시니까 그런 분들 뭐 블로그라든지 그런 거 좀 참고해 보시면은 어 훨씬 더 좋을 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.414,
+                "end": 11.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.829,
+                "end": 12.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 내용이 밑에 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.497,
+                "end": 13.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이렇게 더 받는 대출 금액을 보증금 차액 이내로 한정한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.514,
+                "end": 16.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.693,
+                "end": 17.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 잘못하면은 이제 저게 좀 좀 이렇게 또 가수요 투기수요로 가버릴 수 있으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.594,
+                "end": 22.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 후속 세입자를 구하지 못한 집주인은 대출한도를 모두 쓸 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.299,
+                "end": 26.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 이해되시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.399,
+                "end": 27.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 그리고 당연히 이 경우에 대출 모 모두 썼다가 나중에 후속 세입자가 구해지면은 그때 후속 세입자가 들어왔을 때 받는 보증금으로 대출금 우선 상환해야 되겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.926,
+                "end": 39.372
+            }
+        ]
+    },
+    "summary": "대출을 받을 때 어느 정도의 비율인지 상황이 되는지 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18238_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

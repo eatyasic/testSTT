@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17773",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.088,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 취득 당시 조정이니까 2년 거주 해야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘도 조정이니까 2년 거주는 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.844,
+                "end": 9.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "즉 여기 거주 요건하고 요 전입 다른 거라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.860,
+                "end": 14.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 거주 요건은 취득 당시 조정이면 끝까지 가요 끝까지 끝까지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.879,
+                "end": 19.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 전입 요건은 시행령 뒤에",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.028,
+                "end": 22.088
+            }
+        ]
+    },
+    "summary": "취득 당시 조정이면 2년 거주 해야 하고 거주 요건은 끝까지 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

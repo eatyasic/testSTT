@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYR_19295",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.032,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매매를 할 거 거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 뒤에 2억 정도 나와요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.516,
+                "end": 5.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이 때 2억 나와서 이 때 인건비를 해야 되는데 어떻게 하냐?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.016,
+                "end": 8.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 되면 오히려 급여가 너무 많이 잡히고 상여로 해 가지고도 소득이 너무 많이 잡히기 때문에 세금이 더 나와서 어떻게 되냐면은 이렇게 하셔야 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.308,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "부동산 매매를 통해 3년 뒤에 2억이 나와 소득을 한 번에 많이 잡을 경우 세금이 많이 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

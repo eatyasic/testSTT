@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18346",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나왔던 것들이 거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금 아까 말씀드린 것처럼 일부 지역이 좀 좋아지고 그래 버리니까 조금 가능성은 낮지 않을까 이렇게 생각이 들고 대출 규제 추가 완화에 대해서 약간 나올 수 있지 않을까 생각은 하는데 DSR은 그대로일 가능성이 좀 높아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.169,
+                "end": 19.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 마찬가지로 시장 상황 더 나빠져야지 더 풀리겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.153,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "남성 화자가 대출 규제 추가 완화에 대해서 나올 수 있지 않을까 생각하는데 이것도 마찬가지로 시장 상황이 더 나빠져야 풀리겠다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18346_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

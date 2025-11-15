@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18621",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.058,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 때문에 이제 너무 높지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 실거래 어 실제 거주하는 어 거주 의무가 사라졌다 하더라도 풀렸다 하더라도 이 양도세률이 아직 전혀 안됐기 때문에 그게 이제 너무 높아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.131,
+                "end": 16.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 이유가 있지 않을까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.084,
+                "end": 18.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보시면 실거래가 공개시스템 중개사 소재지를 확인하면 대부분이 관외 거래거나 직거래다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.856,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "실제 거주하는 의무가 사라졌다 하더라도 양도세율이 너무 높아서 실거래가가 많아진 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18621_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

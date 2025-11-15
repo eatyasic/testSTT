@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17810",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하면은 좀 뭔가 여기 있는 사람들만 받는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 있는 사람들은 못 받고 뭔가 뒤에 든든한 백이 정부가 있다는 거 아닌가 그럼 난 좀 뭔가 좋을 것 같은데 그냥 아이디어였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.242,
+                "end": 16.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 식으로 좀 해 가지고 하면 좀 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.337,
+                "end": 22.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 정부와 여당이 물론 여당과 야당이 훨씬 두 분 다 이제 양쪽 다 그런 것들을 정책을 만드시는 분들이고 입법하는 분들이기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.260,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "혜택을 못 받은 사람에게도 정부가 지원을 해주는 것이 좋겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17810_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

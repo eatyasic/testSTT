@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYR_18001",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 50.183,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해 혼인신고 해도 결혼 자금 증여세 공제 확대 혜택 하겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 얼마 전에 발표된 7월 4일 경제 정책 방향에서 아주 뜨거운 감자 중에 하나죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.501,
+                "end": 17.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼 자금을 전제로 한 네 금액에 대해서는 증여세 공제를 좀 한도 혜택 한도 확대를 혜택을 주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.910,
+                "end": 24.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 대해서 말들이 참 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.526,
+                "end": 26.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이미 결혼한 사람은 어떻게 할 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.304,
+                "end": 28.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 또 하나의 어떤 좀 뭔가 계층 간의 그런 거를 좀 하는 건 아니냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.059,
+                "end": 32.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 언제 어떻게 할 거냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.933,
+                "end": 34.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 굉장히 의견이 갈리는데 아직 확정된 건 아닌데 그 뒤로 어 뭔가 언론 정보가 좀 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.260,
+                "end": 41.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 약간씩 좀 구체화되고 있는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.802,
+                "end": 44.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제 해당 내용이 나올지 그리고 어떤 내용들이 나오는지 한번 살펴보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.289,
+                "end": 50.183
+            }
+        ]
+    },
+    "summary": "7월 4일 발표된 경제 정책 방향에서 뜨거운 감자 중에 하나인 올해 혼인신고 해도 결혼 자금 증여세 확대 혜택을 준다는 것에 대해서 말들이 많고 의견이 갈리는 데 아직 확정된 건 없지만 그 뒤로 언론 정보가 나오고 있어서 살펴보도록 하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

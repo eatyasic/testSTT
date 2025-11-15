@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18761",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.664,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 고가 1주택을 임대 주택으로 등록했다고 하더라도 신고 대상에서는 제외되지 않는다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연하죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.535,
+                "end": 5.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "월세 수입 금액은 신고가 필요하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.428,
+                "end": 7.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고가 주택의 기준은 22년 소득 신고까지는 기준 시가 9억 23년 소득 신고부터는 기준 시가 12억. 응.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.892,
+                "end": 15.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 요렇게 나와 있는데 그리고 이제 1가구가 보유한 주택의 3주택인 경우에는 간주 임대료까지 계산해 가지고 월세 그리고 간주 임대료 해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.480,
+                "end": 24.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 이 경우에도 주택 임대 사업자의 등록된 주택 수는 제외되지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.922,
+                "end": 29.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체 보유 주택 수를 기준으로 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.020,
+                "end": 31.664
+            }
+        ]
+    },
+    "summary": "임대 주택으로 등록된 고가 1주택은 신고 대상이며 월세 수입 금액은 신고가 필요하고 1가구가 보유한 주택이 3주택 이상인 경우에는 간주 임대료를 계산해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

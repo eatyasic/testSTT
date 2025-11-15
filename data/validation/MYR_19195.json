@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19195",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 늘어나기 때문에 대표자의 개인 소득세가 이제 늘어나는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 두 가지에 대한 여러분들이 막 개념이 왔다 갔다 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.064,
+                "end": 10.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 안 되면 이해가 안 될 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.470,
+                "end": 13.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어렵다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.470,
+                "end": 16.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 내용들이 있고 상속과 증여를 생각하고 있다면 미리미리 가족들을",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.638,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "그게 늘어나면 대표자의 개인 소득세가 늘어나게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

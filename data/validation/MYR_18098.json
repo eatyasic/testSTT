@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18098",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이렇게 저희 까 뭐 이제 저 제 카페를 좀 특이해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 혼자 그냥 떠드는 곳이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.876,
+                "end": 4.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저희 일반 카페랑은 달라서 제가 어떤 외부 강사분들을 강의를 막 하고 유치하고 그런 걸 안 하고 있었단 말이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.320,
+                "end": 12.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 지난번에 오셨던 천자공님하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.322,
+                "end": 14.743
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 천자공님",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.753,
+                "end": 15.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그리고 흥부님하고 뭔가 이 두 분을 좀 모시고 물론 다른 분들도 예",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.899,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "화자가 일반 카페와는 달라서 외부 강사분들의 강의를 유치하지 않았다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

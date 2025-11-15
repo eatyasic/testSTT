@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19473",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐 제가 만든 게 아니기 때문에 나온 그대론데 여기 보시면은 어 3년 여기도 여기 이제 2번 보시면 3년 이내 양도 플러스 세대원 전원 전입이거든요 예 그리고 1번은 더 완벽해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신규 주택 전 양도했을 때 완공일로부터",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.810,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "개정안의 2번은 나와있는 그대로 3년 이내 양도와 세대원 전원 전입하여 1년 이상 거주해야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

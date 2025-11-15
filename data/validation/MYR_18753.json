@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYR_18753",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.364,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한번 보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 한국경제 집코노미에서 기사를 가져왔고 23년 4월 12일자 기사입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.634,
+                "end": 8.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 낯이 익네요. 하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.808,
+                "end": 11.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저희 명사 특강에서도 네 강의해 주셨던 리겔이라는 닉네임을 쓰고 있는 김성일 회계사님이십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.600,
+                "end": 18.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 그죠. 김성일 리겔 세무회계 대표.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.637,
+                "end": 22.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 나중에 필요하신 분들은 어 찾아가시면 되는데 저희 채널에서도 한번 또 모셔보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.043,
+                "end": 29.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 한번 보도록 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.417,
+                "end": 31.364
+            }
+        ]
+    },
+    "summary": "한국경제 집코노미 23년 4월 12일자 기사고 명사 특강에서 강의해 주셨던 김성일 리겔 세무회계 대표의 기사다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18753_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19490",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 본인 여기 써 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 예 예 아 요게 맞죠 점잖은 용어죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.231,
+                "end": 3.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.935,
+                "end": 4.395
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "작년 말에 주식시장이 어땠죠 일단 그걸 보셔야죠 주식시장 상황이 좀 암울했잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.405,
+                "end": 10.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.897,
+                "end": 11.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "암울했죠 암울했는데 깐 데 또 깐다 그러면 가만히 있을 사람이 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.287,
+                "end": 16.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그렇습니다 그래서 일단은 2년 정도 연장이 됐다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.166,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "작년 말에 주식시장 상황이 암울했었고 그래서 일단은 2년 정도 연장이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

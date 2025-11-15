@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17932",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.041,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 온라인 강의를 비롯해서 뭐 여러 가지 활동들을 좀 하다 보니까요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.060,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아쉬움이 좀 많이 남더라고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.420,
+                "end": 4.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.820,
+                "end": 5.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중개업은 이제 이 정도까지 했다고 해서 물론 끝은 아니죠 뭐 저보다 훨씬 더 잘하시는 분들이 있고 더 올라가야 되는 그런 경지도 있기도 한데",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.330,
+                "end": 12.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.700,
+                "end": 13.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금 아니면 뭔가 또 새로운 거에 도전을 못하겠다라는 생각이 들어서 얼마 전에 오랫동안 같이 일했던",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.280,
+                "end": 20.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.300,
+                "end": 20.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 직원들이 있거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.700,
+                "end": 21.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.630,
+                "end": 21.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 오랫동안 좋아하고 십몇 년씩 일을 했던 이 친구들한테 이제 다 인수인계를 해주고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.930,
+                "end": 26.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.330,
+                "end": 26.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 제가 더 할 수 있는 다른 일이 있을 것 같다라고 해서 지금 강의하고 어 좀 이런 일에 지금 집중을 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.810,
+                "end": 34.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 반대로 중개 업무를 오래 하셨는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.130,
+                "end": 37.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.870,
+                "end": 38.447
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그걸 처음에 어떤 시작했을 때 계기가 있었을 거 아니에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.450,
+                "end": 41.041
+            }
+        ]
+    },
+    "summary": "온라인 강의를 비롯한 여러 활동을 하다 보니 아쉬움이 많이 남아 지금 아니면 새로운 도전을 못할 거 같아 시작하게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

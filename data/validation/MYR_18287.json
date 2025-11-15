@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18287",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.32,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이걸 이제 소급 적용해가지고 2022년 12월 21일 이후 취득한 경우에 소급 적용한다는 계획인데 아직 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거 관련해가지고 조만간 나올 경제 정책 방향 그리고 7월 보통 하순에 있는 세법 개정안 관련해서 어떤 내용이 나올지 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.402,
+                "end": 18.318
+            }
+        ]
+    },
+    "summary": "관련한 정책이나 세법 방안이 나올지에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

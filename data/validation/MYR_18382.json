@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18382",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스스로에게 좀 좋은 거 좋은 책도 보여주시고 좋은 풍경 좋은 음식 이런 거를 좀 해줘서 우리가 부자가 되는 그 과정도 좀 행복했으면 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 2019년에 이제 역전세 맞을 때.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.215,
+                "end": 17.258
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.268,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "여성 화자가 스스로 에게 좋은 거를 해줘서 부자가 되는 과정도 행복했으면 좋겠다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18382_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

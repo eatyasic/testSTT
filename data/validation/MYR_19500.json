@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19500",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.73,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밑에 표 보시면 1인 단독투자와 4인 가족투자를 비교해 놨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.367,
+                "end": 4.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.342,
+                "end": 4.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기본공제만 가지고 단순 비교해도 4인 가족투자 했을 때는 2억 천만 원",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.619,
+                "end": 10.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.455,
+                "end": 11.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혼자 했을 때는 5천 250만 원 공제 메리트가 엄청 나는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.059,
+                "end": 15.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 다른 가족들이 관심이 뭐 이래도 없거나 아니면 너무 어리거나 투자금이 없 없 없이",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.710,
+                "end": 24.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "증여는 예 그렇죠 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.360,
+                "end": 26.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 뭐 증여를 해서 할 수도 있겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.110,
+                "end": 28.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.637,
+                "end": 30.730
+            }
+        ]
+    },
+    "summary": "1인 단독투자와 4인 가족투자를 비교해보면 4인 가족투자는 2억 천만 원이고 혼자는 5천 250만 원으로 공제 메리트가 엄청난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

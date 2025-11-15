@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18545",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 전국적으로 봤을 때 건설사들이 분양을 했었을 때 미분양이 작년 올 초까지는 미분양이 좀 났다가 그게 어 둔촌주공 같은 경우 완판이 됐고 그러면서 일부 좀 괜찮은 지역들은 완판이 되고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 봤을 때 여기서 지금 건설 한 분양하는 것들을 분양하는 단지들이 계속 미분양이 나기 시작하면 결국은 어 건설 경기를 좀 살리기 위해서는 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.785,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "건설사들이 분양을 했었을 때 전국적으로 보면 미분양이 올 초까지 좀 났다가 둔촌주공 같은 일부 좀 괜찮은 지역들은 완판이 되고 있는데 여기서 지금 분양하는 단지들이 계속 미분양이 나기 시작하고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

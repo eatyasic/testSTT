@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19117",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 3년 내에 팔면 비과세 해 주겠다 종전 주택을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이게 우리가 이게 가끔 실무에서 보면 이게 걸리시는 분들이 간혹 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.048,
+                "end": 10.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 1년 후에 취득하는 거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.333,
+                "end": 11.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이거 이거 모르셨다가 그냥 뭐 나는 이거 딱 3년만 생각하시다가 그 후에",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.664,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "종전 주택을 3년 내에 팔면 비과세를 해 주는데 가끔 실무에서 딱 3년만 생각하다가 걸리는 사람들이 종종 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19117_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

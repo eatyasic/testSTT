@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18440",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 특히 이제 경매 강의를 먼저 시작을 하셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.639,
+                "end": 3.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전작은 경매 관련 책이란 말이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.348,
+                "end": 5.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.525,
+                "end": 6.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 활동도 많이 하고 계시고 투자도 하시고 강의도 하시고 근데 이번 책은 보니까 제가 약간 경매랑 연관성이 있는 줄 알았거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.434,
+                "end": 13.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 제목이 나는 오를 아파트가 좋다고 말 그대로",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.778,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "경매 강의로 먼저 시작을 하셨는데 이번 책은 아파트 책이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18150",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그분들이 한남 뉴타운은 못 가겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 서울에는 어 그렇게 좋은 거 외에 뭐 청량리도 앞으로 엄청나게 발전할 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.772,
+                "end": 9.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 가재울 서대문구의 가재울도 있고 송파에 가면은 거염 하천도 있고 그러니까 내가 내가 어떻게 투자 전략을 짜느냐에 따라서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.698,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "서울 외에도 청량리나 서대문구나 송파쪽으로도 발전할 것이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

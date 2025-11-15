@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18354",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 많이 실망하셨겠구나 생각이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 이렇게 될 줄 몰랐죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.411,
+                "end": 3.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 푸틴이 저렇게 전쟁할 줄 알았나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.683,
+                "end": 6.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 러시아계의 인플레이션이 작년에 13프로였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.066,
+                "end": 11.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그니까 그 영향이 우리나라 아파트에도 들어와요 그래서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.611,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "여성 화자가 러시아계의 인플레이션이 작년에 13프로였고 그 영향이 우리나라 아파트에도 들어온다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18354_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

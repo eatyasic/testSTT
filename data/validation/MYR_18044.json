@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18044",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.183,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 그쪽에서 이제 그쪽에서는 주로 이제 단점 위야 이야기로 많이 하니까 이제 그 단점이 뭐 별거 아니야",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.423,
+                "end": 6.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.241,
+                "end": 6.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 상관 없는데 굉장히 치명적 단점",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.783,
+                "end": 8.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 한번 고민해볼 수 있다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.478,
+                "end": 10.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.893,
+                "end": 11.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 여기 오늘 굉장히 좋은 팁이 많이 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.577,
+                "end": 15.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.141,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "한 남성이 좋은 팁이 많이 나오고 있다고 고마워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

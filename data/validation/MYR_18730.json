@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18730",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 불가피한 경우에 대해서 임대 기간 산정 시 예외를 적용하긴 하는데 재개발, 재건축, 리모델링 등 합당한 사유가 있으면 인가일 또는 허가일 전 6개월부터 준공 이후 6개월까지 기간을 공실에서 제외하긴 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토지 등 보상에 관한 법률에 따라서 수용될 때도 계속 임대한 것으로 보지만 이거는 정말 예외적인 것에 대해서 대략적인 걸로 써 놓은 거기 때문에 혹시 이런 비슷한 게 있다 그러면은 꼭 상담을 받아 보시고 내가 비과세 판 되는지 안 되는지 판단한 다음에 하시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.627,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "재개발, 재건축, 리모델링 등 합당한 사유가 있으면 인가일 또는 허가일 전 6개월부터 준공 이후 6개월까지의 기간을 공실에서 제외하고 토지 등 보상에 관한 법률에 따라서 수용될 때도 계속 임대한 것으로 보지만 이것은 예외적인 것으로 이와 비슷한 경우라면 상담을 받고 판단하는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18730_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

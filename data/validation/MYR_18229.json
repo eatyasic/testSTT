@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYR_18229",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 61.461,
+        "format": "MP4",
+        "date": "2023-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 세금은 뭐예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세금은요? 아직 안 나왔죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.034,
+                "end": 2.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 언제 나오겠습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.615,
+                "end": 3.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7월 말에 나오는 세법 개정안 때 핵심이 나올 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.797,
+                "end": 7.207
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 원래는 어 이 세법 개정안과 주거 정책 방향이 아 그 경제 정책 방향이 같이 나와서 좀 뭔가 시너지를 내지 않을까라는 의견도 조심스레 있었거든요. 언론사에서?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.217,
+                "end": 18.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 결국에는 그냥 예정대로 분리돼서 나왔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.892,
+                "end": 21.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 임대 주택에서 좀 약간 재미있는 부분이 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.606,
+                "end": 24.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임대 공급을 활성화하는데 공공성 있는 등록 임대 주택에 대해서는 부속 토지 종부세 합산 배제해 가지고 좀 혜택을 주겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.962,
+                "end": 32.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 이게 정확하게는 좀 더 기다려 봐야 알 것 같은데 아직 지금 우리 주택 임대 사업자 관련된 내용이 안 나오고 있단 말이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.358,
+                "end": 39.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 그 부분을 하고 좀 뭔가 같이 믹스해가지고 나오려고 하는 게 아니냐 그 생각이 들고 신규 택지 공급 가속화인데 이거는 뭐 이제 해당되는 쪽만 될 거고 서울 같은 경우에는 좀 없죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 39.126,
+                "end": 51.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 서울 같은 경우에는 정비 사업을 좀 더 촉진 시켜 가지고 재건축 부담금 합리화를 위한 재초환법 개정안 조속 입법 그니까 지금 조금 아쉬운 게 이런 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 51.594,
+                "end": 61.461
+            }
+        ]
+    },
+    "summary": "임대 공급을 활성화하는데 공공성 있는 등록 임대 주택에 대해서는 종부세 합산 배제해서 혜택을 주겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18229_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

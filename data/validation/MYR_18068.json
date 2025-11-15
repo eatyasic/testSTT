@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_18068",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 일단은 매력적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 가성비로 한번 가보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.010,
+                "end": 4.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가성비라고 보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.235,
+                "end": 5.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠깐 꿈에서 깨어나서 가성비로 한번 가보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.439,
+                "end": 7.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가성비라고 보면 예를 들어서 내가 한 중간 가격 한 갖고 있는 돈이 한 5억",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.718,
+                "end": 14.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5억에서 플러스 마이너스",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.650,
+                "end": 15.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5억에서 플러스 마이너스면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.657,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "두 남성이 가성비 가격의 지역에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

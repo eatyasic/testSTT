@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17528",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굉장히 모든 게 다 무너지는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.718,
+                "end": 2.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 가격의 우상향 기우제를 계속 지내는 사람은 어 가격이 떨어지면은 모든 걸 다 잃는 거 같은 상실감이 생기거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.195,
+                "end": 12.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가격에 따라 내 마음도 마치 조울증처럼 이렇게 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.411,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "박사는 가격의 우상향 기우제를 지내는 사람들은 아파트 가격이 떨어지면 조울증처럼 모든 걸 다 잃은 사람처럼 상실감이 생긴다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17528_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

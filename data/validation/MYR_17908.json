@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_17908",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.285,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 저하고 수강생분들 공인중개사분들만 계시니까 밀폐된 공간이잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.040,
+                "end": 5.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 그런 얘기를 하는 게 좀 쉽고 편하더라고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.490,
+                "end": 7.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠 그렇죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.700,
+                "end": 8.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 부분들을 또 굉장히 좋아들 해주시더라고요",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.390,
+                "end": 11.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거를 만약에 수강하고 싶으면 어디로 찾아봐야 되는 거예요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.110,
+                "end": 14.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제가",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.230,
+                "end": 14.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유튜브 채널?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.853,
+                "end": 15.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 지금은 제가 유튜브에서 한 달에 한 번씩 제 유튜브 채널에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.640,
+                "end": 19.285
+            }
+        ]
+    },
+    "summary": "밀폐된 공간에서 수강생과 공인중개사분들하고 얘기를 하니 더 편한 게 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17908_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

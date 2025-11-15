@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18533",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 근데 지방 소도시는 저는 지금 시점에는 약간 비추인 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 지금은 왜냐면 어쩔 수 없이 이제 갯수 제한이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.830,
+                "end": 9.122
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그러기 때문에 이게 전국이 지금 다 얼어있어서 그래서 사실 우리가 불과 한 2년 전만 해도 전국이 다 뜨거웠잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.132,
+                "end": 18.528
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 좀 불안하긴 했어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.538,
+                "end": 20.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이러다가 전국이 한꺼번에 내려가면 어떻게 해야 되냐 약간 그런 말도 좀 있었거든요. 응",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.484,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "불과 2년 전만 해도 전국이 뜨거워서 불안했고 한꺼번에 내려가면 어떻게 해야 하나라는 말도 있었고 갯수 제한이 있기 때문에 지방 소도시는 지금 시점에서는 추천하지 않는다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

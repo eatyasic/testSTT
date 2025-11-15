@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17764",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 분양권 16년 아니 분양권 취득했을 때부터 주택수 들어간다면서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니죠 2020년 8월 12일 혹은 21년 1월 1일 이후에 취득한 거지 이건 16년 11월이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.202,
+                "end": 10.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 규정이 없을 때 취득한 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.901,
+                "end": 13.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이때는 분양권이 그냥 단순한 권리에요 권리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.138,
+                "end": 16.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택이 아니야",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.069,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "규정이 없을 때 취득한 분양권은 주택이 아니라 단순한 권리이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

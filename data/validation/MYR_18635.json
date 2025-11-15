@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18635",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나한테 유리한 거는 3번이니까 3번 쪽으로 유도해가지고 이렇게 해야지라고 해야 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국에는 그런 거 아니겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.438,
+                "end": 6.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 상대방이 어떤 식으로 내가 할지 어떤 식으로 움직일지 예측하는 거는 거의 불가능한 거고 상대방이 할 수 있는 시나리오만 해가지고 그 중에서 그냥 높은 확률로 그게 어떻게 보면은 예측인데 막연하게 예측하지 말란 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.327,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "상대방이 어떻게 움직일지 예측하는 건 거의 불가능하지만 상대방이 할 수 있는 시나리오만 생각해 그중에 하나만 골라 예측을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18635_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

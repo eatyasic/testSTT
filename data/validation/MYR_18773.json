@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18773",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.266,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부부 합산 주택 수가 주택 수에 따라서 1, 2, 3에 따라서 어 매기는 게 달라지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 조심해야 되는 게 이거예요. 이거, 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.929,
+                "end": 15.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주택 수 확인 해야 된다. 주택 수.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.105,
+                "end": 17.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부부 합산 주택 수가 중요하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.533,
+                "end": 19.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 부부 합산 주택 수에 따라서 1채라면은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.488,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "부부 합산 주택 수에 따라 매기는 게 달라진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

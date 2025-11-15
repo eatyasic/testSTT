@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_17513",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.711,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 이제 우리나라로 따지면은 뭐 이런 주상복합 아파트인 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "트럼프 월드라든지 타워 팰리스 이런 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.026,
+                "end": 5.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라에는 주상복합은 그렇게 성공한 주택은 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.935,
+                "end": 9.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 도심에 편의시설이 잘 되어 있는 대단지 아파트를 보시면 될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.527,
+                "end": 14.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그거는 일본도 거래가 잘 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.219,
+                "end": 17.843
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 가격도 오릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.853,
+                "end": 19.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 우리도 비슷할 가능성이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.301,
+                "end": 21.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 가능성이 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.092,
+                "end": 21.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 일본 사례에서 우리가 배울 수 있는 것은 뭐냐 하면은 가장 부동산의 중요한 가치 척도가 환금성이 된다는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.895,
+                "end": 32.229
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 환금성",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.239,
+                "end": 33.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 빠진다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.804,
+                "end": 34.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부동산을 잘못 사면 감옥이 되고 지옥이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.657,
+                "end": 37.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 일본이 최근에 보니까 2013년이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.061,
+                "end": 39.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체 주택 가운데 재고 대비용 이 회전율이라 그러거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.643,
+                "end": 44.711
+            }
+        ]
+    },
+    "summary": "박사는 일본은 우리나라로 따지면 주상복합 아파트 같은 곳이 인기가 있고 우리나라는 주상복합 보다는 도심에 대단지 아파트라고 보면 된다고 말하고 일본의 사례에서 우리가 배울 수 있는 것은 부동산의 가치 척도가 환금성이 중요해 진다는 것이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17513_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

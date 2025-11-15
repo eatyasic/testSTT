@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19516",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아직 초반이기 때문에 뭐 기존에 제가 또 여태까지 계속 회사만 있어왔고 이제 제 사업을 하고 하기 때문에 많은 관심을 받고 또 이렇게 이용해 주셨으면 좋겠고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그렇습니다 예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.127,
+                "end": 13.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아까도 말씀해주셨지만 뭐 이게 세금 같은 거 찾아보면",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.922,
+                "end": 18.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.678,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "지금까지 계속 회사만 있어왔는데 이번에 처음으로 본인 사업을 하게 됐다며 많은 관심과 이용을 부탁드린다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19516_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

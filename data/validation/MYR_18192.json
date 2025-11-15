@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_18192",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.083,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그런데 아까도 말씀하셨지만 주로 이제 재개발 같은 정비 사업 위주로 계속 투자를 오래 하셨다는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 정비 사업 투자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.072,
+                "end": 8.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 근데 저도 이제 뭐 투자 경력이 그렇게까지 많이 안 되는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.477,
+                "end": 11.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.220,
+                "end": 11.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지 종목 중에서 그 정비 사업 투자하신 뭔가 매력이 있으니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.840,
+                "end": 17.083
+            }
+        ]
+    },
+    "summary": "재개발 같은 정비 사업 위주로 계속 투자를 오래한 이유를 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18192_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

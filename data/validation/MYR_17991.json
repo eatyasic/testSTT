@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_17991",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 생각한 것 말고 다르게 생각하신 분들이 훨씬 많다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 부담이 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.252,
+                "end": 3.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면은 일단 살짝 놔두자는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.132,
+                "end": 5.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어차피 5월 9일까지 가니까 나뒀다가 내년에 뭐가 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.450,
+                "end": 9.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4월 달 총선 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.088,
+                "end": 10.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 4월 총선에서 이제 그 의석수라든지 표를 보고 이제 판단하겠죠 아",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.431,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "제가 생각한 것과 다르게 생각하는 사람이 많아서 부담이 되면 살짝 놔뒀다가 내년 4월 총선에서 의석수나 표를 보고 그때 판단할 수도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17991_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

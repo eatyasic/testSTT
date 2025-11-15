@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18881",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 운용 계획을 가지고 가시는 분들한테 쫌 좋을 거 같고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.655,
+                "end": 4.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정률은 그보다 쪼금 더 공격적인 운용 스타일을 받으시는 분이 좋을텐데, 예컨대 저는 제 통장에 꽂히는 돈이 매 달 일률적이었으면 좋겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.114,
+                "end": 14.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 어느 날은 이렇게 쪼끔 들어왔다가 어느 날은 많이 들어왔다 이렇게 하는 것 보다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.056,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "화자1은 자신의 통장에 꽂히는 돈이 매 달 일률적이었으면 좋겠다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19417",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.441,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 주택 거래가 줄면서 양도세 신고 업무보다는 사후 관리와 조사 업무에 집중할 수 있는 상황이 됐대요 아 이런 이런 또 어 이런 상황이 또 될 수가 있군요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 말이냐 하면 지금 거래가 역대급으로 최저잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.785,
+                "end": 13.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거래가 역대급으로 최저가 되다 보니까 상대적으로 좀 이게 그 좀 여력이 되니까 어 양도세 신고 업무에서 조금 어 손을 이렇게 빼서 이런 비과세 사후 관리 그리고 조사 업무에 집중을 한다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.508,
+                "end": 29.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 좀 너무한 거 아닙니까? 이거",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.392,
+                "end": 31.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래서 여기 보면은 인제 매매 매매가 어유 2만 20만 건에서 그쵸? 아니 잠깐 만 어 100만이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.901,
+                "end": 41.441
+            }
+        ]
+    },
+    "summary": "거래가 역대급으로 최저인 상태라 상대적으로 여력이 가능해서 양도세 신고 업무 인력을 비과세 사후 관리와 조사 업무에 투입 시켜 집중을 시킨다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

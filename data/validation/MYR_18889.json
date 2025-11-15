@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "filename": "MYR_18889",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 54.821,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 개인은 세율이 최대 45퍼센트죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인 최소 과세표준 2억 원일 때 개인에게 제공되는 세율이 38퍼센트에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.094,
+                "end": 7.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제에도 앞서 그분이 현물 출자를 해서 법인으로 전환을 했던 배경에는 이 세금이 아주 큰 사유가 됐다라고 전해 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.982,
+                "end": 20.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.575,
+                "end": 21.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이에 법인을 선호하는 분들 얘기를 들어보면 다른 이유도 되게 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.063,
+                "end": 25.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신원 노출을 꺼려하는 분들도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.674,
+                "end": 27.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 뭐 법인 등기부를 떼어 보지 않는 이상은 이 법인의 구성원이 누군지 알기가 어려워요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.614,
+                "end": 33.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확인한다고 해서 특정인 이라고 저희가 확신할 수도 없는 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.274,
+                "end": 37.322
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.332,
+                "end": 37.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이목이 신경쓰인다면 법인을 하나의 수단으로 활용해볼 수 있구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.533,
+                "end": 40.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 밖에는 또 가족 회사로 존재를 하면서 이 법인을 통해서 배당을 하게 되면 증여의 하나의 수단으로도 활용할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.654,
+                "end": 49.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 뭐 그 과정에서 배당소득세를 내긴 하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.534,
+                "end": 52.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐 장기적으로 봤을 때는",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.169,
+                "end": 54.822
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 설명한 사람이 현물 출자를 해서 법인으로 전환을 했던 배경에는 세금이 아주 큰 사유가 됐다라고 전해 들었다고 말하며 법인을 선호하는 사람들이 왜 법인을 선호하는지의 이유에 대해서 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYR_18889_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

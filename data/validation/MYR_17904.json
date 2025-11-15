@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17904",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.568,
+        "format": "MP4",
+        "date": "2023-07-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 실수를 하시는 분들이 굉장히 많구나 부동산에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 저에게는 굉장히 정말 작은 별것 아닌 그냥 상식인데 이걸 몰라서 중개 실무를 제대로 못 하시는 분들도 계시고 또 중개 사고를 일으키시는 분들도 계시고 또 일반분들 중에서도 이거 때문에 어떤 부동산 거래를 하시다가 피해를 보시는 분들도 계시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.285,
+                "end": 17.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 사례들을 이제 제가 너무 많이 접하다 보니까 여태까지 제가 공부하고 경험했던 그런 이론적인 거 보다는 좀 더 실무에 특화돼있는 현장에 현장에 특화돼있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.568,
+                "end": 27.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 지식이나 경험들이 좀 그분들한테 도움이 되지 않을까 이런 생각을 좀 계속 갖고 있었어요 한동안 갖고 있다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.630,
+                "end": 35.568
+            }
+        ]
+    },
+    "summary": "부동산에서 실수를 하는 분들이 많아 자신이 알고 있는 지식이나 경험들을 알려주고 싶었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

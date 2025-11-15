@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17649",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또는 뭐 CVS, 약국 이런 애들이 특히 앵커로 들어와 있으면서 한 3 40년 장기 렌탈 해놓은 건물들은 괜찮습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오히려 관리하기도 좀 쉽고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.809,
+                "end": 10.619
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 생각하는 일반적인 상가를 말씀하시는 거네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.629,
+                "end": 13.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.457,
+                "end": 14.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 예를 들어서 우리 우리 입장에서도 좀 약간 처음에 만만하게 좀 접근할 수 있는 길에서 오피스텔 같은 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.114,
+                "end": 19.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.613,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "한 남성이 다른 남성에게 CVS나 약국이 앵커로 들어와 있으면서 장기 렌탈 해놓은 일반적인 상가들이 괜찮고 관리하기 쉽다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17649_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

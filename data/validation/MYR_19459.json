@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19459",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.747,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "A가 뭐 일시적 이렇게 비과세가 될려고 하는 상황이라든가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.916,
+                "end": 4.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것도 가능합니까 A가 있고 세법상 장기 임대주택이 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.733,
+                "end": 8.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 됩니다 해석에선 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.518,
+                "end": 10.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 해석에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.584,
+                "end": 11.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심판에는 안 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.339,
+                "end": 12.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그 그러니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.387,
+                "end": 12.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 근데 심판 내에서 사업시행인가일 현재는 상관이 없겠지만 제가 늘 궁금하던 그 부분이 그거예요 그럼 대체주택취득일 현재 1주택이어야 되는데 이때 임대주택이 있었던 거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.870,
+                "end": 23.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 될 거냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.879,
+                "end": 24.948
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해석은 돼요 해석은 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.958,
+                "end": 27.727
+            }
+        ]
+    },
+    "summary": "A가 있는데 세법상 장기임대주택이 있는 상황이 해석에서는 되지만 심판에서는 나와있지 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

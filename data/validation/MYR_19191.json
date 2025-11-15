@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_19191",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.891,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인을 해야 되는 가장 큰 이유 중에 하나가 뭐냐 하면 대표자 급여와 퇴직금을 비용 처리가 가능해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 여러분들이 내가 개인 사업자는데 나한테 무슨 셀프 월급을 주고 그런 게 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.119,
+                "end": 10.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 그 돈 가져가서 내가 쓰면 되는 건데 그래서 비용 처리가 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.653,
+                "end": 14.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴직금도 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.346,
+                "end": 16.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이 퇴직금 할 때도 정관 같은 거에다가 다 이렇게 설정을 해가지고 퇴직금을 최대한 많이 받게끔 2배 정도 받게끔 이렇게 다 설정을 해놔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.038,
+                "end": 24.891
+            }
+        ]
+    },
+    "summary": "법인은 퇴직금이나 대표자 급여 비용 처리가 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19191_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_19484",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.419,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옛날에 제가 나와 가지고 한번 또 찍었던 그런 영상을 찍어 가지고 조금 더 마음 편하게 찍었던 것 같고요 제가 늘 당부드리는 거는 늘 그 상담을 한 번 했더라도 어떤 행위를 하시기 전에 꼭 상담을 한 번 더 하셔라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바뀌니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.154,
+                "end": 14.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 왜냐하면 이분도 저한테 또 상담 2년으로 받아가신 분 왜 안 팔려서 어떡하지 하고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.000,
+                "end": 20.127
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.137,
+                "end": 20.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년으로 늘어났을 수도 있는 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.529,
+                "end": 22.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.182,
+                "end": 22.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그래서 아무래도 근데 좀 그 우리 납세자 본인들이 조금 바뀌는 거에 대해서 좀 따라가 주셔야 되지 주셔야 자신의 또 세금을 지키지 않을까라는 좀 생각을 많이 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.662,
+                "end": 34.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어째 또 나와 가지고 영광이었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.980,
+                "end": 36.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.977,
+                "end": 37.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 또 다음에 또 좋은 내용으로 또 찾아 오겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.536,
+                "end": 39.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "되게 좋은 정보 알려 주셔서 감사드리고 우리 우리 그 시청하시는 분들한테도 굉장히 좀 많이 유용한 정보가 됐으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.884,
+                "end": 47.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.773,
+                "end": 48.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 오늘 소중한 정보 알려주셔서 고맙습니다 세무사님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.190,
+                "end": 50.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.593,
+                "end": 52.419
+            }
+        ]
+    },
+    "summary": "늘 상담을 한 번 했더라도 어떤 행위를 하기 전에 다시 상담을 받아야 법이 바뀌었을 때를 따라갈 수 있다며 세금을 지킬 수 있다고 당부한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

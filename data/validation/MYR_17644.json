@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "filename": "MYR_17644",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 48.148,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월세를 받는 거군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.091
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그 이제 그러고 나면 월세가 이제 들어오는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.101,
+                "end": 3.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 월세에서 그 해당 대출 이자 내고 남는 거 이제 쁘라스다 만약에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.902,
+                "end": 9.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 쁘라스다 그러면은 그게 순수히 법인의 소득이 되는 거고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.623,
+                "end": 13.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.112,
+                "end": 13.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 거기서 이제 계속 이제 자금을 차라리 놔둔 상태에서 그냥 굴릴 수도 있고 아니면 거기서 조금 빼올 수도 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.692,
+                "end": 19.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.325,
+                "end": 19.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보면 미국이 머리를 일부러 잘 그렇게 쓴 거네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.965,
+                "end": 22.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 현지 법인에 계속 돈을 묶어 둘려고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.867,
+                "end": 25.688
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럴 그럴 수 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.698,
+                "end": 26.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야지 부동산 그 경기도 좀 살아나고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.916,
+                "end": 29.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.316,
+                "end": 29.563
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 외부 자 자금도 유입 시킬 수 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.573,
+                "end": 32.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 거잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.135,
+                "end": 32.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 그니까 미국이 그니까 외국인들이 투자하기에 너무 좋은 환경을 갖췄어요 사실은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.664,
+                "end": 37.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리나라도 비슷한가 약간 그게 좀 뭐 궁금하긴 한데 네 우리나라는 뭐 지금은 제 저도 잘 모르겠는데 한 때 국내에 취득했을 때 취득세 중과라든지",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.027,
+                "end": 48.148
+            }
+        ]
+    },
+    "summary": "한 남성이 월세에서 대출 이자 내고 남는 돈이 법인의 소득이 되는 것이며 미국이 현지 법인에 계속 돈을 묶어 두기 위해 머리를 잘 썼다고 다른 남성에게 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17644_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

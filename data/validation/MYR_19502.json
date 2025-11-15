@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19502",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 59.192,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 2자 배당 나오잖아요 2자 배당은 금융소득이라고 하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.017
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.027,
+                "end": 4.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2자 배당이 또 추가로 신고하시는 분이 있나요 보통 원천징수돼서 끝나니까 근데 2자 배당이 연간 2천이 넘었다 그러면 종합소득으로 보기 때문에 타소득합산 나죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.589,
+                "end": 18.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.334,
+                "end": 19.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그래서 그렇게 되는데 이 금융투자 소득은 양도에 관한 세금이란 말이에요 아까 말씀드린 25년부터 이거 두 개는 다른 거거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.154,
+                "end": 26.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.939,
+                "end": 27.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요게 이제 다르다는 거를 좀 말씀드리고 실제로 이제 현장에서도 이런 거 질문하시는 분들이 꽤 있거든요 용어의 증선들",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.418,
+                "end": 34.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞에가 좀 비슷하고 하니까 했는데 금융 투자소득세는 양도소득이다 어 그럼 이것도 분류과세인가요 그러면은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.590,
+                "end": 42.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분류과세입니다 그래서 다음 페이지 보시면 예 금융소득은 금융소득대로",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.597,
+                "end": 47.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 요 요걸 보셔야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.497,
+                "end": 49.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금융투자 소득은 금융투자 소득대로 아까 제가 개념에서 설명을 여기서 좀 더 드리려고 했는데 연간 3억원 이하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 49.287,
+                "end": 59.192
+            }
+        ]
+    },
+    "summary": "2자 배당은 금융소득이라고 하고 연간 2천이 넘었으면 종합소득으로 보기 때문에 타소득합산이 나게 되고 금융투자 소득은 양도에 관한 세금이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

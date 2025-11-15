@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17940",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.298,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 말씀 안 듣고 뛰쳐나가서 잘돼서 들어올려고 그렇게 했었는데 마지막에 어쨌든 들어온 제 모습 집에 들어왔던 모습은 굉장히 좀 안 좋은 모습",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카드 다 정지되고 돌려 막기 하다가 더 이상 그것도 안 되는 그런 모습으로 이제 딱 돌아왔다는 그 사실을 도저히 알릴 수가 없어서 아버지한테는 이제 거짓말을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.880,
+                "end": 19.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.472,
+                "end": 20.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "병실에서 아침 되면 딱 양복 입고 넥타이 매고 어 저 다녀오겠습니다 출근하는 것처럼 마치",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.050,
+                "end": 26.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 지하주차장으로 내려가요 지하주차장에서 옷을 갈아입습니다 뭐 추리닝같이 좀 편한 걸로",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.204,
+                "end": 32.298
+            }
+        ]
+    },
+    "summary": "아버지에게 자신의 힘든 모습을 말할 수가 없어서 출근하는 척을 하고 지하주차장으로 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

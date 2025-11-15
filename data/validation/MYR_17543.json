@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_17543",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.282,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결론 위주로 잘 말씀을 잘 해주셨는데 그 내용들을 보시면 훨씬 더 재미가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들 한 번 더 보시면은 더 좋을 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.363,
+                "end": 7.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 저는 이제 읽어서 인상 적이었던 게 말 그대로 심리였어요 심리.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.139,
+                "end": 12.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 개인적으로는 작년부터 시작 된",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.440,
+                "end": 16.282
+            }
+        ]
+    },
+    "summary": "진행자가 책을 직접 읽어보면 더 좋을 것 같다고 책을 추천하고 본인의 인상적이었던 부분을 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17543_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

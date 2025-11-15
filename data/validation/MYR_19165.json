@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYR_19165",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 52.952,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 이제 이런 좋은 기사에도 오타가 있습니다 오타가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.584,
+                "end": 3.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세와 종소세만 비교해 보면 법인 사업자보다 개인 사업자의 세금 부담이 더 적습니다가 아니라 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.213,
+                "end": 9.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세율이 좀 높잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.732,
+                "end": 11.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뒤에 봐봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.923,
+                "end": 12.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2023년 과세연도 기준으로 2023년도 과세 연도 그러니까 지금 23년 3월달에 신고하는 거는 작년 거 22년 기준이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.931,
+                "end": 21.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5월달 개인은 어 마찬가지로 22년 기준이고 이걸 좀 어려운 말로 귀속이라고 한단 말이에요 귀속.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.678,
+                "end": 27.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "22년도 귀속",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.573,
+                "end": 28.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 23년도 기준 즉 2023년도 귀속은 그다음 연도 3월달 법인세 5월달 종합소득세 신고를 하겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.892,
+                "end": 36.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 법인세가 9에서 24프로 1퍼센트 포인트씩 깎였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.868,
+                "end": 41.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 종소세 같은 경우에 6에서 4퍼센트 그러니까 세율 자체만 놓고 보면은 여기 종합소득세 즉 개인 사업자의 세금 부담이 더 많죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.379,
+                "end": 52.952
+            }
+        ]
+    },
+    "summary": "법인세와 종소세를 비교하면 법인 사업자보다 개인 사업자의 세율이 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

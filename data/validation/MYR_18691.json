@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18691",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보통 한 30년은 갈 사업이고 이게 끝임 없이 20년 30년 동안 바람이 불면서 끝임 없이 이제 이슈가 되고 먹거리를 생성해줄 도시가 저는 1기 신도시라고 생각이 들거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 기본적으로 좀 1기 신도시는 지금 챙겨서 가야될 시기가 아닌가라는 생각이 들었고 지금 사실 재건축 재개발 뭐 리모델링",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.017,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "1기 신도시가 끝임 없이 이슈가 되고 먹거리를 생성해줄 도시고 여러분들이 지금 1기 신도시를 챙겨서 갈 시기라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18691_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

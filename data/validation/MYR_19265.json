@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYR_19265",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사업, 근로, 연금, 기타, 양도, 퇴직 8개로 다시 또 구분을 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세는 그런 거 구분 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.859,
+                "end": 12.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 무조건 통으로 법인세예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.404,
+                "end": 13.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 예를 들어 보죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.957,
+                "end": 15.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.557,
+                "end": 16.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 사람이 A라는 주택을 샀어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.288,
+                "end": 21.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3억에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.558,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "법인세는 세부 구분 없이 통으로 법인세라고 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19265_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

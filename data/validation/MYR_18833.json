@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18833",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.006,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미국 부동산은 글로벌 자산가들이 원하는 땅이예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 우리나라에 강남이 우리나라에 많은 분들이 관심을 가지는 이제 지역인 것과 마찬, 마찬가지로 미국은 좀 특수성이 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.501,
+                "end": 14.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 미국을 사실 미국은 미국 내수 시장만을 미국인들만의 부동산 투자처가 아니고 글로벌 자산가들이 수요자들이 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.006,
+                "end": 23.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보면 전 세계 인구가",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.889,
+                "end": 26.006
+            }
+        ]
+    },
+    "summary": "여성은 미국 부동산은 글로벌 자산가들이 원하는 땅이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

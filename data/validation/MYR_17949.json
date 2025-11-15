@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17949",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.167,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 코피 열심히 쏟으면서 공부를 정말 읽고 요약하고 요약한 걸 또 요약하고 또 요약하고 기본서를 정말 달달달 외웠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하루에 한 거의 20시간 가까이 그리고 1차 시험을 딱 봤는데 이제 합격을 했고 아버지는 그 합격자 발표가 나기 전에 돌아가셨죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.367,
+                "end": 16.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실은 이제 그렇게 돼서 제가 처음 공인중개사를 접했던 계기는요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.373,
+                "end": 20.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공인중개사가 될 거라기보다는 무언가를 내 자신이 아주 쓸모없는 사람이 아니란 걸 아버지한테 증명을 마지막에 하고 보내드리고 싶었는데 아 그때 눈에 들어왔던 게 공인중개사 시험이었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.621,
+                "end": 32.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실은 이게",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.494,
+                "end": 34.167
+            }
+        ]
+    },
+    "summary": "제가 처음 공인중개사를 접했던 계기는 공인중개사가 될 거라기보다 아버지께 내가 쓸모없는 사람이 아니란 것을 증명하고 싶은 마음이었고 정말 코피 쏟으며 열심히 공부해서 1차 시험에 합격했지만 합격자 발표 전에 아버지는 돌아가셨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

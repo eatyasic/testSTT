@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18388",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 아실을 가장 잘 쓰는 이유는요 여러 단지 비교 그 기능이 좀 독보적인 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 그래서 여러 가지 단지를 비교해가지고 가격 변화를 좀 보고 싶으신 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.883,
+                "end": 12.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 그게 제가 이 책을 자신 있게 초보가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.686,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "여성 화자가 아실을 가장 잘 쓰는 이유는 여러 단지 비교 기능이 독보적인 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18388_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

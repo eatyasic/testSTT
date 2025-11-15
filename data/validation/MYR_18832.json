@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18832",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.921,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 제가 하와이를 선택한 이유가 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 어 잠시만요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.112,
+                "end": 8.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 일단 미국 먼저 얘기를 해드릴까봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.644,
+                "end": 12.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 미국에 대해서 먼저 한 번 좀 얘기를 해보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.197,
+                "end": 14.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 에 제가 베트남이라던지 이제 다른 나라를 다니다가 미국을 선택한 이유가 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.475,
+                "end": 19.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째는",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.660,
+                "end": 20.921
+            }
+        ]
+    },
+    "summary": "여성이 자신이 하와이를 선택한 이유에 대해 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18832_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

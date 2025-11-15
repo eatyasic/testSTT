@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYR_19297",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.804,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "급여를 책정해야 돼요 매월.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.049
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매월 급여를 책정하고 당연히 법인 계좌에 돈이 없겠죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.059,
+                "end": 9.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미지급 급여 처리하시면 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.866,
+                "end": 14.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 비용이 계속 잡혀요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.247,
+                "end": 16.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비용 계속 잡혀 그리고 나중에 돈 생기면 돈을 한꺼번에 가져오면 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.746,
+                "end": 23.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 돈이 실제 있는 거랑 비용 이렇게 잡히는 거는 서로 그 시점이 안 맞아도 돼요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.224,
+                "end": 31.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거를 조금 어려운 말로 급여를 매 번 책정하는 건 발생주의고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.664,
+                "end": 37.804
+            }
+        ]
+    },
+    "summary": "법인 계좌에 돈이 없어도 미지급 급여 처리하고 나중에 생겼을 때 입금을 해도 되어 실제 돈 있는 거랑 비용은 시점이 안 맞아도 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19297_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

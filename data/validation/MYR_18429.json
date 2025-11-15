@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYR_18429",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.603,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관념적이면 믿지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "ESTJ?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.699,
+                "end": 2.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.672,
+                "end": 4.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 MBTI도 안 믿거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.078,
+                "end": 6.303
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 ESTJ세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.313,
+                "end": 9.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 많이 닮았구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.131,
+                "end": 10.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 MBTI를 저는 안 믿어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.684,
+                "end": 13.467
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 안 믿으세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.477,
+                "end": 14.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바뀔 수 있다고 생각하기 때문에 안 믿어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.430,
+                "end": 16.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정확합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.980,
+                "end": 17.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "MBTI 이야기 좀 하자면 이게 살짝 그 뭐랄까 진짜 제대로 보시려면 전문가한테 하셔야 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.533,
+                "end": 26.529
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 숫자로 다 나와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.539,
+                "end": 27.492
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 숫자가 조금씩 바뀌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.502,
+                "end": 28.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 저는 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.829,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "나는 MBTI가 바뀔 수 있다고 생각하기 때문에 안 믿는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

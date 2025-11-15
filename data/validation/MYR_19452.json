@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19452",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.763,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 다시 봐도 그냥 이걸 할래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "받기 힘들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.252,
+                "end": 4.302
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이게 실무적으로도 근데 은근히 좀 많이 합니다 이거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.312,
+                "end": 7.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 많이 하는 규정이고 자 요 규정은 어 분양권에는 없는 규정인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.492,
+                "end": 12.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.905,
+                "end": 13.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 거예요 내가 주택을 가지고 있다가 얘가 정비 사업",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.716,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "소세려 156조의2 4항을 실무적으로도 은근히 많이 하는 규정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19452_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

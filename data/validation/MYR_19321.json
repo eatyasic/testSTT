@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_19321",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.348,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다주택자 취득세 중과 완화 그리고 밑에 반도체 세액공제 재정준칙 있는데 우리 관심사는 부동산 세금이니까 다주택자 취득세 중과 완화에 대해서만 좀 볼게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 당정 입장에서는 이제 정부 입장에서는 2주택자는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.884,
+                "end": 15.348
+            }
+        ]
+    },
+    "summary": "한 남자가 다주택자 취득세 중과 완화에 대한 정부 입장을 자료에서 보려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19321_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18407",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.193,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이게 조금 선택지를 줄여주고 내가 그 아파트 직접 보면 장단점이 있을 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 해서 필터를 했는데 나쁜 거 제가 다 걸른 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.530,
+                "end": 11.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평수 너무 작은 거 세대수 너무 작은 거 하고 급지가 제일 높은 것 중에서 시세가 과거에 지금은 이제 한 번 올랐다 떨어졌으니까 많이 올랐다가 많이 떨어졌는데 고만고만 해요 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.142,
+                "end": 23.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 책에서는 김포를 예를 들었는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.004,
+                "end": 27.193
+            }
+        ]
+    },
+    "summary": "아파트 직접 보면 장단점이 있는데 책에서는 김포를 예를 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

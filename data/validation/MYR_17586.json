@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_17586",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "둘 다는 아닐 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.090
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런가 하하",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.100,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한쪽 쏠림은 있을 거거든요. 분명히",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.729,
+                "end": 6.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 투자를 할 때는 어 저는 이게 시기마다 정답이 있었다고도 봐져요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.030,
+                "end": 15.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시기마다 여기서 중요한 게 시기마다",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.678,
+                "end": 17.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.827,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "시세차익 현금 흐름 어떤게 좋냐고 물어보는데 한쪽 쏠림 현상은 분명이 있고 시기마다 다르다고 얘기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17586_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

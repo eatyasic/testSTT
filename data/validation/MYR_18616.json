@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18616",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 막상 그런 게 없다 그러면 이제 그 사람들은 문의하는 사람들은 괜히 엄한 부동산 소장님한테 대표님한테 뭐라고 하소연을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 왜 이렇게 차이가 나냐고 왜 없냐고 막 그런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.528,
+                "end": 11.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 2019년부터 4년째 분양권을 들고 있는 매도자가 초기 분양가와 비슷하게 팔 거 같냐 벌써 4년이나 들고 있는데 그런 경우는 거의 없을 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.050,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "사람들은 부동산 소장님이나 대표님에게 하소연을 할 것이고 2019년부터 4년째 분양권을 들고 있는 매도자가 초기 분양가와 비슷하게 파는 경우는 거의 없을 거라고 대답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18616_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19089",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.95,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그것에 대해서 완벽하게 한방에 정리하는 시간을 가져보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.335
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.345,
+                "end": 4.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여러분들 이제 세금에서는 조정 지역이 중요하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.898,
+                "end": 9.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠. 맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.348,
+                "end": 10.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 이제 조정 지역이 딱 네 군데밖에 안 남았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.124,
+                "end": 13.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보시다시피 강남 3구, 용산",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.749,
+                "end": 16.950
+            }
+        ]
+    },
+    "summary": "세금에서는 조정 지역이 중요한데 지금은 네 군데밖에 남아 있지 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

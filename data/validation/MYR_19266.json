@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_19266",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 5억에 팝니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이 만약에 A주택을 사 사 어 사고했던 과정을 개인으로 하잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.995,
+                "end": 8.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 개인이니까 소득세로 가죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.801,
+                "end": 11.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 요거는 부동산이니까 양도세 과세 대상 자산이고 대가 받았으니까 양도세가 나오는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.120,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "개인이 주택을 사고파는 과정에서 소득이 발생할 때의 세금을 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

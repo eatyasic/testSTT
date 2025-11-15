@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_17850",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.983,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바로 옆에 뚫리면 노하 노아 노나 뭐뭐라고 노다지라고 하나 그렇지만 저 옆에 뚫려도 무조건 영향을 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸 아무래도 안 뚫리는 것보다 나으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.025,
+                "end": 9.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무조건 돈이 되는 거거든 그렇게 그쪽에 해 놓으시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.015,
+                "end": 12.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 이쯤에서 약간 좀 바보 같은 질문을 제가 한번 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.422,
+                "end": 17.012
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 그러면 화성하고 평택이 나왔는데 저기 뭐 강원도 있지 않습니까 뭐 삼척.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.022,
+                "end": 23.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원도 강원도는 가능하면 관광지를 빼놓고는 관광지는 거의 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.065,
+                "end": 29.226
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 강릉 옛날부터 생긴 수영 해수욕장이 많잖아요 민박도 낡고 그렇잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.236,
+                "end": 37.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신선한 곳을 찾고 있어 사람들이 특별한 건 되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.115,
+                "end": 40.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 그냥 두메산골은 안됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.868,
+                "end": 43.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방금은 그냥 제 개인적인 사심이 가득한 예 그런 질문이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.810,
+                "end": 49.983
+            }
+        ]
+    },
+    "summary": "길이 옆에 나면 영향을 무조건 받고 강원도는 관광지를 제외하고 두메산골은 투자처로 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17850_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18339",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.659,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세 번째로는 많이들 기다리고 계시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 이 취득세, 중과세율 완화시키는 건데 2주택까지는 중과를 없는 걸로 하고 3주택 그리고 4주택 그리고 법인 같은 경우에 기존 대비 50퍼센트 낮춰서 12퍼센트라면 6으로 그리고 8퍼센트의 경우에는 4퍼센트로 낮추는 건데 이것도 마찬가지로 관련법을 바꿔줘야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.620,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "남성 화자가 취득세, 중과세율을 완화시켜 2주택까지는 중과를 없는 걸로 하고 3주택, 4주택, 법인 같은 경우에 기존 대비 50퍼센트로 낮추는 건데 이것도 관련법을 바꿔줘야 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18339_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18566",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러면은 저걸 하려면은 어 뭐 어디까지 제 개인적인 생각인데 갯수가 줄어서 오히려 더 이제 서울 심화 현상이 생길 수도 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 예를 들어서 그게 일정 한계를 넘어야 된다 그러면은 그때 같이 끼울 수 있는 게 주택 임대 사업자구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.592,
+                "end": 15.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 개가 엮여서 나올 수 있겠다 그래서 지금 원래 6월 1일부터 시행하기로 한 계도 기간",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.860,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "어디까지 개인적인 생각인데 갯수가 줄어서 더 서울 심화 현상이 생길 수 있고 예를 들어서 일정 한계를 넘어야 된다하면 같이 끼울 수 있는 게 주택 임대 사업자라서 두 개가 엮여서 나올 수 있겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

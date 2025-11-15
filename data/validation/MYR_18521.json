@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYR_18521",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.774,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 생각보다 좀 빨리 반등한 느낌은 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 아직까지는 올해 뭐 하반기 가을 여름 가을 같은 경우도 물량이 아주 많다 보니까 지금 입주할 때는 많이 힘들 겁니다. 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.692,
+                "end": 11.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.829,
+                "end": 12.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 분양권 같은 경우는 확실하게 내가 무조건 잔금을 치겠다라고 생각하고 들어가면 들어가면 저는 뭐 걱정이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.482,
+                "end": 20.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 실거주가 됐든 아니면 세 주고 나서라도 차액을 낼 수 있을 만큼 그니까 거의 한 분양가는 절반까진 떨어지잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.714,
+                "end": 27.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.541,
+                "end": 27.997
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전세 금액이 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.007,
+                "end": 29.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 부산 아 대구 같은 경우도 분양 금액이 한 5억 정도에서 지금 마이너스 프리미엄이 한 5천만 원이 났다 치면",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.091,
+                "end": 36.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이구야",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.135,
+                "end": 36.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 그렇게 난 단지가 많거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.613,
+                "end": 38.353
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 4억 5천이지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.363,
+                "end": 39.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4억 5천이면",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.647,
+                "end": 40.774
+            }
+        ]
+    },
+    "summary": "올해 하반기 같은 경우 아직까지는 물량이 많아서 입주할 때는 많이 힘들 건데 일단 분양권 같은 경우 확실하게 잔금을 치겠다고 생각하고 들어가면 걱정 없지만 대구 같은 경우 분양 금액이 5억 정도에서 마이너스 프리미엄이 실제 5천만 원이 난 단지가 많아서 전세 금액이 절반까지 떨어졌다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

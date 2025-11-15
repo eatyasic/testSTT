@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYR_19047",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.963,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 이 분이 이제 아니 근데 이 분 신고하셨을 때는 등이 없었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 등 이때는 등이 없었잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.713,
+                "end": 6.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "등이 없었잖아요 그러면 이제 납세자가 주장하신 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.702,
+                "end": 9.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 그때는 저기 그 그것만 한다고 하지 않았느냐 그랬더니 반박 자료를 한번 보시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.947,
+                "end": 17.503
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 반박 자료 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.513,
+                "end": 19.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 결과부터 보여드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.105,
+                "end": 20.305
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 결과부터 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.315,
+                "end": 21.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결과 심판소에 갔습니다. 심판소에 갔더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.504,
+                "end": 24.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.864,
+                "end": 25.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국세청 보도 자료를 등에는 등에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.472,
+                "end": 29.963
+            }
+        ]
+    },
+    "summary": "납세자가 신고했을 때와 규정이 달라서 심판소 결과의 국세청 반박 자료를 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18974",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.625,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 그 책 안에 약간 모습인데 살짝 보여드릴 살짝만 보여드릴게요. 살짝만",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이게 다 보여드리면 안 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.751,
+                "end": 7.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저작권 이슈가 있어서 어 제꺼긴 하지만 그래서 인제 요런 식으로 구성되어 있고 어 이렇게 되어있고 제가 이제 제 프롤로그에다가 네 이게 감사의 말을 좀 넣었거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.080,
+                "end": 20.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저희 와이프하고 아들 이름 딱 넣었더니 아들 보여줬더니 되게 좋아하더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.293,
+                "end": 25.625
+            }
+        ]
+    },
+    "summary": "저작권 이슈가 있어서 다 보여드릴 수는 없어서 살짝만 보여드리면 프롤로그에 아내와 아들 이름을 적었는데 아들이 무척 좋아했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18974_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYR_18180",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 채널 제네시스박 오늘은 @계정1 님 모셨습니다 안녕하십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 안녕하십니까? 반갑습니다. @계정1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.399,
+                "end": 13.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 어 이렇게 와 주셔서 그 굉장히 감사하고 흔쾌히 라이브를 이렇게 해 주셔서 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.403,
+                "end": 20.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 지금 이제 나중에 영상 보시는 분들은 아마 녹화 편집돼 가지고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.600,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "제네시스박 채널에 패널로 흔쾌히 나와주셔서 감사 인사를 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18180_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

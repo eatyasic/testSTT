@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_19253",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러고 아무것도 안 하고 있으셨어도 삼사 년 지났을 때 그때 내가 봤던 애들이 어떻게 달라졌는지 한번 정도만 체크해 보셔도 인생에서 부동산이 어떤 의미로 들어가야 되는지 자리 잡아야 되는지를 제대로 정의할 수 있는 그런 시간이 되지 않을까 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.603,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "여자는 자신이 봤던 매물이 나중에 어떻게 달라졌는지 정도만 확인해 봐도 부동산의 의미를 제대로 정의할 수 있는 시간이 되지 않을까 싶다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19253_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

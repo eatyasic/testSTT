@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYR_18625",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.396,
+        "format": "MP4",
+        "date": "2023-05-21",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직 후속 법 개정 작업은 이뤄지지 않고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이렇게 된 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.642,
+                "end": 5.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 여러분들이 이제 좀 생각을 해보셔야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.122,
+                "end": 8.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 이게 화면이 시커멓게 나오네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.182,
+                "end": 18.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 제가 이제 아이패드 연결을 해가지고 그거를 좀 보여드려야겠는데 그 부분이 조금 안됐네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.036,
+                "end": 25.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 제가 그러면 말로 설명을 드릴 테니까 한 번 이해를 해보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.648,
+                "end": 29.396
+            }
+        ]
+    },
+    "summary": "아이패드를 연결해서 보여드려야 하는데 연결이 안 돼서 말로 설명을 할 테니 이해를 해보라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18625_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

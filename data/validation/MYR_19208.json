@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_19208",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.445,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강남 3구 하고 용산구 외에는 지금 대한민국 전체에서 어디나 지금 거래가 가능해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 관리 처분 인가가 난 직후도 여기까지 나면은 한 80프로 끝난 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.733,
+                "end": 9.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밥상 다 차렸어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.733,
+                "end": 11.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숟가락만 딱 올려놓고 밥 퍼 먹으면 될 정도로 모든 게 끝났거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.231,
+                "end": 15.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 단계가 지나는 게 입주 건이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.848,
+                "end": 18.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 요 단계 지났을 때 고때 매수 그때 이제 매도를 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.883,
+                "end": 23.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 안전하게 사고 싶고 빨리 새 아파트 들어가고 싶어서 요때 매수를 원하신 분도 많기 때문에 요때 거래가 되게 잘 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.463,
+                "end": 30.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 이때는 뭐 물건이 와르르 나오냐 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.685,
+                "end": 33.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사업 시행 인가도 와르르는 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.877,
+                "end": 36.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팔 사람들 정도만 나오기 때문에 큰 무리 없이 제값 받고 팔기 딱 좋은 그런 매도 타이밍입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.081,
+                "end": 43.001
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 자 그러면은 지금.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.011,
+                "end": 45.445
+            }
+        ]
+    },
+    "summary": "여자는 강남 3구와 용산구를 제외하고 대한민국 전체에 어디나 거래가 가능하다고 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19208_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19126",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이게 한번 이렇게 법을 이렇게 쭉 따라가 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 숫자가 뭐냐 하면 자 보여드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.087,
+                "end": 5.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예예예.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.003,
+                "end": 6.558
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 일시 2주택에 대한 기한입니다 기한.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.568,
+                "end": 10.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 종전 주택 처분 기한 이 보시면 여기 이 98년도부터 제가 이제 찾아봤는데 이때는 2년이다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.302,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "제가 법을 따라가봤는데 이 숫자가 일시 2주택에 대한 기한이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19126_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19503",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요거를 일단 보시면 돼요 그러니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 연간 3억 원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.889,
+                "end": 2.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 그러니까 뭐 소득이 얼마를 벌었는데 5천 250만 원 뺀다고 했잖아요 고거를 빼고 남은 그 금액이 연간 3억 원 이하다라고 하면요 증권회사에서 원천징수를 해서 끝내버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.916,
+                "end": 14.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.536,
+                "end": 14.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신고할 필요가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.967,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "소득을 벌었을 때 5천 250만 원을 뺀 남은 금액이 연간 3억 이하라면 증권회사에서 원청징수를 해서 끝내버려 신고 할 필요가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

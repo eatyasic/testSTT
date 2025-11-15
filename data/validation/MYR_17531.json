@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYR_17531",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.711,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 사람이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이 아파트가 2억이다 칩시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.957,
+                "end": 3.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 2억인데 이게 2년 동안에 어 1억 8000으로 떨어졌어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.338,
+                "end": 8.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 갭 투자자 뭐 전세 임대 사업자는 2000만 원 떨어졌다고 아마 굉장히 억울해 할 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.769,
+                "end": 15.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이 월세 임대 사업자가 한 달에 100만 원 월세를 받는다면은 1년이면 1200 받죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.789,
+                "end": 23.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2년에 2400 받잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.327,
+                "end": 25.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 내가 자본 손실이 얼마예요. 마이너스 2000이죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.466,
+                "end": 28.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 내가 임대 수익으로는 2400만 원 벌으니까 이 자본 손익과 임대 수익을 합산하는 바이어스가 있단 말이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.652,
+                "end": 37.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 약간 착각이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.564,
+                "end": 39.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이러다 보니까 가격이 덜 노예가 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.311,
+                "end": 44.711
+            }
+        ]
+    },
+    "summary": "박사는 예를 들어 아파트 가격이 2억인데 1억 8000으로 떨어진다면 전세 사업자는 억울해 하지만 한 달에 100를 받는 월세 사업자는 손익과 임대 수익을 합산하는 바이어스로 손실이 아니라고 착각에 빠지게 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

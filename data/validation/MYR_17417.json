@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYR_17417",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정확하게는 8월 12일부터 다주택자 그리고 이제 법인 같은 경우에는 중과를 넣은 거죠. 중과",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 8퍼센트 12퍼센트 이렇게 가버리는 거죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.365,
+                "end": 13.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.302,
+                "end": 14.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이 8, 12 하니까 별로 와닿지 않는데 예를 들어서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.775,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "한 남성이 8월 12일부터는 다주택자 그리고 법인의 경우 8퍼센트, 12퍼센트 중과가 들어간다고 말하면서 예를 들어본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

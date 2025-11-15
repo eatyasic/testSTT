@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18114",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 마진율 어 내가 지금 재개발 투자를 했을 때 이 보상 마진의 크기가 얼마 나오냐 그리고 이 재개발 사업장에서의 사업 리스크가 어느 정도냐 이걸 딱 판단하고 투자 여부를 결정하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쭉 그렇게 해왔습니다 저는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.285,
+                "end": 11.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네 아주 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.738,
+                "end": 13.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그런데 그래도 이제 이제 뭐 나중에 수업을 들으시면 뭐 더 잘 아시고 이제 책 같은 거 봐도 알겠지만 일반적인 인식이",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.581,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "화자가 재개발 투자를 했을 때 보상 마진의 크기와 사업장의 사업 리스크를 판단하고 투자 여부를 결정하라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18114_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

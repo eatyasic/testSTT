@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYR_19159",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그전에 과세 어떤 근거가 없었을 때는 과세를 못 할 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근거가 없으면 법에 근거도 없는데 무슨 근거로 과세를 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.653,
+                "end": 10.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 재산권을 침해할 수 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.536,
+                "end": 12.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 법인은 그게 가능하다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.646,
+                "end": 14.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈을 벌었어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.278,
+                "end": 15.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비트코인으로?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.368,
+                "end": 16.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그럼 세금 내.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.343,
+                "end": 17.139
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인세는 이렇게 되면 끝나는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.149,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "과세 근거가 없을 때는 과세를 못하지만 법인은 그게 가능하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19159_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_18486",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.154,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 담보대출이 아직 그렇게 풀리지 않았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.916
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼마 정도 나오나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.926,
+                "end": 4.835
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 다 다르겠지만 케이스가",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.845,
+                "end": 6.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 DSR을 그대로 보기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.305,
+                "end": 8.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면 좀 갑자기 한숨이 나오네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.478,
+                "end": 11.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "DSR을 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.745,
+                "end": 13.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 기존 대출이 있으면 이제 대출이 나오기가 힘들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.817,
+                "end": 17.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아니면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.797,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "기존 대출이 있으면 대출이 나오기가 힘들다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

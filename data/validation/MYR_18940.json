@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_18940",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.75,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여덟째 마당 그리고 권말 부록까지 양이 어 상당합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.005,
+                "end": 4.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 준비마당은 부동산 절세를 공부해야 하는 이유 특히 세금은 나하고는 상관이 없어라고 하시는 분들도 꼭 이렇게 보셨으면 하는 마음에서 준비를 했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.731,
+                "end": 14.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫째 마당이 이제 취득세죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.352,
+                "end": 16.750
+            }
+        ]
+    },
+    "summary": "책 내용이 상당히 많으며 그중 준비마당은 부동산 절세를 공부해야 하는 이유 첫째 마당은 취득세 관련 내용이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17459",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.191,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 열 달",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.604
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 약간 좀 외람된 말씀이지만 이거는 잘 된 케이스죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.614,
+                "end": 4.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 엔피엘을 뭐 저 솔직히 얘기하니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.578,
+                "end": 8.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 제가 대부업을 하면서 보통은 이제 다 담보 대출 요청한 사람들한테 담보를 잡고 돈을 빌려 주는 업무만 계속하다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.538,
+                "end": 17.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엔피엘은 이제 연체가 심하다 보니까 제가 구조를 대부업체 구조를 회원들하고 수익 구조를 엔피엘을 바꿔 가지고 작년에 첫 번째 사례예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.012,
+                "end": 27.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니깐 뭐 실패 사례가 나올 게 없는 게 1건 해서 성공 1건 한 거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.599,
+                "end": 31.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그렇지만 이제 어 우리 뭐 이제 자막도 나가겠지만 항상 여러분들 이제 최종 의사 결정을 좀 하셔야 되고요. 어 거 거기에 대해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.256,
+                "end": 39.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 그러면은 뭐 아까 잠깐 뭐 유튜브 하고 카페도 말씀하셨는데 이거 뭐 가르쳐 주시는 강의 같은 것도 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.434,
+                "end": 45.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 강의도 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.359,
+                "end": 46.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 제가 엔피엘 개인이 할 수 있는 엔피엘도 또 뭐 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.398,
+                "end": 50.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 근저당을 은행이 설정한 거는 은행권은 뭐 일반인이 못 사지만 개인이 설정한 거라든가 뭐 그냥 일반 회사",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.897,
+                "end": 58.191
+            }
+        ]
+    },
+    "summary": "방송 게스트는 대부업을 하는 사람인데 담보를 잡고 돈을 빌려주는 업무를 하다가 처음으로 엔피엘의 수익구조를 바꿨는데 잘 됐다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

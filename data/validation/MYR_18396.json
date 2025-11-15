@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYR_18396",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 제일 좋은 게 9호선 라인, 5호선 라인이더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.134
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 9호선 라인으로는 갔더니 동쪽으로 가면 힘들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.144,
+                "end": 7.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 동쪽, 동쪽 힘들어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.976,
+                "end": 9.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서쪽으로 가야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.527,
+                "end": 10.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서쪽으로 갔더니 가양동 성지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.475,
+                "end": 12.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가양동.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.680,
+                "end": 13.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 단지들이 있더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.733,
+                "end": 15.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 평수가 좀 작습니다 오래됐고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.503,
+                "end": 18.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 조금 더 가면은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.640,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "여성 화자가 제일 좋은 게 9호선, 5호선 라인인데 가양동은 오래됐고 평수가 작다고 조금 더 가본다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

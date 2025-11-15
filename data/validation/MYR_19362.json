@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_19362",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.977,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관점에서 쓴 거예요 그래서 우리 우리가 이제 부동산을 취득하고 보유하고 이런 처분하는 각 단계에서 각 전문가들이 바라본 포인트를 기술을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 제가 쓴 부분은 이제 그 부동산을 취 취득하고 보유하는 이런 단계에서 어 법무사로서 많은 분들이 이 정도는 알고 계시면 좋겠다라는 부분을 일종을 썼고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.393,
+                "end": 20.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주로 뭐 이제 어 부동산 등기부 등본이나 대장을 보는 방법 그리고 취득세 관련된 부분 그리고 뭐 주택 임대차 이런 부분들을 어 중점적으로 기술을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.992,
+                "end": 32.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 제가 좀 물어볼게 이제 막 많아집니다 생각이 납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.114,
+                "end": 35.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쨌든 그 전에 좀 몇 가지만 좀 더 여쭤 본다면은 어 저는 이 책이 그 전문직의 시각 이게 이제 굉장히 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.733,
+                "end": 43.977
+            }
+        ]
+    },
+    "summary": "화자1은 부동산 등기부 등본, 대장을 보는 방법, 취득세 관련 부분을 중점으로 하여 부동산을 취득하고 처분하는 단계에서 전문가들이 바라본 포인트를 책에 기술했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19362_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYR_19028",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.89,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흔히 말하는 이 꼬마 빌딩에 대한 감정 평가에 대한 얘기를 좀 해 보려고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.865
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼬마 빌딩",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.875,
+                "end": 11.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 꼬마 빌딩 흔히 말하는 꼬마 빌딩.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.432,
+                "end": 13.352
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.362,
+                "end": 14.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이제 우리 자산가 분들이나 또 어떤 상가를 하나 갖고 계신 분들이 이 증여를 해 주시려는 니즈가 항상 있으세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.182,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "자산가나 상가를 갖고 있는 사람들은 항상 증여를 해주려는 욕구가 있다고 말하며 꼬마 빌딩에 대한 감정 평가에 대해 이야기를 해 보려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19028_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

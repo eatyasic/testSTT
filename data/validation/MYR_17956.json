@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_17956",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러시리라고 저도 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이제 제가 들어갔던 거는 업계에 진출 했던 거는 그런 우연치 않은 기회에 어떻게 들어가게 됐는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.275,
+                "end": 7.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 1년 정도를 지나서 업무를 하면서 1년 정도 후에 제가 딱 느꼈던 게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.858,
+                "end": 13.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 직업이 정말 괜찮은 직업이구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.596,
+                "end": 16.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 면에서?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.695,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "업계에 진출 했던 건 우연치 않은 기회에 들어가게 되었지만 1년 정도 업무를 해보니 이 직업이 괜찮은 직업이라고 느끼게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17956_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

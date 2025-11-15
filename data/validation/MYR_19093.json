@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_19093",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이건 이제 이미 예고가 돼 있었던 것이기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.817,
+                "end": 4.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시가 표준액에서 시가 인정액 용어가 헷갈리실 수 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.211,
+                "end": 8.448
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.458,
+                "end": 8.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시가 표준액은 이제 시가 인정액은 말 그대로 거래되는 가격.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.808,
+                "end": 14.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것을 이제 시가 인정액으로 보시면 되겠고 시가 표준액이라는 것은",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.529,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "시가 인정액은 말 그대로 거래되는 가격을 의미한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

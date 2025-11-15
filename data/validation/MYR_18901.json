@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_18901",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.085,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쫌 재력이 되시는 분들은 그걸 뭐 사적으로 계도 하시고 예전에 뭐 계주가 있고 이거를 개별적으로 굴리고 이랬는데 요즘 이 계도 제도권으로 많이 넘어왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "펀드로 많이 운용되고 이런 식으로 많이 선형, 선호를 하시거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.254,
+                "end": 12.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.466,
+                "end": 12.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저는 그 운용 방향 중에 하나로",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.799,
+                "end": 18.085
+            }
+        ]
+    },
+    "summary": "화자1은 재력이 있는 사람들은 사적으로 계를 하기도 했었는데 요즘은 계도 제도권으로 많이 넘어왔다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

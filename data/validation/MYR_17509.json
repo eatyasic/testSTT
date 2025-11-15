@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYR_17509",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.813,
+        "format": "MP4",
+        "date": "2023-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이런 것들을 꼭 알아야 되고 여기 이거 외에도 국내 소재 주택이냐 우리가 지금 비과세도 꼼꼼하게 얘기하는데 내가 내가 미국에 가지고 있는 부동산에 대해서 비과세 해주겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 미국 세수가 빵구가 나는데 어 그건 안 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.146,
+                "end": 14.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조정 대상 지역 해당 여부 취득 당시 그리고 2년 이상 거주 여부 겸용 주택 여러 가지를 봐야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.653,
+                "end": 22.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여러분들이 1세대 주택 비과세에 대해서 너무 쉽게 생각하시는데 절대 그러시면 안 되고 요게 안 되어있다 그러면은 1세대 1주택 비과세 뭐 거주 다 깨질 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.021,
+                "end": 31.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 조심해야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.931,
+                "end": 33.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아시겠죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.405,
+                "end": 34.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 자 도움 되셨다면 좋아요 구독 부탁 드리고요. 여러분의 좋아요가 영상 제작에 큰 힘이 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 34.547,
+                "end": 41.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시청해 주셔서 고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 41.136,
+                "end": 46.813
+            }
+        ]
+    },
+    "summary": "남성이 1세대 1주택 비과세 혜택을 위해 알아야 될 것들을 말해 주고 여러분들이 너무 쉽게 생각하시는데 절대 그러면 안 된다고 당부한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYR_18707",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.584,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 입주가 몰려 있어 가지고 또 가장 크게 흔들린 지역이 평촌인데 앞으로 또 입주 물량이 있어서 가격이 또 흔들릴 거고 다른 애들에 비해 가격이 안 움직이고 좀 갈 수 있는 또 지역의 평촌이라서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면은 아까 이제 좀 안전 제한 투자를 생각했는데 우리 구독자분들 중에서도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.654,
+                "end": 17.584
+            }
+        ]
+    },
+    "summary": "입주 물량이 있어서 가격이 또 흔들릴 거고 다른 애들에 비해 가격이 안 움직이고 좀 갈 수 있는 지역의 평촌이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

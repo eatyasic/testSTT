@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18702",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일산 평촌 뭐 산본까지 지역 분석이 잘 되어 있는데 아까 전에 말씀드린거 드렸던 거처럼 제가 특히 또 아는 동네 나오면 반갑기도하고 아 또 잘 모르는 곳들은 아 여기도 한번 가봐야 겠다 그런 생각들더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기 이제 주관적으로 제가 여쭤보고 싶은데 @이름1 개인적으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.304,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "책에 지역 분석이 잘 되어 있는데 아까 전에 말씀드렸던 거처럼 특히 또 아는 동네 나오면 반갑기도하고 또 잘 모르는 곳들은 아 여기도 한번 가봐야 겠다 그런 생각이 든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

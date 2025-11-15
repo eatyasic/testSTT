@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18102",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "항상 단순히 부동산 투자를 하는 게 아니라 내가 이 주거 환경을 계산하는 사업가적 마인드 그거가 꼭 필요 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 꼭 필요 하기 때문 항상 그거에 대한 마인드 아까 제네시스박님 잠깐 말씀하셨지만 어디가 좋아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.941,
+                "end": 15.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 여기가 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.201,
+                "end": 16.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그냥 딱 사면 편하시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.389,
+                "end": 18.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 문제는 뭐냐 하면",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.809,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "화자가 부동산 투자 시 사업가적 마인드가 필요하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

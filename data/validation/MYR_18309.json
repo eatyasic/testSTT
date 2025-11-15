@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18309",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.692,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 좀 초대받아서 왔는데 너무 제가 영광입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 제가 조금 음 욕심이 있다면은 어 이렇게 이 부동산 절세 절세도 강의하면서도 유명하신 이 부동산 세금에 대한 우리 제네시스박님 하고 이 천자봉이 한 번 경매를 조합해가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.716,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "초대 받아서 얘기를 하게 된 소감을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

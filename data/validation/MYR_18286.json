@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18286",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.728,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일각에서는 무산될 수 있다는 관측도 나오고 있다 사실.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 요게 지금 굉장히 좀 뼈아픈 안좋은 어 그런 지금 분위기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.329,
+                "end": 9.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 하 슬픈 예감이 꼭 틀린적이 없는데 이번에 좀 틀리기를 바라고 이게 지금 2월달에 원래 임시국회 열어가지고 개정하기로 했었거든요 근데 벌써 지금 몇 월입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.507,
+                "end": 20.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일 모레 7월이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.937,
+                "end": 22.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 조금 이게 어떻게 될지 저도 좀 염려됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.312,
+                "end": 28.728
+            }
+        ]
+    },
+    "summary": "법 개정안이 무산 될 수도 있다는 예측이 나오고 있다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

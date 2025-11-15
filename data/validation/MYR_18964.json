@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_18964",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "목차를 보면은 메뉴를 보면은 세금 및 재테크 공부에서 부동산 절세 무작정 따라하기라고 제가 아예 카테고리를 넣어 놨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 인제 관련된 내용 이쪽에다가 제가 계속 업데이트할 테니까 보시면 되고 어 검색하는 건 아시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.653,
+                "end": 13.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이라고 검색하셔 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.820,
+                "end": 15.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 중간에 한 칸 띄지 마세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.988,
+                "end": 17.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 칸 띄면",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.396,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "세금 및 재테크 공부 메뉴 중 부동산 절세 무작정 따라하기 카테고리에 계속 업데이트할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18964_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

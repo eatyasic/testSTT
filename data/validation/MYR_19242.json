@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_19242",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2023-03-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 아셨으니까 이런 일 뭐 눈도 꿈쩍 안 하고 막 좀 이렇게 무섭게 막 이런 사람인 줄 알았는데 이런 얘기 듣고 되게 놀라셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 진짜 그런 마음이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.663,
+                "end": 8.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.760,
+                "end": 9.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 얘기하는 게 집에 대한 이야기잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.441,
+                "end": 11.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 영상 댓글에서 가장 제가 마음을 마음 마음이 갔던 댓글이 뭐냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.482,
+                "end": 16.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.992,
+                "end": 17.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 50이 다 되는데 이제 4월에",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.502,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "여자는 자신의 영상 댓글에서 가장 마음이 갔던 댓글을 소개하려고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19242_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

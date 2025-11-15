@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYR_18750",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.398,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인에 매각하는 것도 있고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이것도 좀 약간 좀 리스크가 있어요. 왜냐면 법인 같은 경우엔 취득세가 12퍼센트 나오잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.599,
+                "end": 7.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면은 정말 이것도 그렇긴 한데. 교환?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.503,
+                "end": 12.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 교환은 의미가 없죠. 왜냐면 종전 주택을 교환하는 게 그나마 방법이니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.981,
+                "end": 17.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그래서 조금 그래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.623,
+                "end": 19.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이거, 이거, 요건데 약간 이거는 좀 그렇긴 하다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.444,
+                "end": 23.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법인하면 취득세가 너무나 많이 나오니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.598,
+                "end": 26.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 저는 좀 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.145,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "법인에 매각하는 건 취득세 때문에 리스크가 있고 종전 주택을 교환하는 방법도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18750_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

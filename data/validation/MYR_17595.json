@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYR_17595",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.566,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 항상 이제 우주를 보죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우주 하하",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.642,
+                "end": 2.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 비행기가 우주를 넘어 가려면 뭐가 필요하지라고 했을 때 그 발사체가 필요 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.993,
+                "end": 9.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그쵸 추진력",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.360,
+                "end": 10.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추진력 이게 없으면 그 대기권을 전 못 벗어난다고 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.446,
+                "end": 14.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그쵸 그럼 그 추진력은 어떻게 구해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.447,
+                "end": 16.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 추진력이 뭘까라고 한 번 생각해 본 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.865,
+                "end": 19.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.951,
+                "end": 20.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐지 추진력이 단순 실행력인가 그것 보다는 제가 생각한 게 뭐냐면 그 중력을 이겨내는 돌파력인데 이게 두 가지가 있어야 되겠더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.773,
+                "end": 30.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 가지",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.971,
+                "end": 31.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 가지는 뭐냐면",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.659,
+                "end": 33.566
+            }
+        ]
+    },
+    "summary": "전문가는 성장 하기 위해 우주를 본다고 비유를 하며 발사체가 필요한데 추진력이 있어야 발사 할 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17595_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

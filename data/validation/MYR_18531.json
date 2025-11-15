@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_18531",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2023-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 북대구 같은 요런 범어동 마천동 일부 근데 지금 부산은 전 좀 괜찮다고 보거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시작이 좋다라는 속도 같은 경우가 다른 광역시에 비해서 부산은 좀 더 좋아진다고 보는데 뭐 특히 해운대나 뭐 동래구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.348,
+                "end": 13.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이런 쪽으로 좀 보고 있고 그리고 광주 같은 경우도 최근에 광주에 광주는 분양 단지가 그렇게 많지는 않은데 최근에 지금 분양할려고 하는 단지를 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.337,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "부산은 괜찮다고 보는 게 다른 광역시에 비해서 해운대나 동래구 이런 쪽으로 좋아진다고 보고 있고 광주 같은 경우는 분양 단지가 많지 않다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYR_19335",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.56,
+        "format": "MP4",
+        "date": "2023-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요게 이제 제 카페에서도 간단히 좀 제가 카페에다가 이런 기사가 나오면 소식이 나오면 간단하게 써서 올리고 있는데 이렇게 되는거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방세법 개정 추진이 23년 2월 예정이에요 예정 예정.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.098,
+                "end": 14.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이때 만약에 예정대로 정부안대로 지방세법이 개정이 되면은 요거를 요렇게 해 가지고 22년 12월 21일 취득하는 것부터 소급 적용 시켜 주겠다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.467,
+                "end": 27.560
+            }
+        ]
+    },
+    "summary": "지방세법이 예정대로 23년 2월에 추진이 되면 22년 12월 21일 취득분 부터 소급 적용 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19335_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

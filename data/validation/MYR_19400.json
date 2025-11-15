@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYR_19400",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 51.651,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이건 어쩔 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 세금은 어 여러분들이 어 국가 입장에서 한번 생각을 해보시면 심플해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.251,
+                "end": 7.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 여러분들이 가계에서 이렇게 우리가 살림을 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.810,
+                "end": 12.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 밖에서 누군가 돈을 벌어 오면은 안에서 그걸 살림을 하면서 소비와 지출을 제대로 통제하면서 이거를 인제 가져가면서 제대로 인제 가 가계를 꾸려나가는 거 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.186,
+                "end": 23.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 그때 예를 들어서 직장인 월급을 받는다 한 달에 뭐 500만 원 받는다 그러면 그 500만 원이 굉장히 소중한 돈이잖아요 맞죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.439,
+                "end": 29.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국가 입장에서도 마찬가지예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.897,
+                "end": 31.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국가에서 예산을 세우고 그걸 가지고 여러 가지 일을 하는데 그 예산에서 충당하는 게 대부분 다 뭐 대부분 다 세금이지 않겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.762,
+                "end": 39.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그 세금에 대해서 내가 걷을 수 있는 거를 못 걷었다 이건 말이 안 되는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.961,
+                "end": 44.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러기 때문에 이런 것들을 깐깐하게 볼 수 밖에 없습니다 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 44.615,
+                "end": 51.651
+            }
+        ]
+    },
+    "summary": "국가에서 예산을 세워 세금을 걷는데 걷을 수 있는 세금을 못 걷으면 안 되기 때문에 요건을 깐깐하게 볼 수 밖에 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

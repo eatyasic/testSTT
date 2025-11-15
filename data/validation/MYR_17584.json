@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17584",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2023-08-23",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 이해를 해야 아 이거 잘 안 나겠구나 판단 할 수 있을 거 아녜요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 그 종목에 대해서 업종에 대해서 그때 가서 공부하자 내가 어차피 임차인이 병원인데 굳이 스크린 골프를 공부 할 필요는 없잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.355,
+                "end": 12.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.831,
+                "end": 13.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런식으로 그래서 물건 공부 임차인 공부 여차하면 내가 거기다가 내 업을 하자 내가 스크린 골프 공부 다 해 놓으면 어떻게 되는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.356,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "전문가는 상권을 이해를 해야 판단을 할 수 있다고 말하며 스크린골프 업종에 대해 얘기 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

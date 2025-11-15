@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYR_18289",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.33,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 시장을 계속 보셨잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 네 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.059,
+                "end": 8.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 계속 이쪽에 몸담으셨기 때문에 어 우리 또 이제 구독자분들이 궁금한 게 지금 현재 부동산 시장이 좀 어떤지 좀 제가 대표님 개인적인 의견을 좀 여쭤보고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.752,
+                "end": 18.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 보십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.906,
+                "end": 19.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 저 최근에 보니까 뭐 우리 저 다세대 같은 원룸 빌라는 뭐 전세사기 때문에 상당히 이 선호도가 좀 많이 떨어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.543,
+                "end": 30.330
+            }
+        ]
+    },
+    "summary": "부동산 시장에 대한 의견을 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18289_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

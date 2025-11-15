@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYR_17997",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.155,
+        "format": "MP4",
+        "date": "2023-07-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미리 보는 세법 개정안 해 가지고 크게 2가지였잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증여세하고 부동산 양도세 이 2가지로 나눴는데 사실 여러분들이 더 관심 있는 건 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.011,
+                "end": 7.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 포함해서 주택 임대 사업자 그리고 취득세 이거 아니에요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.516,
+                "end": 11.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 취득세는 지방세법이니까 지금 나오는 7월 세법 개정은 국세에요 국세.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.663,
+                "end": 17.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 이제 끝나고 나서 이제 행안부에서 한 8월 정도에는 내지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.326,
+                "end": 22.155
+            }
+        ]
+    },
+    "summary": "미리 보는 세법 개정안으로 증여세와 부동산 양도세에 대해 알아봤는데 사실 여러분들이 관심 있는 건 주택 임대 사업자와 취득세일 것인데 일단 취득세는 지방세법이기 때문에 8월 정도에 행안부에서 내지 않을까 생각하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

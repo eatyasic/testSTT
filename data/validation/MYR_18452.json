@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYR_18452",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 경매가 유리하겠구나 이런 어떤 선택을 할 수 있게끔 좀 만들고 싶다라는 생각이 계속 있었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 질문을 듣고 답답한 것도 있었고 그래서 이제 처음에 시작하시는 분들이",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.788,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "나는 사람들이 어떤 선택을 할 수 있게끔 만들고 싶다라는 생각이 계속 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18452_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

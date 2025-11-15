@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYR_19399",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.759,
+        "format": "MP4",
+        "date": "2023-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 거주 주택에 대해서 이렇게 비과세를 먼저 받았잖아 이렇게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비과세를 받았는데 나중에 등록한 임대 주택 요건을 다 갖췄는데 중간에 뭐 의무 임대 기간을 다 채우지 못하고 중간에 팔아 버리잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.979,
+                "end": 9.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이거 깨지는 거예요 음 깨져 그러면은 비과세를 못 받아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.924,
+                "end": 14.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 중간에 어 이렇게 전수 조사를 하고 어 뭔가 이게 비과세 감면을 잘못 받은 경우 우리가 잡아가야 되지 않겠냐 이런 거죠 과세 당국 입장에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.191,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "거주 주택에 대해서 비과세를 받았는데 중간에 임대 기간을 채우지 못하고 파는 경우 비과세를 받으면 안되니 중간에 과세 당국이 전수 조사를 해서 이런 식으로 비과세 감면을 잘못 받은 경우에 바로 잡는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19399_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17953",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.771,
+        "format": "MP4",
+        "date": "2023-07-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 좀 큰 사무실들 중개 사무실 중에 좀 큰 사무실들을 몇 군데 면접을 보고 이제 그렇게 시작한 게 한참 열심히 하다가 되돌아보니까 지금 20년이 지난 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 20년 전이면은 뭐 그때 그 당시 한일 월드컵 그때였겠다 그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.381,
+                "end": 17.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠 아버지가 돌아가신 해가 이제 그해였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.992,
+                "end": 20.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 굉장히 안 좋은 상태로 아버지 돌아가신 해가 그래서 우리가 2002년도 하면 많은 분들이 다 축제로 기억하잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.262,
+                "end": 26.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 기억",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.817,
+                "end": 27.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 근데 저는 2002년도의 기억이 저는 사실 그렇게 좋은 기억은 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.617,
+                "end": 32.492
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아 저는 사실 이 질문을 드리면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.502,
+                "end": 37.771
+            }
+        ]
+    },
+    "summary": "많은 분들이 20년 전인 2002년을 한일 월드컵 때문에 축제로 기억하지만 저에게는 아버지가 돌아가신 해이기 때문에 2002년도의 기억이 사실 좋진 않습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17953_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

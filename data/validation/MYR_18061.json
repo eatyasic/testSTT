@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYR_18061",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엄청납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오피스텔이 오피스텔이",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.779,
+                "end": 2.351
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오피스텔이 6500이요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.361,
+                "end": 3.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그게 이제 가을에 분양을 할 거고 거기에 아파트 시0행사가 아파트는 평당 분양가를 1억 2 천원 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.625,
+                "end": 12.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.633,
+                "end": 13.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 제일 작은 평수가 60평이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.616,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "화자가 오피스텔과 아파트에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18061_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

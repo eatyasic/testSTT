@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYR_18895",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.782,
+        "format": "MP4",
+        "date": "2023-04-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알아서 길을 찾으시겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저는 이번에 상대적으로도 쫌 소자본을 가지고도 매장 유치한 사례를 쫌 소개을 해 보고자 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.101,
+                "end": 6.554
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네, 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.564,
+                "end": 7.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 중장년충 되면 앞으로 이제 그 이 자산 배분을 이전보다는 약간은 더 안전하게 하셔야 될테구, 그전보다는 이 공격적인 투자를 하기 쫌 어려울 텐데 그러다 보면 자산 배분에서 되게 잘게 잘게 짤릴 여지도 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.010,
+                "end": 25.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 잘게 잘게 짠 걸 가지고 내가 스타벅스 접근을 하려고 하면 되게 쫌",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.381,
+                "end": 31.782
+            }
+        ]
+    },
+    "summary": "화자1은 상대적으로 소자본을 가지고도 매장를 유치한 사례를 소개해보겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18895_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

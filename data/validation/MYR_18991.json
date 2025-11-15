@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18991",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2023-03-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 소득에 대한 데이터가 건보공단에 통보가 되면 건보공단은 2022년 11월부터 2023년 10월까지 부과를 하는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그러니까 이제 21년도꺼를 우리가 이제 그다음연도 5월달에 신고를 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.196,
+                "end": 14.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기본적으로 종합소득세 신고를 하니까 그러면 그 5월달에 신고가 되면 그게 인제 곧바로",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.798,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "21년도 소득에 대한 데이터가 건강보험공단에 통보가 되면 2022년 11월부터 2023년 10월까지 부과가 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18991_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

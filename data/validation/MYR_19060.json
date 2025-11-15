@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYR_19060",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.158,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 개별 단독 주택 단독 주택은 이거를 개별 단독 개별 주택 가격이라고 부릅니다 개별 주택.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아파트나 빌라는 공시하는 것을 공동 주택 가격이라고 말합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.218,
+                "end": 12.288
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.298,
+                "end": 12.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 가격을 가지고 우리가 재산세를 부과를 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.690,
+                "end": 16.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.739,
+                "end": 17.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 2개는 4월 달 4월 말에 고시하고 이거는 5월 말에 보통 고시를 하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.330,
+                "end": 23.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.500,
+                "end": 23.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.990,
+                "end": 25.158
+            }
+        ]
+    },
+    "summary": "개별 단독 주택은 개별 주택 가격이라고 부르고 아파트나 빌라는 공동 주택 가격이라고 말하며 4월 말에 고시를 하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_19060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_17432",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2023-09-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돈을 벌 수 있는 그게 있다고 하는데 그 수익 구조가 뭐예요. 그러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 엔피엘 수입 구조는 이제 이런 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.820,
+                "end": 6.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그니까 예를 들어서 은행에서 이제 뭐 1억 짜리 집을 예를 들게요. 1억짜리 뭐 주택의 시세가 1억이라고 가정을 하고 은행에서 이제 이 소유주가 뭐 한 6000만 원",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.707,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "흰색 상의를 입은 남성이 엔피엘의 수익 구조가 어떻게 되냐고 물었고 검은색 상의를 입은 남성이 시세가 1억 원인 집의 예를 들어 설명하고자 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYR_17697",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.358,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 뭐 미국 LA 근처에 있는 좀 문화 지역들 있잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 지역들은 아직까지도 근데 방어를 잘하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.619,
+                "end": 7.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오퍼 미국은 또 경매시스템이니까 뭐 예를 들어 100만 불에 내놨다 그러면은 그 지역에 있는 집이다 그러면은 아직까지도 뭐 105만 불, 110만 불에 오퍼가 들어오기도 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.276,
+                "end": 17.547
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그 경매시스템이라는 게 그러면은 이제 내 물건을 뭐 100만 불에 내놓으면 그걸 보고 나는 그럼 100만 불 콜",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.557,
+                "end": 25.358
+            }
+        ]
+    },
+    "summary": "남성은 미국 LA 지역 같은 경우는 아직 부동산 경매가 잘 이루어지고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17697_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYR_17876",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.63,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "딱 뜨는데 거기에 중개 사무소 이름, 대표자 이름, 전화번호 그 옆에 등록 일자가 떠요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 등록 일자가 곧 개업일이에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.815,
+                "end": 7.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오래될수록 좋 약간 오래됐다는 거죠",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.730,
+                "end": 10.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 좀 오래될수록 이제 다 그런 건 아니에요",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.227,
+                "end": 12.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 오해하시면 안 되는 게 뭐 오래되신 분은 무조건 일 잘하고 뭐 그건 아니지만 그래도 일반분들이 조금 구별하실 수 있는 방법 중에 오래되신 분들이 건물주 분들하고 좀 친분이 있을 그럴 확률도 높고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.061,
+                "end": 24.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 이제 그쪽 사정을 좀 더 잘 아실 가능성이",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.250,
+                "end": 26.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠 그리고 친분이 있다는 거는 즉 조율을 좀 더 잘 할 수 있다는 얘기거든요",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.410,
+                "end": 30.630
+            }
+        ]
+    },
+    "summary": "지역에서 오래된 공인중개사가 건물주하고 친분이 있어 조율을 더 잘할 수 있는 확률이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17876_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

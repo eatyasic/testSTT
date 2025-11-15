@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "filename": "MYR_18639",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 74.374,
+        "format": "MP4",
+        "date": "2023-05-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5월은 가정의 달 그리고 증여세 절세 가정의 달이 아니라 증여세 절세의 날입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두꺼비 티비 @이름1 세무사 노파심에서 하는 말인데 이 두꺼비는 여러분들이 생각하는 두꺼비는 아니고 들어올 때 꺼내보는 비법.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.605,
+                "end": 20.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 그렇죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.518,
+                "end": 21.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 갖다 붙이기는 했지만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.757,
+                "end": 23.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 잘 기억에 남을 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.312,
+                "end": 26.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 세무사님께 우리 한번 어떤 내용인지 들어보도록 하겟습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.273,
+                "end": 30.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 반갑습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.071,
+                "end": 31.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 5월달에 이제 증여세 절세의 달이라고 제가 이제 타이틀 한 번 써봤는데 아무래도 이제 가정의 달이시다 보니까 요즘 모임도 많고 그러실 텐데",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.309,
+                "end": 39.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 가끔 뭐 사업하시는 분들은 종합소득세 신고 놓치시면 안 되듯이 이 증여세도 약간 절세 타이밍인 거 같아 가지고 어 사실 17년 82대책 이후에 증여할 수 있는 타이밍이 몇 번 있었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.420,
+                "end": 51.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 취득세가 변경되기 전에 다양한 양도 소득세가 또 변경되기 전에 그런 포인트들이 있었는데 이번에도 포인트가 생겨서 그걸 한 번 말씀드려보려고 준비를 한번 해봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 51.619,
+                "end": 63.018
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "처음에 이제 말씀드릴게 이 부분이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.028,
+                "end": 65.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 5월달에 왜 증여를 해야 되는지 간단하게 말씀드리고 그다음에 그게 왜 그런지 이유들을 쭉 설명한 다음에 마지막에 결론 도출 한번 해보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 65.189,
+                "end": 74.374
+            }
+        ]
+    },
+    "summary": "5월은 가정의 날이 아닌 증여세와 절세의 날이라고 타이틀을 써봤는데 양도소득세가 변경되기 전에 포인트가 생겨 말씀을 드리기 위해 준비를 해보았고 5월에 증여를 해야 되는 이유와 결론도출도 해보도록 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18639_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

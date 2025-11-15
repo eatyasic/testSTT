@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYR_18122",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.717,
+        "format": "MP4",
+        "date": "2023-07-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘 안 팔려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그러겠네 그러니까 거의 이제 강제로 그냥 가지고 있어야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.803,
+                "end": 4.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 제네시스박님 유튜브를 대게 자주 보는데 그래서 저는 세금은 잘 모르지만 주택 임대 사업자에 관심이 되게 많고 저는 현재 빌라를 주택 임대 사업자로 접근하는 거는",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.106,
+                "end": 17.717
+            }
+        ]
+    },
+    "summary": "화자가 주택 임대 사업자에 관심이 되게 많다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_18122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

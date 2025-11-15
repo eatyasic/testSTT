@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYR_17428",
+        "category": "금융/비즈니스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.865,
+        "format": "MP4",
+        "date": "2023-09-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 저는 아주 굉장히 보수적으로 보는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 될지도 모르는 거고 그리고 내년 총선이나 좀 지나야지 뭔가 나오지 않을까요 그랬는데 이 기사를 보니까 약간 이게 사회에서 나올 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.121,
+                "end": 11.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그렇게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.523,
+                "end": 13.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 별 내용은 없죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.430,
+                "end": 15.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그런데 이제 우리가 이번에 한번 기존에 나왔던 정부 보도 자료 같은 거 보면서 한번 되짚어 보는 시간을 가져봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.199,
+                "end": 23.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후속 조치가 어떻게 되는지 궁금하신 분들은 구독하시고 알림 설정하시면 제가 새로운 소식 나오면 곧바로 어 말씀을",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.187,
+                "end": 31.865
+            }
+        ]
+    },
+    "summary": "한 남성이 본인은 이 법안 통과에 대해서 보수적으로 보고 있으며 내년 총선이 지나야 뭔가 나올 수도 있다고 생각한다고 하며 후속 조치가 어떻게 되는지 궁금하신 분들은 유튜브 채널 구독하시고 알림 설정하시면 새로운 소식 나오면 곧바로 말씀드리겠다고 말하려고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYR_17428_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}
