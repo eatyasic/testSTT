@@ -1,0 +1,9 @@
+{
+  "invoke_url": "https://clovaspeech-gw.ncloud.com/external/v1/XXXX",
+  "secret": "YOUR_CLOVA_SPEECH_SECRET_KEY",
+  "request_options": {
+    "diarization": {
+      "enable": false
+    }
+  }
+}

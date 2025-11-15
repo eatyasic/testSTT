@@ -1,5 +1,6 @@
 data/voice/
 venv/
 model/vosk-model-small-ko-0.22/
+clova_config.json
 
 !data/voice/.gitkeep
